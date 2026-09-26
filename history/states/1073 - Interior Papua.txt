@@ -1,0 +1,26 @@
+state = {
+	id = 1073
+	name = "STATE_1073"
+
+	manpower = 1980000
+	state_category = town
+
+	impassable = yes 
+	force_link_ownership_to = 523 # Papua 
+
+	history = {
+		owner = PNG
+		add_core_of = PNG
+
+		buildings = {
+			infrastructure = 0
+		}
+
+	}
+
+	provinces = {
+		2129 4317 4635 5135 7409 10954 11004 11018 12107 12428 12931 
+	}
+
+	local_supplies = 0.0 
+}

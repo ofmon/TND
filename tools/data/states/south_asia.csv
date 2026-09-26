@@ -1,0 +1,43 @@
+id,owner,controller,cores,claims,manpower,category,name,notes
+320,RAJ,,RAJ,,950624,enclave,Puducherry,Puducherry UT (2001 census 0.97M) scaled to 1 Jan 2000
+423,RAJ,,RAJ,,78294720,metropolis,Tamil Nadu,"Tamil Nadu excl. Kanyakumari (60.7M) + Malabar & Thrissur districts of Kerala (19.5M), 2001 census scaled; Chennai metro ~6.4M"
+982,RAJ,,RAJ,,16621280,city,Travancore,"Was owned by SIN (bug) - provinces are southern Kerala (Kochi/Thiruvananthapuram). Travancore-Cochin districts (15.4M) + Kanyakumari (1.7M), 2001 census scaled"
+424,RAJ,,RAJ,,30948960,large_town,Andhra Pradesh,"Rayalaseema (13.5M) + south coastal Andhra: W.Godavari, Krishna, Guntur, Prakasam, Nellore (18.2M), 2001 census scaled"
+425,RAJ,,RAJ,,32949760,metropolis,Karnataka,"Southern/central Karnataka excl. Hyderabad-Karnataka and Bombay-Karnataka districts, 2001 census scaled; Bangalore metro ~5.6M"
+426,RAJ,,RAJ,,49073280,large_town,Orissa,"Orissa (36.8M) + north coastal Andhra: Srikakulam, Vizianagaram, Visakhapatnam, E.Godavari (13.5M), 2001 census scaled"
+427,RAJ,,RAJ,,55632000,metropolis,Hyderabad,"Telangana (31.0M) + Marathwada & Ahmednagar (19.7M) + Gulbarga, Bidar, Raichur (6.3M), 2001 census scaled; Hyderabad metro ~5.5M"
+983,RAJ,,RAJ,,18026720,large_town,Kolhapur,"Kolhapur, Sindhudurg, half Sangli (MH) + Belgaum, Dharwad, Gadag, Bijapur, Bagalkot, Koppal, Uttara Kannada (KA), 2001 census scaled. Removed undefined core KOL"
+436,RAJ,,RAJ,,43949280,large_town,Nagpur,"Vidarbha (20.6M) + northern/central Chhattisgarh (15.4M) + Jabalpur-Mandla-Seoni-Balaghat MP (9.0M), 2001 census scaled"
+984,RAJ,,RAJ,,5260640,rural,Bastar,"Southern Chhattisgarh: Bastar, Dantewada, Kanker, Dhamtari, parts of Durg/Rajnandgaon/Raipur, 2001 census scaled"
+437,RAJ,,RAJ,,33125440,town,Malwa,"Western & central Madhya Pradesh (Malwa, Nimar, Bhopal, Hoshangabad, Betul, Chhindwara, Guna, Shivpuri; 31.8M) + Nandurbar/Dhule (2.2M), 2001 census scaled"
+991,RAJ,,RAJ,,12932000,town,Gwalior,"Gwalior, Bhind, Morena, Sheopur, Datia, Tikamgarh, Chhatarpur, Sagar (MP) + Jhansi, Lalitpur (UP), 2001 census scaled. Removed undefined core CIP"
+438,RAJ,,RAJ,,156755360,large_town,Uttar Pradesh,"Uttar Pradesh excl. western NCR districts & Jhansi/Lalitpur (144.1M) + Kumaon & lower Garhwal (7.0M) + Baghelkhand MP (9.6M), 2001 census scaled"
+439,RAJ,,RAJ,,45676800,metropolis,Delhi,"NCT Delhi (13.9M) + eastern Haryana (11.1M) + Patiala/Fatehgarh (2.4M) + Meerut, Ghaziabad, Noida, Bulandshahr, Aligarh, Muzaffarnagar etc. (19.4M), 2001 census scaled; Delhi metro ~13M"
+986,RAJ,,RAJ,,37390560,city,Punjab,"Himachal Pradesh (6.1M) + Indian Punjab excl. Gurdaspur & Patiala (19.9M) + Chandigarh (0.9M) + western Haryana (10.0M) + upper Garhwal (1.5M), 2001 census scaled. Removed undefined core KHL"
+431,RAJ,,RAJ,,98048960,metropolis,West Bengal,"West Bengal excl. Purulia (77.6M) + eastern Bihar: Purnia, Kosi, Bhagalpur divisions (17.2M) + Santhal Parganas (5.6M), 2001 census scaled; Kolkata metro ~13M"
+435,RAJ,,RAJ,,87517920,large_town,Bihar,"Bihar excl. eastern divisions (65.8M) + Jharkhand excl. Santhal Parganas (21.4M) + Purulia (2.5M), 2001 census scaled"
+985,RAJ,,RAJ,,527040,rural,Sikkim,"Sikkim (2001 census 0.54M), Indian since 1975. Removed undefined core SKK"
+432,RAJ,,RAJ,,27445120,town,Assam,"Assam excl. upper Assam (21.3M) + Meghalaya (2.3M) + Tripura (3.2M) + Mizoram (0.9M) + south Manipur (0.4M), 2001 census scaled; Sylhet province moved to Bangladesh"
+990,RAJ,,RAJ,,9262240,town,Manipur,"Manipur valley/north (1.9M) + Nagaland (2.0M) + upper Assam: Golaghat-Jorhat-Sibsagar-Dibrugarh-Tinsukia (5.4M) + Tirap/Changlang (0.3M), 2001 census scaled. Removed undefined core MPU"
+434,RAJ,,RAJ,PRC,829600,rural,Arunachal Pradesh,"Arunachal Pradesh excl. Tirap/Changlang, 2001 census scaled; claimed by PRC as South Tibet"
+733,RAJ,,RAJ,,347456,small_island,Andaman and Nicobar,Andaman & Nicobar Islands (2001 census 0.36M) scaled
+441,RAJ,,RAJ,PAK,9886500,town,Jammu and Kashmir,Indian-administered J&K incl. Ladakh (2001 census 10.14M) scaled; Aksai Chin province moved to PRC; claimed by PAK
+new:aksai_chin,PRC,,PRC,RAJ,100,wasteland,Aksai Chin,Chinese-administered since 1962 (Hotan/Rutog counties); claimed by India as part of Ladakh. Essentially uninhabited
+787,PAK,,PAK,RAJ,4020480,rural,Azad Kashmir and Northern Areas,Pakistani-administered Kashmir: AJK 2.97M + Northern Areas 0.87M (1998 census) scaled to 2000; claimed by RAJ (was RAJ core)
+323,NEP,,NEP,,22400000,town,Nepal,2001 census 23.15M (Jun 2001) back-projected at 2.25%/yr
+324,BHU,,BHU,,560000,rural,Bhutan,2005 census 0.635M back-projected (~0.56M in 2000)
+422,SRL,,SRL,,19200000,city,Sri Lanka,DCS mid-2000 estimate ~19.3M incl. LTTE-held north (no LTTE tag defined; civil war ongoing)
+430,BAN,,BAN,,127500000,metropolis,Bangladesh,2001 census adjusted 129.2M (Jan 2001) back-projected; Sylhet province added from Assam state; removed PAK/RAJ cores. Dhaka metro ~10M
+288,BRM,,BRM,,3905807,town,Magway,Chin + most of Magway + southern Sagaing (Monywa/Pakokku); 2014 census scaled to 2000 national 45.5M
+997,BRM,,BRM,,4648087,rural,Rakhine,Rakhine (incl. non-enumerated) + western Magway (Minbu/Thayet); 2014 census scaled
+998,BRM,,BRM,,5363857,rural,Kachin,Kachin + most of Sagaing; 2014 census scaled
+640,BRM,,BRM,,5452224,city,Mandalay,Mandalay region incl. Naypyidaw area; 2014 census scaled
+995,BRM,,BRM,,10807244,large_city,Yangon,Yangon + Bago regions; 2014 census scaled; Rangoon metro ~3.5M
+996,BRM,,BRM,,5461060,town,Ayeyarwady,Ayeyarwady region; 2014 census scaled
+994,BRM,,BRM,,4506700,town,Tenasserim,Mon + Kayin + Tanintharyi; 2014 census scaled
+999,BRM,,BRM,,5399204,rural,Shan,Shan + Kayah; 2014 census scaled
+757,PRC,,PRC TIB,,1420000,rural,Lhasa-Shigatse,Lhasa 0.47M + Shigatse 0.63M + Shannan 0.32M (2000 census)
+322,PRC,,PRC TIB,,370000,pastoral,Nagqu,Nagqu prefecture 0.37M (2000 census)
+758,PRC,,PRC TIB,,78000,pastoral,Ngari,Ngari prefecture 0.078M (2000 census)
+601,PRC,,PRC TIB,,900000,rural,Chamdo-Nyingchi,Chamdo 0.59M + Nyingchi 0.16M + fringe of Garze (2000 census); added TIB core (TAR)
+604,PRC,,PRC,,620000,pastoral,Western Qinghai,"Haixi (Golmud) + Yushu + Tanggula area, ~0.62M (2000 census)"

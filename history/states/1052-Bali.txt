@@ -1,0 +1,30 @@
+state={
+	id=1052
+	name="STATE_1052"
+	resources={
+		
+	}
+
+	history={
+		owner = INS
+		add_core_of = INS
+		buildings = {
+			infrastructure = 1
+			13386 = {
+				naval_base = 1
+			}
+		}
+
+		victory_points = {
+			13386 3 # Denpassar
+		}
+	}
+
+	provinces={
+		4273 13386 13385
+	}
+	manpower = 3150000
+	state_category = large_town
+
+	local_supplies=0.0 
+}

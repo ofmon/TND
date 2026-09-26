@@ -1,0 +1,52 @@
+id,owner,controller,cores,claims,manpower,category,name,notes
+178,SPR,,SPR,,1716000,small_island,Islas Canarias,INE padron 1 Jan 2000: 1.716M
+272,SEN,,SEN,,9600000,town,Senegal,Whole country; 2002 census 9.86M back-cast (UN ~9.8M). Casamance separatism: no tag
+273,LBA,,LBA,,500000,pastoral,Libyan Desert,"Fezzan (Sabha, Wadi al-Shati, Wadi al-Hayat, Murzuq, Ghat) + Jufra + Kufra + Jalu/Awjila oases; scaled from 2006 census to 5.2M national"
+274,GHA,,GHA,,18900000,large_town,Ghana,Whole country incl. former British Togoland (Volta); 2000 census 18.91M
+296,GNB,,GNB,,1200000,enclave,Guinea-Bissau,Whole country; UN 2000 ~1.2M
+297,EQG,,EQG,,580000,enclave,Equatorial Guinea,Bioko + Rio Muni; UN 2000 ~0.6M (2001 census 1.01M considered inflated)
+298,LIB,,LIB,,2850000,rural,Liberia,Whole country; UN 2000 ~2.85M (post-civil-war)
+448,LBA,,LBA,,2660000,large_city,Tripoli,"Tripoli, Jafara, Zawiya, Nuqat al-Khams, Murqub, Misrata coast; 2006 census shares scaled to 5.2M"
+449,LBA,,LBA,,140000,pastoral,El Agheila,Sirte city and Gulf of Sirte coast to Brega
+450,LBA,,LBA,,830000,city,Benghasi,"Benghazi, Ajdabiya, western al-Marj"
+451,LBA,,LBA,,440000,town,Derna,"Derna, Bayda/Jabal al-Akhdar coast, Tobruk (Butnan)"
+461,MOR,,MOR,,15820000,metropolis,Casablanca,"Grand Casablanca, Rabat-Sale-Zemmour-Zaer, Chaouia-Ouardigha, El Jadida, Gharb, Larache, Fes-Boulemane, Meknes/El Hajeb/Ifrane, Taza-Taounate, Oujda/Berkane/Taourirt/Jerada; 2004 census back-cast. Assumes state 290 (former Spanish zone: Tangier, Tetouan, Chefchaouen, Al Hoceima, Nador) carries ~2.9M"
+462,MOR,,MOR,,9940000,large_town,Marrakech,"Marrakech-Tensift-Al Haouz, Safi, Tadla-Azilal, Souss-Massa-Draa, Khenifra, Errachidia, Figuig, Guelmim/Tan-Tan (excl. Sidi Ifni); 2004 census back-cast"
+513,ALG,,ALG,,8010000,town,Tlemcen,"High Plateaus/Tell interior: Tlemcen, Sidi Bel Abbes, Saida, Naama, El Bayadh, Tiaret, Tissemsilt, Laghouat, Djelfa, M'Sila, Biskra, Batna, Khenchela, Tebessa, half Medea; 1998 census x1.045. Implies 459 Algiers ~12.2M and 460 Constantine ~8.15M for 30.5M national"
+514,ALG,,ALG,,2080000,pastoral,Algerian Desert,"Adrar, Bechar, Tindouf, Tamanrasset, Illizi, Ouargla, Ghardaia, El Oued; 1998 census x1.045"
+515,NGR,,NGR,,6920000,rural,Southern Sahara,"Agadez, Tahoua, Maradi, Zinder, Diffa regions; 2001 census back-cast to 11.0M national"
+538,COG,,COG,,4900000,rural,Coquilhatville,"Old Equateur province (Mbandaka, Gemena, Lisala, Boende) plus fringe of Mai-Ndombe; est. ~4.9M of DRC ~47-49M. Mostly held by MLC rebels (Bemba) in the Second Congo War; no tag so controller blank. Coordinate with east_south_africa DRC states"
+556,MLI,,MLI,,4830000,town,Bamako,"Bamako district, Sikasso, Segou regions; 1998 census x1.08"
+557,MRT,,MRT,,1490000,rural,Mauritania,"Nouakchott, Trarza, Brakna, Gorgol, Guidimaka; Nov 2000 census"
+558,NGA,,NGA,,35690000,metropolis,Lagos,"Lagos, Ogun, Oyo, Osun, Ondo, Ekiti, Kwara, Kogi, Edo, Delta; 2006 census shares scaled to 123.0M national"
+660,CAR,,CAR,,3700000,rural,Equatorial Africa,Whole Central African Republic; 2003 census 3.9M back-cast (UN ~3.6-3.7M)
+661,LBA,,LBA,,460000,rural,Tripolitania,"Jabal Nafusa (Gharyan, Yafran, Nalut), Tarhuna/Bani Walid hinterland"
+662,LBA,,LBA,,18000,wasteland,Sirte,"Desert south of the Gulf of Sirte (Marada, Zillah)"
+663,LBA,,LBA,,150000,rural,Cyrenaica,Inland Jabal al-Akhdar and eastern al-Marj
+665,TUN,,TUN,,1530000,pastoral,Gabès,"Gabes, Gafsa, Kebili, Tozeur, Medenine, Tataouine + south Sidi Bouzid; 2004 census back-cast. Hand-entered 1.724M matched ~2020 not 2000; Tunisia 2000 = 9.55M so 458 should be ~8.02M (hand-entered 10.077M also modern)"
+697,POR,,POR,,245000,small_island,Madeira,2001 census 245k
+699,MOR,,MOR WES,,300000,pastoral,Rio de Oro,Western Sahara under de facto Moroccan administration in 2000 (Polisario controls the strip east of the berm); UN est. ~0.3M
+700,SIE,,SIE,,4500000,rural,Sierra Leone,"Whole country; civil war ongoing in 2000 (RUF not a defined tag, controller left blank)"
+701,GAM,,GAM,,1300000,enclave,Gambia,Whole country; 2003 census 1.36M back-cast
+702,CAP,,CAP,,435000,small_island,Cape Verde,"2000 census 434,625"
+703,ENG,,ENG,,1100,tiny_island,Ascension,"British Overseas Territory (dependency of St Helena); ~1,100 residents"
+704,ENG,,ENG,,5000,tiny_island,Saint Helena,"British Overseas Territory; 1998 census 5,157"
+705,POR,,,,137000,tiny_island,Sao Tome,"São Tomé and Príncipe independent since 1975 (2001 census 137,599) but no STP tag is defined; POR left as placeholder owner. Needs a new tag"
+773,CMR,,CMR,,15600000,town,Cameroon,"Whole country incl. former Southern Cameroons (province 7978 moved in from Benue); 2005 census back-cast (UN ~15.9M). Ambazonia/Southern Cameroons: no tag. Bakassi peninsula (Nigerian-held, ICJ case pending 2000) not claimed at state level"
+774,CHA,,CHA,,8080000,rural,Chad,All Chad except BET; 1993/2009 census interpolated (~8.2M national)
+775,CHA,,CHA,,120000,wasteland,B.E.T.,Borkou-Ennedi-Tibesti incl. Aouzou strip (returned to Chad 1994 by ICJ ruling)
+776,DAH,,DAH,,6600000,rural,Benin,Whole country; 2002 census 6.77M back-cast
+777,TOG,,TOG,,4800000,rural,Togo,Former French Togo; UN 2000 ~4.8-4.9M
+778,VOL,,VOL,,11400000,rural,Burkina Faso,Whole country; 1996/2006 census interpolated
+779,IVO,,IVO,,16200000,large_town,Ivory Coast,Whole country; 1998 census 15.37M projected; Abidjan metro ~3M
+780,GNA,,GNA,,8400000,rural,Guinea,Whole country; incl. ~0.4M Sierra Leonean/Liberian refugees
+781,NGR,,NGR,,4080000,rural,Niger,"Niamey, Tillaberi, Dosso regions; 2001 census back-cast"
+782,MLI,,MLI,,110000,pastoral,Tombouctou,"Northern desert: Kidal, Taoudenni/Araouane, north Bourem"
+783,MOR,,MOR,,70000,pastoral,Sidi Ifni,Sidi Ifni and Ait Baamrane hinterland (ceded 1969)
+786,MRT,,MRT,,1010000,pastoral,Mauritanian Desert,"Hodh Chargui, Hodh Gharbi, Assaba, Tagant, Adrar, Inchiri, Tiris Zemmour, Dakhlet Nouadhibou; Nov 2000 census"
+887,SUD,,SUD,,3200000,rural,South Darfur,"South and West Darfur (Nyala, Geneina, Zalingei) + Kafia Kingi; 1993/2008 census interpolated"
+898,MLI,,MLI,,2470000,rural,Gao,"Mopti region, Gao/Menaka, Tombouctou river districts"
+899,MLI,,MLI,,3180000,rural,Kayes-Koulikoro,Kayes and Koulikoro regions
+900,NGA,,NGA,,32100000,large_town,Benue,"Benue, Taraba, Enugu, Anambra, Imo, Abia, Ebonyi, Rivers, Bayelsa, Akwa Ibom, Cross River; 2006 census shares scaled. Southern Cameroons province 7978 split off to Cameroon"
+901,NGA,,NGA,,17430000,town,Borno,"Borno, Yobe, Adamawa, Gombe, Bauchi, Plateau"
+902,NGA,,NGA,,37790000,large_town,Sokoto,"Sokoto, Kebbi, Zamfara, Katsina, Kano, Jigawa, Kaduna, Niger, FCT Abuja, Nasarawa"

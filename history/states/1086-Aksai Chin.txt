@@ -1,0 +1,22 @@
+state = {
+	id = 1086
+	name = "STATE_1086" # Aksai Chin
+	manpower = 100
+	state_category = wasteland
+	local_supplies = 0.0
+
+	history = {
+		owner = PRC
+		add_core_of = PRC
+		add_core_of = CHI
+		add_claim_by = RAJ
+		add_claim_by = TAW
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	provinces = {
+		5042
+	}
+}

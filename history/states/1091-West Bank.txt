@@ -1,0 +1,22 @@
+state = {
+	id = 1091
+	name = "STATE_1091" # West Bank
+	manpower = 870000
+	state_category = large_town
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.000
+
+	history = {
+		owner = ISR
+		add_core_of = ISR
+		add_core_of = PAL
+		add_claim_by = JOR
+		buildings = {
+			infrastructure = 3
+		}
+	}
+
+	provinces = {
+		7107
+	}
+}

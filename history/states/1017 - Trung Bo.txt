@@ -1,0 +1,34 @@
+state = {
+	id = 1017
+	name = "STATE_1017"
+	manpower = 10110000
+	
+	state_category = town
+	
+	resources = {
+		chromium = 4 # was: 8
+		tungsten = 7
+	}
+
+	history = {
+		owner = VIN
+		add_core_of = VIN
+
+		buildings = {
+
+			infrastructure = 1
+
+		}
+
+		victory_points = {
+			4379 3 # Hué
+		}
+
+	}
+
+	provinces = {
+		1302 4379 4397 7280 9988 10016 11909 11936 12297 
+	} 
+
+	local_supplies = 0.0 
+}

@@ -1,0 +1,115 @@
+id,owner,controller,cores,claims,manpower,category,name,notes
+40,SOV,,SOV,,2640000,large_town,Altai Krai,Altai Krai; ALT core moved to Altai Republic (654)
+214,SOV,,SOV,,900000,town,Arkhangelsk,"Arkhangelsk obl. core: Arkhangelsk-Severodvinsk, Plesetsk, Mezen, Pinega"
+217,SOV,,SOV,,1650000,city,Stalingrad,Volgograd + Volzhsky and southern Volgograd obl.
+231,GEO,,GEO,,4500000,city,Georgia,"Georgia excl. Abkhazia; incl. South Ossetia (~50k, no tag)"
+232,SOV,,SOV DAG,,2150000,large_town,Dagestan,Dagestan (2000 est.)
+235,SOV,,SOV,,3100000,large_town,Stavropol,Stavropol krai 2.67M + Karachay-Cherkessia 0.43M (no KCR tag)
+236,SOV,,SOV,,1010000,large_town,Astrakhan,Astrakhan obl.
+237,SOV,,SOV KAL,,310000,rural,Kalmykia,Kalmykia
+238,SOV,,SOV,,800000,town,Volgodonsk,"eastern Rostov obl.: Volgodonsk, Salsk, Zimovniki"
+239,SOV,,SOV,,1660000,city,Saratov,Saratov obl. right bank
+245,SOV,,SOV,,700000,town,Millerovo,northern Rostov obl. + western Volgograd obl.
+249,SOV,,SOV TAT,,3780000,large_city,Kazan,"Tatarstan: Kazan, Naberezhnye Chelny, Almetyevsk"
+250,SOV,,SOV,,1800000,city,Ulyanovsky,Ulyanovsk obl. + Syzran (Samara) + fringes of Chuvashia/Mordovia
+251,SOV,,SOV,,3100000,large_city,Kuybyshev,"Samara obl.: Samara, Tolyatti (excl. Syzran)"
+252,SOV,,SOV,,3900000,large_city,Gorky,Nizhny Novgorod obl. + eastern Vladimir obl. (Murom)
+253,SOV,,SOV,,2650000,large_town,Ivanovo,Ivanovo obl. + most of Vladimir obl. + south Kostroma
+255,SOV,,SOV,,2380000,large_town,Penza,Penza obl. + Mordovia (no Mordovia tag)
+256,SOV,,SOV CHU,,1300000,large_town,Chuvashia,Chuvashia
+257,SOV,,SOV,,1300000,town,Tambov,Tambov obl.
+262,SOV,,SOV KOM,,195000,rural,Pechora,"northern Komi: Pechora, Usinsk, Izhma, Ust-Tsilma, Udora"
+265,SOV,,SOV,,700000,town,Mikhaylovka,"NW Volgograd obl.: Mikhaylovka, Uryupinsk, Frolovo, Kotovo"
+328,PRC,,PRC,,28900000,large_city,Kirin,"Jilin (Changchun, Jilin, Siping, Tonghua, Baishan, Songyuan) + Harbin"
+329,SOV,,SOV TAN,,310000,rural,Tannu Tuva,Tuva Republic
+330,MON,,MON,,1242000,city,Ulaanbaatar,"Ulaanbaatar + Tov, Arkhangai, Ovorkhangai, Bayankhongor, Zavkhan (2000 census)"
+397,SOV,,SOV KOM,,645000,rural,Syktyvkar,"central/southern Komi: Syktyvkar, Ukhta, Sosnogorsk"
+398,SOV,,SOV,,2950000,city,Perm,Perm obl. incl. Komi-Permyak AO (no tag)
+399,SOV,,SOV UDM,,1630000,city,Udmurtia,Udmurtia
+400,SOV,,SOV,,1600000,town,Kirov,Kirov obl.
+401,SOV,,SOV,,650000,town,Balakovo,"Saratov left bank: Balakovo, Volsk, Pugachev, Ershov, Novouzensk"
+402,KAZ,,KAZ,,830000,rural,Akhtubinsk,Aktobe obl. + Aral/Kazaly districts of Kyzylorda
+403,SOV,,SOV,,1340000,large_town,Tyumen,"southern Tyumen obl.: Tyumen, Tobolsk, Ishim"
+404,KAZ,,KAZ,,2420000,large_town,Kyzyl Orda,"Kyzylorda obl. (excl. Aral) + South Kazakhstan obl. (Shymkent, Turkestan)"
+406,KAZ,,KAZ,,440000,rural,Guryev,Atyrau obl.
+407,KAZ,,KAZ,,615000,rural,Ural'sk,West Kazakhstan obl.
+408,SOV,,SOV,,2180000,city,Vladivostok,Primorsky krai; FER/VLA cores dropped
+409,SOV,,SOV,,1400000,city,Khabarovsk,"southern Khabarovsk krai: Khabarovsk, Komsomolsk, Sovetskaya Gavan"
+516,SOV,,SOV TAY,,300000,rural,Dudinka,Taymyr AO + Norilsk + Igarka
+536,JAP,,JAP,,5683000,large_city,Hokkaido,Hokkaido (2000 census)
+537,SOV,,SOV,,480000,town,South Sakhalin,"southern/central Sakhalin: Yuzhno-Sakhalinsk, Kholmsk, Poronaysk"
+555,SOV,,SOV,JAP,17000,tiny_island,Kuril Islands,"Kuril Islands, Russian-administered; Japan claims southern Kurils"
+560,SOV,,SOV,,110000,pastoral,Nikolayevsk,"lower Amur: Nikolayevsk, Ulchsky + Selemdzha (Amur obl.)"
+561,SOV,,SOV,,250000,rural,Amur,"northern Amur obl.: Tynda, Zeya, Skovorodino, Shimanovsk"
+562,SOV,,SOV,,60000,pastoral,Okhotsk,Okhotsk coast + Oymyakon/Ust-Maya (Yakutia) + Susuman
+563,SOV,,SOV,,1250000,rural,Chita,Chita obl. incl. Aga Buryat AO
+564,SOV,,SOV BYA,,1010000,town,Buryatia,Buryatia
+565,SOV,,SOV,,70000,pastoral,Bodaybo,"Bodaybo (Irkutsk), Kalar (Chita), Muya (Buryatia); EVE core dropped (undefined)"
+566,SOV,,SOV,,1800000,city,Irkutsk,"southern Irkutsk obl.: Irkutsk, Angarsk, Usolye + Ust-Orda Buryat AO"
+567,SOV,,SOV,,850000,town,Bratsk,"western Irkutsk obl.: Bratsk, Ust-Ilimsk, Tulun, Taishet, Ust-Kut"
+568,SOV,,SOV,,2320000,city,Krasnoyarsk,"southern/central Krasnoyarsk krai: Krasnoyarsk, Achinsk, Kansk"
+569,SOV,,SOV KHA,,3730000,large_city,Khakassia,Kemerovo obl. (Kuzbass) + Khakassia + Minusinsk
+570,SOV,,SOV,,2740000,large_city,Novosibirsk,Novosibirsk obl.
+571,SOV,,SOV,,2150000,city,Omsk,Omsk obl.
+572,SOV,,SOV,,3600000,large_city,Chelyabinsk,northern Chelyabinsk obl. + Kurgan obl.
+573,SOV,,SOV,,750000,large_town,Zlatoust,Zlatoust/Satka (Chelyabinsk) + SW Sverdlovsk + SE Perm
+574,SOV,,SOV YAK,,750000,rural,Yakutsk,"central/southern Yakutia: Yakutsk, Neryungri, Aldan"
+575,SOV,,SOV YAK,,170000,pastoral,Kirensk,"Mirny/Lensk (Yakutia) + Kirensk, Katanga (Irkutsk); EVE core dropped"
+576,SOV,,SOV,,230000,pastoral,Yeniseisk,"Evenk AO + Yeniseysk, Lesosibirsk, Boguchany; EVE core dropped (undefined)"
+577,SOV,,SOV OVO,,1075000,large_town,Surgut,"eastern KhMAO: Surgut, Nizhnevartovsk, Nefteyugansk + Strezhevoy"
+578,SOV,,SOV,,1020000,large_town,Tomsk,Tomsk obl. (excl. Strezhevoy)
+579,SOV,,SOV YAM,,160000,pastoral,Salekhard,"western YaNAO: Salekhard, Labytnangi, Nadym"
+580,SOV,,SOV OVO,,360000,rural,Tobolsk,"western KhMAO: Khanty-Mansiysk, Nyagan, Uray, Sovetsky"
+581,SOV,,SOV KOM,,290000,pastoral,Northern Urals,"Komi Polar Urals: Vorkuta, Inta, Vuktyl"
+582,SOV,,SOV,,1900000,city,Magnitogorsk,"Magnitogorsk (Chelyabinsk) + SE Bashkortostan + eastern Orenburg (Orsk, Novotroitsk)"
+583,KAZ,,KAZ,,1010000,town,Kostanay,Kostanay obl.
+585,UZB,,UZB,,200000,pastoral,Navoi,"northern Navoiy (Kyzylkum: Uchkuduk, Zarafshan, Tamdy)"
+586,KAZ,,KAZ,,2990000,large_city,Alma-Ata,Almaty city + southern Almaty obl. + Zhambyl obl.
+587,KAZ,,KAZ,,315000,pastoral,Ust Urt,Mangystau obl.
+588,KAZ,,KAZ,,1460000,town,Semipalatinsk,"East Kazakhstan obl. (Semey, Ust-Kamenogorsk) excl. Ayaguz"
+589,KAZ,,KAZ,,840000,rural,Ayaguz,northern Almaty obl. (Taldykorgan) + Balkhash + Ayaguz
+590,KAZ,,KAZ,,2880000,city,Akmolinsk,Akmola obl. + Astana + North Kazakhstan obl. + Karaganda city area
+610,PRC,,PRC,,15000000,large_town,Jehol,"Chengde, Chaoyang, Chifeng, Huludao, Fuxin"
+611,PRC,,PRC,,4000000,town,South Chahar,Zhangjiakou north (Bashang) + NE Ulanqab + southern Xilingol + Fengning
+612,PRC,,PRC,,650000,pastoral,Chahar,"Xilingol league (Xilinhot, Erenhot, Ujimqin)"
+617,PRC,,PRC SIK,,9500000,city,Urumqi,"Urumqi, Changji, Shihezi, Ili, Turpan, Bayingolin, Aksu; SIK core as Xinjiang (review)"
+618,PRC,,PRC SIK,,2100000,rural,Dzungaria,"Tacheng, Altay, Karamay, Bortala"
+637,SOV,,SOV,,380000,rural,Kamchatka,Kamchatka obl. incl. Koryak AO (no tag); FER core dropped
+644,SOV,,SOV YAK,,30000,pastoral,Kolyma,NE Yakutia: Kolyma districts
+650,USA,,USA,,20,tiny_island,Attu Island,Attu (Coast Guard LORAN station)
+651,SOV,,SOV BSK,,3650000,city,Ufa,Bashkortostan excl. trans-Ural SE
+652,SOV,,SOV,,1520000,large_town,Orenburg,western/central Orenburg obl.
+653,SOV,,SOV,,4280000,large_city,Sverdlovsk,"Sverdlovsk obl. (Yekaterinburg, Nizhny Tagil, Kamensk-Uralsky)"
+654,SOV,,SOV ALT,,205000,rural,Oyrot Region,Altai Republic
+655,SOV,,SOV,,100000,pastoral,North Sakhalin,"northern Sakhalin: Okha, Nogliki; JAP claim removed"
+657,SOV,,SOV,,940000,town,Birobidzhan,"Jewish AO (no tag) + southern Amur obl. (Blagoveshchensk, Belogorsk, Svobodny)"
+714,PRC,,PRC,,20100000,large_town,Heilungkiang,"Qiqihar, Daqing, Suihua, Heihe, Yichun, Hegang + east Hulunbuir"
+715,PRC,,PRC,,7800000,town,Liaoning,"Tongliao, Xing'an, Baicheng + parts of Siping/Fuxin"
+716,PRC,,PRC,,30200000,metropolis,Liaotung,"central Liaoning: Shenyang, Anshan, Fushun, Benxi, Dandong, Jinzhou, Yingkou, Tieling + north Dalian"
+717,PRC,,PRC,,12800000,large_town,Sungkiang,"Mudanjiang, Jixi, Jiamusi, Shuangyashan, Qitaihe, Yanbian"
+732,KYR,,KYR,,4915000,town,Kyrgyzstan,Kyrgyzstan (whole country)
+760,PRC,,PRC SIK,,500000,pastoral,Dabancheng,Hami prefecture
+761,PRC,,PRC,,1600000,rural,Hulunbuir,"western Hulunbuir: Hailar, Manzhouli, Yakeshi"
+817,MON,,MON,,226000,pastoral,Gobi,"Gobi-Altai, Omnogovi, Dornogovi, Dundgovi, Govisumber"
+818,MON,,MON,,268000,pastoral,Khovd,"Bayan-Olgii, Uvs, Khovd"
+819,MON,,MON,,202000,pastoral,Dornod,"Dornod, Sukhbaatar, Khentii"
+820,MON,,MON,,437000,rural,Khövsgöl,"Khovsgol, Bulgan, Selenge, Darkhan-Uul, Orkhon"
+821,SOV,,SOV CIN,,1160000,rural,Chechnya-Ingushetia,"Chechnya (~700k, wartime) + Ingushetia (~460k incl. IDPs)"
+822,SOV,,SOV CKK,,58000,pastoral,Chukotka,"western Chukotka: Anadyr, Bilibino, Pevek"
+823,UZB,,UZB KKP,,1480000,rural,Karakalpakstan,Karakalpakstan
+824,SOV,,SOV YAM,,335000,pastoral,Yamalia,"eastern YaNAO: Novy Urengoy, Noyabrsk, Tarko-Sale"
+825,SOV,,SOV NEN,,45000,pastoral,Nenets,Nenets AO
+826,GEO,,GEO ABK,,210000,rural,Abkhazia,"Abkhazia (de facto separatist, post-war est.)"
+827,SOV,,SOV KBK,,785000,large_town,Kabardino-Balkaria,Kabardino-Balkaria
+828,SOV,,SOV NOA,,670000,large_town,North Ossetia,North Ossetia-Alania
+829,SOV,,SOV,,700000,town,Engels-Marxstadt,"Saratov left bank (Engels, Marks) + Volgograd east (Kamyshin, Pallasovka); VGE core dropped"
+831,UZB,,UZB,,1350000,large_town,Khiva,"Khorezm (Urgench, Khiva) + western Karakalpak desert; KKP/KHI cores dropped"
+833,SOV,,SOV MEL,,760000,town,Mari El,Mari El
+874,SOV,,SOV,,215000,pastoral,Magadan,Magadan obl. (excl. Susuman)
+876,SOV,,SOV YAK,,30000,pastoral,Udachny,"NW Yakutia: Udachny, Aikhal, Olenyok, Anabar"
+877,SOV,,SOV YAK,,40000,pastoral,Verkhoyansk,"N Yakutia: Verkhoyansk, Ust-Yansk, Bulunsky (Tiksi)"
+878,SOV,,SOV TAY,,10000,pastoral,Khatangsky,Khatanga (Taymyr) + northern Evenkia
+880,SOV,,SOV,,400000,rural,Kotlas,"southern Arkhangelsk obl.: Kotlas, Koryazhma, Velsk + Veliky Ustyug fringe"
+881,KAZ,,KAZ,,320000,pastoral,Karagandy,"southern Karaganda obl.: Zhezkazgan, Satpayev, Ulytau"
+882,KAZ,,KAZ,,805000,town,Pavlodar,Pavlodar obl.
+1043,PRC,,PRC,,300000,pastoral,Pailingmiao,Inner Mongolia: Darhan Muminggan / Siziwang banners; MEN (Mengjiang) core dropped

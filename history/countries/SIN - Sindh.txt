@@ -1,0 +1,4 @@
+# Intentionally empty. In vanilla, tag SIN is Sindh and vanilla ships
+# "SIN - Sindh.txt"; this mod reuses SIN for Singapore ("SIN - Singapore.txt").
+# Without this same-named file both histories load, and Sindh's (capital 443)
+# is applied to Singapore.

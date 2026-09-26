@@ -1,0 +1,19 @@
+state = {
+	id = 1089
+	name = "STATE_1089" # Andorra
+	manpower = 66000
+	state_category = enclave
+	local_supplies = 0.0
+
+	history = {
+		owner = AND
+		add_core_of = AND
+		buildings = {
+			infrastructure = 4
+		}
+	}
+
+	provinces = {
+		3899
+	}
+}

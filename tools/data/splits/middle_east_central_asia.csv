@@ -1,0 +1,11 @@
+province,to_state,notes
+6997,new:nakhchivan,"Nakhchivan (39.5,45.23) - Azerbaijani exclave inside vanilla Armenia"
+7107,new:west_bank,"Nablus/Samaria (32.31,35.29), borders Jordan valley - West Bank"
+4088,new:gaza,"Gaza (31.44,34.56), borders Sinai - Gaza Strip"
+1977,new:halaib,"Halaib (22.24,35.42) north of 22N - Egyptian-administered Halaib Triangle"
+12822,new:gurdaspur,"(30.88,75.97) Indian Punjab (Gurdaspur/Pathankot per south_asia) in Pakistani 440"
+12005,new:gurdaspur,"(30.96,74.83) east of Indo-Pak border (Amritsar/Firozpur), borders 441 J&K"
+10772,433,"(29.82,74.72) Sri Ganganagar/Hanumangarh - Indian, east of border"
+12041,433,"(28.62,74.24) Hanumangarh/Churu - Indian Rajasthan"
+12876,433,"(28.09,72.82) Bikaner (Khajuwala) - Indian Rajasthan"
+12718,433,"(27.24,71.9) Jaisalmer/Pokaran - Indian (border ~70.1E at this lat); borders only 433"

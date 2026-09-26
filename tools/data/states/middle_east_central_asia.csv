@@ -1,0 +1,100 @@
+id,owner,controller,cores,claims,manpower,category,name,notes
+266,PER,,PER,,15813820,metropolis,Tehran,Tehran + Mazandaran + Golestan; 1996/2006 census interpolated (Iran 63.3M)
+420,PER,,PER,,5393297,large_town,Gilan and Ardabil,Gilan + Ardabil + Qazvin + Zanjan; 1996/2006 census interpolated (Iran 63.3M)
+1000,PER,,PER,,3458948,city,East Azerbaijan,East Azerbaijan; 1996/2006 census interpolated (Iran 63.3M)
+419,PER,,PER,,2595771,large_town,West Azerbaijan,"West Azerbaijan (Azeri majority, Kurdish south); KUR/AZR cores dropped; 1996/2006 census interpolated (Iran 63.3M)"
+1001,PER,,PER KUR,,3249914,large_town,Kurdistan and Kermanshah,Kurdistan + Kermanshah; Kurdish majority -> KUR core; 1996/2006 census interpolated (Iran 63.3M)
+421,PER,,PER,,2154823,town,Lorestan and Ilam,Ilam + Lorestan (Lur majority) -> KUR core dropped; 1996/2006 census interpolated (Iran 63.3M)
+417,PER,,PER,,3910296,large_town,Hamadan and Markazi,Markazi + Hamadan + Qom; 1996/2006 census interpolated (Iran 63.3M)
+411,PER,,PER,,5438016,large_city,Isfahan,Isfahan + Kohgiluyeh-Boyer-Ahmad + Chaharmahal-Bakhtiari; 1996/2006 census interpolated (Iran 63.3M)
+413,PER,,PER,,3896777,city,Khuzestan,Khuzestan; 1996/2006 census interpolated (Iran 63.3M)
+412,PER,,PER,,5847765,city,Fars,Fars + Bushehr + Hormozgan; 1996/2006 census interpolated (Iran 63.3M)
+1002,PER,,PER,,779979,town,Yazd,Yazd; 1996/2006 census interpolated (Iran 63.3M)
+414,PER,,PER,,1975948,town,Kerman,Kerman (most); 1996/2006 census interpolated (Iran 63.3M)
+410,PER,,PER,,1900030,rural,Sistan and Baluchestan,Sistan-Baluchestan + southern Kerman; 1996/2006 census interpolated (Iran 63.3M)
+416,PER,,PER,,4804672,large_city,Razavi Khorasan,Razavi Khorasan (excl. Quchan area); 1996/2006 census interpolated (Iran 63.3M)
+1004,PER,,PER,,935975,rural,North Khorasan,North Khorasan + Quchan/Shirvan; 1996/2006 census interpolated (Iran 63.3M)
+1003,PER,,PER,,571985,pastoral,South Khorasan,South Khorasan; 1996/2006 census interpolated (Iran 63.3M)
+418,PER,,PER,,571985,pastoral,Semnan,Semnan + Tabas; 1996/2006 census interpolated (Iran 63.3M)
+291,IRQ,,IRQ,,10856446,metropolis,Baghdad,Baghdad + Salah ad-Din + Babil + Karbala + Diyala + eastern Anbar (Fallujah/Ramadi); KUR claim dropped; 1997 census scaled to Iraq 24.0M
+676,IRQ,,IRQ KUR,,6223668,large_city,Mosul and Kurdistan,Ninawa + Kirkuk + Erbil + Dohuk + Sulaymaniyah; KRG autonomous (KDP/PUK) outside Baghdad control since 1991 -> KUR core; 1997 census scaled to Iraq 24.0M
+1010,IRQ,,IRQ,,275451,pastoral,Western Anbar,"western Anbar (Haditha, Anah, Qaim, Rutba); 1997 census scaled to Iraq 24.0M"
+675,IRQ,,IRQ,,162668,pastoral,Southern Desert,desert Najaf/Muthanna; 1997 census scaled to Iraq 24.0M
+1011,IRQ,,IRQ,,6481768,large_city,Basra,Basra + Dhi Qar + Maysan + Qadisiyyah + Najaf + Wasit + Muthanna; 1997 census scaled to Iraq 24.0M
+267,AFG,,AFG,,5024649,city,Kabul,"Kabul, Kapisa, Parwan, Wardak, Logar, Bamyan, Ghazni, Daykundi; Taliban-controlled except NE; UN est. Afghanistan 19.5M"
+1006,AFG,,AFG,,2737386,rural,Nangarhar and Paktia,"Nangarhar, Laghman, Paktia, Khost, Paktika; Taliban-controlled except NE; UN est. Afghanistan 19.5M"
+1005,AFG,,AFG,,3645150,rural,Qataghan-Badakhshan,"Badakhshan, Takhar, Kunduz, Baghlan, Kunar, Nuristan, Panjshir; Badakhshan/Panjshir/Taloqan held by the Northern Alliance (no tag); TAJ core dropped; Taliban-controlled except NE; UN est. Afghanistan 19.5M"
+1007,AFG,,AFG,,3389547,rural,Balkh and Faryab,"Balkh, Samangan, Jowzjan, Sar-e Pol, Faryab, Badghis; TMS core dropped; Taliban-controlled except NE; UN est. Afghanistan 19.5M"
+415,AFG,,AFG,,1973399,rural,Herat,"Herat, Ghor; Taliban-controlled except NE; UN est. Afghanistan 19.5M"
+1008,AFG,,AFG,,2119055,rural,Kandahar,"Kandahar, Helmand, Zabul, Uruzgan; Taliban-controlled except NE; UN est. Afghanistan 19.5M"
+1009,AFG,,AFG,,610814,pastoral,Farah and Nimruz,"Farah, Nimruz; Taliban-controlled except NE; UN est. Afghanistan 19.5M"
+440,PAK,,PAK,,72167662,metropolis,Punjab,"Punjab excl. DG Khan, Rajanpur, Cholistan + Islamabad; Indian provinces 12822/12005 split out, 10772 to Rajasthan; 1998 census x1.024"
+989,PAK,,PAK,,1228560,rural,Bahawalpur,"Cholistan / Fort Abbas (Bahawalpur division desert); Indian Bikaner/Hanumangarh provinces moved to 433; owner RAJ->PAK, RJP core dropped; 1998 census x1.024"
+443,PAK,,PAK,,29700438,metropolis,Sindh,Sindh excl. Jacobabad/Kashmore; 1998 census x1.024
+445,PAK,,PAK,,4269246,rural,Sibi and Jacobabad,Rajanpur (Punjab) + Jacobabad (Sindh) + Sibi/Naseerabad/Kohlu/Bugti (Balochistan); 1998 census x1.024
+444,PAK,,PAK,,1504986,rural,Makran,"Makran: Gwadar, Kech, Panjgur, Awaran, Lasbela, Kharan; 1998 census x1.024"
+1012,PAK,,PAK,,839516,rural,Kalat,"Kalat, Khuzdar, Mastung; owner RAJ->PAK, KLT/BLC cores dropped; 1998 census x1.024"
+988,PAK,,PAK,,2272836,town,Quetta,"Quetta, Pishin, Killa Abdullah, Chagai, Loralai, Killa Saifullah, Ziarat; owner RAJ->PAK, BLC core dropped; 1998 census x1.024"
+987,PAK,,PAK,,5221380,town,Waziristan and Derajat,"DG Khan, DI Khan, Tank, Bannu, Lakki Marwat, N+S Waziristan, Zhob, Musakhel; owner RAJ->PAK, NWF/KHL cores dropped; 1998 census x1.024"
+442,PAK,,PAK,,18295306,large_town,Peshawar,"NWFP excl. southern districts + Hazara + FATA agencies (Khyber, Mohmand, Bajaur, Orakzai, Kurram); 1998 census x1.024"
+428,RAJ,,RAJ,,36484331,large_city,Gujarat,Gujarat excl. Surat/Bharuch/Vadodara/Valsad/Navsari + Diu; Ahmedabad 4.5M metro; 2001 census /1.024
+429,RAJ,,RAJ,,68233607,megalopolis,Mumbai,"western Maharashtra (Mumbai, Thane, Pune, Nashik, Ahmednagar, Solapur, Satara, Sangli, Ratnagiri, Khandesh) + south Gujarat (Surat, Vadodara, Bharuch, Valsad, Navsari) + Daman/DNH; 2001 census /1.024"
+433,RAJ,,RAJ,,52745872,large_town,Rajasthan,Rajasthan excl. Jhalawar/Baran; receives Indian provinces 12041/12718/12876 (Bikaner/Jaisalmer/Hanumangarh) from 989 and 10772 (Sri Ganganagar) from 440; 2001 census /1.029
+321,RAJ,,RAJ,,1325893,enclave,Goa,Goa 2001 census /1.017
+new:gurdaspur,RAJ,,RAJ,,2050000,large_town,Gurdaspur,Indian Punjab provinces 12822 (Gurdaspur/Pathankot) + 12005 (Amritsar/Firozpur border) cut from Pakistani state 440. Manpower = Gurdaspur only (2.05M) because south_asia 986 already counts the rest of Indian Punjab
+856,SAU,,SAU,,8185710,metropolis,Makkah and Asir,Makkah + Asir + Al Bahah + Jazan; 2004 census shares scaled to Saudi Arabia 20.5M
+292,SAU,,SAU,,5484245,metropolis,Riyadh,Riyadh + most of Qassim; 2004 census shares scaled to Saudi Arabia 20.5M
+859,SAU,,SAU,,3035760,large_city,Eastern Province,Eastern Province; 2004 census shares scaled to Saudi Arabia 20.5M
+679,SAU,,SAU,,1319110,city,Madinah,Madinah; 2004 census shares scaled to Saudi Arabia 20.5M
+855,SAU,,SAU,,668590,town,Tabuk,Tabuk + northern Madinah; 2004 census shares scaled to Saudi Arabia 20.5M
+857,SAU,,SAU,,921570,town,Hail,Hail + northern Qassim + Rafha; 2004 census shares scaled to Saudi Arabia 20.5M
+854,SAU,,SAU,,505960,pastoral,Al Jawf,Al Jawf + Northern Borders (Arar); 2004 census shares scaled to Saudi Arabia 20.5M
+858,SAU,,SAU,,379470,rural,Najran,Najran + Sharurah; 2004 census shares scaled to Saudi Arabia 20.5M
+678,SAU,,SAU,,5000,wasteland,Rub al Khali,"Rub al Khali (Shaybah oil camps, Bedouin); 2004 census shares scaled to Saudi Arabia 20.5M"
+1014,SAU,,,,630000,city,Bahrain,PLACEHOLDER: Bahrain independent since 1971 but no BHR tag is defined; owned by SAU (closest ally) with no cores until a BHR tag exists. 2001 census 650k
+765,QAT,,QAT,,600000,city,Qatar,Qatar (was ENG); 1997/2004 census interpolated
+658,UAE,,UAE,,3100000,large_city,United Arab Emirates,whole UAE; 1995/2005 census interpolated
+294,OMA,,OMA,,1566286,city,Muscat,Muscat + Batinah + Sharqiyah + Wusta; Oman 2.23M (1993/2003 census)
+1015,OMA,,OMA,,440518,rural,Interior Oman,"Dakhiliyah + Dhahirah/Buraimi; IMO core dropped (undefined, Imamate defunct); Oman 2.23M (1993/2003 census)"
+1016,OMA,,OMA,,195786,rural,Dhofar,Dhofar; FSA core dropped; Oman 2.23M (1993/2003 census)
+1013,OMA,,OMA,,27410,pastoral,Musandam,Musandam; Oman 2.23M (1993/2003 census)
+293,YEM,,YEM,,14124937,large_town,Sana'a,"northern Yemen + Bayda, Dhale, Marib, Jawf; unified since 1990; 1994/2004 census interpolated (Yemen 17.0M)"
+992,YEM,,YEM,,1502285,city,Aden,"Aden + Lahij + Abyan; was ENG, FSA core dropped; unified since 1990; 1994/2004 census interpolated (Yemen 17.0M)"
+659,YEM,,YEM,,1338243,rural,Hadramawt,Hadramawt + Shabwah + Mahrah; unified since 1990; 1994/2004 census interpolated (Yemen 17.0M)
+906,YEM,,YEM,,34535,small_island,Socotra,Socotra; SOM claim dropped; unified since 1990; 1994/2004 census interpolated (Yemen 17.0M)
+656,KUW,,KUW,,2150000,large_city,Kuwait,Kuwait (PACI ~2.19M incl. expatriates); Saudi-Kuwaiti Neutral Zone partitioned 1970 - no split needed
+454,ISR,,ISR,,6912000,metropolis,Israel,"Israel proper + East Jerusalem + Judea (Hebron/Bethlehem/Ramallah fall in Jerusalem province 1086, ~0.94M Palestinians). CBS 6.21M - settlers moved out + Judea Palestinians. Golan not separable (see 554)"
+new:west_bank,ISR,,ISR PAL,,870000,large_town,West Bank,"Samaria province 7107 (Nablus, Jenin, Tulkarm, Qalqilya, Salfit, Tubas) 0.82M Palestinians + ~50k settlers; Israeli-occupied since 1967, Oslo Areas A/B under PA"
+new:gaza,ISR,,ISR PAL,,1300000,city,Gaza,"province 4088: Gaza Strip 1.11M (PCBS) + Ashkelon/Sderot/Netivot ~0.18M (province also covers NW Negev); Israeli-occupied, PA-administered"
+455,JOR,,JOR,,4650000,large_city,Jordan,1994/2004 census interpolated
+553,LEB,,LEB,,3800000,large_city,Lebanon,incl. Palestinian camps; province 11919 = south Lebanon security zone occupied by Israel until May 2000 (no war -> controller blank)
+554,SYR,,SYR,,4600000,metropolis,Damascus,Damascus + Rif Dimashq + Daraa + Suwayda + Quneitra; Syria 16.3M total. Province 1074 mixes the Israeli-held Golan (~35k) with Daraa/Quneitra (~0.8M) so it stays SYR - Golan cannot be given to ISR at this resolution
+230,ARM,,ARM,,3100000,city,Armenia,Armenia excl. Nakhchivan province; 2001 census de facto ~3.0-3.2M; SOV core dropped. Nagorno-Karabakh (in 229) held by Armenian forces since 1994 ceasefire - no tag
+new:nakhchivan,AZR,,AZR,,354000,rural,Nakhchivan,Nakhchivan AR (Azerbaijani exclave) province 6997 cut from vanilla Armenia state
+229,AZR,,AZR,,7680000,large_city,Azerbaijan,Azerbaijan 8.03M (1 Jan 2000) minus Nakhchivan; includes Armenian-held Nagorno-Karabakh + occupied districts (no NKR tag; live ARM-AZR dispute); SOV core dropped
+742,TAJ,,TAJ,,6130000,town,Tajikistan,whole Tajikistan incl. GBAO; 2000 census 6.13M
+584,TMS,,TMS,,3450000,rural,Turkmenistan,Turkmenistan 4.5M minus Dashoguz; SOV core dropped
+832,TMS,,TMS,,1050000,rural,Dashoguz,Dashoguz velayat; SOV/KHI cores dropped (NB real oasis may overlap russia-region 831)
+405,UZB,,UZB,,13235528,metropolis,Tashkent and Fergana,"Tashkent city+region, Syrdarya, Jizzakh, Fergana, Namangan, Andijan"
+830,UZB,,UZB,,8362250,large_town,Samarkand and Bukhara,"Samarkand, Bukhara, Kashkadarya, Surkhandarya, southern Navoi; SOV/BUK cores dropped"
+352,TUR,,TUR KUR,,1340000,rural,Hakkari,"Hakkari, Sirnak, Siirt, Bitlis + southern Van; Kurdish majority -> KUR core"
+354,TUR,,TUR,,3132000,large_town,Trabzon and Erzurum,"Trabzon, Rize, Artvin, Ardahan, Kars, Gumushane, Bayburt, Erzurum (most)"
+800,TUR,,TUR KUR,,1555000,town,Van,"Van (most), Agri, Igdir, eastern Erzurum; Kurdish majority -> KUR core"
+907,EGY,,EGY,,26660660,megalopolis,Cairo,"Cairo, Giza, Qalyubia, Sharqia, Beni Suef, Faiyum, northern Minya; CAPMAS 1996 census x1.066 (Egypt 63.2M resident; UN WPP gives higher)"
+447,EGY,,EGY,,22204780,large_city,Alexandria and the Delta,"Alexandria + Delta (Beheira, Kafr el-Sheikh, Gharbia, Monufia, Dakahlia, Damietta); CAPMAS 1996 census x1.066 (Egypt 63.2M resident; UN WPP gives higher)"
+456,EGY,,EGY,,11726000,large_town,Upper Egypt,"southern Minya, Asyut, Sohag, Qena, Luxor, Aswan; CAPMAS 1996 census x1.066 (Egypt 63.2M resident; UN WPP gives higher)"
+446,EGY,,EGY,,1705600,city,Suez Canal,"Port Said, Ismailia, Suez; CAPMAS 1996 census x1.066 (Egypt 63.2M resident; UN WPP gives higher)"
+453,EGY,,EGY,,319800,pastoral,Sinai,North + South Sinai; CAPMAS 1996 census x1.066 (Egypt 63.2M resident; UN WPP gives higher)
+457,EGY,,EGY,,191880,pastoral,Red Sea,Red Sea governorate; CAPMAS 1996 census x1.066 (Egypt 63.2M resident; UN WPP gives higher)
+452,EGY,,EGY,,202540,pastoral,Marsa Matruh,Matrouh; CAPMAS 1996 census x1.066 (Egypt 63.2M resident; UN WPP gives higher)
+552,EGY,,EGY,,181220,wasteland,Western Desert,New Valley + Siwa/Bahariya; CAPMAS 1996 census x1.066 (Egypt 63.2M resident; UN WPP gives higher)
+new:halaib,EGY,,EGY,SUD,15000,pastoral,Halaib Triangle,"province 1977 (Halaib/Abu Ramad): Egyptian-administered since 1990s, claimed by Sudan"
+549,SUD,,SUD,,7047414,town,Kordofan,"Kordofan + El Fasher (N Darfur); 1993/2008 census interpolated, northern Sudan 21.8M"
+551,SUD,,SUD,,5543966,large_city,Khartoum,"Khartoum + River Nile + Northern; 1993/2008 census interpolated, northern Sudan 21.8M"
+886,SUD,,SUD,,7094397,large_town,Gezira and Blue Nile,"Gezira, White Nile, Sennar, Blue Nile, Gedaref; 1993/2008 census interpolated, northern Sudan 21.8M"
+883,SUD,,SUD,,2067241,rural,Kassala and Red Sea,"Kassala + Red Sea (Port Sudan); 1993/2008 census interpolated, northern Sudan 21.8M"
+767,SUD,,SUD,,46983,wasteland,North Darfur desert,"northern Darfur desert; 1993/2008 census interpolated, northern Sudan 21.8M"
+550,ERI,,ERI,,2390000,rural,Eritrea,UN WPP 2022 (older estimates 3.2-3.5M). Eritrean-Ethiopian War 1998-2000 active on 1 Jan 2000 (lull before May 2000 offensive); controller blank per README
+841,ETH,,ETH,,4600000,town,Begemder,North + South Gondar
+842,ETH,,ETH,ERI,4200000,town,Tigray,Tigray region; front line of Eritrean-Ethiopian War (Badme held by ETH since Feb 1999) -> ERI claim
+908,ETH,,ETH,,1300000,pastoral,Afar,Afar region

@@ -1,0 +1,59 @@
+id,owner,controller,cores,claims,manpower,category,name,notes
+268,DJI,,DJI,,720000,enclave,Djibouti,
+269,SOM,,SOM,,2300000,rural,Somaliland,"Former British Somaliland; de facto independent Republic of Somaliland since 1991 (no defined tag, cannot core)"
+559,SOM,,SOM,,5500000,rural,Central & Northeast Somalia,"Mogadishu, Benadir, Shabelle, Hiraan, Bay/Bakool, Mudug, Puntland (autonomous 1998, no tag); no effective central govt in 2000"
+844,SOM,,SOM,,1070000,pastoral,Jubaland,"Gedo, Middle and Lower Juba"
+271,ETH,,ETH ORO,,16100000,metropolis,Shewa,Addis Ababa + Oromia Shewa zones/Arsi + Amhara North Shewa + Gurage/Hadiya/Kembata (SNNPR); ORO core
+835,ETH,,ETH HAR ORO,,7300000,town,Hararghe,Somali Region north/Ogaden (no Somali-Ethiopian tag) + East/West Hararghe (Oromia) + Harari + Dire Dawa; HAR ORO cores
+836,ETH,,ETH ORO,,2600000,rural,Bale,Bale zone (Oromia) + southern Somali Region (Gode/Afder/Liben)
+837,ETH,,ETH SID ORO,,9000000,large_town,Sidamo,Sidama/Gedeo/Wolayta/Gamo Gofa/South Omo (SNNPR) + Borena/Guji (Oromia); SID ORO cores
+838,ETH,,ETH ORO GBA,,6300000,town,Illubabor-Kaffa,Jimma/Illubabor (Oromia) + Kaffa/Sheka/Bench Maji (SNNPR) + Gambela region; ORO GBA cores
+839,ETH,,ETH ORO BEG,,4350000,town,Welega,East/West Welega (Oromia) + Benishangul-Gumuz (Asosa); ORO BEG cores
+840,ETH,,ETH,,5300000,town,Gojjam,East/West Gojjam + Awi (Amhara) + Metekel
+843,ETH,,ETH,,4900000,town,Wello,North/South Wello + Oromia zone + Wag Hemra (Amhara)
+547,KEN,,KEN,,8930000,metropolis,Nairobi,Nairobi + Central Province + northern Eastern Province (Meru/Embu/Isiolo/Marsabit) + Samburu/Laikipia; 1999 census scaled to 31.0M
+904,KEN,,KEN,,15060000,large_town,Nyanza-Rift Valley,"Nyanza + Western + most of Rift Valley; Ilemi Triangle (Turkana) disputed by SUD/ETH - not claimed, whole-state claim inappropriate"
+905,KEN,,KEN,,5680000,city,Mombasa,Coast (excl. Lamu/Tana River) + Machakos/Makueni/Kitui + Kajiado
+903,KEN,,KEN,,1310000,pastoral,Garissa,North Eastern Province + Tana River + Lamu; vanilla SOM core removed (NFD irredentism not a live claim in 2000)
+548,UGA,,UGA,,23800000,large_town,Uganda,
+546,TZN,,TZN,,34000000,large_town,Tanzania,Mainland Tanzania + Zanzibar (no separate state/tag)
+768,RWA,,RWA,,8100000,large_town,Rwanda,
+769,BRD,,BRD,,6380000,large_town,Burundi,
+884,SUD,,SUD,,3570000,rural,Upper Nile,"Southern Sudan: Upper Nile, Jonglei, Unity, Central & Eastern Equatoria; SPLA insurgency (no tag) controls much of it"
+885,SUD,,SUD,,2430000,rural,Bahr al Ghazal,"Southern Sudan: Western/Northern Bahr el Ghazal, Warrap, Lakes, Western Equatoria; SPLA insurgency (no tag)"
+295,COG,,COG,,13320000,metropolis,Leopoldville,Kinshasa + Bas-Congo + Bandundu; government-held
+718,COG,,COG,,6420000,rural,Stanleyville,"Orientale; Second Congo War - held by RCD-ML/MLC rebels and Ugandan army (no defined-tag war scripted, controller left blank)"
+888,COG,,COG,,9230000,rural,Kasai,Kasai-Oriental + Kasai-Occidental + southern Maniema/Sankuru; front line of Second Congo War (Kindu area RCD/Rwanda-held)
+889,COG,,COG,,6320000,large_town,Katanga,Katanga minus Tanganyika district; northern Katanga front line (RCD/Rwanda near Pweto/Moba)
+890,COG,,COG,,8550000,town,Kivu,North & South Kivu + northern Maniema + Kalemie; occupied by RCD-Goma / Rwanda / Burundi in Second Congo War (no controller set)
+772,RCG,,RCG,,3130000,large_town,Republic of the Congo,
+539,GAB,,GAB,,1240000,town,Gabon,
+540,ANG,,ANG,,8330000,large_city,Luanda,"Luanda, Bengo, Cuanza Norte/Sul, Malanje, Uige, Zaire, Lundas; Angolan civil war vs UNITA (no tag)"
+796,ANG,,ANG,,280000,town,Cabinda,"Cabinda exclave (FLEC separatists, no tag); VP province named 'Namibe' in vanilla - misnamed"
+891,ANG,,ANG,,1960000,rural,Moxico-Bie,"Moxico, Cuando Cubango, Bie"
+892,ANG,,ANG,,5830000,town,Huambo-Benguela,"Huambo, Benguela, Huila, Namibe, Cunene"
+771,ZAM,,ZAM,,8150000,city,Zambia,Lusaka + Copperbelt + Central/Eastern/Northern/Luapula/Southern (east)
+981,ZAM,,ZAM,,1750000,rural,Barotseland,Western + North-Western + western Southern Province; vanilla BAR core removed (tag undefined)
+770,MLW,,MLW,,11150000,large_town,Malawi,
+545,ZIM,,ZIM,,11900000,city,Zimbabwe,
+544,MZB,,MZB,,4440000,city,Maputo-Gaza-Inhambane,"Maputo city/province, Gaza, Inhambane; 1997 census shares scaled to 17.7M"
+896,MZB,,MZB,,3830000,town,Manica e Sofala,"Manica, Sofala, Tete"
+897,MZB,,MZB,,9430000,town,Zambezia-Nampula,"Zambezia, Nampula, Niassa, Cabo Delgado"
+541,NMB,,NMB,,428000,town,Khomas,"Khomas, Erongo (south), Omaheke, north Hardap; vanilla SAF core removed"
+893,NMB,,NMB,,107000,pastoral,Karas,Karas + south Hardap; vanilla SAF core removed
+894,NMB,,NMB,,115000,pastoral,Kunene,Kunene + north Erongo + west Otjozondjupa; vanilla SAF core removed
+895,NMB,,NMB,,1174000,rural,Owambo-Kavango,Ohangwena/Omusati/Oshana/Oshikoto + Kavango + Caprivi + Otjozondjupa; vanilla SAF core removed
+542,BOT,,BOT,,1700000,rural,Botswana,
+275,SAF,,SAF,,23180000,metropolis,Transvaal,"Gauteng, Limpopo, Mpumalanga, North West, Free State; 2001 census shares scaled to 44.0M"
+681,SAF,,SAF,,5540000,large_city,Cape,Western Cape + Northern Cape + western Karoo of Eastern Cape; prov 5203 geo estimate falls in Namibia but its neighbours (542 & 893) show it is the SA Kgalagadi finger - kept
+719,SAF,,SAF,,15280000,large_city,Natal,KwaZulu-Natal + Eastern Cape (excl. western Karoo); Lesotho (4556) and Swaziland (7900) split out
+new:lesotho,LES,,LES,,1860000,rural,Lesotho,Split from 719 Natal (prov 4556 Maseru)
+new:eswatini,ESW,,ESW,,1030000,town,Swaziland,Split from 719 Natal (prov 7900 Mbabane)
+543,MAD,,MAD,,15770000,town,Madagascar,
+708,COM,,COM,,540000,small_island,Comoro Islands,Excludes French Mayotte (no state; COM claims it)
+707,MAU,,MAU,,1186000,small_island,Mauritius,Incl. Rodrigues; province named 'Seychelles' in vanilla - misnamed
+709,SEY,,SEY,,81000,small_island,Seychelles,
+706,FRA,,FRA,,715000,small_island,Reunion,French overseas department; vanilla MAD core removed
+710,ENG,,ENG,MAU,3000,tiny_island,Diego Garcia,British Indian Ocean Territory; no permanent residents (US/UK base personnel); Mauritius claims Chagos
+713,FRA,,FRA,,100,tiny_island,Kerguelen,TAAF research station staff only
+281,MLD,,MLD,,270000,enclave,Maldives,"2000 census 270,101"

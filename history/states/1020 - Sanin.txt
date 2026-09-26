@@ -1,0 +1,29 @@
+state = {
+	id = 1020
+	name = "STATE_1020" # San'in
+	manpower = 1470000
+	state_category = large_town
+
+	history = { 
+		owner = JAP
+		add_core_of = JAP
+
+		buildings = {
+
+			infrastructure = 2
+			industrial_complex = 1
+
+		}
+
+		victory_points = {
+			10055 1 # Tottori
+		}
+
+	}
+
+	provinces = {
+		1167 1191 7050 7145 10055 
+	}
+
+	local_supplies = 0.0 
+}

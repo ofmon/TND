@@ -1,0 +1,156 @@
+id,owner,controller,cores,claims,manpower,category,name,notes
+50,GER,,GER WUR,,5750000,large_city,Württemberg,RB Stuttgart + RB Tuebingen (Wuerttemberg); Destatis 31.12.1999
+978,GER,,GER WUR,,4730000,large_city,STATE_978,RB Karlsruhe + RB Freiburg (Baden incl. Mannheim/Heidelberg); Destatis 1999
+52,GER,,GER BAY,,5800000,large_city,Oberbayern,Oberbayern + Bavarian Swabia (Munich/Augsburg); Destatis 1999
+53,GER,,GER BAY,,2250000,large_town,Niederbayern,Niederbayern + Oberpfalz; Destatis 1999
+54,GER,,GER BAY,,4100000,city,Franken,Ober- Mittel- and Unterfranken (Nuremberg/Wuerzburg); Destatis 1999
+42,GER,,GER,,4300000,city,Moselland,Saarland 1.07M + Rhineland-Palatinate excl. Rheinhessen and Westerwald
+55,GER,,GER,,6650000,metropolis,Hessen,Hessen 6.05M + Rheinhessen/Mainz 0.6M; Rhine-Main metro
+51,GER,,GER,,9750000,metropolis,Rhineland,NRW RB Duesseldorf + RB Koeln (Rhine-Ruhr west) + Westerwald fringe
+57,GER,,GER HAN,,7650000,large_city,Westfalen,NRW RB Arnsberg + RB Detmold + most of RB Muenster (Ruhr east)
+56,GER,,GER HAN,,3230000,large_town,Weser-Ems,Lower Saxony RB Weser-Ems 2.43M + Muenster/Steinfurt (NRW) 0.8M
+59,GER,,GER HAN,,6580000,large_city,Hannover,RB Hannover + Braunschweig + Lueneburg 5.47M + Bremen 0.66M + Altmark/Harz (Saxony-Anhalt) 0.45M
+58,GER,,GER SHL,,3820000,large_city,Schleswig-Holstein,Hamburg 1.71M + Holstein (Schleswig-Holstein excl. Schleswig and Luebeck)
+909,GER,,GER SHL,,450000,town,Schleswig,Kreise Schleswig-Flensburg + Nordfriesland + Flensburg
+61,GER,,GER MEK,,1310000,town,Mecklenburg,Mecklenburg part of MV 1.1M + Luebeck 0.21M
+62,GER,,GER,,850000,town,Vorpommern,Vorpommern + Mecklenburg-Strelitz 0.69M + Uckermark (Brandenburg) 0.16M
+64,GER,,GER,,6830000,metropolis,Brandenburg,Berlin 3.39M + Brandenburg excl. Uckermark 2.44M + Magdeburg/Boerde/Wittenberg (Saxony-Anhalt) 1.0M
+60,GER,,GER,,3650000,city,Thüringen,Thuringia 2.45M + RB Halle/Dessau (Saxony-Anhalt) 1.2M
+65,GER,,GER SAX,,4460000,large_city,Sachsen,Free State of Saxony; Destatis 1999
+1,FRA,,FRA COR,,260000,town,Corsica,Corse; 1999 census
+14,FRA,,FRA BRI,,2910000,city,Brittany,Bretagne region (Finistere Morbihan Cotes-d'Armor Ille-et-Vilaine)
+15,FRA,,FRA,,3250000,city,Normandy,Haute + Basse-Normandie + part Eure-et-Loir
+16,FRA,,FRA,,11300000,megalopolis,Ile de France,Ile-de-France 10.95M + most of Eure-et-Loir; Paris
+17,FRA,,FRA,,2210000,large_town,Franche-Comte,Franche-Comte + Meurthe-et-Moselle + Vosges (Besancon/Nancy)
+28,FRA,,FRA,,2760000,city,Alsace-Lorraine,Alsace + Moselle (Strasbourg/Metz)
+18,FRA,,FRA,,1550000,large_town,Champagne,Champagne-Ardenne + Meuse
+785,FRA,,FRA,,1860000,large_town,Picardy,Picardie (Somme Oise Aisne)
+29,FRA,,FRA,,4000000,large_city,Nord-Pas-de-Calais,Nord-Pas-de-Calais (Lille)
+30,FRA,,FRA,,3220000,city,Loire,Pays de la Loire (Nantes/Angers/Le Mans)
+23,FRA,,FRA,,1640000,town,Poitou,Poitou-Charentes
+19,FRA,,OCC FRA,,1610000,city,Aquitaine,Gironde + Landes (Bordeaux)
+806,FRA,,NAV FRA,,600000,large_town,Pyrénées-Atlantiques,Pyrenees-Atlantiques (Pau/Bayonne); vanilla figure was far too high
+25,FRA,,OCC FRA,,1540000,town,Limousin,Limousin excl. Creuse + Dordogne + Lot-et-Garonne + Lot + part Tarn-et-Garonne
+33,FRA,,FRA,,700000,rural,Centre-Sud,Indre + Cher + Creuse
+24,FRA,,FRA,,1600000,large_town,Centre,Loiret + Loir-et-Cher + Indre-et-Loire + part Eure-et-Loir (Orleans/Tours)
+27,FRA,,FRA,,1510000,large_town,Bourgogne,Bourgogne excl. Maconnais
+26,FRA,,OCC FRA,,1100000,town,Auvergne,Puy-de-Dome + Allier + Cantal
+20,FRA,,OCC FRA,,3420000,large_city,Rhone,Rhone + Loire + Ain + Ardeche + Haute-Loire + Maconnais (Lyon)
+32,FRA,,OCC FRA,,1530000,city,Alpes,Isere + Drome (Grenoble)
+735,FRA,,FRA OCC,SPM,2140000,city,Savoy,Savoie + Haute-Savoie + Hautes-Alpes + Alpes-Maritimes (Nice)
+851,FRA,,OCC FRA,,900000,city,Var,Var (Toulon)
+21,FRA,,OCC FRA,,2470000,large_city,Bouches-du-Rhône,Bouches-du-Rhone + Vaucluse + Alpes-de-Haute-Provence (Marseille)
+22,FRA,,OCC FRA,,2200000,large_town,Languedoc,Herault + Gard + Aveyron + Tarn + Lozere (Montpellier)
+31,FRA,,OCC FRA,,2390000,city,Midi Pyrenees,Haute-Garonne Gers Hautes-Pyrenees Ariege Aude Pyrenees-Orientales + part Tarn-et-Garonne (Toulouse)
+118,ENG,,ENG,SPR,27000,enclave,Gibraltar,Gibraltar ~27k; Spanish claim
+119,ENG,,ENG IRE NIR,,1680000,city,Northern Ireland,Northern Ireland; NISRA mid-2000
+120,ENG,,SCO ENG,,350000,rural,Scottish Highlands,Highland + Western Isles + Orkney + Argyll and Bute
+121,ENG,,SCO ENG,,1560000,city,Lothian,Edinburgh + Lothians + Fife + Borders + Falkirk + Clackmannan + Perth and Kinross
+122,ENG,,ENG WLS,,2910000,city,Wales,Wales; ONS mid-2000
+123,ENG,,ENG,,2560000,large_town,South-West England,Devon + Cornwall + Dorset + most of Somerset
+125,ENG,,ENG,,4620000,city,East Anglia,East of England excl. south Essex (Norfolk Suffolk Cambs Herts Beds north Essex)
+126,ENG,,ENG,,9940000,megalopolis,Greater London Area,Greater London 7.24M + south Essex + Berkshire + south Bucks + east Surrey
+127,ENG,,ENG,,5240000,large_city,Sussex,Kent + Sussex + Hampshire + IoW + west Surrey
+128,ENG,,ENG,,5270000,large_city,West Midlands,West Midlands region (Birmingham)
+129,ENG,,ENG,,4700000,city,East Midlands,East Midlands + North Lincolnshire + Milton Keynes
+130,ENG,,ENG,,5090000,large_city,Yorkshire,Yorkshire and the Humber excl. N Lincs + Teesside south
+131,ENG,,ENG,,2100000,city,Northern England,Tyne and Wear + Northumberland + Durham + Hartlepool
+132,ENG,,ENG,,6280000,metropolis,Lancashire,North West England excl. Cumbria (Manchester/Liverpool)
+133,ENG,,SCO ENG,,2370000,large_city,Lanark,Glasgow + Lanarkshire + Renfrewshire + Dunbartonshire + Ayrshire + Dumfries and Galloway + Stirling
+136,ENG,,SCO ENG,,780000,large_town,Aberdeenshire,Aberdeen + Aberdeenshire + Moray + Angus + Dundee
+338,ENG,,ENG,,2940000,city,Gloucestershire,Bristol + Glos + Wiltshire/Swindon + Bath/N Somerset + Oxfordshire
+931,ENG,,ENG,,490000,town,Cumbria,Cumbria
+932,ENG,,ENG,,75000,small_island,Isle of Man,Isle of Man (Crown dependency) ~75k
+933,ENG,,ENG SCO,,22000,tiny_island,Shetland Islands,Shetland ~22k
+113,IRE,,IRE,,2030000,large_city,Leinster,Leinster excl. Kilkenny/Longford + Cavan and Monaghan (Dublin)
+134,IRE,,IRE,,610000,rural,Connaught,Connacht + Donegal + Longford
+135,IRE,,IRE,,1150000,large_town,Munster,Munster + Kilkenny (Cork/Limerick)
+100,ICE,,ICE,,279000,rural,Iceland,Iceland; Statistics Iceland 1 Jan 2000 279k
+116,MLT,,MLT,,380000,small_island,Malta,Malta + Gozo; NSO end-1999 ~380k
+8,LUX,,LUX,,436000,city,Luxemburg,Grand Duchy of Luxembourg; STATEC 1 Jan 2000 435.7k
+110,NOR,,NOR,,1440000,large_city,Østlandet,Oslo + Akershus + Ostfold + Vestfold
+142,NOR,,NOR,,1160000,large_town,Vestlandet,Rogaland + Hordaland + Sogn og Fjordane + More og Romsdal
+143,NOR,,NOR SMI,,390000,town,Trøndelag,Sor- + Nord-Trondelag
+914,NOR,,NOR,,10,tiny_island,Jan Mayen,Jan Mayen weather station staff only
+920,NOR,,NOR,,370000,rural,Opplandene,Hedmark + Oppland
+921,NOR,,NOR,,400000,town,Telemark,Telemark + Buskerud
+922,NOR,,NOR,,258000,town,Agder,Aust- + Vest-Agder
+923,NOR,,NOR SMI,,78000,rural,Helgeland,Helgeland (southern Nordland)
+138,SWE,,SWE,,1550000,city,Scania,Skane + Blekinge + Halland
+140,SWE,,SWE,,1270000,city,Västergötland,Vastra Gotaland excl. Bohuslan (Goteborg)
+915,SWE,,SWE,,220000,town,Bohuslän,Bohuslan coast (Uddevalla Stromstad Lysekil)
+916,SWE,,SWE,,290000,rural,Dalarna,Dalarna + Harjedalen
+917,SWE,,SWE SMI,,120000,rural,Jämtland,Jamtland excl. Harjedalen
+919,SWE,,SWE,,300000,town,Värmland,Varmland + Karlskoga area
+37,DEN,,DEN,,2360000,large_city,Sjaelland,Copenhagen/Frederiksberg + Kobenhavns Frederiksborg Roskilde Vestsjaelland Storstrom amter
+911,DEN,,DEN,,472000,large_town,Fyn,Fyns Amt
+912,DEN,,DEN,,253000,town,Sønderjylland,Sonderjyllands Amt
+99,DEN,,DEN,,2220000,large_town,Jutland,Ribe Vejle Ringkobing Arhus Viborg Nordjylland amter
+337,DEN,,DEN,,45000,small_island,Faroe Islands,Faroe Islands ~45k (no Faroese tag defined)
+7,HOL,,HOL,,5910000,metropolis,Holland,Noord- + Zuid-Holland (Randstad)
+36,HOL,,HOL,,5560000,city,Friesland,Groningen Friesland Drenthe Overijssel Flevoland Utrecht + north Gelderland
+35,HOL,,HOL,,4390000,large_city,Brabant,Noord-Brabant + Limburg + Zeeland + Rivierenland/Nijmegen
+6,BEL,,BEL,,4010000,metropolis,Vlaanderen,Brussels + West- and Oost-Vlaanderen + Halle-Vilvoorde
+977,BEL,,BEL,,2890000,large_city,STATE_977,Antwerpen + Leuven arr. + Limburg
+34,BEL,,BEL,,2720000,large_city,Wallonie,Hainaut + Walloon Brabant + Liege excl. Verviers + Namur excl. Dinant
+980,BEL,,BEL,,620000,town,STATE_980,Verviers arr. (incl. Eupen-Malmedy) + Luxembourg prov. + Dinant (German-speaking community has no tag)
+3,SWI,,SWI,,4000000,large_city,Swiss Plateau,ZH BE(excl. Oberland/Jura bernois) FR LU ZG SZ AG SG TG SH AR AI
+845,SWI,,SWI,,2050000,city,Jura Mountains,GE VD NE JU BS BL SO + Jura bernois/Biel
+846,SWI,,SWI,,308000,town,Ticino,Ticino
+847,SWI,,SWI,,476000,town,Western Swiss Alps,Valais + Bernese Oberland
+151,SWI,,SWI,,330000,rural,Eastern Swiss Alps,Graubuenden + Glarus + Uri + Obwalden + Nidwalden
+152,AUS,,AUS,,1710000,city,Upper Austria,Upper Austria + Salzburg Flachgau/Tennengau (Linz/Salzburg)
+153,AUS,,AUS,,930000,large_town,Tyrol,Tyrol + Pinzgau/Pongau/Lungau + Spittal (Innsbruck)
+848,AUS,,AUS,,349000,large_town,Vorarlberg,Vorarlberg (Liechtenstein ~32k sits in this state; no LIE tag)
+976,AUS,,AUS,,1660000,city,STATE_976,Styria + Carinthia excl. Spittal (Graz/Klagenfurt)
+9,CZE,,CZE,,4300000,large_city,Bohemia,Prague + Central Bohemia + inner Plzen/South Bohemia/Hradec/Pardubice + west Vysocina
+69,CZE,,CZE,,1790000,large_town,Sudetenland,Karlovy Vary + Usti + Liberec kraje + Trutnov + Tachov/Domazlice
+972,CZE,,CZE,,360000,town,STATE_972,Cesky Krumlov + Prachatice + Jindrichuv Hradec + Znojmo
+853,SLV,,SLV,,670000,city,Ljubljana,Osrednjeslovenska + Jugovzhodna + Zasavska (Ljubljana)
+736,SLV,,SLV,,272000,town,Litorale,Goriska + Obalno-kraska + Notranjsko-kraska; Trieste moved to Italy (160)
+852,CRO,,CRO,,510000,large_town,Istria,Primorje-Gorski Kotar + Istria counties (Rijeka/Pula)
+114,ITA,,ITA SPM,,1649000,town,Sardegna,Sardegna
+115,ITA,,ITA TTS,,5088000,city,Sicilia,Sicilia
+2,ITA,,ITA PAP,,5265000,metropolis,Lazio,Lazio (Rome)
+157,ITA,,ITA PAP,,3570000,large_town,Abruzzo,Marche + Abruzzo + Molise + eastern Umbria
+162,ITA,,ITA TOS,,4090000,large_city,Toscana,Toscana + Perugia area (Umbria) + La Spezia
+158,ITA,,ITA SPM,,5910000,metropolis,Piemonte,Piemonte + Valle d'Aosta + Liguria excl. La Spezia + Oltrepo (Turin/Genoa)
+159,ITA,,ITA LBV,,9000000,megalopolis,Lombardia,Lombardia excl. Oltrepo (Milan)
+39,ITA,,ITA LBV,,464000,town,Alto Adige,Provincia di Bolzano (South Tyrol; Austrian claim dropped 1992)
+850,ITA,,ITA LBV,,478000,town,Trentino,Provincia di Trento
+160,ITA,,ITA LBV,,5710000,large_city,Veneto,Veneto 4.53M + Friuli-Venezia Giulia 1.18M incl. Trieste (moved from 736)
+161,ITA,,ITA PAP,,3980000,large_city,Emilia Romagna,Emilia-Romagna (Bologna)
+165,SPR,,CAT SPR,,6160000,metropolis,Cataluña,Barcelona + Girona + Tarragona + most of Lleida; Andorra split out
+794,SPR,,SPR,,380000,rural,Eastern Aragón,East Huesca + east Teruel + Caspe + Terra Alta + Els Ports + west Lleida
+166,SPR,,SPR,,930000,city,Western Aragón,Zaragoza + west Huesca + west Teruel
+167,SPR,,SPR,,4090000,large_city,Valencia,Comunidad Valenciana excl. Els Ports
+168,SPR,,SPR,,1430000,large_town,Murcia,Region de Murcia excl. Lorca + Albacete
+173,SPR,,SPR,,2700000,city,Granada,Malaga + Granada + Almeria + Lorca
+169,SPR,,SPR,,3300000,city,Sevilla,Sevilla + Cadiz + Huelva
+789,SPR,,SPR,,1410000,town,Córdoba,Cordoba + Jaen
+170,SPR,,SPR,,1070000,town,Extremadura,Extremadura (Badajoz + Caceres)
+175,SPR,,SPR,,530000,rural,Ciudad Real,Ciudad Real + south-east Toledo
+41,SPR,,SPR,,6000000,metropolis,Madrid,Comunidad de Madrid + Toledo + Avila + most of Segovia
+793,SPR,,SPR,,340000,rural,Guadalajara,Cuenca + Guadalajara + south Soria
+176,SPR,,SPR,,670000,town,Burgos,Burgos + La Rioja + north Soria
+172,SPR,,NAV SPR,,540000,large_town,Navarra,Navarra (Pamplona)
+792,SPR,,NAV SPR,,2100000,large_city,País Vasco,Pais Vasco (Bilbao/San Sebastian/Vitoria)
+790,SPR,,SPR,,1660000,large_town,Asturias,Asturias + Cantabria + north Leon
+171,SPR,,GLC SPR,,2810000,city,Galicia,Galicia + El Bierzo
+174,SPR,,SPR,,620000,rural,León,Leon excl. Bierzo + Zamora + north Salamanca
+791,SPR,,SPR,,720000,town,Valladolid,Valladolid + Palencia + Cuellar
+788,SPR,,SPR,,300000,rural,Salamanca,Salamanca excl. north
+177,SPR,,SPR,,845000,large_town,Islas Baleares,Islas Baleares (Catalan claim dropped; not a live dispute)
+new:ceuta,SPR,,SPR,MOR,75000,enclave,Ceuta,Spanish autonomous city of Ceuta 75k; Moroccan claim
+new:melilla,SPR,,SPR,MOR,66000,enclave,Melilla,Spanish autonomous city of Melilla 66k; Moroccan claim; province also covers Nador hinterland
+new:andorra,AND,,AND,,66000,enclave,Andorra,Principality of Andorra ~66k
+112,POR,,POR,,3710000,large_city,Lisbon,Lisboa + Leiria + Coimbra + Aveiro districts
+179,POR,,POR,,1330000,large_town,Beja,Setubal + Faro + Beja districts
+795,POR,,POR,,770000,town,Santarém,Santarem + Evora + Portalegre districts
+181,POR,,POR,,770000,town,Guarda,Viseu + Guarda + Castelo Branco districts
+180,POR,,POR,,3200000,large_city,Porto,Porto + Braga + Viana do Castelo + Vila Real + Braganca districts
+698,POR,,POR,,242000,small_island,Azores,Azores ~242k
+290,MOR,,MOR,,2800000,town,Spanish Africa,Tangier + Tetouan + Chefchaouen + Al Hoceima + Nador (Ceuta and Melilla split out)
+458,TUN,,TUN,,8020000,city,Tunisia,Northern + central Tunisia incl. Tunis Sfax Sousse Kairouan; 9.55M national
+459,ALG,,ALG,,12200000,city,Algiers,Coastal Tell: Oran-Algiers-Tizi Ouzou wilayas; 1998 census x1.045
+460,ALG,,ALG,,8150000,large_town,Constantine,Coastal/eastern Tell: Bejaia Setif Constantine Annaba Skikda Jijel Mila Guelma etc; 1998 census x1.045

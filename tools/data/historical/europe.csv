@@ -1,0 +1,132 @@
+state,tag,type,rationale
+5,GER,claim,"East Prussia, part of Germany until 1945 (1937 borders)"
+763,GER,claim,"East Prussia, part of Germany until 1945 (1937 borders)"
+63,GER,claim,"Farther Pomerania, part of Germany until 1945 (1937 borders)"
+68,GER,claim,"East Brandenburg (Neumark), part of Germany until 1945 (1937 borders)"
+66,GER,claim,"Silesia, part of Germany until 1945 (1937 borders)"
+67,GER,claim,"Silesia, part of Germany until 1945 (1937 borders)"
+85,GER,claim,"Danzig, German until 1920 and annexed 1939-45; German-majority Free City"
+188,GER,claim,"Memelland, German until 1920 and annexed 1939-45"
+28,GER,claim,"Alsace-Lorraine, the German Reichsland 1871-1918 and annexed 1940-44"
+70,HUN,claim,"Upper Hungary, lost at Trianon 1920; south regained 1938-45"
+83,HUN,claim,"Partium and Banat, Hungarian until the Treaty of Trianon 1920"
+82,HUN,claim,"Partium and Banat, Hungarian until the Treaty of Trianon 1920"
+84,HUN,claim,"Transylvania, Hungarian until the Treaty of Trianon 1920"
+45,HUN,claim,"Vojvodina (Bacska/Banat), Hungarian until Trianon, Bacska reoccupied 1941-44"
+764,HUN,claim,"Vojvodina (Bacska/Banat), Hungarian until Trianon, Bacska reoccupied 1941-44"
+975,HUN,claim,"Burgenland, western Hungary until ceded to Austria 1921"
+73,HUN,claim,"Carpathian Ruthenia, Hungarian until 1920 and again 1939-44"
+102,HUN,claim,"Prekmurje, Hungarian until Trianon 1920 and again 1941-45"
+784,POL,claim,"Wilno, Polish 1920-39; large Polish minority in the region"
+91,POL,claim,"Eastern Galicia (Lwow), Polish 1919-39"
+89,POL,claim,"Eastern Galicia (Lwow), Polish 1919-39"
+93,POL,claim,"Volhynia, Polish 1921-39 (Kresy)"
+95,POL,claim,"Kresy of western Belarus (Grodno, Polesie, Wilejka), Polish 1921-39"
+94,POL,claim,"Kresy of western Belarus (Grodno, Polesie, Wilejka), Polish 1921-39"
+96,POL,claim,"Kresy of western Belarus (Grodno, Polesie, Wilejka), Polish 1921-39"
+72,POL,claim,"Zaolzie, disputed Cieszyn Silesia held by Poland 1938-39"
+80,ROM,claim,"Northern Bukovina, Romanian 1918-40 and 1941-44"
+766,ROM,claim,"Southern Bessarabia (Budjak), Romanian 1918-40 and 1941-44"
+77,ROM,claim,"Southern Dobruja, Romanian 1913-40"
+106,BUL,claim,"Vardar Macedonia, Bulgarian-administered 1941-44; Bulgarian nationalists see Macedonians as Bulgarians"
+970,BUL,claim,"Vardar Macedonia, Bulgarian-administered 1941-44; Bulgarian nationalists see Macedonians as Bulgarians"
+184,BUL,claim,"Western Thrace, Bulgarian 1913-19 and 1941-44"
+731,BUL,claim,"Aegean Macedonia, part of San Stefano Bulgaria and partly occupied 1941-44"
+803,BUL,claim,"Western Outlands (Bosilegrad, Tsaribrod) and Pirot, Bulgarian until 1919 and 1941-44"
+731,MAC,claim,"Aegean Macedonia, claimed by the United Macedonia nationalist movement"
+212,MAC,claim,"Pirin Macedonia (Blagoevgrad), claimed by the United Macedonia nationalist movement"
+805,GRE,claim,"Northern Epirus, held by Greece 1912-14 and 1940-41; Greek minority"
+797,GRE,claim,"Constantinople and Eastern Thrace, Greek 1920-22 (Megali Idea)"
+341,GRE,claim,"Constantinople and Eastern Thrace, Greek 1920-22 (Megali Idea)"
+339,GRE,claim,"Smyrna, Greek-administered 1919-22 (Megali Idea)"
+183,TUR,claim,"Cyprus, Ottoman until 1878; Turkish Cypriot north occupied by Turkey since 1974"
+164,TUR,claim,"Dodecanese, Ottoman until 1912; Turkish nationalist claim"
+184,TUR,claim,"Western Thrace, Turkish minority; included in the Misak-i Milli"
+677,TUR,claim,"Aleppo region, inside the Misak-i Milli (National Pact) borders of 1920"
+852,ITA,claim,"Istria and Fiume, Italian 1920-47"
+736,ITA,claim,"Julian March (Gorizia hinterland), Italian 1920-47"
+163,ITA,claim,"Zara, Italian enclave 1920-47"
+103,ITA,claim,"Dalmatia, Italian Governorate of Dalmatia 1941-43 (Italia irredenta)"
+735,ITA,claim,"Nice and Savoy, ceded to France 1860 (Italia irredenta)"
+1,ITA,claim,"Corsica, occupied 1942-43 (Italia irredenta)"
+116,ITA,claim,"Malta, Italian-speaking elite and Italian irredentist claim until 1940s"
+185,ALB,claim,"Chameria (Thesprotia), Cham Albanian claim"
+803,ALB,claim,"Presevo Valley, Albanian-majority municipalities; UCPMB insurgency"
+146,FIN,claim,"Ceded Karelia and Viipuri, Finnish until 1940/1944 (ProKarelia)"
+147,FIN,claim,"Salla, Finnish until 1940/1944"
+722,FIN,claim,"Petsamo, Finnish 1920-44"
+209,EST,claim,"Petseri (Pechory), Estonian under the Treaty of Tartu 1920-45"
+209,LAT,claim,"Abrene (Pytalovo), Latvian 1920-44"
+763,LIT,claim,"Lithuania Minor, claimed by Lithuanian nationalists"
+104,SER,claim,"Republika Srpska areas, Greater Serbia claim during the Bosnian War"
+804,SER,claim,"Republika Srpska areas, Greater Serbia claim during the Bosnian War"
+104,CRO,claim,"Central Bosnian Croat areas, part of Herzeg-Bosnia 1991-94; Banovina of Croatia 1939"
+170,POR,claim,"Olivenza, Portuguese until 1801; Portugal does not recognise Spanish sovereignty"
+909,DEN,claim,"Southern Schleswig, Danish until 1864; Danish minority movement (SSW)"
+167,CAT,claim,"Paisos Catalans, Catalan-speaking lands claimed by Catalan nationalists"
+177,CAT,claim,"Paisos Catalans, Catalan-speaking lands claimed by Catalan nationalists"
+794,CAT,claim,"Paisos Catalans, Catalan-speaking lands claimed by Catalan nationalists"
+976,SLV,claim,"Southern Carinthia, Slovene minority; claimed by Yugoslavia 1919 and 1945-49"
+102,YUG,core,Part of Yugoslavia 1918-91
+736,YUG,core,Part of Yugoslavia 1918-91
+853,YUG,core,Part of Yugoslavia 1918-91
+852,YUG,core,Part of Yugoslavia 1918-91
+103,YUG,core,Part of Yugoslavia 1918-91
+109,YUG,core,Part of Yugoslavia 1918-91
+163,YUG,core,Part of Yugoslavia 1918-91
+104,YUG,core,Part of Yugoslavia 1918-91
+804,YUG,core,Part of Yugoslavia 1918-91
+45,YUG,core,Part of Yugoslavia 1918-91
+105,YUG,core,Part of Yugoslavia 1918-91
+107,YUG,core,Part of Yugoslavia 1918-91
+108,YUG,core,Part of Yugoslavia 1918-91
+764,YUG,core,Part of Yugoslavia 1918-91
+802,YUG,core,Part of Yugoslavia 1918-91
+803,YUG,core,Part of Yugoslavia 1918-91
+106,YUG,core,Part of Yugoslavia 1918-91
+970,YUG,core,Part of Yugoslavia 1918-91
+64,PRE,core,"Prussian heartland (Brandenburg, Pomerania, East Prussia)"
+62,PRE,core,"Prussian heartland (Brandenburg, Pomerania, East Prussia)"
+63,PRE,core,"Prussian heartland (Brandenburg, Pomerania, East Prussia)"
+68,PRE,core,"Prussian heartland (Brandenburg, Pomerania, East Prussia)"
+5,PRE,core,"Prussian heartland (Brandenburg, Pomerania, East Prussia)"
+763,PRE,core,"Prussian heartland (Brandenburg, Pomerania, East Prussia)"
+85,PRE,core,"West Prussia, Prussian province until 1920"
+807,PRE,core,"West Prussia, Prussian province until 1920"
+60,DDR,core,Part of the German Democratic Republic 1949-90
+61,DDR,core,Part of the German Democratic Republic 1949-90
+62,DDR,core,Part of the German Democratic Republic 1949-90
+64,DDR,core,Part of the German Democratic Republic 1949-90
+65,DDR,core,Part of the German Democratic Republic 1949-90
+66,SIL,core,Silesian homeland; Silesian autonomy movement (RAS)
+67,SIL,core,Silesian homeland; Silesian autonomy movement (RAS)
+762,SIL,core,Silesian homeland; Silesian autonomy movement (RAS)
+85,DNZ,core,Free City of Danzig 1920-39
+85,KSH,core,Kashubian homeland in Pomerania
+807,KSH,core,Kashubian homeland in Pomerania
+169,ADU,core,Andalusian homeland
+173,ADU,core,Andalusian homeland
+789,ADU,core,Andalusian homeland
+117,TTS,core,Mainland Kingdom of the Two Sicilies until 1861
+156,TTS,core,Mainland Kingdom of the Two Sicilies until 1861
+849,TTS,core,Mainland Kingdom of the Two Sicilies until 1861
+735,SPM,core,"Savoy and Nice, the House of Savoy homeland in the Kingdom of Sardinia until 1860"
+76,TRA,core,Transylvanian homeland (Principality of Transylvania)
+84,TRA,core,Transylvanian homeland (Principality of Transylvania)
+83,TRA,core,Transylvanian homeland (Principality of Transylvania)
+218,DON,core,"Don Cossack homeland, Don Republic 1918-20"
+234,KUB,core,"Kuban Cossack homeland, Kuban People's Republic 1918-20"
+233,KUB,core,"Kuban Cossack homeland, Kuban People's Republic 1918-20"
+290,RIF,core,Republic of the Rif 1921-26
+76,HUN,core,"Szekely Land and Partium, large concentrated Hungarian population"
+664,HUN,core,"Southern Slovakia, Hungarian-majority border strip"
+802,ALB,core,Albanian-majority population
+970,ALB,core,Albanian-majority population
+137,SOV,core,Russian-majority population
+813,SOV,core,Russian-majority population
+227,SOV,core,"Donbas, very large Russian and Russian-speaking population"
+228,SOV,core,"Donbas, very large Russian and Russian-speaking population"
+78,ROM,core,"Bessarabia, Romanian-speaking (Moldovan) majority"
+183,GRE,core,Greek Cypriots are about 77% of Cyprus; enosis movement
+39,AUS,core,"South Tyrol, German-speaking majority; Tyrolean until 1919"
+804,CRO,core,"Western Herzegovina, compact Croat-majority area"

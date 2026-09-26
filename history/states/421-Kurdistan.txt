@@ -1,0 +1,22 @@
+
+state={
+	id=421
+	name="STATE_421"
+	manpower = 2154823
+	
+	state_category = town
+
+	history={
+		owner = PER
+		add_core_of = PER
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	provinces={
+		829 5050 10774 
+	}
+
+	local_supplies=0.0 
+}

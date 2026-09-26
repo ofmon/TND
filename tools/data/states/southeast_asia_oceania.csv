@@ -1,0 +1,102 @@
+id,owner,controller,cores,claims,manpower,category,name,notes
+270,ENG,,ENG,,50,enclave,Pitcairn Islands,UK overseas territory; ~47 residents (2000)
+284,NZL,,NZL,,930000,city,Lower North Island,Wellington + Manawatu-Wanganui + Taranaki + Hawke's Bay regions (Stats NZ 2000)
+285,AST,,AST,,6800000,metropolis,New South Wales,NSW 6.49M + ACT 0.31M (ABS ERP 2000); Sydney metro ~4.0M
+286,VIN,,VIN,,12400000,large_town,South Central Coast and Highlands,"Da Nang to Binh Thuan (South Central Coast ~8.1M) + Central Highlands ~4.1M (1999 census, grown to Jan 2000)"
+289,SIA,,SIA,,5000000,town,Western Thailand,"Tak, Uthai Thani, Kanchanaburi, Suphan Buri, Ratchaburi, Phetchaburi, Prachuap, Samut Songkhram and western Nakhon Sawan (2000 census)"
+327,PHI,,PHI,,26770000,megalopolis,Metro Manila and Southern Tagalog,NCR 9.93M + CALABARZON 9.32M + Mindoro 1.06M + Bulacan/Pampanga/Nueva Ecija/Aurora 5.94M + Nueva Vizcaya/Quirino 0.52M (2000 census)
+333,MAL,,MAL,,1970000,town,Sarawak,"Sarawak (2.05M) minus Limbang division (2000 census, adj. to Jan)"
+334,INS,,INS,,3600000,town,West Kalimantan,Coastal West Kalimantan ~3.2M + Kotawaringin Barat (C. Kalimantan) 0.33M + Natuna 0.08M (2000 census)
+335,INS,,INS,,34850000,large_city,West Java and Banten,"West Java + Banten (43.8M) minus Jabodetabek/Karawang parts in 1058, plus Cilacap (2000 census); Bandung metro ~6M"
+336,MAL,,MAL,,6370000,metropolis,Klang Valley,"Selangor 4.19M + Kuala Lumpur 1.38M + Negeri Sembilan 0.86M (2000 census, adj. to Jan). Vanilla file name 'Singapore' is misleading"
+517,AST,,AST,,4770000,large_city,Victoria,Victoria (ABS ERP 2000); Melbourne ~3.4M
+518,AST,,AST,,470000,town,Tasmania,Tasmania (ABS ERP 2000)
+519,AST,,AST,,1490000,city,South Australia,South Australia excl. far north outback (ABS 2000); Adelaide ~1.1M
+520,AST,,AST,,155000,rural,Top End,Northern Territory excl. Alice Springs/Barkly (ABS 2000); Darwin ~0.1M
+521,AST,,AST,,3235000,large_city,Southeast Queensland,"Queensland excl. Far North, Gulf and outback (ABS 2000); Brisbane ~1.6M"
+522,AST,,AST,,1730000,city,Perth and South West,Perth + South West/Wheatbelt/Mid West WA (ABS 2000)
+523,PNG,,PNG,,1030000,rural,Papua Region,"Western, Gulf, Central, NCD, Oro, Milne Bay provinces (2000 census)"
+623,PHI,,PHI,,4180000,town,Northern Luzon,"Ilocos Norte/Sur, Cagayan, Isabela, Batanes + CAR excl. Benguet (2000 census)"
+624,PHI,,PHI,,5170000,town,Bicol,Bicol region 4.69M + Marinduque + Romblon (2000 census)
+625,PHI,,PHI,,3610000,town,Eastern Visayas,"Samar, Leyte, Biliran (2000 census)"
+626,PHI,,PHI,,760000,rural,Palawan,Palawan incl. Puerto Princesa (2000 census)
+627,PHI,,PHI,,7860000,large_town,Southern Mindanao,Davao region + SOCCSKSARGEN + Maguindanao/Cotabato City (2000 census); MILF insurgency active
+628,PHI,,PHI,,11920000,city,Western and Central Visayas,Western Visayas 6.21M + Central Visayas 5.71M (2000 census); Cebu metro ~1.7M
+632,USA,,USA,,100,tiny_island,Wake Island,US unincorporated territory; contractor/military personnel only
+633,MAR,,MAR,,51000,small_island,Marshall Islands,"Independent 1986 (Compact of Free Association); 1999 census 50,840"
+634,SOL,,SOL,,389000,small_island,Solomon Islands,1999 census 409k minus Temotu (state 734). Guadalcanal ethnic tension ongoing (coup June 2000)
+635,FRA,,FRA,,212000,small_island,New Caledonia,French territory (Noumea Accord 1998); 1996 census 197k
+636,FIJ,,FIJ,,800000,small_island,Fiji,1996 census 775k grown to 2000. Tonga has no tag and no separate state here
+638,USA,,USA GUM,,154000,small_island,Guam,"US territory; 2000 census 154,805. GUM = Mariana Islands tag"
+639,KIR,,KIR,,78000,small_island,Gilbert Islands,Kiribati 2000 census 84.5k; Gilberts incl. Tarawa (Line Islands not in this region)
+641,FRA,,FRA,,233000,small_island,French Polynesia,"French overseas territory; 1996 census 219.5k, 2002 245.5k"
+642,KIR,,KIR,,60,tiny_island,Phoenix Islands,Kiribati; Kanton only inhabited atoll
+643,TUV,,TUV,,9500,small_island,Tuvalu,"Independent 1978; ~9.4k (2002 census 9.6k). REVIEW: 4 provinces, some may be Wallis & Futuna (FRA) or Tokelau (NZL) - Pacific province coords unreliable"
+646,USA,,USA GUM,,69000,small_island,Northern Mariana Islands,"US commonwealth (not Guam); 2000 census 69,221. Vanilla owner GUM replaced by USA"
+647,PAU,,PAU,,19000,small_island,Palau,"Independent 1994; 2000 census 19,129"
+648,JAP,,JAP,,40,tiny_island,Minami-Torishima,Japanese weather/JMSDF station staff only
+667,INS,,INS,,4570000,large_town,West Nusa Tenggara and Sumba,"NTB 4.01M (Lombok, Sumbawa) + Sumba 0.56M (2000 census)"
+668,INS,,INS,,1790000,rural,Maluku,Maluku + North Maluku (~1.99M) minus Aru/Tanimbar (2000 census). Ambon sectarian conflict ongoing
+669,INS,,INS,,1500000,rural,Northern Papua,"Irian Jaya north coast, Bird's Head, Jayapura, Biak, Nabire, part of highlands (2000 census Papua 2.22M). OPM separatism, no West Papua tag"
+672,INS,,INS,,15210000,large_town,South Sumatra,South Sumatra 6.90M + Lampung 6.74M + Bengkulu 1.57M (2000 census)
+673,INS,,INS,,9430000,large_town,South Sulawesi,South Sulawesi (excl. Luwu Utara) + Southeast Sulawesi (2000 census); Makassar ~1.1M
+674,AST,,AST,,50000,pastoral,Central Australia,Alice Springs + Barkly (NT) + SA far north (ABS 2000)
+684,FSM,,FSM,,107000,small_island,Caroline Islands,"Federated States of Micronesia, independent 1986; 2000 census 107,021"
+711,AST,,AST,,1500,tiny_island,Christmas Island,Australian external territory
+712,AST,,AST,,620,tiny_island,Cocos (Keeling) Islands,Australian external territory
+721,TIM,,TIM,,800000,rural,East Timor,Under UNTAET transitional administration since Oct 1999 (independence 2002); owner TIM per README. Incl. Oecusse enclave. ~0.8M after 1999 displacement
+723,NZL,,NZL,,510000,large_town,Canterbury and West Coast,Canterbury + West Coast (Stats NZ 2000); Christchurch ~0.33M
+724,SIA,,SIA,,8200000,large_town,Southern Thailand,14 southern provinces (2000 census ~8.1M)
+725,NAU,,NAU,,10000,tiny_island,Nauru,Independent 1968; ~10k
+726,SAM,,SAM,,174000,small_island,Samoa,Independent Samoa; 2001 census 176.7k
+734,SOL,,SOL,,21000,tiny_island,Temotu,Solomon Islands Temotu province (1999 census 21.4k)
+737,PNG,,PNG,,560000,rural,Islands Region,"East/West New Britain, New Ireland, Manus (2000 census)"
+738,INS,,INS,,200000,small_island,Aru and Tanimbar,"Aru, Kei/Tanimbar area of Southeast Maluku (2000 census estimate)"
+741,CAM,,CAM,,10300000,town,Cambodia,Cambodia excl. Battambang/Banteay Meanchey/Oddar Meanchey/Preah Vihear/Pailin (1998 census 11.44M grown to ~12.0M)
+868,SIA,,SIA,,21300000,large_town,Isan,"Northeast region 19 provinces (2000 census 20.8M, adj. est.)"
+870,AST,,AST,,80000,pastoral,Kimberley and Pilbara,Kimberley + Pilbara WA (ABS 2000)
+871,AST,,AST,,70000,pastoral,Goldfields-Esperance,Goldfields-Esperance WA (ABS 2000)
+872,AST,,AST,,230000,rural,Far North Queensland,"Cairns, Cape York, Gulf (ABS 2000)"
+873,AST,,AST,,60000,pastoral,South West Queensland,Maranoa/Warrego outback QLD (ABS 2000)
+979,PNG,,PNG,,1440000,rural,Momase,"Morobe, Madang, East Sepik, Sandaun (2000 census)"
+1021,SIN,,SIN,,3950000,metropolis,Singapore,Independent 1965; 4.03M (June 2000 total pop). Vanilla owner ENG / cores MAL SNG replaced
+1022,INS,,INS,,1620000,rural,Interior Borneo,"Interior West/Central/East Kalimantan: Sintang, Kapuas Hulu, Barito, Gunung Mas, Kutai Barat, Malinau (2000 census est.)"
+1023,MAL,,MAL,,330000,rural,Brunei,REVIEW: Brunei independent since 1984 but has NO TAG; MAL placeholder owner. BRN core dropped (undefined). Pop ~333k (2000)
+1024,MAL,,MAL,PHI,2650000,town,Sabah,"Sabah 2.60M + Labuan 0.08M (2000 census, adj.). Philippine claim to Sabah still formally maintained; SAB core dropped (undefined)"
+1025,PHI,,PHI,,4100000,town,Zamboanga and Sulu,Zamboanga Peninsula 2.83M + Basilan/Sulu/Tawi-Tawi 1.27M (2000 census); Abu Sayyaf active
+1026,PHI,,PHI,,5520000,town,Northern Mindanao and Caraga,Region X + Caraga + Lanao del Sur (2000 census)
+1027,PHI,,PHI,,5930000,large_town,Central and Northwest Luzon,"Pangasinan, Tarlac, Zambales, Bataan, La Union, Benguet/Baguio (2000 census)"
+1047,INS,,INS,,900000,town,Bangka-Belitung,Bangka-Belitung (2000 census)
+1048,INS,,INS,,9550000,town,West Sumatra and Tapanuli,West Sumatra 4.25M + Tapanuli/Nias (N. Sumatra) 3.05M + Pekanbaru/Kampar/Kuansing/Inhu (Riau) 1.95M + Kerinci 0.3M (2000 census)
+1049,INS,,INS,,13630000,city,"North Sumatra, Riau and Jambi",East N. Sumatra incl. Medan 8.6M + coastal Riau & Riau Islands 2.92M + Jambi excl. Kerinci 2.11M (2000 census); SSI core dropped (undefined)
+1050,INS,,INS,,3930000,town,Aceh,Aceh (2000 census estimate). GAM insurgency active; ATJ core dropped (tag undefined)
+1051,INS,,INS,,67440000,large_city,Central and East Java,Central Java excl. Cilacap 29.54M + Yogyakarta 3.12M + East Java incl. Madura 34.78M (2000 census)
+1052,INS,,INS,,3150000,large_town,Bali,Bali (2000 census); BLI core dropped (undefined)
+1053,INS,,INS,,1840000,rural,Flores and Alor,"Flores, Alor, Lembata, Rote, Sabu (NTT excl. Sumba & West Timor) (2000 census)"
+1054,INS,,INS,,1550000,rural,West Timor,"Kupang, TTS, TTU, Belu (2000 census, incl. East Timorese refugees); TML core dropped (undefined)"
+1055,INS,,INS,,6200000,large_town,South and East Kalimantan,South Kalimantan 2.99M + coastal East Kalimantan 2.21M + eastern Central Kalimantan 1.0M (2000 census)
+1056,INS,,INS,,5520000,town,North and Central Sulawesi,North Sulawesi 2.01M + Gorontalo 0.84M + Central Sulawesi 2.22M + Luwu Utara 0.45M (2000 census); Poso conflict
+1057,INS,,INS,,720000,rural,Southern Papua,"Merauke, Boven Digoel, Mappi, Asmat, Mimika, part of highlands (2000 census). PNG/WPG cores dropped (no live PNG claim; WPG undefined)"
+1058,INS,,INS,,19060000,megalopolis,Jakarta,"DKI Jakarta 8.39M + Bogor, Depok, Bekasi, Karawang (2000 census)"
+1059,MAL,,MAL,,82000,rural,Limbang,Limbang division of Sarawak incl. Lawas (2000 census). Brunei claim (no tag) not representable
+1060,MAL,,MAL,,3350000,large_town,Johor and Melaka,"Johor 2.74M + Melaka 0.64M (2000 census, adj.)"
+1061,MAL,,MAL,,1830000,large_town,Kedah and Perlis,"Kedah 1.65M + Perlis 0.20M (2000 census, adj.)"
+1062,MAL,,MAL,,2190000,town,Kelantan and Terengganu,"Kelantan 1.31M + Terengganu 0.90M (2000 census, adj.)"
+1063,MAL,,MAL,,1280000,town,Pahang,"Pahang (2000 census, adj.)"
+1064,MAL,,MAL,,2030000,large_town,Perak,"Perak (2000 census, adj.)"
+1065,MAL,,MAL,,1300000,city,Penang,"Penang (2000 census, adj.); vanilla owner ENG replaced"
+1066,VIN,,VIN,,26900000,metropolis,Southern Vietnam,"Southeast region incl. Ho Chi Minh City (~10.2M) + Mekong Delta (~16.1M) (1999 census, grown to Jan 2000)"
+1067,CAM,,CAM,,1700000,town,Northwest Cambodia,"Battambang, Banteay Meanchey, Oddar Meanchey, Preah Vihear, Pailin (1998 census grown)"
+1068,LAO,,LAO,,1000000,rural,Southern Laos,"Champasak, Salavan, Sekong, Attapeu (2000 est.); CPS core dropped (undefined)"
+1070,PNG,,PNG,,175000,small_island,Bougainville,"PNG since 1975; 2000 census 175k. Peace process after civil war (Burnham/Lincoln truce, no active war). BOU core dropped (undefined); SOL core dropped"
+1071,VAN,,VAN,,188000,small_island,Vanuatu,"Independent 1980; 1999 census 186,678"
+1072,USA,,USA,,57000,tiny_island,American Samoa,"US territory; 2000 census 57,291. SAM core removed (not claimed by Samoa)"
+1073,PNG,,PNG,,1980000,town,Highlands Region,"Southern, Western, Eastern Highlands, Enga, Simbu (2000 census)"
+1074,AST,,AST,,3000,wasteland,Gibson Desert,Remote WA desert communities
+1075,AST,,AST,,40000,pastoral,North West Queensland,Mount Isa / north-west outback QLD (ABS 2000)
+1076,SIA,,SIA,,9900000,metropolis,Bangkok,"Bangkok + Nonthaburi, Pathum Thani, Samut Prakan, Samut Sakhon, Nakhon Pathom (2000 census, adj.)"
+1077,SIA,,SIA,,7600000,town,Central Plains and Lower North,"Ayutthaya, Ang Thong, Lopburi, Sing Buri, Chai Nat, Saraburi + Phitsanulok, Phetchabun, Phichit, Sukhothai, Uttaradit, Kamphaeng Phet, Nakhon Sawan (2000 census)"
+1078,SIA,,SIA,,4050000,city,Eastern Thailand,"Chon Buri, Rayong, Chachoengsao, Chanthaburi, Trat, Prachinburi, Sa Kaeo, Nakhon Nayok (2000 census); Eastern Seaboard industry"
+1079,NZL,,NZL,,2020000,city,Upper North Island,"Northland, Auckland, Waikato, Bay of Plenty, Gisborne (Stats NZ 2000)"
+1080,NZL,,NZL,,126000,rural,Nelson and Marlborough,"Tasman, Nelson, Marlborough (Stats NZ 2000)"
+1081,NZL,,NZL,,282000,town,Otago and Southland,Otago + Southland (Stats NZ 2000)

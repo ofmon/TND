@@ -1,0 +1,38 @@
+state = {
+	id = 1039
+	name = "STATE_1039" # South Chahar
+	manpower = 3633700
+	
+	state_category = town
+
+	history = {
+		owner = PRC
+		add_core_of = PRC
+		add_core_of = MEN
+		add_core_of = CHI
+		add_claim_by = TAW
+
+		buildings = {
+			infrastructure = 1 #was 2
+			1590 = {
+				landmark_great_wall_section = {
+				    level = 1
+				    allowed = {
+				        has_dlc = "No Compromise, No Surrender"
+				    }
+				}
+			}
+		}
+		
+		victory_points = {
+			6904 3 # Kalgan #was 4
+		}
+
+	}
+
+	provinces = {
+		1137 1590 6904 9776
+	}
+
+	local_supplies = 0.0 
+}

@@ -1,0 +1,28 @@
+state = {
+	id = 1014
+	name = "STATE_1014"
+	manpower = 630000
+	state_category = city
+
+	history = {
+		owner = SAU
+		add_claim_by = PER
+
+		victory_points = {
+			13313 2 # Manama
+		}
+
+		buildings = {
+			infrastructure = 1
+			13313 = {
+				naval_base = 2
+			}
+		}
+	}
+
+	provinces = {
+		13313
+	}
+
+	local_supplies = 0.0 
+}
