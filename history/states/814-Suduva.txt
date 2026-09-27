@@ -1,0 +1,26 @@
+
+state={
+	id=814
+	name="STATE_814"
+
+	history={
+		owner = LIT
+		add_core_of = LIT
+		victory_points = {
+			11312 1 #Marijampole
+		}
+		buildings = {
+			infrastructure = 3
+			air_base = 4
+
+		}
+
+	}
+
+	provinces={
+		6407 11312
+	}
+	manpower = 182268
+	buildings_max_level_factor=1.000
+	state_category = town
+}

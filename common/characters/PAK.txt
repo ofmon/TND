@@ -24,7 +24,7 @@ characters={
 			}
 		}
 		country_leader={
-			ideology= conservatism 
+			ideology= junta 
 			expire="2023.2.5.1"
 			id=-1
 		}

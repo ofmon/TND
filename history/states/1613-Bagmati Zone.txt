@@ -1,0 +1,23 @@
+state = {
+	id = 1613
+	name = "STATE_1613" # Bagmati Zone
+	manpower = 6276095
+	state_category = large_city
+	local_supplies = 0.0
+
+	history = {
+		owner = NEP
+		add_core_of = NEP
+		buildings = {
+			industrial_complex = 1
+			infrastructure = 2
+		}
+		victory_points = {
+			4987 3 
+		}
+	}
+
+	provinces = {
+		4987
+	}
+}

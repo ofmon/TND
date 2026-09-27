@@ -1,0 +1,22 @@
+state = {
+	id = 1712
+	name = "STATE_1712" # Midlands
+	manpower = 175926
+	state_category = rural
+	local_supplies = 0.0
+
+	history = {
+		owner = IRE
+		add_core_of = IRE
+		buildings = {
+			infrastructure = 4
+		}
+		victory_points = {
+			303 1 #Tullamore
+		}
+	}
+
+	provinces = {
+		303 369 11287
+	}
+}

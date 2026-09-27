@@ -1,0 +1,21 @@
+state = {
+	id = 1097
+	name = "STATE_1097" # Republika Srpska
+	manpower = 1131585
+	state_category = town
+
+	history = {
+		owner = BOS
+		add_core_of = BOS
+		buildings = {
+			infrastructure = 3
+		}
+		victory_points = {
+			6983 3
+		}
+	}
+
+	provinces = {
+		606 953 6619 6983 9588 9591 11741 11845
+	}
+}

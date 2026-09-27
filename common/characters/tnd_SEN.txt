@@ -1,0 +1,49 @@
+characters = {
+	SEN_abdoulaye_wade = {
+		name = SEN_abdoulaye_wade
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_SEN_abdoulaye_wade
+			}
+		}
+		country_leader = {
+			ideology = liberalism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	SEN_amath_dansokho = {
+		name = SEN_amath_dansokho
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_SEN_amath_dansokho
+			}
+		}
+		country_leader = {
+			ideology = marxism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	SEN_augustin_diamacoune_senghor = {
+		name = SEN_augustin_diamacoune_senghor
+		country_leader = {
+			ideology = fascism_ideology
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	SEN_abdou_diouf = {
+		name = SEN_abdou_diouf
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_SEN_abdou_diouf
+			}
+		}
+		country_leader = {
+			ideology = oligarchism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

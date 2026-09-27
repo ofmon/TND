@@ -1,0 +1,20 @@
+state = {
+	id = 1661
+	name = "STATE_1661" # Western Visayas (Region VI)
+	manpower = 5576780
+	state_category = large_city
+	local_supplies = 6.0
+
+	history = {
+		owner = PHI
+		add_core_of = PHI
+		buildings = {
+			industrial_complex = 1
+			infrastructure = 3
+		}
+	}
+
+	provinces = {
+		1261 1368 7423 10302
+	}
+}

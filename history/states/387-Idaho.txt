@@ -2,9 +2,9 @@
 state={
 	id=387
 	name="STATE_387"
-	manpower = 1939033
+	manpower = 1293953
 	
-	state_category = rural
+	state_category = town
 	
 	resources={
 		steel=18 # was: 32
@@ -14,10 +14,11 @@ state={
 
 	history={
 		owner = USA
-		buildings = {
-			infrastructure = 2
-		}
 		add_core_of = USA
+		buildings = {
+			industrial_complex = 1
+			infrastructure = 4
+		}
 		victory_points = {
 			9616 1
 		}
@@ -26,7 +27,6 @@ state={
 	provinces={
 		1789 1832 3781 4778 7845 9616 9695 10556 10602 10672 12124 12535 12607 
 	}
-	
 
 	local_supplies=7.0 
 }

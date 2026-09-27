@@ -1,0 +1,41 @@
+characters = {
+	PER_mohammad_khatami = {
+		name = PER_mohammad_khatami
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_PER_mohammad_khatami
+			}
+		}
+		country_leader = {
+			ideology = liberalism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	PER_ali_khavari = {
+		name = PER_ali_khavari
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_PER_ali_khavari
+			}
+		}
+		country_leader = {
+			ideology = marxism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	PER_mohammad_taqi_mesbah_yazdi = {
+		name = PER_mohammad_taqi_mesbah_yazdi
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_PER_mohammad_taqi_mesbah_yazdi
+			}
+		}
+		country_leader = {
+			ideology = fascism_ideology
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

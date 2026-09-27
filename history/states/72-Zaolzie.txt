@@ -1,22 +1,18 @@
 state={
 	id=72
 	name="STATE_72"
-	manpower = 580843
+	manpower = 391000
 	
-	state_category = rural
+	state_category = large_town
 	
 	history={
 		owner = CZE
-		buildings = {
-			infrastructure = 3
-			industrial_complex = 1
-		}
 		add_core_of = CZE
-
-		1939.3.14 = {
-			owner = POL
-			controller = POL
+		add_claim_by = POL
+		buildings = {
+			infrastructure = 4
 		}
+
 	}
 
 	provinces={

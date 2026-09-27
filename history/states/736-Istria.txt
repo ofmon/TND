@@ -1,32 +1,26 @@
-state={
-	id=736
-	name="STATE_736"
+state = {
+	id = 736
+	name = "STATE_736" #Name was Istria before the Pola (Istria) split and merge with Fiume
 	
-	state_category = city
+	state_category = rural
 
-	history={
-		victory_points = {
-			6626 1 
-		}
+	history = {
 		owner = SLV
-		add_core_of = ITA
-		add_core_of = YUG
 		add_core_of = SLV
-		add_core_of = CRO
+		add_core_of = YUG
+		add_claim_by = ITA
 		buildings = {
-			infrastructure = 2
-			6626 = {
-				naval_base = 5
-
-			}
+			infrastructure = 3
 
 		}
 
 	}
 
-	provinces={
-		599 6626 11595 11735 
+	provinces = {
+		11595
 	}
-	manpower=1063159
-	buildings_max_level_factor=1.000
+	manpower = 190671
+	buildings_max_level_factor = 1.000
+
+	local_supplies = 0.0 
 }

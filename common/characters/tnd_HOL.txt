@@ -1,0 +1,41 @@
+characters = {
+	HOL_jan_marijnissen = {
+		name = HOL_jan_marijnissen
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_HOL_jan_marijnissen
+			}
+		}
+		country_leader = {
+			ideology = marxism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	HOL_hans_janmaat = {
+		name = HOL_hans_janmaat
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_HOL_hans_janmaat
+			}
+		}
+		country_leader = {
+			ideology = fascism_ideology
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	HOL_beatrix = {
+		name = HOL_beatrix
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_HOL_beatrix
+			}
+		}
+		country_leader = {
+			ideology = moderatism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

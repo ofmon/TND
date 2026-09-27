@@ -1,0 +1,19 @@
+state = {
+	id = 1124
+	name = "STATE_1124" # Tartus
+	manpower = 629958
+	state_category = city
+	buildings_max_level_factor = 1.000
+
+	history = {
+		owner = SYR
+		add_core_of = SYR
+		buildings = {
+			infrastructure = 4
+		}
+	}
+
+	provinces = {
+		10087
+	}
+}

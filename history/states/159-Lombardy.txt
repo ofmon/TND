@@ -1,0 +1,36 @@
+
+state = {
+	id = 159
+	name = "STATE_159"
+	manpower = 8598064
+	state_category = megalopolis
+
+	history = {
+		owner = ITA
+		add_core_of = ITA
+		add_core_of = LBV
+		victory_points = { #Milano
+			3780 15 
+		}
+		victory_points = { #Brescia
+			773 3
+		}
+		buildings = {
+			arms_factory = 1
+			industrial_complex = 12
+			infrastructure = 5 #was: 8
+			air_base = 10
+
+		}
+		1939.1.1 = {
+			buildings = {
+			}
+		}
+	}
+
+	provinces = {
+		607 773 969 3776 3780 6661 9584 11568 11587 11726
+	}
+
+	local_supplies = 0.0 
+}

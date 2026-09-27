@@ -1,0 +1,23 @@
+state = {
+	id = 1130
+	name = "STATE_1130" # Fukushima Prefecture
+	manpower = 2018844
+	state_category = large_city
+	local_supplies = 0.0
+
+	history = {
+		owner = JAP
+		add_core_of = JAP
+		buildings = {
+			industrial_complex = 1
+			infrastructure = 5
+		}
+		victory_points = {
+			4118 2 # Fukushima
+		}
+	}
+
+	provinces = {
+		1113 4118 4122 7016
+	}
+}

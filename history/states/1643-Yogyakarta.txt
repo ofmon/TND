@@ -1,0 +1,24 @@
+state = {
+	id = 1643
+	name = "STATE_1643" # Yogyakarta
+	manpower = 3341431
+	state_category = large_city
+	local_supplies = 0.0
+
+	history = {
+		owner = INS
+		add_core_of = INS
+		buildings = {
+			industrial_complex = 1
+			infrastructure = 3
+			13406 = { naval_base = 1 }
+		}
+		victory_points = {
+			13406 10 #Yogyakarta
+		}
+	}
+
+	provinces = {
+		10135 13406
+	}
+}

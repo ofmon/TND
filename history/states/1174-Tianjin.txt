@@ -1,0 +1,23 @@
+state = {
+	id = 1174
+	name = "STATE_1174" # Tianjin
+	manpower = 12359853
+	state_category = megalopolis
+
+	history = {
+		owner = PRC
+		add_core_of = PRC
+		buildings = {
+			industrial_complex = 3
+			infrastructure = 3
+			10068 = { naval_base = 2 }
+		}
+		victory_points = {
+			10068 1 
+		}
+	}
+
+	provinces = {
+		4137 10068 12043
+	}
+}

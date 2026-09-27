@@ -1,0 +1,41 @@
+characters = {
+	ROM_ilie_verdet = {
+		name = ROM_ilie_verdet
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_ROM_ilie_verdet
+			}
+		}
+		country_leader = {
+			ideology = Marxist-Leninist
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	ROM_corneliu_vadim_tudor = {
+		name = ROM_corneliu_vadim_tudor
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_ROM_corneliu_vadim_tudor
+			}
+		}
+		country_leader = {
+			ideology = fascism_ideology
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	ROM_michael_i = {
+		name = ROM_michael_i
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_ROM_michael_i
+			}
+		}
+		country_leader = {
+			ideology = moderatism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

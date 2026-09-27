@@ -1,25 +1,29 @@
-state={
-	id=726
-	name="STATE_726"
-	manpower=123214
+state = {
+	id = 726
+	name = "STATE_726"
+	manpower = 174000
 	state_category = small_island
 
-	history={
+	history = {
 		owner = SAM
 		add_core_of = SAM
+
 		buildings = {
-			infrastructure = 2
+			infrastructure = 3
 			7290 = {
 				naval_base = 1
 			}
 		}
+
 		victory_points = {
-			7290 1
+			13412 1 # Safotulafai  
 		}
-	}
-	provinces={
-		7290 13080 
+		victory_points = { 7290 1 }
 	}
 
-	local_supplies=0.0 
+	provinces = {
+		7290 13412 
+	}
+
+	local_supplies = 0.0 
 }

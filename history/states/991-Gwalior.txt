@@ -1,0 +1,19 @@
+state={
+	id=991
+	name="STATE_991"
+	provinces={
+		1949 10807
+	}
+	state_category = large_city
+	manpower = 7532578
+	history={
+		owner = RAJ
+		add_core_of = RAJ
+		buildings = {
+			industrial_complex = 1
+			infrastructure = 3
+		}
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

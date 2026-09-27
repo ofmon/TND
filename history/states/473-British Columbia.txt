@@ -2,26 +2,25 @@
 state={
 	id=473
 	name="STATE_473"
-	manpower = 4536154
+	manpower = 3042991
 	resources={
 		oil=1 # was: 2
 	}
 	
-	state_category = town
+	state_category = large_city
 
 	history={
 		owner = CAN
+		add_core_of = CAN
 		buildings = {
-			infrastructure = 3 #was: 5
-			arms_factory = 1
-			industrial_complex = 1
+			infrastructure = 5 #was: 5
+			industrial_complex = 4
 			dockyard = 1
 			air_base = 3
 			1408 = {
 				naval_base = 5
 			}
 		}
-		add_core_of = CAN
 		victory_points = {
 			1408 15 
 		}

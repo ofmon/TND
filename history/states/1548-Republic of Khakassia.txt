@@ -1,0 +1,23 @@
+state = {
+	id = 1548
+	name = "STATE_1548" # Republic of Khakassia
+	manpower = 612319
+	state_category = city
+	local_supplies = 0.0
+
+	history = {
+		owner = SOV
+		add_core_of = SOV
+		add_core_of = KHA
+		buildings = {
+			infrastructure = 4
+		}
+		victory_points = {
+			10580 2
+		}
+	}
+
+	provinces = {
+		1816 4711 10580 10649
+	}
+}

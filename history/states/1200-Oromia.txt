@@ -1,0 +1,24 @@
+state = {
+	id = 1200
+	name = "STATE_1200" # Oromia
+	manpower = 1649330
+	state_category = town
+	local_supplies = 0.0
+
+	history = {
+		owner = ETH
+		add_core_of = ETH
+		add_core_of = SID
+		add_core_of = ORO
+		buildings = {
+			infrastructure = 2
+		}
+		victory_points = { 
+			13247 1 
+		}
+	}
+
+	provinces = {
+		13247
+	}
+}

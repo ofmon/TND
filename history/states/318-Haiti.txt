@@ -2,9 +2,9 @@ state=
 {
 	id=318
 	name="STATE_318"
-	manpower = 11450000
+	manpower = 4690600
 	
-	state_category = town
+	state_category = large_city
 	
 	resources={
 		chromium=2 # was: 3
@@ -12,23 +12,22 @@ state=
 	history=
 	{
 		owner = HAI
+		add_core_of = HAI
 		buildings = {
 			infrastructure = 2
-			arms_factory = 1
-			industrial_complex = 2 
+			industrial_complex = 1 
 			air_base = 1
 			4641 = {
 				naval_base = 3
 			}
 		}
-		add_core_of = HAI
 		victory_points = {
 			4641 5 
 		}
 
 	}
 	provinces={
-		1594 1635 4641
+		4641
 	}
 
 	local_supplies=0.0 

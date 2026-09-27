@@ -1,0 +1,39 @@
+characters = {
+	ESW_mario_masuku = {
+		name = ESW_mario_masuku
+		country_leader = {
+			ideology = socialism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	ESW_jan_sithole = {
+		name = ESW_jan_sithole
+		country_leader = {
+			ideology = marxism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	ESW_sibusiso_dlamini = {
+		name = ESW_sibusiso_dlamini
+		country_leader = {
+			ideology = emperor_fascism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	ESW_mswati_iii = {
+		name = ESW_mswati_iii
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_ESW_mswati_iii
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

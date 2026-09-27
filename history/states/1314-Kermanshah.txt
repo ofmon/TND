@@ -1,0 +1,23 @@
+state = {
+	id = 1314
+	name = "STATE_1314" # Kermanshah
+	manpower = 1609915
+	state_category = city
+	local_supplies = 0.0
+
+	history = {
+		owner = PER
+		add_core_of = PER
+		add_core_of = KUR
+		buildings = {
+			infrastructure = 4
+		}
+		victory_points = {
+			5098 3
+		}
+	}
+
+	provinces = {
+		5098
+	}
+}

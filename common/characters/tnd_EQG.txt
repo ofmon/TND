@@ -1,0 +1,44 @@
+characters = {
+	EQG_placido_mico_abogo = {
+		name = EQG_placido_mico_abogo
+		country_leader = {
+			ideology = socialism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	EQG_celestino_bonifacio_bacale = {
+		name = EQG_celestino_bonifacio_bacale
+		country_leader = {
+			ideology = marxism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	EQG_severo_moto = {
+		name = EQG_severo_moto
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_EQG_severo_moto
+			}
+		}
+		country_leader = {
+			ideology = junta
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	EQG_teodoro_obiang = {
+		name = EQG_teodoro_obiang
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_EQG_teodoro_obiang
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

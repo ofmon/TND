@@ -7,14 +7,15 @@ state={
 	history={
 		owner = CHA
 		add_core_of = CHA
+		add_claim_by = LBA
 		buildings = {
-			infrastructure = 0
+			infrastructure = 1
 		}
 	}
 
 	provinces={
 		4902 5136 10893
 	}
-	manpower=575835
+	manpower = 120000
 	buildings_max_level_factor=1.000
 }

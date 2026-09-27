@@ -1,0 +1,18 @@
+state = {
+	id = 1491
+	name = "STATE_1491" # Hauts-Bassins
+	manpower = 1970677
+	state_category = city
+
+	history = {
+		owner = VOL
+		add_core_of = VOL
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces = {
+		12851
+	}
+}

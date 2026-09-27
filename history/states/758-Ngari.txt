@@ -4,15 +4,18 @@ state={
 	provinces={
 		1961 5094 8029 10802 12784 12801 
 	}
-	manpower=1000000
+	manpower = 78000
 	buildings_max_level_factor=1.000
 	state_category = pastoral
 	history={
 		owner = PRC
+		add_core_of = PRC
+		add_core_of = TIB
+		add_core_of = CHI
+		add_claim_by = TAW
 		buildings = {
 			infrastructure = 1
 		}
-		add_core_of = TIB
 
 	}
 }

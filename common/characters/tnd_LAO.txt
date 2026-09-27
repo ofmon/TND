@@ -1,0 +1,26 @@
+characters = {
+	LAO_thongpaseuth_keuakoun = {
+		name = LAO_thongpaseuth_keuakoun
+		country_leader = {
+			ideology = liberalism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	LAO_vang_pao = {
+		name = LAO_vang_pao
+		country_leader = {
+			ideology = junta
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	LAO_soulivong_savang = {
+		name = LAO_soulivong_savang
+		country_leader = {
+			ideology = moderatism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

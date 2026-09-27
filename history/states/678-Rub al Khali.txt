@@ -1,0 +1,22 @@
+state={
+	id=678
+	name="STATE_678"
+
+	history={
+		owner = SAU
+		add_core_of = SAU
+		buildings = {
+			infrastructure = 3
+
+		}
+
+	}
+
+	provinces={
+		4932 5024 5081 8118 12740 12768
+	}
+	manpower = 173535
+	buildings_max_level_factor=1.000
+	state_category = wasteland
+	local_supplies=0.000
+}

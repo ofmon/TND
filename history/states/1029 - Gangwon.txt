@@ -1,0 +1,33 @@
+state = {
+
+	id = 1029
+	name = "STATE_1029"
+	manpower = 1730764
+	
+	state_category = town
+
+	resources = {
+		tungsten = 10 #This number is made up and needs further research into. These resources should also be moved to correspond to the current Sangdong province in S Korea when split up
+	}
+
+	history = {
+		owner = KOR
+		add_core_of = KOR
+		add_claim_by = NRK
+
+		buildings = {
+			infrastructure = 4
+		}
+
+		victory_points = {
+			1148 1 # Shunsen
+		}
+
+	}
+
+	provinces = {
+		1148 7021 11958 12011
+	}
+
+	local_supplies = 0.0 
+}

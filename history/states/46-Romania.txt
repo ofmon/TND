@@ -1,0 +1,33 @@
+state = {
+	id = 46
+	name = "STATE_46" # Muntenia
+	manpower = 2519681
+	resources = {
+		oil = 44 # was: 70
+	}
+
+	state_category = large_city
+
+	history = {
+		owner = ROM
+		add_core_of = ROM
+
+		victory_points = { 
+			9617 20 
+		}
+
+		buildings = {
+			infrastructure = 4
+			arms_factory = 1
+			industrial_complex = 2
+			air_base = 3
+		}
+		
+	}
+
+	provinces = {
+		9617
+	}
+
+	local_supplies = 0.0 
+}

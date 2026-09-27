@@ -1,0 +1,22 @@
+state = {
+	id = 1647
+	name = "STATE_1647" # Terengganu
+	manpower = 856907
+	state_category = city
+	local_supplies = 0.0
+
+	history = {
+		owner = MAL
+		add_core_of = MAL
+		buildings = {
+			infrastructure = 4
+		}
+		victory_points = {
+			12199 1 # Kuala Terengganu 
+		}
+	}
+
+	provinces = {
+		1348 4355 12199
+	}
+}

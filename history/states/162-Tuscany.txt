@@ -1,0 +1,42 @@
+
+state = {
+	id = 162
+	name = "STATE_162"
+	manpower = 3519844
+	
+	state_category = large_city
+
+	history = {
+		owner = ITA
+		add_core_of = ITA
+		add_core_of = TOS
+		victory_points = {
+			9907 3 
+		}
+		victory_points = {
+			11833 1 
+		}
+		victory_points = {
+			6946 1 
+		}
+		buildings = {
+			dockyard = 2
+			industrial_complex = 3
+			infrastructure = 5 #was: 8
+			air_base = 2
+			11833 = {
+				naval_base = 4
+			}
+		}
+		1939.1.1 = {
+			buildings = {
+			}
+		}
+	}
+
+	provinces = {
+		910 1616 6862 6875 6946 9750 9879 9907 11833 11889
+	}
+
+	local_supplies = 0.0 
+}

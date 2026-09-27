@@ -1,0 +1,44 @@
+characters = {
+	BRD_jean_minani = {
+		name = BRD_jean_minani
+		country_leader = {
+			ideology = socialism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	BRD_leonard_nyangoma = {
+		name = BRD_leonard_nyangoma
+		country_leader = {
+			ideology = marxism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	BRD_pierre_buyoya = {
+		name = BRD_pierre_buyoya
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_BRD_pierre_buyoya
+			}
+		}
+		country_leader = {
+			ideology = junta
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	BRD_jean_baptiste_bagaza = {
+		name = BRD_jean_baptiste_bagaza
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_BRD_jean_baptiste_bagaza
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

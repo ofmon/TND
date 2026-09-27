@@ -1,0 +1,22 @@
+state = {
+	id = 1334
+	name = "STATE_1334" # districts of Republican Subordination
+	manpower = 1800702
+	state_category = city
+	buildings_max_level_factor = 1.000
+
+	history = {
+		owner = TAJ
+		add_core_of = TAJ
+		buildings = {
+			infrastructure = 2
+		}
+		victory_points = {
+			1384 1
+		}
+	}
+
+	provinces = {
+		1384 4542 12250
+	}
+}

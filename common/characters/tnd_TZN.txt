@@ -1,0 +1,44 @@
+characters = {
+	TZN_ibrahim_lipumba = {
+		name = TZN_ibrahim_lipumba
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_TZN_ibrahim_lipumba
+			}
+		}
+		country_leader = {
+			ideology = liberalism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	TZN_kingunge_ngombale_mwiru = {
+		name = TZN_kingunge_ngombale_mwiru
+		country_leader = {
+			ideology = marxism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	TZN_salmin_amour = {
+		name = TZN_salmin_amour
+		country_leader = {
+			ideology = junta
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	TZN_benjamin_mkapa = {
+		name = TZN_benjamin_mkapa
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_TZN_benjamin_mkapa
+			}
+		}
+		country_leader = {
+			ideology = moderatism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

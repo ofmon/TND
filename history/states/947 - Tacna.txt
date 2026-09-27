@@ -1,0 +1,31 @@
+state = {
+	id = 947
+	name = "STATE_947"
+	resources = {
+		tungsten = 2
+	}
+	
+	state_category = town
+
+	history = {
+		owner = PRU
+		add_core_of = PRU
+
+		buildings = {
+			infrastructure = 3
+		}
+
+		victory_points = {
+			13086 2
+		}
+
+	}
+
+	provinces = {
+		13086 13287
+	}
+	manpower = 430200
+	buildings_max_level_factor = 1.000
+
+	local_supplies = 0.0 
+}

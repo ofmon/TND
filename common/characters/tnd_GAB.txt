@@ -1,0 +1,44 @@
+characters = {
+	GAB_pierre_mamboundou = {
+		name = GAB_pierre_mamboundou
+		country_leader = {
+			ideology = socialism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	GAB_pierre_louis_agondjo_okawe = {
+		name = GAB_pierre_louis_agondjo_okawe
+		country_leader = {
+			ideology = marxism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	GAB_ali_bongo_ondimba = {
+		name = GAB_ali_bongo_ondimba
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_GAB_ali_bongo_ondimba
+			}
+		}
+		country_leader = {
+			ideology = junta
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	GAB_omar_bongo = {
+		name = GAB_omar_bongo
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_GAB_omar_bongo
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

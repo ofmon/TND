@@ -1,0 +1,44 @@
+characters = {
+	LIB_ellen_johnson_sirleaf = {
+		name = LIB_ellen_johnson_sirleaf
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_LIB_ellen_johnson_sirleaf
+			}
+		}
+		country_leader = {
+			ideology = liberalism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	LIB_togba_nah_tipoteh = {
+		name = LIB_togba_nah_tipoteh
+		country_leader = {
+			ideology = marxism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	LIB_sekou_conneh = {
+		name = LIB_sekou_conneh
+		country_leader = {
+			ideology = junta
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	LIB_charles_taylor = {
+		name = LIB_charles_taylor
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_LIB_charles_taylor
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

@@ -1,0 +1,44 @@
+characters = {
+	GHA_john_kufuor = {
+		name = GHA_john_kufuor
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_GHA_john_kufuor
+			}
+		}
+		country_leader = {
+			ideology = conservatism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	GHA_george_hagan = {
+		name = GHA_george_hagan
+		country_leader = {
+			ideology = marxism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	GHA_kojo_tsikata = {
+		name = GHA_kojo_tsikata
+		country_leader = {
+			ideology = junta
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	GHA_jerry_rawlings = {
+		name = GHA_jerry_rawlings
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_GHA_jerry_rawlings
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

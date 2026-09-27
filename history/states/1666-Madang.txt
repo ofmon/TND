@@ -1,0 +1,24 @@
+state = {
+	id = 1666
+	name = "STATE_1666" # Madang
+	manpower = 569389
+	state_category = town
+	buildings_max_level_factor = 1
+	local_supplies = 0.0
+
+	history = {
+		owner = PNG
+		add_core_of = PNG
+		buildings = {
+			infrastructure = 2
+			12154 = { naval_base = 1 }
+		}
+		victory_points = {
+			12154 2 # Madang
+		}
+	}
+
+	provinces = {
+		4393 5135 7614 12154 12193
+	}
+}

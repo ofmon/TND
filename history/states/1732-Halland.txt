@@ -1,0 +1,19 @@
+state = {
+	id = 1732
+	name = "STATE_1732" # Halland
+	manpower = 280378
+	state_category = rural
+	local_supplies = 0.0
+
+	history = {
+		owner = SWE
+		add_core_of = SWE
+		buildings = {
+			infrastructure = 4
+		}
+	}
+
+	provinces = {
+		3307 6412
+	}
+}

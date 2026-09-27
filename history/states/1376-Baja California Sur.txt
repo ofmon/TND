@@ -1,0 +1,20 @@
+state = {
+	id = 1376
+	name = "STATE_1376" # Baja California Sur
+	manpower = 339936
+	state_category = city
+	local_supplies = 0.0
+
+	history = {
+		owner = MEX
+		add_core_of = MEX
+		buildings = {
+			infrastructure = 4
+			12736 = { naval_base = 1 }
+		}
+	}
+
+	provinces = {
+		1904 8119 12736
+	}
+}

@@ -1,0 +1,19 @@
+state = {
+	id = 1347
+	name = "STATE_1347" # Al Bayda'
+	manpower = 1017557
+	state_category = town
+	local_supplies = 0.0
+
+	history = {
+		owner = YEM
+		add_core_of = YEM
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces = {
+		1973
+	}
+}

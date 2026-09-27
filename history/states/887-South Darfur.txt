@@ -2,8 +2,8 @@ state={
 	id=887
 	name="STATE_887"
 
-	manpower = 302020
-	state_category = wasteland
+	manpower = 2521459
+	state_category = rural
 	
 	history = {
 		owner = SUD
@@ -15,7 +15,7 @@ state={
 	}
 
 	provinces={
-		1960 5060 10857 
+		1960 10857
 	}
 	
 	buildings_max_level_factor = 1.000

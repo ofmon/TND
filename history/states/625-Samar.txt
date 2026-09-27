@@ -2,16 +2,16 @@ state=
 {
 	id=625
 	name="STATE_625"
-	manpower = 9854265
+	manpower = 3610000
 	
-	state_category = rural
+	state_category = town
 	history=
 	{
 		owner = PHI
-		buildings = {
-			infrastructure = 2
-		}
 		add_core_of = PHI
+		buildings = {
+			infrastructure = 3
+		}
 	}
 	provinces={
 		1224 1311 1340 4269 4373 

@@ -1,0 +1,19 @@
+state = {
+	id = 1317
+	name = "STATE_1317" # Qazvin
+	manpower = 652429
+	state_category = town
+	local_supplies = 3.0
+
+	history = {
+		owner = PER
+		add_core_of = PER
+		buildings = {
+			infrastructure = 3
+		}
+	}
+
+	provinces = {
+		10523
+	}
+}

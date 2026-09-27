@@ -1,0 +1,41 @@
+characters = {
+	GER_lothar_bisky = {
+		name = GER_lothar_bisky
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_GER_lothar_bisky
+			}
+		}
+		country_leader = {
+			ideology = marxism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	GER_udo_voigt = {
+		name = GER_udo_voigt
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_GER_udo_voigt
+			}
+		}
+		country_leader = {
+			ideology = nazism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	GER_johannes_rau = {
+		name = GER_johannes_rau
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_GER_johannes_rau
+			}
+		}
+		country_leader = {
+			ideology = moderatism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

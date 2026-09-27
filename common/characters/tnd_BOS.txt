@@ -1,0 +1,44 @@
+characters = {
+	BOS_alija_izetbegovic = {
+		name = BOS_alija_izetbegovic
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_BOS_alija_izetbegovic
+			}
+		}
+		country_leader = {
+			ideology = conservatism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	BOS_zlatko_lagumdzija = {
+		name = BOS_zlatko_lagumdzija
+		country_leader = {
+			ideology = marxism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	BOS_dragan_kalinic = {
+		name = BOS_dragan_kalinic
+		country_leader = {
+			ideology = fascism_ideology
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	BOS_wolfgang_petritsch = {
+		name = BOS_wolfgang_petritsch
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_BOS_wolfgang_petritsch
+			}
+		}
+		country_leader = {
+			ideology = oligarchism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

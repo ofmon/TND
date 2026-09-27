@@ -1,0 +1,49 @@
+characters = {
+	COG_etienne_tshisekedi = {
+		name = COG_etienne_tshisekedi
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_COG_etienne_tshisekedi
+			}
+		}
+		country_leader = {
+			ideology = liberalism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	COG_ernest_wamba_dia_wamba = {
+		name = COG_ernest_wamba_dia_wamba
+		country_leader = {
+			ideology = marxism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	COG_jean_pierre_bemba = {
+		name = COG_jean_pierre_bemba
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_COG_jean_pierre_bemba
+			}
+		}
+		country_leader = {
+			ideology = junta
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	COG_laurent_desire_kabila = {
+		name = COG_laurent_desire_kabila
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_COG_laurent_desire_kabila
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

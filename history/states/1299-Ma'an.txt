@@ -1,0 +1,21 @@
+state = {
+	id = 1299
+	name = "STATE_1299" # Ma'an
+	manpower = 95202
+	state_category = pastoral
+
+	history = {
+		owner = JOR
+		add_core_of = JOR
+		buildings = {
+			infrastructure = 2
+		}
+		victory_points = {
+			11976 1 
+		}
+	}
+
+	provinces = {
+		4562 4603 11976
+	}
+}

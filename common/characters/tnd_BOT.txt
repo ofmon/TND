@@ -1,0 +1,49 @@
+characters = {
+	BOT_festus_mogae = {
+		name = BOT_festus_mogae
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_BOT_festus_mogae
+			}
+		}
+		country_leader = {
+			ideology = conservatism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	BOT_kenneth_koma = {
+		name = BOT_kenneth_koma
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_BOT_kenneth_koma
+			}
+		}
+		country_leader = {
+			ideology = marxism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	BOT_ian_khama = {
+		name = BOT_ian_khama
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_BOT_ian_khama
+			}
+		}
+		country_leader = {
+			ideology = junta
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	BOT_linchwe_ii = {
+		name = BOT_linchwe_ii
+		country_leader = {
+			ideology = moderatism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

@@ -1,0 +1,54 @@
+characters = {
+	FSM_leo_falcam = {
+		name = FSM_leo_falcam
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_FSM_leo_falcam
+			}
+		}
+		country_leader = {
+			ideology = indepedent
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	FSM_jacob_nena = {
+		name = FSM_jacob_nena
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_FSM_jacob_nena
+			}
+		}
+		country_leader = {
+			ideology = marxism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	FSM_redley_killion = {
+		name = FSM_redley_killion
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_FSM_redley_killion
+			}
+		}
+		country_leader = {
+			ideology = fascism_ideology
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	FSM_john_haglelgam = {
+		name = FSM_john_haglelgam
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_FSM_john_haglelgam
+			}
+		}
+		country_leader = {
+			ideology = centrism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

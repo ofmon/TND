@@ -1,0 +1,26 @@
+characters = {
+	BAN_mujahidul_islam_selim = {
+		name = BAN_mujahidul_islam_selim
+		country_leader = {
+			ideology = Marxist-Leninist
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	BAN_ghulam_azam = {
+		name = BAN_ghulam_azam
+		country_leader = {
+			ideology = fascism_ideology
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	BAN_hussain_muhammad_ershad = {
+		name = BAN_hussain_muhammad_ershad
+		country_leader = {
+			ideology = despotism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

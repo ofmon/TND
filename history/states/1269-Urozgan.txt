@@ -1,0 +1,19 @@
+state = {
+	id = 1269
+	name = "STATE_1269" # Urozgan
+	manpower = 593385
+	state_category = town
+	local_supplies = 0.0
+
+	history = {
+		owner = AFG
+		add_core_of = AFG
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces = {
+		1995
+	}
+}

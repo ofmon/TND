@@ -1,0 +1,19 @@
+state = {
+	id = 1722
+	name = "STATE_1722" # Møre og Romsdal
+	manpower = 227560
+	state_category = rural
+	local_supplies = 0.0
+
+	history = {
+		owner = NOR
+		add_core_of = NOR
+		buildings = {
+			infrastructure = 4
+		}
+	}
+
+	provinces = {
+		102 3093 3096 9127 9216 11100
+	}
+}

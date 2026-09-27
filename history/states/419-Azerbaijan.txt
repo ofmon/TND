@@ -1,0 +1,29 @@
+
+state={
+	id=419
+	name="STATE_419"
+	manpower = 2102431
+	resources = {
+	}
+	
+	state_category = large_town
+	history={
+		owner = PER
+		add_core_of = PER
+		add_core_of = AZR
+		add_core_of = KUR
+		buildings = {
+			infrastructure = 3
+		}
+		victory_points = {
+			7604 1 
+		}
+		victory_points = { 1822 1 }
+	}
+
+	provinces={
+		1636 1822 7604 13120
+	}
+
+	local_supplies=4.0 
+}

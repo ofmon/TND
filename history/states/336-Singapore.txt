@@ -1,0 +1,43 @@
+state = {
+	id = 336
+	name = "STATE_336"
+	manpower = 4996068
+	
+	state_category = metropolis
+	
+	resources = {
+		rubber = 100 # was: 848
+		tungsten = 40 # was: 308, then 189
+		aluminium = 1
+		steel = 2
+	}
+
+	history = {
+		owner = MAL
+		add_core_of = MAL
+
+		victory_points = {
+			10297 5 # Kuala Lumpur
+		}
+
+		buildings = {
+			dockyard = 1
+
+			infrastructure = 4
+			industrial_complex = 7
+			air_base = 1
+
+			10297 = {
+				naval_base = 5
+			}
+
+		}
+		
+	}
+
+	provinces = {
+		10297
+	}
+
+	local_supplies = 0.0 
+}

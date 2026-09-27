@@ -1,0 +1,49 @@
+characters = {
+	PAU_kuniwo_nakamura = {
+		name = PAU_kuniwo_nakamura
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_PAU_kuniwo_nakamura
+			}
+		}
+		country_leader = {
+			ideology = indepedent
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	PAU_peter_sugiyama = {
+		name = PAU_peter_sugiyama
+		country_leader = {
+			ideology = marxism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	PAU_johnson_toribiong = {
+		name = PAU_johnson_toribiong
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_PAU_johnson_toribiong
+			}
+		}
+		country_leader = {
+			ideology = fascism_ideology
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	PAU_yutaka_gibbons = {
+		name = PAU_yutaka_gibbons
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_PAU_yutaka_gibbons
+			}
+		}
+		country_leader = {
+			ideology = oligarchism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

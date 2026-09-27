@@ -1,16 +1,17 @@
 state={
 	id=728
 	name="STATE_728"
-	manpower = 6174050
+	manpower = 2096990
 	
 	state_category = enclave
 	
 	history={
 		owner = PRC
-		add_core_of = CHI
 		add_core_of = PRC
+		add_core_of = CHI
+		add_claim_by = TAW
 		buildings = {
-			infrastructure = 3
+			infrastructure = 2
 			11981 = {
 				naval_base = 1
 			}

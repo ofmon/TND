@@ -1,0 +1,22 @@
+state = {
+	id = 1596
+	name = "STATE_1596" # Madre de Dios
+	manpower = 114748
+	state_category = rural
+	local_supplies = 0.0
+
+	history = {
+		owner = PRU
+		add_core_of = PRU
+		buildings = {
+			infrastructure = 2
+		}
+		victory_points = {
+			8191 1
+		}
+	}
+
+	provinces = {
+		8160 8191
+	}
+}

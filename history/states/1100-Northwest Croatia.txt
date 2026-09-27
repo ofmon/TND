@@ -1,0 +1,22 @@
+state = {
+	id = 1100
+	name = "STATE_1100" # Northwest Croatia
+	manpower = 1582901
+	state_category = city
+
+	history = {
+		owner = CRO
+		add_core_of = CRO
+		buildings = {
+			industrial_complex = 1
+			infrastructure = 4
+		}
+		victory_points = {
+			11581 3 
+		}
+	}
+
+	provinces = {
+		9611 11581
+	}
+}

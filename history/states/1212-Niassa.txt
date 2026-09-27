@@ -1,0 +1,20 @@
+state = {
+	id = 1212
+	name = "STATE_1212" # Niassa
+	manpower = 1255934
+	state_category = city
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.000
+
+	history = {
+		owner = MZB
+		add_core_of = MZB
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces = {
+		2159 10972
+	}
+}

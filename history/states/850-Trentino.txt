@@ -1,0 +1,26 @@
+
+state = {
+	id = 850
+	name = "STATE_850" # Trentino
+	manpower = 478000
+	
+	state_category = town
+
+	history = {
+		owner = ITA
+		add_core_of = ITA
+		add_core_of = LBV
+		victory_points = { #Trento
+			9598 1
+		}
+		buildings = {
+			infrastructure = 4 #was 3 before split
+		}
+	}
+
+	provinces = {
+		6631 9598 
+	}
+
+	local_supplies = 0.0 
+}

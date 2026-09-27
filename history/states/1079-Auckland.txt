@@ -1,0 +1,38 @@
+
+state = {
+	id = 1079
+	name = "STATE_1079" # Auckland
+	manpower = 1066665
+	
+	resources = {
+		coal = 1
+	}
+	state_category = large_city
+	
+	history = {
+		owner = NZL
+		add_core_of = NZL
+
+		buildings = {
+			infrastructure = 5 
+			industrial_complex = 3
+			air_base = 2
+
+			4543 = {
+				naval_base = 3
+			}
+
+		}
+		
+		victory_points = {
+			4543 5 # Auckland 
+		}
+
+	}
+
+	provinces = {
+		4543
+	}
+
+	local_supplies=0.0 
+}

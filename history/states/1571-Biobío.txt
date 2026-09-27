@@ -1,0 +1,22 @@
+state = {
+	id = 1571
+	name = "STATE_1571" # Biobío
+	manpower = 1533115
+	state_category = city
+	local_supplies = 0.0
+
+	history = {
+		owner = CHL
+		add_core_of = CHL
+		buildings = {
+			infrastructure = 4
+		}
+		victory_points = {
+			12984 20
+		}
+	}
+
+	provinces = {
+		12984
+	}
+}

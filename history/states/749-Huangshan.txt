@@ -2,19 +2,32 @@ state={
 	id=749
 	name="STATE_749"
 	provinces={
-		1099 1125 1153 1171 4105 4173 7007 7104 10044 11937 12019 
+		1171 4105 4173 7104 10044 11937 12019
 	}
-	manpower= 12289468
+	manpower = 5126186
 	buildings_max_level_factor=1.000
-	state_category=town
+	state_category = large_city
 	history={
 		owner = PRC
 		add_core_of = PRC
+		add_core_of = CHI
+		add_claim_by = TAW
 		buildings = {
-			infrastructure = 4
+			industrial_complex = 1
+			infrastructure = 3
 		}
 		victory_points = {
 			12019 1
 		}
+		
+		1938.10.25 = {
+			buildings = {
+				air_base = 1
+			}
+
+		}
+
 	}
+
+	local_supplies=0.0 
 }

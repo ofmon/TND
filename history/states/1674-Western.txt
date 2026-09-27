@@ -1,0 +1,20 @@
+state = {
+	id = 1674
+	name = "STATE_1674" # Western
+	manpower = 1048
+	state_category = wasteland
+	local_supplies = 0.0
+
+	history = {
+		owner = TUV
+		add_core_of = TUV
+		buildings = {
+			infrastructure = 1
+			13056 = { naval_base = 1 }
+		}
+	}
+
+	provinces = {
+		13055 13056
+	}
+}

@@ -1,0 +1,22 @@
+state = {
+	id = 1660
+	name = "STATE_1660" # Northern Mindanao (Region X)
+	manpower = 1614649
+	state_category = large_city
+	local_supplies = 0.0
+
+	history = {
+		owner = PHI
+		add_core_of = PHI
+		buildings = {
+			infrastructure = 3
+		}
+		victory_points = {
+			10243 1 # Cagayan de Oro
+		}
+	}
+
+	provinces = {
+		7360 10214 10243 12217 12273
+	}
+}

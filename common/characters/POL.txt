@@ -8,7 +8,7 @@ characters = {
 			}
 		}
 		country_leader = {
-			ideology=centrist
+			ideology=centrism
 			traits = { }
 			expire="2030.1.1.1"
 			id=-1
@@ -290,22 +290,6 @@ characters = {
 			ideology=liberalism
 			traits = { democratic_restorationist }
 			expire="1965.1.1.1"
-			id=-1
-		}
-	}
-
-	POL_lech_kaczynski = {
-		name=POL_lech_kaczynski
-		portraits = {
-			civilian = {
-				large= GFX_portrait_pol_lech_kaczynski_large
-                                small= GFX_portrait_pol_lech_kaczynski_small
-			}
-		}
-		country_leader = {
-			ideology=conservatism
-			traits = { morges_champion }
-			expire="2010.4.10.1"
 			id=-1
 		}
 	}

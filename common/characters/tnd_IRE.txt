@@ -1,0 +1,36 @@
+characters = {
+	IRE_bertie_ahern = {
+		name = IRE_bertie_ahern
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_IRE_bertie_ahern
+			}
+		}
+		country_leader = {
+			ideology = centrist
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	IRE_gerry_adams = {
+		name = IRE_gerry_adams
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_IRE_gerry_adams
+			}
+		}
+		country_leader = {
+			ideology = marxism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	IRE_aine_ni_chonaill = {
+		name = IRE_aine_ni_chonaill
+		country_leader = {
+			ideology = fascism_ideology
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

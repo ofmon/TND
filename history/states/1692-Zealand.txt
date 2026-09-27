@@ -1,0 +1,23 @@
+state = {
+	id = 1692
+	name = "STATE_1692" # Zealand
+	manpower = 792173
+	state_category = town
+	local_supplies = 15.000
+
+	history = {
+		owner = DEN
+		add_core_of = DEN
+		buildings = {
+			industrial_complex = 1
+			infrastructure = 4
+		}
+		victory_points = {
+			6393 2 
+		}
+	}
+
+	provinces = {
+		3260 3305 6393 13261
+	}
+}

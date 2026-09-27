@@ -1,0 +1,20 @@
+state = {
+	id = 1346
+	name = "STATE_1346" # Abyan
+	manpower = 636919
+	state_category = town
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.000
+
+	history = {
+		owner = YEM
+		add_core_of = YEM
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces = {
+		13374
+	}
+}

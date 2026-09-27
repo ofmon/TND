@@ -1,0 +1,19 @@
+state = {
+	id = 1396
+	name = "STATE_1396" # Delaware
+	manpower = 846944
+	state_category = town
+	local_supplies = 0.0
+
+	history = {
+		owner = USA
+		add_core_of = USA
+		buildings = {
+			infrastructure = 4
+		}
+	}
+
+	provinces = {
+		9758 9786
+	}
+}

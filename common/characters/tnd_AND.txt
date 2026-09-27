@@ -1,0 +1,44 @@
+characters = {
+	AND_marc_forne_molne = {
+		name = AND_marc_forne_molne
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_AND_marc_forne_molne
+			}
+		}
+		country_leader = {
+			ideology = liberalism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	AND_jaume_bartumeu = {
+		name = AND_jaume_bartumeu
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_AND_jaume_bartumeu
+			}
+		}
+		country_leader = {
+			ideology = marxism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	AND_antoni_cerqueda = {
+		name = AND_antoni_cerqueda
+		country_leader = {
+			ideology = fascism_ideology
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	AND_joan_marti_alanis = {
+		name = AND_joan_marti_alanis
+		country_leader = {
+			ideology = moderatism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

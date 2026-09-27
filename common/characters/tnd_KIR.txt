@@ -1,0 +1,49 @@
+characters = {
+	KIR_teburoro_tito = {
+		name = KIR_teburoro_tito
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_KIR_teburoro_tito
+			}
+		}
+		country_leader = {
+			ideology = conservatism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	KIR_harry_tong = {
+		name = KIR_harry_tong
+		country_leader = {
+			ideology = marxism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	KIR_teatao_teannaki = {
+		name = KIR_teatao_teannaki
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_KIR_teatao_teannaki
+			}
+		}
+		country_leader = {
+			ideology = fascism_ideology
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	KIR_ieremia_tabai = {
+		name = KIR_ieremia_tabai
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_KIR_ieremia_tabai
+			}
+		}
+		country_leader = {
+			ideology = centrism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

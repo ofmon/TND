@@ -1,0 +1,23 @@
+state = {
+	id = 1738
+	name = "STATE_1738" # Nord-Est
+	manpower = 1401408
+	state_category = city
+
+	history = {
+		owner = TUN
+		add_core_of = TUN
+		buildings = {
+			industrial_complex = 1
+			infrastructure = 4
+			9994 = { naval_base = 8 }
+		}
+		victory_points = {
+			9994 1 
+		}
+	}
+
+	provinces = {
+		7180 9994 10091
+	}
+}

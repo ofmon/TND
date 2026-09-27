@@ -1,25 +1,33 @@
 
 state={
 	id=436
-	name="STATE_436" # Jabalpur
-	manpower = 30100000
+	name="STATE_436" # Central provinces, was Jabalpur
+	manpower = 44609018
 	
-	state_category = rural
+	state_category = metropolis
 	
 	resources={
 		chromium=4 # was: 6
+		coal = 7 #initial distribution
 	}
 
 	history={
 		owner = RAJ
+		add_core_of = RAJ
+		
 		buildings = {
-			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 4
+			infrastructure = 3
+		}
+		victory_points = {
+			4950 5
 		}
 
 	}
 
 	provinces={
-		1510 4557 4883 4950 4953 7430 7497 7574 7619 8120 10030 10401 10801 10872 12375 12420 12480 12781 12799 12854 
+		1510 4410 4950 4953 5096 7497 7574 7938 8120 10332 10401 10801 12375 12480 12799 12854
 	}
 
 	local_supplies=0.0 

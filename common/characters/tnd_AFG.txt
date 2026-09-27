@@ -1,0 +1,36 @@
+characters = {
+	AFG_burhanuddin_rabbani = {
+		name = AFG_burhanuddin_rabbani
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_AFG_burhanuddin_rabbani
+			}
+		}
+		country_leader = {
+			ideology = conservatism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	AFG_sultan_ali_keshtmand = {
+		name = AFG_sultan_ali_keshtmand
+		country_leader = {
+			ideology = marxism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	AFG_gulbuddin_hekmatyar = {
+		name = AFG_gulbuddin_hekmatyar
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_AFG_gulbuddin_hekmatyar
+			}
+		}
+		country_leader = {
+			ideology = fascism_ideology
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

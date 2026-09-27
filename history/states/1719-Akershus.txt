@@ -1,0 +1,20 @@
+state = {
+	id = 1719
+	name = "STATE_1719" # Akershus
+	manpower = 489685
+	state_category = rural
+	local_supplies = 0.0
+
+	history = {
+		owner = NOR
+		add_core_of = NOR
+		buildings = {
+			industrial_complex = 1
+			infrastructure = 4
+		}
+	}
+
+	provinces = {
+		11078
+	}
+}

@@ -1,0 +1,20 @@
+state = {
+	id = 1400
+	name = "STATE_1400" # Anzoátegui
+	manpower = 1484265
+	state_category = large_city
+	local_supplies = 0.0
+
+	history = {
+		owner = VEN
+		add_core_of = VEN
+		buildings = {
+			industrial_complex = 1
+			infrastructure = 4
+		}
+	}
+
+	provinces = {
+		7968 8080 10736
+	}
+}

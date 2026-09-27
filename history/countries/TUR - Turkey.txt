@@ -1,4 +1,4 @@
-﻿capital = 49
+capital = 49
 
 oob = "TUR_1936"
 if = {
@@ -60,7 +60,6 @@ if = {
 		early_ship_hull_cruiser = 1
 		early_ship_hull_heavy = 1
 		basic_battery = 1
-		basic_secondary_battery = 1
 		basic_torpedo = 1
 		coastal_defense_ships = 1
 		mtg_transport = 1
@@ -228,9 +227,6 @@ if = {
 			TUR_disorganised_armed_forces_3
 			TUR_tpda_absorbed
 			TUR_legacy_of_ataturk_preserved
-			TUR_sukru_saracoglu_prime_minister
-			TUR_fevzi_cakmak_command
-			TUR_sabiha_gokcen
 		}
 		add_timed_idea = {
 			idea = TUR_second_five_year_plan_inonu
@@ -246,7 +242,6 @@ if = {
 
 		set_variable = { var = TUR_kemalist_power_variable value = 7 }
 
-	}
 
 		add_ideas = {
 			partial_economic_mobilisation
@@ -254,22 +249,21 @@ if = {
 			export_focus
 		}
 
-recruit_character = TUR_suleyman_demirel
-recruit_character = TUR_ahmet_necdet_sezer
-recruit_character = TUR_abdullah_gul
-recruit_character = TUR_recep_tayyip_erdogan
+#recruit_character = TUR_suleyman_demirel
+#recruit_character = TUR_ahmet_necdet_sezer
+#recruit_character = TUR_abdullah_gul
+#recruit_character = TUR_recep_tayyip_erdogan
 
-		create_country_leader = {
-			name = "Süleyman Demirel"
-			desc = TUR_suleyman_demirel_desc
-			picture = "gfx/leaders/TUR/portrait_tur_suleyman_demirel.dds"
-			expire = "2015.6.17"
-			ideology = conservatism 
-			traits = {
-				
-			}
-		}
-	}
+#		create_country_leader = {
+#			name = "Süleyman Demirel"
+#			desc = TUR_suleyman_demirel_desc
+#			picture = "gfx/leaders/TUR/portrait_tur_suleyman_demirel.dds"
+#			expire = "2015.6.17"
+#			ideology = conservatism 
+#			traits = {
+#				
+#			}
+#		}
 
 	if = {
 		limit = { 
@@ -297,15 +291,8 @@ recruit_character = TUR_recep_tayyip_erdogan
 		support_weapons = 1
 
 		#doctrines
-		air_superiority = 1
 
-		mass_assault = 1
-		pocket_defence = 1
-		defence_in_depth = 1
 		
-		fleet_in_being = 1
-		convoy_sailing = 1
-		submarine_operations = 1
 
 		#electronics
 		electronic_mechanical_engineering = 1
@@ -325,6 +312,9 @@ recruit_character = TUR_recep_tayyip_erdogan
 		dispersed_industry = 1
 		dispersed_industry2 = 1
 	}
+	set_grand_doctrine = new_strategic_destruction
+	set_grand_doctrine = mass_assault
+	set_grand_doctrine = new_fleet_in_being
 	if = {
 		limit = { not = { has_dlc = "Man the Guns" } }
 		set_technology = {
@@ -357,106 +347,106 @@ set_war_support = 0.3
 
 if = {
 	limit = { has_dlc = "Battle for the Bosporus" }
-	create_country_leader = {
-		name = "Mustafa Kemal Atatürk"
-		desc = "POLITICS_MUSTAFA_KEMAL_ATATÜRK_DESC"
-		picture = "gfx/leaders/TUR/Portrait_Turkey_Mustafa_Kemal_Ataturk.dds"
-		expire = "1965.1.1"
-		ideology = despotism
-		traits = {
-			father_of_the_turks
-		}
-	}
+#	create_country_leader = {
+#		name = "Mustafa Kemal Atatürk"
+#		desc = "POLITICS_MUSTAFA_KEMAL_ATATÜRK_DESC"
+#		picture = "gfx/leaders/TUR/Portrait_Turkey_Mustafa_Kemal_Ataturk.dds"
+#		expire = "1965.1.1"
+#		ideology = despotism
+#		traits = {
+#			father_of_the_turks
+#		}
+#	}
 	
-	create_country_leader = {
-		name = "Sefik Hüsnü"
-		desc = "POLITICS_SEFIK_HUSNU_DESC"
-		picture = "gfx/leaders/TUR/Portrait_Turkey_Sefik_Husnu.dds"
-		expire = "1965.1.1"
-		ideology = stalinism
-		traits = {
-			reluctant_stalinist
-		}
-	}
+#	create_country_leader = {
+#		name = "Sefik Hüsnü"
+#		desc = "POLITICS_SEFIK_HUSNU_DESC"
+#		picture = "gfx/leaders/TUR/Portrait_Turkey_Sefik_Husnu.dds"
+#		expire = "1965.1.1"
+#		ideology = stalinism
+#		traits = {
+#			reluctant_stalinist
+#		}
+#	}
 	
-	create_country_leader = {
-		name = "Celâl Bayar"
-		desc = "POLITICS_CELAL_BAYAR_DESC"
-		picture = "GFX_portrait_tur_celal_bayar"
-		expire = "1965.1.1"
-		ideology = conservatism
-		traits = {
-			liberal_democratic_paragon
-		}
-	}
-	create_country_leader = {
-		name = "Mehmet Recep Peker"
-		desc = "POLITICS_MEHMET_RECEP_PEKER_DESC"
-		picture = "GFX_portrait_tur_recep_peker"
-		expire = "1965.1.1"
-		ideology = fascism_ideology
-		traits = {
-			the_statist
-		}
-	}
+#	create_country_leader = {
+#		name = "Celâl Bayar"
+#		desc = "POLITICS_CELAL_BAYAR_DESC"
+#		picture = "GFX_portrait_tur_celal_bayar"
+#		expire = "1965.1.1"
+#		ideology = conservatism
+#		traits = {
+#			liberal_democratic_paragon
+#		}
+#	}
+#	create_country_leader = {
+#		name = "Mehmet Recep Peker"
+#		desc = "POLITICS_MEHMET_RECEP_PEKER_DESC"
+#		picture = "GFX_portrait_tur_recep_peker"
+#		expire = "1965.1.1"
+#		ideology = fascism_ideology
+#		traits = {
+#			the_statist
+#		}
+#	}
 }
 
 if = {
 	limit = { NOT = { has_dlc = "Battle for the Bosporus" } }
 	# Atatürk still alive in '36, however, Inönü was already Prime Minister (but not President)
-	create_country_leader = {
-		name = "İsmet İnönü"
-		desc = "POLITICS_ISMET_INÖNÜ_DESC"
-		picture = "Portrait_Turkey_Ismet_Inonu.dds"
-		expire = "1965.1.1"
-		ideology = despotism
-		traits = {
+#	create_country_leader = {
+#		name = "İsmet İnönü"
+#		desc = "POLITICS_ISMET_INÖNÜ_DESC"
+#		picture = "Portrait_Turkey_Ismet_Inonu.dds"
+#		expire = "1965.1.1"
+#		ideology = despotism
+#		traits = {
 			#
-		}
-	}
+#		}
+#	}
 	
-	create_country_leader = {
-		name = "Mustafa Kemal Atatürk"
-		desc = "POLITICS_MUSTAFA_KEMAL_ATATÜRK_DESC"
-		picture = "gfx/leaders/TUR/Portrait_Turkey_Mustafa_Kemal_Ataturk.dds"
-		expire = "1938.11.10"
-		ideology = despotism
-		traits = {
+#	create_country_leader = {
+#		name = "Mustafa Kemal Atatürk"
+#		desc = "POLITICS_MUSTAFA_KEMAL_ATATÜRK_DESC"
+#		picture = "gfx/leaders/TUR/Portrait_Turkey_Mustafa_Kemal_Ataturk.dds"
+#		expire = "1938.11.10"
+#		ideology = despotism
+#		traits = {
 			#
-		}
-	}
+#		}
+#	}
 	
-	create_country_leader = {
-		name = "Sefik Hüsnü"
-		desc = "POLITICS_SEFIK_HUSNU_DESC"
-		picture = "gfx/leaders/TUR/Portrait_Turkey_Sefik_Husnu.dds"
-		expire = "1965.1.1"
-		ideology = stalinism
-		traits = {
+#	create_country_leader = {
+#		name = "Sefik Hüsnü"
+#		desc = "POLITICS_SEFIK_HUSNU_DESC"
+#		picture = "gfx/leaders/TUR/Portrait_Turkey_Sefik_Husnu.dds"
+#		expire = "1965.1.1"
+#		ideology = stalinism
+#		traits = {
 			#
-		}
-	}
+#		}
+#	}
 	
-	create_country_leader = {
-		name = "Celâl Bayar"
-		desc = "POLITICS_CELAL_BAYAR_DESC"
-		picture = "GFX_portrait_tur_celal_bayar"
-		expire = "1965.1.1"
-		ideology = conservatism
-		traits = {
+#	create_country_leader = {
+#		name = "Celâl Bayar"
+#		desc = "POLITICS_CELAL_BAYAR_DESC"
+#		picture = "GFX_portrait_tur_celal_bayar"
+#		expire = "1965.1.1"
+#		ideology = conservatism
+#		traits = {
 			#
-		}
-	}
-	create_country_leader = {
-		name = "Fevzi Çakmak"
-		desc = "POLITICS_FEVZI_CAKMAK_DESC"
-		picture = "GFX_portrait_tur_fevzi_cakmak"
-		expire = "1965.1.1"
-		ideology = fascism_ideology
-		traits = {
+#		}
+#	}
+#	create_country_leader = {
+#		name = "Fevzi Çakmak"
+#		desc = "POLITICS_FEVZI_CAKMAK_DESC"
+#		picture = "GFX_portrait_tur_fevzi_cakmak"
+#		expire = "1965.1.1"
+#		ideology = fascism_ideology
+#		traits = {
 			#
-		}
-	}
+#		}
+#	}
 }
 
 if = {
@@ -867,3 +857,16 @@ if = {
 		}
 	}
 }
+
+# BEGIN TND leaders (generated by tools/build_leaders.py; edit tools/data/leaders instead)
+2000.1.1 = {
+	set_party_name = { ideology = democratic long_name = TND_PARTY_TUR_democratic_long name = TND_PARTY_TUR_democratic }
+	set_party_name = { ideology = communism long_name = TND_PARTY_TUR_communism_long name = TND_PARTY_TUR_communism }
+	set_party_name = { ideology = fascism long_name = TND_PARTY_TUR_fascism_long name = TND_PARTY_TUR_fascism }
+	set_party_name = { ideology = neutrality long_name = TND_PARTY_TUR_neutrality_long name = TND_PARTY_TUR_neutrality }
+	recruit_character = TUR_aydemir_guler
+	recruit_character = TUR_devlet_bahceli
+	recruit_character = TUR_suleyman_demirel
+	recruit_character = TUR_bulent_ecevit
+}
+# END TND leaders

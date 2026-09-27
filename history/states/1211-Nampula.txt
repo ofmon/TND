@@ -1,0 +1,22 @@
+state = {
+	id = 1211
+	name = "STATE_1211" # Nampula
+	manpower = 3371273
+	state_category = city
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.000
+
+	history = {
+		owner = MZB
+		add_core_of = MZB
+		buildings = {
+			industrial_complex = 1
+			infrastructure = 2
+			2123 = { naval_base = 1 }
+		}
+	}
+
+	provinces = {
+		2123
+	}
+}

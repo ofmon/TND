@@ -1,0 +1,19 @@
+state = {
+	id = 1441
+	name = "STATE_1441" # Western
+	manpower = 2433967
+	state_category = city
+	buildings_max_level_factor = 1.000
+
+	history = {
+		owner = GHA
+		add_core_of = GHA
+		buildings = {
+			infrastructure = 3
+		}
+	}
+
+	provinces = {
+		12742
+	}
+}

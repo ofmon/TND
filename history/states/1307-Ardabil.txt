@@ -1,0 +1,22 @@
+state = {
+	id = 1307
+	name = "STATE_1307" # Ardabil
+	manpower = 700913
+	state_category = city
+	local_supplies = 3.0
+
+	history = {
+		owner = PER
+		add_core_of = PER
+		buildings = {
+			infrastructure = 4
+		}
+		victory_points = {
+			4901 3
+		}
+	}
+
+	provinces = {
+		4901 10454
+	}
+}

@@ -4,12 +4,11 @@ characters = {
 		name = POR_jorge_sampaio
 		portraits = {
 			civilian = {
-				large = GFX_portrait_POR_antonio_de_oliveira_salazar_large
-				small = GFX_portrait_POR_antonio_de_oliveira_salazar_small
+				large = GFX_portrait_tnd_POR_jorge_sampaio
 			}
 		}
 		country_leader = {
-			ideology=socialism
+			ideology=moderatism
 			traits = {  }
 			expire = "2021.9.10.1"
 			id = -1

@@ -1,0 +1,142 @@
+1-Southern England.txt
+116-Iran.txt
+117-East Coast.txt
+119-South West.txt
+120-Central USA.txt
+123-Mexico.txt
+124-Northern South America.txt
+126-North Africa.txt
+127-Saharadesert.txt
+128-Egypt.txt
+129-Asia minor.txt
+13-Finland.txt
+131-Belarus.txt
+132-Northern Front.txt
+133-Central Russia.txt
+134-Caucasus Region.txt
+135-Taman Region.txt
+136-Great Steppe.txt
+137-Western Steppe.txt
+138-Ural Region.txt
+14-TransUrals.txt
+140-Sub-Sarhan Africa.txt
+141-East India.txt
+143-Eastern China.txt
+144-Western China.txt
+147-Siberian Region.txt
+148-Russian Far East.txt
+149-Eastern Siberia.txt
+150-Artic Russia.txt
+151-Western Siberia.txt
+152-Central Steppe.txt
+153-Northern India.txt
+154-Home Islands.txt
+155-Manchuria.txt
+156-Austrialia.txt
+162-Afghanistan Area.txt
+163-Amazonian Brazil.txt
+164-South East China.txt
+165-South West China.txt
+17-Africa.txt
+184-South West Africa.txt
+188-Malaya.txt
+19-Northern France.txt
+190-Pakistan.txt
+192-Northern Sweden.txt
+194-Eastern Australia.txt
+195-Central Australia.txt
+196-Arabian Coast.txt
+198-Midwest.txt
+2-Northern England.txt
+20-Southern France.txt
+200-Quinghai.txt
+204-Sierra Madre.txt
+205-Yucatan Peninsula.txt
+208-Western France.txt
+209-Northwestern Iberia.txt
+21-Alpine Region.txt
+210-Southern Iberia.txt
+214-Appalachia.txt
+216-Upper Nile.txt
+219-Southern Rockies.txt
+221-Saskatchewan.txt
+222-Northern Canada.txt
+225-Tripoli.txt
+226-West Africa.txt
+227-Congo.txt
+229-Siam.txt
+23-Italy.txt
+230-Cape Comorin.txt
+231-Coromandel Coast.txt
+232-Levant.txt
+233-Quebec.txt
+234-Ontario Region.txt
+236-South Arabia.txt
+237-Hejaz.txt
+238-East Arabia.txt
+239-Alborz.txt
+24-Western Balkans.txt
+240-Zagros.txt
+241-Dasht-e kavir.txt
+242-Northern Manchuria.txt
+243-Eastern Manchuria.txt
+244-Chahar.txt
+245-Shanxi Region.txt
+246-Central China.txt
+247-Yantze River Region.txt
+248-Guangxi.txt
+25-Greece.txt
+251-Ngari.txt
+252-Tien Shan.txt
+254-Thar Desert.txt
+255-Amur.txt
+256-Transbaikal.txt
+257-Northern Far East.txt
+259-Sakha.txt
+260-Western Sakha.txt
+261-Altai.txt
+262-Central Siberia.txt
+263-Eastern Nenetsia.txt
+264-Komi-Nenetsia.txt
+265-East Karelia.txt
+266-Uriankhai.txt
+267-Tanscaspia.txt
+268-Ferghana.txt
+269-Samarkand.txt
+270-Syr Darya.txt
+271-South West Congo.txt
+272-West Congo.txt
+273-Danakil.txt
+274-Ogaden.txt
+276-Northern Norrland.txt
+277-Northern Finland.txt
+278-Western Finland.txt
+28-Middle East.txt
+280-Guiana.txt
+281-Gran Chaco.txt
+283-Patagonia.txt
+284-Southern Andes.txt
+285-Rio Tocantins.txt
+286-Rio Grande do Norte.txt
+288-Central Brazil.txt
+289-Southern Afghanistan.txt
+290-Bengal.txt
+291-Baluchistan.txt
+292-Shan States.txt
+293-Tenasserim.txt
+294-Rangoon.txt
+295-Mandalay.txt
+296-Gujarat.txt
+297-Eastern-Iranian Range.txt
+298-Eastern Zagros.txt
+299-Tosando.txt
+302-South-Eastern Australia.txt
+31-Indian Area.txt
+35-South America.txt
+37-Baltic States.txt
+38-Western Poland.txt
+39-Eastern Poland.txt
+40-Western Russia.txt
+6-North-West Germany.txt
+7-Western Germany.txt
+8-Eastern Germany.txt

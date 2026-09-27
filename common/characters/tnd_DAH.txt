@@ -1,0 +1,44 @@
+characters = {
+	DAH_mathieu_kerekou = {
+		name = DAH_mathieu_kerekou
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_DAH_mathieu_kerekou
+			}
+		}
+		country_leader = {
+			ideology = indepedent
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	DAH_pascal_fantodji = {
+		name = DAH_pascal_fantodji
+		country_leader = {
+			ideology = anti_revisionism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	DAH_maurice_kouandete = {
+		name = DAH_maurice_kouandete
+		country_leader = {
+			ideology = junta
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	DAH_nicephore_soglo = {
+		name = DAH_nicephore_soglo
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_DAH_nicephore_soglo
+			}
+		}
+		country_leader = {
+			ideology = centrism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

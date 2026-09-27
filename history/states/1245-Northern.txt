@@ -1,0 +1,19 @@
+state = {
+	id = 1245
+	name = "STATE_1245" # Northern
+	manpower = 2938906
+	state_category = city
+	buildings_max_level_factor = 1.000
+
+	history = {
+		owner = UGA
+		add_core_of = UGA
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces = {
+		8223
+	}
+}

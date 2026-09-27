@@ -1,0 +1,20 @@
+state = {
+	id = 1521
+	name = "STATE_1521" # Imereti
+	manpower = 1001407
+	state_category = town
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.0
+
+	history = {
+		owner = GEO
+		add_core_of = GEO
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces = {
+		3658
+	}
+}

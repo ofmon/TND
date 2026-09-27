@@ -1,0 +1,20 @@
+state = {
+	id = 1700
+	name = "STATE_1700" # Drenthe
+	manpower = 443440
+	state_category = rural
+	buildings_max_level_factor = 1.000
+	local_supplies = 14.0
+
+	history = {
+		owner = HOL
+		add_core_of = HOL
+		buildings = {
+			infrastructure = 4
+		}
+	}
+
+	provinces = {
+		9309
+	}
+}

@@ -1,0 +1,49 @@
+characters = {
+	CMR_john_fru_ndi = {
+		name = CMR_john_fru_ndi
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_CMR_john_fru_ndi
+			}
+		}
+		country_leader = {
+			ideology = socialism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	CMR_anicet_ekane = {
+		name = CMR_anicet_ekane
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_CMR_anicet_ekane
+			}
+		}
+		country_leader = {
+			ideology = marxism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	CMR_frederick_ebong = {
+		name = CMR_frederick_ebong
+		country_leader = {
+			ideology = fascism_ideology
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	CMR_paul_biya = {
+		name = CMR_paul_biya
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_CMR_paul_biya
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

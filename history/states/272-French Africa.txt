@@ -2,12 +2,12 @@
 state={
 	id=272
 	name="STATE_272"
-	manpower = 16880000
+	manpower = 4630273
 	resources={
 		steel=3 # was: 4
 	}
 	
-	state_category = pastoral
+	state_category = metropolis
 
 	history={
 		owner = SEN
@@ -16,6 +16,7 @@ state={
 			4948 5 
 		}
 		buildings = {
+			industrial_complex = 1
 			infrastructure = 3
 			air_base = 4
 			4948 = {
@@ -25,6 +26,6 @@ state={
 	}
 
 	provinces={
-		2100 4948 7972 8015 12710 12834 
+		2100 4948
 	}
 }

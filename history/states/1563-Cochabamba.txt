@@ -1,0 +1,21 @@
+state = {
+	id = 1563
+	name = "STATE_1563" # Cochabamba
+	manpower = 1076126
+	state_category = large_city
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.0
+
+	history = {
+		owner = BOL
+		add_core_of = BOL
+		buildings = {
+			industrial_complex = 1
+			infrastructure = 3
+		}
+	}
+
+	provinces = {
+		8157
+	}
+}

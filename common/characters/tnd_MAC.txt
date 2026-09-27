@@ -1,0 +1,39 @@
+characters = {
+	MAC_ljubco_georgievski = {
+		name = MAC_ljubco_georgievski
+		country_leader = {
+			ideology = conservatism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	MAC_ljubisav_ivanov = {
+		name = MAC_ljubisav_ivanov
+		country_leader = {
+			ideology = marxism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	MAC_arben_xhaferi = {
+		name = MAC_arben_xhaferi
+		country_leader = {
+			ideology = fascism_ideology
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	MAC_kiro_gligorov = {
+		name = MAC_kiro_gligorov
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_MAC_kiro_gligorov
+			}
+		}
+		country_leader = {
+			ideology = moderatism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

@@ -1,0 +1,21 @@
+state = {
+	id = 1460
+	name = "STATE_1460" # Marrakesh-Tensift-El Haouz
+	manpower = 2991288
+	state_category = city
+
+	history = {
+		owner = MOR
+		add_core_of = MOR
+		buildings = {
+			infrastructure = 3
+		}
+		victory_points = {
+			4108 1 
+		}
+	}
+
+	provinces = {
+		1102 4108
+	}
+}

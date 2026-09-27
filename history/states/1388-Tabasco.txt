@@ -1,0 +1,22 @@
+state = {
+	id = 1388
+	name = "STATE_1388" # Tabasco
+	manpower = 1749132
+	state_category = city
+	local_supplies = 8.0
+
+	history = {
+		owner = MEX
+		add_core_of = MEX
+		buildings = {
+			infrastructure = 4
+		}
+		victory_points = {
+			2021 3
+		}
+	}
+
+	provinces = {
+		2021
+	}
+}

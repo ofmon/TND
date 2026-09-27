@@ -1,0 +1,20 @@
+state = {
+	id = 1286
+	name = "STATE_1286" # Maysan
+	manpower = 1102070
+	state_category = city
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.000
+
+	history = {
+		owner = IRQ
+		add_core_of = IRQ
+		buildings = {
+			infrastructure = 3
+		}
+	}
+
+	provinces = {
+		78
+	}
+}

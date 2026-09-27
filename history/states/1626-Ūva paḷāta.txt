@@ -1,0 +1,19 @@
+state = {
+	id = 1626
+	name = "STATE_1626" # Ūva paḷāta
+	manpower = 5005423
+	state_category = large_city
+
+	history = {
+		owner = SRL
+		add_core_of = SRL
+		buildings = {
+			industrial_complex = 2
+			infrastructure = 3
+		}
+	}
+
+	provinces = {
+		7344
+	}
+}

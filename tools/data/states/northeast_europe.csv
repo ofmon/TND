@@ -1,0 +1,111 @@
+id,owner,controller,cores,claims,manpower,category,name,notes
+10,POL,,POL,,4040990,metropolis,Warsaw,Warsaw city+metro powiats; Siedlce subregion; Skierniewice/Rawa and Tomaszow/Opoczno from Lodzkie
+87,POL,,POL,,2493173,city,Lodz,Lodzkie minus Skierniewice and Tomaszow areas; plus Konin subregion of Wielkopolskie
+98,POL,,POL,,964821,town,Plock,Plock + Ciechanow + Ostroleka subregions of Mazowieckie; Wloclawek (K-P); Dzialdowo (W-M)
+90,POL,,POL,,1149771,town,Kielce,Swietokrzyskie + Radom subregion of Mazowieckie
+92,POL,,POL,,2217547,large_town,Lublin,Lubelskie minus Zamosc subregion
+88,POL,,POL,,3472184,city,Krakow,Malopolskie + Podkarpackie + Bielsko subregion + Sosnowiec/Dabrowa/Jaworzno/Zawiercie + Zamosc subregion
+762,POL,,POL,,4608205,large_city,Katowice,Central Upper Silesian conurbation + Czestochowa subregion; Silesian autonomists have no recognised tag
+67,POL,,POL,,1274275,town,Opole,Opolskie + Gliwice and Rybnik subregions of Slaskie
+66,POL,,POL,,3336182,large_city,Lower Silesia,Dolnoslaskie + Leszno/Rawicz (Wlkp) + southern Lubuskie (Zielona Gora/Zary/Zagan/Nowa Sol)
+68,POL,,POL,,916080,town,Lubusz,Northern Lubuskie (Gorzow subregion) + Mysliborz/Choszczno; Oder-Neisse line = west edge
+86,POL,,POL,,3331736,city,Poznan,Wielkopolskie minus Konin/Leszno/Rawicz/Zlotow; German claims dropped (1990 treaty)
+63,POL,,POL,,1648097,city,West Pomerania,Zachodniopomorskie (Szczecin) + Slupsk subregion + Zlotow
+85,POL,,POL,,1927323,city,Gdansk,Gdansk + Sopot + Gdansk/Nowy Dwor powiats; DNZ core removed
+807,POL,,POL,,2139639,city,Kuyavia-Pomerania,Kujawsko-Pomorskie minus Wloclawek + Gdynia/Kashubia/Kociewie (Pomorskie) + Ilawa; KSH core removed
+5,POL,,POL,,1436344,town,Warmia-Masuria,Warminsko-Mazurskie minus Dzialdowo/Ilawa + Malbork/Sztum/Kwidzyn
+97,POL,,POL,,1223000,town,Podlasie,Podlaskie voivodeship; BLR core removed
+72,CZE,,CZE,,391000,large_town,Zaolzie,Karvina district + eastern Frydek-Mistek (Trinec/Cesky Tesin/Jablunkov); Czech since 1945
+74,CZE,,CZE,,757316,city,Czech Silesia,Ostrava + Opava + Bruntal + western Frydek-Mistek + Jesenik + Sumperk districts
+75,CZE,,CZE,,1372969,city,Moravia,South Moravia minus Znojmo + Zlin + Olomouc (minus Jesenik/Sumperk) + Novy Jicin + Vysocina (Jihlava/Zdar/Trebic) + Svitavy
+70,SLO,,SLO,,684871,city,Western Slovakia,Bratislava + Trencin kraje; Trnava minus Dunajska Streda; northern Nitra; Zilina minus Orava/Liptov; Banska Bystrica/Zvolen area
+71,SLO,,SLO,,858469,town,Eastern Slovakia,Presov kraj + Orava + Liptov + Brezno + Michalovce/Sobrance/Spis (Kosice kraj north)
+188,LIT,,LIT,,200000,city,Klaipeda,Klaipeda city
+784,LIT,,LIT,,1000016,city,Vilnius,Vilnius city+district; Trakai; Salcininkai; Svencionys; Varena; Ignalina
+11,LIT,,LIT,,778210,city,Kaunas,Kaunas county + Ukmerge/Sirvintos/Elektrenai + Alytus
+814,LIT,,LIT,,182268,town,Suduva,Marijampole county + Lazdijai/Druskininkai
+815,LIT,,LIT,,308977,rural,Aukstaitija,Panevezys county + Utena county (minus Ignalina) + Pakruojis/Joniskis
+189,LIT,,LIT,,318085,rural,Samogitia,Siauliai county remainder + Telsiai + Taurage + rural Klaipeda county
+808,LAT,,LAT,,1094399,city,Riga,Riga city + Riga district + Jurmala + Ogre
+12,LAT,,LAT,,332409,rural,Vidzeme,Valmiera/Cesis/Valka/Limbazi/Gulbene/Aluksne districts
+190,LAT,,LAT,,300000,town,Kurzeme,Liepaja/Ventspils/Kuldiga/Saldus/Talsi
+809,LAT,,LAT,,360000,town,Zemgale,Jelgava/Dobele/Bauska/Tukums/Aizkraukle/Jekabpils
+810,LAT,,LAT,,295192,rural,Latgale,Daugavpils/Rezekne/Ludza/Kraslava/Preili/Balvi/Madona; Pytalovo (Abrene) province moved to Pskov
+812,EST,,EST,,541255,city,Harju,Harju county (Tallinn) + Rapla
+813,EST,,EST,,338251,town,Virumaa,Ida-Viru + Laane-Viru + Jarva + Jogeva; Narva river border (Ivangorod Russian)
+191,EST,,EST,,337508,town,Tartu,Tartu + Voru + Polva + Valga; Petseri (Pechory) is Russian - province too coarse to split
+13,EST,,EST,,107986,rural,Parnu,Parnu + Viljandi + Laane
+811,EST,,EST,,46500,small_island,Saaremaa,Saare + Hiiu
+94,BLR,,BLR,,1483007,rural,Brest,Brest oblast minus Baranovichi area; Kamin-Kashyrskyi/Liubeshiv/Zarichne provinces moved to Ukraine
+95,BLR,,BLR,,1217113,city,Grodno,Grodno oblast minus Ashmyany/Smarhon/Astravets + Baranovichi area (Brest) + Stowbtsy
+96,BLR,,BLR,,255479,rural,Molodechno,NW Minsk oblast (Maladzyechna/Vileyka/Myadzel/Valozhyn) + west Vitebsk oblast (Pastavy/Braslaw/Hlybokaye) + NE Grodno oblast
+194,BLR,,BLR,,789564,rural,Mozyr,Western Gomel oblast (Mazyr/Kalinkavichy/Rechytsa/Svetlahorsk/Zhytkavichy/Khoiniki)
+204,BLR,,BLR,,826433,rural,Bobruisk,Babruysk area (Mogilev oblast) + southern Minsk oblast (Salihorsk/Slutsk/Nesvizh)
+206,BLR,,BLR,,3055405,large_city,Minsk,Minsk city + central Minsk oblast + Mogilev city and districts
+207,BLR,,BLR,,1157000,town,Vitebsk,Vitebsk oblast minus western districts
+241,BLR,,BLR,,829669,city,Gomel,Gomel city + eastern Gomel oblast + eastern Mogilev oblast (Krychaw/Horki/Kastsyukovichy)
+111,FIN,,FIN,,1691231,large_city,Uusimaa,Uusimaa + Ita-Uusimaa (Helsinki region)
+926,FIN,,FIN,,686000,city,Turku,Varsinais-Suomi + Satakunta
+927,FIN,,FIN,,527790,city,Hame,Pirkanmaa + Kanta-Hame + Paijat-Hame
+928,FIN,,FIN,,324000,large_town,Kymi,Kymenlaakso + Etela-Karjala
+930,FIN,,FIN,,136557,rural,Mikkeli,Etela-Savo
+150,FIN,,FIN,,418931,town,Savo,Pohjois-Savo + Pohjois-Karjala + Kainuu
+149,FIN,,FIN,,733824,town,Pohjanmaa,Keski-Suomi + Etela-Pohjanmaa + Pohjanmaa + Keski-Pohjanmaa
+929,FIN,,FIN,,431190,town,Oulu,Pohjois-Pohjanmaa
+148,FIN,,FIN SMI,,195477,rural,Lappi,Lapland region
+145,FIN,,FIN,,25800,small_island,Aland,Aland Islands
+219,SOV,,SOV,,15379756,megalopolis,Moscow,Moscow city (8.63M official) + Moscow oblast (6.62M)
+195,SOV,,SOV,,4141279,metropolis,Saint Petersburg,St Petersburg city + Vsevolozhsk district
+146,SOV,,SOV,,1026443,rural,Vyborg,Vyborg + Priozersk districts (Len. obl.) + Sortavala/Lahdenpokhya/Pitkyaranta/Suojarvi (Karelia); Russian since 1944
+147,SOV,,SOV,,3548,wasteland,Salla,Ceded Salla area (Alakurtti) Murmansk oblast
+722,SOV,,SOV,,45000,enclave,Pechenga,Pechengsky district (Nikel/Zapolyarny) Murmansk oblast
+213,SOV,,SOV SMI,,910000,rural,Murmansk,Murmansk oblast minus Pechenga and Alakurtti
+215,SOV,,SOV KAR,,352455,rural,Northern Karelia,Northern Karelia republic (Segezha/Kem/Belomorsk/Kostomuksha/Loukhi)
+216,SOV,,SOV KAR,,522210,town,Petrozavodsk,Southern Karelia republic (Petrozavodsk/Kondopoga/Olonets) + Lodeynoye Pole/Podporozhye (Len. obl.)
+208,SOV,,SOV,,700000,town,Luga,SW Leningrad oblast: Gatchina/Kingisepp/Ivangorod/Slantsy/Volosovo/Lomonosov/Luga/Tosno
+244,SOV,,SOV,,220160,rural,Volkhov,Volkhov/Kirishi/Kirovsk (Len. obl.) + Chudovo/Malaya Vishera (Novgorod obl.)
+264,SOV,,SOV,,202160,rural,Tikhvin,Tikhvin/Boksitogorsk (Len.) + Borovichi/Pestovo (Novgorod) + west Vologda + north Tver
+209,SOV,,SOV,,460000,town,Pskov,Pskov city + NW Pskov oblast incl. Pechory; gains Pytalovo province from Latgale
+210,SOV,,SOV,,400000,rural,Velikiye Luki,Southern Pskov oblast (Velikiye Luki/Nevel/Sebezh) + west Tver + Velizh
+263,SOV,,SOV,,810512,town,Novgorod,Novgorod oblast minus Chudovo/Borovichi areas
+247,SOV,,SOV,,965541,town,Tver,Tver city + central/east Tver oblast
+246,SOV,,SOV,,405630,rural,Rzhev,Western Tver oblast (Rzhev/Nelidovo/Ostashkov) + north Smolensk (Sychyovka/Gagarin)
+242,SOV,,SOV,,819370,large_town,Smolensk,Smolensk oblast minus Roslavl south and north districts
+243,SOV,,SOV,,270000,rural,Roslavl,Southern Smolensk oblast (Roslavl/Desnogorsk/Yelnya) + Spas-Demensk
+205,SOV,,SOV,,1070000,town,Kaluga,Kaluga oblast
+224,SOV,,SOV,,1450000,town,Bryansk,Bryansk oblast
+222,SOV,,SOV,,900000,town,Orel,Oryol oblast
+223,SOV,,SOV,,1750000,large_town,Tula,Tula oblast
+220,SOV,,SOV,,1320000,town,Kursk,Kursk oblast
+240,SOV,,SOV,,1490000,town,Belgorod,Belgorod oblast
+258,SOV,,SOV,,1240000,town,Lipetsk,Lipetsk oblast
+260,SOV,,SOV,,2440000,large_town,Voronezh,Voronezh oblast
+254,SOV,,SOV,,1236795,town,Ryazan,Ryazan oblast
+248,SOV,,SOV,,1123984,large_town,Yaroslavl,Yaroslavl oblast
+351,SOV,,SOV,,1466030,rural,Vologda,Vologda oblast minus west/Vytegra + northern Kostroma oblast (Sharya/Manturovo/Galich)
+879,SOV,,SOV,,136065,rural,Kargopol,SW Arkhangelsk oblast (Kargopol/Nyandoma/Konosha) + Vytegra
+763,SOV,,SOV,,951000,city,Kaliningrad,Kaliningrad oblast
+91,UKR,,UKR,,2654566,city,Lviv,Lviv city + northern Lviv oblast + Ternopil oblast
+89,UKR,,UKR,,1478299,town,Ivano-Frankivsk,Ivano-Frankivsk oblast + southern Lviv oblast (Drohobych/Stryi/Sambir)
+93,UKR,,UKR,,1382190,town,Volhynia,Volyn + Rivne oblasts (incl. provinces gained from Polesie)
+199,UKR,,UKR,,1475000,town,Khmelnytskyi,Khmelnytskyi oblast
+198,UKR,,UKR,,1832647,large_town,Vinnytsia,Vinnytsia oblast minus Haisyn area
+201,UKR,,UKR,,1367353,town,Zhytomyr,Zhytomyr oblast
+202,UKR,,UKR,,4423003,metropolis,Kyiv,Kyiv city (2.63M) + Kyiv oblast
+203,UKR,,UKR,,1132318,city,Cherkasy,Cherkasy oblast + most of Kirovohrad oblast + Haisyn area
+193,UKR,,UKR,,1405126,town,Chernihiv,Chernihiv oblast + Pyriatyn area (Poltava)
+259,UKR,,UKR,,1565563,large_town,Poltava,Poltava oblast minus Pyriatyn area
+225,UKR,,UKR,,1340000,town,Sumy,Sumy oblast
+221,UKR,,UKR,,3056308,large_city,Kharkiv,Kharkiv oblast
+228,UKR,,UKR,,2600000,city,Luhansk,Luhansk oblast (industrial Donbas)
+141,SWE,,SWE,,1879478,large_city,Svealand,Stockholm + Uppsala + Sodermanland + Vastmanland + Orebro counties
+913,SWE,,SWE,,345985,city,Ostergotland,Ostergotland county (Linkoping/Norrkoping)
+139,SWE,,SWE,,204437,rural,Smaland,Jonkoping + Kronoberg + Kalmar counties
+124,SWE,,SWE,,57800,small_island,Gotland,Gotland county
+38,SWE,,SWE,,266615,rural,Norrland,Gavleborg + Vasternorrland counties
+918,SWE,,SWE SMI,,197951,rural,Vasterbotten,Vasterbotten county
+666,SWE,,SWE SMI,,267788,rural,Norrbotten,Norrbotten county
+144,NOR,,NOR SMI,,132234,rural,Nordland,Nordland minus Helgeland (state 923)
+924,NOR,,NOR SMI,,182312,rural,Troms,Troms county
+925,NOR,,NOR SMI,,71454,pastoral,Finnmark,Finnmark county
+910,DEN,,DEN,,44100,small_island,Bornholm,Bornholm county

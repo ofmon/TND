@@ -1,0 +1,23 @@
+state = {
+	id = 1588
+	name = "STATE_1588" # Mato Grosso do Sul
+	manpower = 1727748
+	state_category = city
+	local_supplies = 0.0
+
+	history = {
+		owner = PAR
+		add_core_of = PAR
+		buildings = {
+			industrial_complex = 1
+			infrastructure = 3
+		}
+		victory_points = {
+			11023 10
+		}
+	}
+
+	provinces = {
+		11023
+	}
+}

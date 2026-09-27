@@ -1,7 +1,7 @@
 state = {
 	id = 101
 	name = "STATE_101"
-	manpower = 56653
+	manpower = 56124
 	resources = {
 		aluminium = 10.000
 	}
@@ -9,14 +9,15 @@ state = {
 	state_category = wasteland
 	
 	history = {
-		owner = GRN
+		owner = DEN
+		add_core_of = DEN
+		add_core_of = GRN
 		buildings = {
-			infrastructure = 1
+			infrastructure = 3
 			12512 ={
 				naval_base = 1
 			}
 		}
-		add_core_of = GRN
 
 		victory_points = { #Nuuk
 			12512 1

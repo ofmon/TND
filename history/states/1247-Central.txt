@@ -1,0 +1,20 @@
+state = {
+	id = 1247
+	name = "STATE_1247" # Central
+	manpower = 1465455
+	state_category = city
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.0
+
+	history = {
+		owner = ZAM
+		add_core_of = ZAM
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces = {
+		10930 12504
+	}
+}

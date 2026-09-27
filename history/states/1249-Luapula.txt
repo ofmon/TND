@@ -1,0 +1,20 @@
+state = {
+	id = 1249
+	name = "STATE_1249" # Luapula
+	manpower = 863525
+	state_category = town
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.0
+
+	history = {
+		owner = ZAM
+		add_core_of = ZAM
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces = {
+		10594
+	}
+}

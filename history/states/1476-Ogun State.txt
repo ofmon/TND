@@ -1,0 +1,21 @@
+state = {
+	id = 1476
+	name = "STATE_1476" # Ogun State
+	manpower = 6422276
+	state_category = metropolis
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.000
+
+	history = {
+		owner = NGA
+		add_core_of = NGA
+		buildings = {
+			industrial_complex = 1
+			infrastructure = 3
+		}
+	}
+
+	provinces = {
+		12731
+	}
+}

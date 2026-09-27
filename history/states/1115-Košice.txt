@@ -1,0 +1,22 @@
+state = {
+	id = 1115
+	name = "STATE_1115" # Košice
+	manpower = 670573
+	state_category = town
+
+	history = {
+		owner = SLO
+		add_core_of = SLO
+		buildings = {
+			industrial_complex = 1
+			infrastructure = 3
+		}
+		victory_points = {
+			6573 1 
+		}
+	}
+
+	provinces = {
+		3565 6573
+	}
+}

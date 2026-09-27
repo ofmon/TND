@@ -1,0 +1,19 @@
+state = {
+	id = 1258
+	name = "STATE_1258" # Bamyan
+	manpower = 339589
+	state_category = rural
+	local_supplies = 0.0
+
+	history = {
+		owner = AFG
+		add_core_of = AFG
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	provinces = {
+		7916
+	}
+}

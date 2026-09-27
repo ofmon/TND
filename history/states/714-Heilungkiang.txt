@@ -5,17 +5,24 @@ state={
 	history={
 		owner = PRC
 		add_core_of = PRC
+		add_core_of = MAN
+		add_core_of = CHI
+		add_claim_by = TAW
 		buildings = {
-			infrastructure = 4
+			industrial_complex = 1
+			infrastructure = 2
 
 		}
 
+		victory_points = {
+			10433 1 
+		}
 	}
 
 	provinces={
-		1502 1545 1588 1645 1693 1732 1847 4506 4592 4649 4809 4876 7526 7582 7613 7767 7832 7848 7873 7894 7897 10368 10379 10675 10698 12485 12548 12618 
+		1545 1588 1645 1693 1732 4506 4592 4649 7526 7582 7591 7613 7767 7832 7848 7897 9782 10368 10379 10433 10675 10698 12412 12485 12548 12618
 	}
-	manpower= 19310355
+	manpower = 26573599
 	buildings_max_level_factor=1.000
-	state_category=pastoral
+	state_category = large_town
 }

@@ -1,0 +1,19 @@
+state = {
+	id = 1403
+	name = "STATE_1403" # Delta Amacuro
+	manpower = 167769
+	state_category = rural
+	local_supplies = 0.0
+
+	history = {
+		owner = VEN
+		add_core_of = VEN
+		buildings = {
+			infrastructure = 3
+		}
+	}
+
+	provinces = {
+		1981 10767
+	}
+}

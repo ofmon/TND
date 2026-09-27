@@ -1,0 +1,49 @@
+characters = {
+	JAM_p_j_patterson = {
+		name = JAM_p_j_patterson
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_JAM_p_j_patterson
+			}
+		}
+		country_leader = {
+			ideology = socialism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	JAM_trevor_munroe = {
+		name = JAM_trevor_munroe
+		country_leader = {
+			ideology = Marxist-Leninist
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	JAM_edward_seaga = {
+		name = JAM_edward_seaga
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_JAM_edward_seaga
+			}
+		}
+		country_leader = {
+			ideology = fascism_ideology
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	JAM_howard_cooke = {
+		name = JAM_howard_cooke
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_JAM_howard_cooke
+			}
+		}
+		country_leader = {
+			ideology = moderatism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

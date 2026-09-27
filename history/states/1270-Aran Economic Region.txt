@@ -1,0 +1,20 @@
+state = {
+	id = 1270
+	name = "STATE_1270" # Aran Economic Region
+	manpower = 1792727
+	state_category = town
+	buildings_max_level_factor = 1.000
+
+	history = {
+		owner = AZR
+		add_core_of = AZR
+		buildings = {
+			industrial_complex = 1
+			infrastructure = 3
+		}
+	}
+
+	provinces = {
+		1536 4477 4614 11704
+	}
+}

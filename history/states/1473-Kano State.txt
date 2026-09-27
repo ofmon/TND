@@ -1,0 +1,21 @@
+state = {
+	id = 1473
+	name = "STATE_1473" # Kano State
+	manpower = 16033934
+	state_category = metropolis
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.000
+
+	history = {
+		owner = NGA
+		add_core_of = NGA
+		buildings = {
+			industrial_complex = 2
+			infrastructure = 3
+		}
+	}
+
+	provinces = {
+		4972
+	}
+}

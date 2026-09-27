@@ -1,0 +1,23 @@
+state = {
+	id = 1257
+	name = "STATE_1257" # Baghlan
+	manpower = 905365
+	state_category = town
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.000
+
+	history = {
+		owner = AFG
+		add_core_of = AFG
+		buildings = {
+			infrastructure = 2
+		}
+		victory_points = {
+			10781 1
+		}
+	}
+
+	provinces = {
+		10781 10852
+	}
+}

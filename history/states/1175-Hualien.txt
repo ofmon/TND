@@ -1,0 +1,19 @@
+state = {
+	id = 1175
+	name = "STATE_1175" # Hualien
+	manpower = 544718
+	state_category = town
+
+	history = {
+		owner = TAW
+		add_core_of = TAW
+		add_claim_by = PRC
+		buildings = {
+			infrastructure = 4
+		}
+	}
+
+	provinces = {
+		4096
+	}
+}

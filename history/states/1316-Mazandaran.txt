@@ -1,0 +1,20 @@
+state = {
+	id = 1316
+	name = "STATE_1316" # Mazandaran
+	manpower = 2711741
+	state_category = large_city
+	local_supplies = 0.0
+
+	history = {
+		owner = PER
+		add_core_of = PER
+		buildings = {
+			industrial_complex = 2
+			infrastructure = 4
+		}
+	}
+
+	provinces = {
+		4580 4637 10385 10768
+	}
+}

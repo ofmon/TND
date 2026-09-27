@@ -1,0 +1,24 @@
+state = {
+	id = 1693
+	name = "STATE_1693" # East Wales
+	manpower = 1914492
+	state_category = city
+	local_supplies = 0.0
+
+	history = {
+		owner = ENG
+		add_core_of = ENG
+		add_core_of = WLS
+		buildings = {
+			industrial_complex = 1
+			infrastructure = 5
+		}
+		victory_points = {
+			407 3 #Swansea
+		}
+	}
+
+	provinces = {
+		407 3274 6363 11361
+	}
+}

@@ -1,0 +1,31 @@
+state = {
+	id = 1022
+	name = "STATE_1022"
+
+	manpower = 1845607
+
+	impassable = yes 
+	force_link_ownership_to = 334 # Kalimantan
+	impassable_ignored_links = { 1024 } # Sabah
+
+	resources = {
+	}
+	
+	state_category = town
+
+	history = {
+		owner = INS
+		add_core_of = INS
+
+		buildings = {
+			infrastructure = 3
+		}
+
+	}
+
+	provinces = {
+		2170 2184 5176 7227 7424 8221 10138 10310 12280 12955
+	}
+
+	local_supplies = 0.0 
+}

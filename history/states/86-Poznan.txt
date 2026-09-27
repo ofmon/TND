@@ -1,0 +1,36 @@
+state = {
+	id = 86
+	name = "STATE_86"
+	manpower = 3331736
+
+	state_category = city
+	history = {
+		owner = POL
+		add_core_of = POL
+
+		victory_points = {
+			6558 10 # Poznan
+		}
+
+		buildings = {
+			industrial_complex = 2
+			infrastructure = 4
+			11232 = {
+				bunker = 1
+
+			}
+			9532 = {
+				bunker = 1
+
+			}
+			air_base = 3
+		}
+		
+	}
+
+	provinces = {
+		17 388 3460 3532 6558 9439 9532 11232 11260 11515 11558
+	}
+
+	local_supplies = 0.0 
+}

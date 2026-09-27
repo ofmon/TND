@@ -1,0 +1,26 @@
+characters = {
+	BHU_rongthong_kunley_dorji = {
+		name = BHU_rongthong_kunley_dorji
+		country_leader = {
+			ideology = liberalism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	BHU_comrade_umesh = {
+		name = BHU_comrade_umesh
+		country_leader = {
+			ideology = anti_revisionism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	BHU_lam_dorji = {
+		name = BHU_lam_dorji
+		country_leader = {
+			ideology = junta
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

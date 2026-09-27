@@ -1,0 +1,19 @@
+state = {
+	id = 1586
+	name = "STATE_1586" # Corrientes
+	manpower = 675231
+	state_category = town
+	local_supplies = 0.0
+
+	history = {
+		owner = PAR
+		add_core_of = PAR
+		buildings = {
+			infrastructure = 3
+		}
+	}
+
+	provinces = {
+		2173
+	}
+}

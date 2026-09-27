@@ -1,0 +1,25 @@
+
+state={
+	id=815
+	name="STATE_815"
+
+	history={
+		owner = LIT
+		add_core_of = LIT
+		victory_points = {
+			6229 1 #Panevezys
+		}
+		buildings = {
+			infrastructure = 3
+
+		}
+
+	}
+
+	provinces={
+		530 6229 9246 9374
+	}
+	manpower = 308977
+	buildings_max_level_factor=1.000
+	state_category = rural
+}

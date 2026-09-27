@@ -1,0 +1,18 @@
+state = {
+	id = 1412
+	name = "STATE_1412" # Grand Sud
+	manpower = 227698
+	state_category = rural
+
+	history = {
+		owner = ALG
+		add_core_of = ALG
+		buildings = {
+			infrastructure = 3
+		}
+	}
+
+	provinces = {
+		5095 10749
+	}
+}

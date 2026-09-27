@@ -1,0 +1,27 @@
+state = {
+	id = 1340
+	name = "STATE_1340" # East Black Sea
+	manpower = 2839137
+	state_category = large_city
+	local_supplies = 0.0
+
+	history = {
+		owner = TUR
+		add_core_of = TUR
+		buildings = {
+			industrial_complex = 2
+			infrastructure = 4
+			9932 = { naval_base = 2 }
+		}
+		victory_points = {
+			3979 3 
+		}
+		victory_points = {
+			9932 15
+		}
+	}
+
+	provinces = {
+		960 975 3714 3965 3979 7454 9932 11753 11894
+	}
+}

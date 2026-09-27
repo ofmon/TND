@@ -1,0 +1,19 @@
+state = {
+	id = 1419
+	name = "STATE_1419" # Bahr el Gazel
+	manpower = 349906
+	state_category = rural
+	buildings_max_level_factor = 1.000
+
+	history = {
+		owner = CHA
+		add_core_of = CHA
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	provinces = {
+		4897
+	}
+}

@@ -1,0 +1,23 @@
+state = {
+	id = 1283
+	name = "STATE_1283" # Babylon
+	manpower = 3601564
+	state_category = large_city
+	local_supplies = 6.0
+
+	history = {
+		owner = IRQ
+		add_core_of = IRQ
+		buildings = {
+			industrial_complex = 1
+			infrastructure = 3
+		}
+		victory_points = {
+			7994 1 # Karbala 
+		}
+	}
+
+	provinces = {
+		7994
+	}
+}

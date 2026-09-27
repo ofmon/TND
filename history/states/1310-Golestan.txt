@@ -1,0 +1,19 @@
+state = {
+	id = 1310
+	name = "STATE_1310" # Golestan
+	manpower = 1624074
+	state_category = city
+	local_supplies = 0.0
+
+	history = {
+		owner = PER
+		add_core_of = PER
+		buildings = {
+			infrastructure = 4
+		}
+	}
+
+	provinces = {
+		7602
+	}
+}

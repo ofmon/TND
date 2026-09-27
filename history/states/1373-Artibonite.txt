@@ -1,0 +1,19 @@
+state = {
+	id = 1373
+	name = "STATE_1373" # Artibonite
+	manpower = 2604753
+	state_category = city
+	local_supplies = 0.0
+
+	history = {
+		owner = HAI
+		add_core_of = HAI
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces = {
+		1594
+	}
+}

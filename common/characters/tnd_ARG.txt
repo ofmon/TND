@@ -1,0 +1,49 @@
+characters = {
+	ARG_fernando_de_la_rua = {
+		name = ARG_fernando_de_la_rua
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_ARG_fernando_de_la_rua
+			}
+		}
+		country_leader = {
+			ideology = liberalism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	ARG_patricio_echegaray = {
+		name = ARG_patricio_echegaray
+		country_leader = {
+			ideology = Marxist-Leninist
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	ARG_aldo_rico = {
+		name = ARG_aldo_rico
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_ARG_aldo_rico
+			}
+		}
+		country_leader = {
+			ideology = fascism_ideology
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	ARG_carlos_menem = {
+		name = ARG_carlos_menem
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_ARG_carlos_menem
+			}
+		}
+		country_leader = {
+			ideology = moderatism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

@@ -1,0 +1,41 @@
+characters = {
+	COL_manuel_marulanda = {
+		name = COL_manuel_marulanda
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_COL_manuel_marulanda
+			}
+		}
+		country_leader = {
+			ideology = Marxist-Leninist
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	COL_carlos_castano = {
+		name = COL_carlos_castano
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_COL_carlos_castano
+			}
+		}
+		country_leader = {
+			ideology = fascism_ideology
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	COL_noemi_sanin = {
+		name = COL_noemi_sanin
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_COL_noemi_sanin
+			}
+		}
+		country_leader = {
+			ideology = centrism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

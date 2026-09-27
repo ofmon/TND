@@ -1,0 +1,19 @@
+state = {
+	id = 1447
+	name = "STATE_1447" # Bas-Sassandra
+	manpower = 2987757
+	state_category = large_city
+
+	history = {
+		owner = IVO
+		add_core_of = IVO
+		buildings = {
+			industrial_complex = 1
+			infrastructure = 3
+		}
+	}
+
+	provinces = {
+		10762
+	}
+}

@@ -1,0 +1,21 @@
+state = {
+	id = 1715
+	name = "STATE_1715" # Friuli-Venezia Giulia
+	manpower = 989027
+	state_category = town
+	buildings_max_level_factor = 1.000
+	local_supplies = 5.0
+
+	history = {
+		owner = ITA
+		add_core_of = ITA
+		add_core_of = LBV
+		buildings = {
+			infrastructure = 4
+		}
+	}
+
+	provinces = {
+		628 9613
+	}
+}

@@ -1,0 +1,19 @@
+state = {
+	id = 1409
+	name = "STATE_1409" # Tachira
+	manpower = 1326830
+	state_category = large_city
+	local_supplies = 6.0
+
+	history = {
+		owner = VEN
+		add_core_of = VEN
+		buildings = {
+			infrastructure = 4
+		}
+	}
+
+	provinces = {
+		2052
+	}
+}

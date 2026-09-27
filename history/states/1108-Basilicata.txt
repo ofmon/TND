@@ -1,0 +1,19 @@
+state = {
+	id = 1108
+	name = "STATE_1108" # Basilicata
+	manpower = 958124
+	state_category = town
+	local_supplies = 13.0
+
+	history = {
+		owner = ITA
+		add_core_of = ITA
+		buildings = {
+			infrastructure = 4
+		}
+	}
+
+	provinces = {
+		3958 3968 6972 9856
+	}
+}

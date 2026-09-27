@@ -1,0 +1,41 @@
+characters = {
+	DEN_frank_aaen = {
+		name = DEN_frank_aaen
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_DEN_frank_aaen
+			}
+		}
+		country_leader = {
+			ideology = marxism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	DEN_pia_kjaersgaard = {
+		name = DEN_pia_kjaersgaard
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_DEN_pia_kjaersgaard
+			}
+		}
+		country_leader = {
+			ideology = fascism_ideology
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	DEN_margrethe_ii = {
+		name = DEN_margrethe_ii
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_DEN_margrethe_ii
+			}
+		}
+		country_leader = {
+			ideology = moderatism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

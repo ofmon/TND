@@ -8,7 +8,7 @@ characters = {
 			}
 		}
 		country_leader = {
-			ideology = socialism
+			ideology = moderatism
 			expire = "2030.1.1.1"
 			id = -1
 		}
@@ -18,8 +18,7 @@ characters = {
 		name = SLV_janez_drnovsek
 		portraits = {
 			civilian = {
-				large=GFX_portrait_SLV_janez_drnovsek_large
-                                small=GFX_portrait_SLV_janez_drnovsek_small
+				large = GFX_portrait_tnd_SLV_janez_drnovsek
 			}
 		}
 		country_leader = {
@@ -53,7 +52,7 @@ characters = {
 			}
 		}
 		country_leader = {
-			ideology = socialism 
+			ideology = marxism 
 			expire = "2030.1.1.1"
 			id = -1
 		}

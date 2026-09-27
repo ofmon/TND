@@ -1,0 +1,26 @@
+characters = {
+	PRC_wei_jingsheng = {
+		name = PRC_wei_jingsheng
+		country_leader = {
+			ideology = liberalism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	PRC_chi_haotian = {
+		name = PRC_chi_haotian
+		country_leader = {
+			ideology = junta
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	PRC_zhu_rongji = {
+		name = PRC_zhu_rongji
+		country_leader = {
+			ideology = oligarchism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

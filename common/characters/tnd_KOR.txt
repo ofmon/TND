@@ -1,0 +1,39 @@
+characters = {
+	KOR_kim_dae_jung = {
+		name = KOR_kim_dae_jung
+		country_leader = {
+			ideology = liberalism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	KOR_kwon_young_ghil = {
+		name = KOR_kwon_young_ghil
+		country_leader = {
+			ideology = marxism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	KOR_chun_doo_hwan = {
+		name = KOR_chun_doo_hwan
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_KOR_chun_doo_hwan
+			}
+		}
+		country_leader = {
+			ideology = junta
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	KOR_kim_jong_pil = {
+		name = KOR_kim_jong_pil
+		country_leader = {
+			ideology = oligarchism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

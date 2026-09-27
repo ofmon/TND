@@ -2,16 +2,17 @@ state=
 {
 	id=147
 	name="STATE_147" #SALLA
-	manpower = 4630
+	manpower = 3548
 	
-	state_category = enclave
+	state_category = wasteland
 	
 	history = {	
 		owner = SOV
-		buildings = {
-			infrastructure = 1 #TODO_Manu: Was 2
-		}
 		add_core_of = SOV
+		add_claim_by = FIN
+		buildings = {
+			infrastructure = 2 #TODO_Manu: Was 2
+		}
 		
 		victory_points = { #Salla
 			197 1
@@ -19,7 +20,7 @@ state=
 	}
 
 	provinces={
-		197 9158 11085 	
+		197 11085
 	}
 
 	local_supplies=0.0 

@@ -1,0 +1,36 @@
+characters = {
+	RWA_faustin_twagiramungu = {
+		name = RWA_faustin_twagiramungu
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_RWA_faustin_twagiramungu
+			}
+		}
+		country_leader = {
+			ideology = centrist
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	RWA_paul_rwarakabije = {
+		name = RWA_paul_rwarakabije
+		country_leader = {
+			ideology = junta
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	RWA_paul_kagame = {
+		name = RWA_paul_kagame
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_RWA_paul_kagame
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

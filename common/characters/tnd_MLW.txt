@@ -1,0 +1,49 @@
+characters = {
+	MLW_bakili_muluzi = {
+		name = MLW_bakili_muluzi
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_MLW_bakili_muluzi
+			}
+		}
+		country_leader = {
+			ideology = centrist
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	MLW_chakufwa_chihana = {
+		name = MLW_chakufwa_chihana
+		country_leader = {
+			ideology = marxism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	MLW_john_tembo = {
+		name = MLW_john_tembo
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_MLW_john_tembo
+			}
+		}
+		country_leader = {
+			ideology = junta
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	MLW_gwanda_chakuamba = {
+		name = MLW_gwanda_chakuamba
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_MLW_gwanda_chakuamba
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

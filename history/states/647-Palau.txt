@@ -3,13 +3,13 @@ state=
 	id=647
 	name="STATE_647"
 	state_category = small_island
-	manpower = 12100
+	manpower = 19000
 	history=
 	{
 		owner = PAU
 		add_core_of = PAU
 		buildings = {
-			infrastructure = 2
+			infrastructure = 3
 			air_base = 1
 			4357 = {
 				naval_base = 1

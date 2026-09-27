@@ -1,0 +1,19 @@
+state = {
+	id = 1584
+	name = "STATE_1584" # Esmeraldas
+	manpower = 921133
+	state_category = city
+	local_supplies = 0.0
+
+	history = {
+		owner = ECU
+		add_core_of = ECU
+		buildings = {
+			infrastructure = 3
+		}
+	}
+
+	provinces = {
+		8047
+	}
+}

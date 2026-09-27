@@ -1,0 +1,25 @@
+state = {
+	id = 1633
+	name = "STATE_1633" # Jambi
+	manpower = 2365392
+	state_category = city
+	local_supplies = 0.0
+
+	history = {
+		owner = INS
+		add_core_of = INS
+		buildings = {
+			infrastructure = 3
+		}
+		victory_points = {
+			10382 5
+		}
+		victory_points = {
+			12212 1
+		}
+	}
+
+	provinces = {
+		1332 1345 1533 7368 10225 10382 12212 12343
+	}
+}

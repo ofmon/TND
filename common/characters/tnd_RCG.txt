@@ -1,0 +1,49 @@
+characters = {
+	RCG_pascal_lissouba = {
+		name = RCG_pascal_lissouba
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_RCG_pascal_lissouba
+			}
+		}
+		country_leader = {
+			ideology = socialism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	RCG_ambroise_noumazalaye = {
+		name = RCG_ambroise_noumazalaye
+		country_leader = {
+			ideology = Marxist-Leninist
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	RCG_frederic_bintsamou = {
+		name = RCG_frederic_bintsamou
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_RCG_frederic_bintsamou
+			}
+		}
+		country_leader = {
+			ideology = junta
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	RCG_denis_sassou_nguesso = {
+		name = RCG_denis_sassou_nguesso
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_RCG_denis_sassou_nguesso
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

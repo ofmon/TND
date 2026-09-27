@@ -1,0 +1,33 @@
+
+state={
+	id=501
+	name="STATE_501"
+	manpower = 39760066
+	state_category = megalopolis
+
+	history={
+		owner = BRA
+		add_core_of = BRA
+		buildings = {
+			dockyard = 1
+			arms_factory = 1
+			industrial_complex = 12
+			infrastructure = 4 #was: 5
+			5112 = {
+				naval_base = 4
+			}
+		}		
+		victory_points = {
+			10513 20
+		}
+		victory_points = {
+			5112 10
+		}
+	}
+
+	provinces={
+		1583 5112 5167 5186 7553 7636 10360 10432 10513 10947 10994 11003 11008 12438 12937 12972
+	}
+
+	local_supplies=0.0 
+}

@@ -1,0 +1,18 @@
+state = {
+	id = 1451
+	name = "STATE_1451" # Worodougou
+	manpower = 630230
+	state_category = city
+
+	history = {
+		owner = IVO
+		add_core_of = IVO
+		buildings = {
+			infrastructure = 3
+		}
+	}
+
+	provinces = {
+		8065
+	}
+}

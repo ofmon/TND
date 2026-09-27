@@ -1,0 +1,25 @@
+state={
+	id=1056
+	name="STATE_1056"
+	resources={
+		rubber = 5
+	}
+
+	history={
+		owner = INS
+		add_core_of = INS
+		set_resistance = 0
+		buildings = {
+			infrastructure = 3
+		}
+
+	}
+
+	provinces={
+		4537 1518 12358 1484 1505 1098 4493 4307
+	}
+	manpower = 2306379
+	state_category = city
+
+	local_supplies=0.0 
+}

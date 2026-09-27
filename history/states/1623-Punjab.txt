@@ -1,0 +1,23 @@
+state = {
+	id = 1623
+	name = "STATE_1623" # Punjab
+	manpower = 21326634
+	state_category = metropolis
+	local_supplies = 0.0
+
+	history = {
+		owner = RAJ
+		add_core_of = RAJ
+		buildings = {
+			industrial_complex = 2
+			infrastructure = 3
+		}
+		victory_points = {
+			10729 3
+		}
+	}
+
+	provinces = {
+		2002 10729
+	}
+}

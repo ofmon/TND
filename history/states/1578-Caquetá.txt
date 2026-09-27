@@ -1,0 +1,19 @@
+state = {
+	id = 1578
+	name = "STATE_1578" # Caquetá
+	manpower = 1115349
+	state_category = city
+	local_supplies = 0.0
+
+	history = {
+		owner = COL
+		add_core_of = COL
+		buildings = {
+			infrastructure = 4
+		}
+	}
+
+	provinces = {
+		2007 2079
+	}
+}

@@ -2,7 +2,7 @@ state=
 {
 	id=69
 	name="STATE_69"
-	manpower = 2715289
+	manpower = 829662
 	
 	state_category = town
 	
@@ -11,42 +11,16 @@ state=
 	}
 	
 	history={
-		victory_points = {
-			3585 3
-		}
+		owner = CZE
+		add_core_of = CZE
 		#victory_points = {
 		#	11432 1
 		#}
-		victory_points = {
-			11401 3
-		}
-		owner = CZE
-		add_core_of = CZE
 		buildings = {
 			infrastructure = 4
-			industrial_complex = 2
+			industrial_complex = 1
 			anti_air_building = 1
-			424 =
-			{
-				bunker = 1
-			}
 			469 =
-			{
-				bunker = 1
-			}
-			3585 =
-			{
-				bunker = 1
-			}
-			5283 =
-			{
-				bunker = 1
-			}
-			6470 =
-			{
-				bunker = 1
-			}
-			9555 =
 			{
 				bunker = 1
 			}
@@ -59,7 +33,8 @@ state=
 	}
 	provinces=
 	{
-424 469 3418 3585 6470 9555 11401 11414 11432 	}
+		469 3418 11432
+	}
 
 	local_supplies=0.0 
 }

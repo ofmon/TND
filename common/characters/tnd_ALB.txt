@@ -1,0 +1,36 @@
+characters = {
+	ALB_hysni_milloshi = {
+		name = ALB_hysni_milloshi
+		country_leader = {
+			ideology = stalinism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	ALB_abaz_ermenji = {
+		name = ALB_abaz_ermenji
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_ALB_abaz_ermenji
+			}
+		}
+		country_leader = {
+			ideology = fascism_ideology
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	ALB_leka_zogu = {
+		name = ALB_leka_zogu
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_ALB_leka_zogu
+			}
+		}
+		country_leader = {
+			ideology = moderatism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

@@ -2,8 +2,8 @@
 state={
 	id=394
 	name="STATE_394"
-	manpower = 5892539
-	state_category = city
+	manpower = 5493921
+	state_category = large_city
 	
 	resources={
 		steel=53 # was: 84
@@ -11,11 +11,11 @@ state={
 
 	history={
 		owner = USA
-		buildings = {
-			infrastructure = 3 #was: 6
-			industrial_complex = 3
-		}
 		add_core_of = USA
+		buildings = {
+			infrastructure = 5 #was: 6
+			industrial_complex = 7
+		}
 		victory_points = {
 			12357 5 
 		}
@@ -23,7 +23,7 @@ state={
 	}
 
 	provinces={
-		703 926 1560 1760 1849 3699 4029 4166 4738 4834 7776 7829 9657 9678 10341 10526 12357 12456 
+		703 926 1560 1719 1760 1849 3699 4029 4166 4738 4834 7776 7829 9657 9678 10341 10526 12357 12456 12550
 	}
 
 	local_supplies=0.0 

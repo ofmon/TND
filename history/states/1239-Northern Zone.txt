@@ -1,0 +1,19 @@
+state = {
+	id = 1239
+	name = "STATE_1239" # Northern Zone
+	manpower = 5302973
+	state_category = large_city
+	buildings_max_level_factor = 1.000
+
+	history = {
+		owner = TZN
+		add_core_of = TZN
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces = {
+		2206 5224 8183
+	}
+}

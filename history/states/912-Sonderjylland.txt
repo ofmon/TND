@@ -1,0 +1,32 @@
+state = {
+	id = 912
+	name = "STATE_912"
+
+	manpower = 739874
+	state_category = town
+
+	history = {
+		owner = DEN
+		add_core_of = DEN
+		victory_points = {
+			13258 1 
+		}
+
+		buildings = {
+			infrastructure = 4
+			399 = { naval_base = 2 }
+		}
+		victory_points = {
+			399 2
+		}
+		victory_points = {
+			3277 1 
+		}
+	}
+
+	provinces={
+		332 399 3277 11251 13258 13263
+	}
+	
+	local_supplies=0.000
+}

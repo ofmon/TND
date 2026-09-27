@@ -1,0 +1,49 @@
+characters = {
+	CAP_carlos_veiga = {
+		name = CAP_carlos_veiga
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_CAP_carlos_veiga
+			}
+		}
+		country_leader = {
+			ideology = conservatism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	CAP_pedro_pires = {
+		name = CAP_pedro_pires
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_CAP_pedro_pires
+			}
+		}
+		country_leader = {
+			ideology = marxism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	CAP_silvino_da_luz = {
+		name = CAP_silvino_da_luz
+		country_leader = {
+			ideology = junta
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	CAP_antonio_mascarenhas_monteiro = {
+		name = CAP_antonio_mascarenhas_monteiro
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_CAP_antonio_mascarenhas_monteiro
+			}
+		}
+		country_leader = {
+			ideology = centrism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

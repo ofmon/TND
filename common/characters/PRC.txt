@@ -1,10 +1,9 @@
 characters={
 	PRC_jiang_zemin={
 		name=PRC_jiang_zemin
-		portraits={
-			civilian={
-				large=GFX_portrait_prc_jiang_zemin_large
-				small=GFX_portrait_prc_jiang_Zemin_small
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_PRC_jiang_zemin
 			}
 		}
 		country_leader={

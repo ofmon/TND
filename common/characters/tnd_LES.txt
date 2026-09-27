@@ -1,0 +1,49 @@
+characters = {
+	LES_pakalitha_mosisili = {
+		name = LES_pakalitha_mosisili
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_LES_pakalitha_mosisili
+			}
+		}
+		country_leader = {
+			ideology = centrist
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	LES_mokhafisi_kena = {
+		name = LES_mokhafisi_kena
+		country_leader = {
+			ideology = Marxist-Leninist
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	LES_justin_lekhanya = {
+		name = LES_justin_lekhanya
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_LES_justin_lekhanya
+			}
+		}
+		country_leader = {
+			ideology = junta
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	LES_letsie_iii = {
+		name = LES_letsie_iii
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_LES_letsie_iii
+			}
+		}
+		country_leader = {
+			ideology = moderatism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

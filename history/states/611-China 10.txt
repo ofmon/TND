@@ -1,24 +1,28 @@
-
-state={
-	id=611
-	name="STATE_611" # South Chahar
-	manpower = 4118908
+state = {
+	id = 611
+	name = "STATE_611" # South Chahar
+	manpower = 2882228
 	
-	state_category = pastoral
+	state_category = large_town
 
-	history={
+	history = {
 		owner = PRC
 		add_core_of = PRC
+		add_core_of = MEN
+		add_core_of = CHI
+		add_claim_by = TAW
+		add_claim_by = MON
+
 		buildings = {
-			infrastructure = 3
-			industrial_complex = 1
+			infrastructure = 2 #was 3
 		}
-		victory_points = {
-			11752 3
-		}
+
+		victory_points = { 11752 3 }
 	}
 
-	provinces={
-		828 952 1137 1489 1590 4495 4612 6904 7545 7674 9776 10397 11752 
+	provinces = {
+		4495 4612 7545 7674 11752 13379
 	}
+
+	local_supplies = 0.0 
 }

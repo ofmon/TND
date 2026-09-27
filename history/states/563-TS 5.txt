@@ -1,0 +1,31 @@
+
+state = {
+	id = 563
+	name = "STATE_563" # Chita
+	manpower = 1296477
+	state_category = rural
+	resources = {
+		steel=9 # was: 12
+		chromium=8 # was: 10
+	}
+
+	history = {
+		owner = SOV
+		add_core_of = SOV
+		add_core_of = FER
+		add_claim_by = BYA
+		victory_points = {
+			4705 1 
+		}
+		buildings = {
+			infrastructure = 3
+			air_base = 2
+		}
+	}
+
+	provinces = {
+		1666 1672 1696 1826 4677 4705 4719 4762 4766 4832 7725 7786 7816 7860 10559 10565 10574 10583 10643 10681 10683 12507 12556 12622 12641
+	}
+
+	local_supplies = 0.0 
+}

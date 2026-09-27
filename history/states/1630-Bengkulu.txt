@@ -1,0 +1,19 @@
+state = {
+	id = 1630
+	name = "STATE_1630" # Bengkulu
+	manpower = 1047913
+	state_category = town
+	local_supplies = 0.0
+
+	history = {
+		owner = INS
+		add_core_of = INS
+		buildings = {
+			infrastructure = 3
+		}
+	}
+
+	provinces = {
+		13395
+	}
+}

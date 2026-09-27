@@ -1,0 +1,19 @@
+state = {
+	id = 1357
+	name = "STATE_1357" # Norte de Santander
+	manpower = 2036007
+	state_category = large_city
+	local_supplies = 0.0
+
+	history = {
+		owner = COL
+		add_core_of = COL
+		buildings = {
+			infrastructure = 4
+		}
+	}
+
+	provinces = {
+		12845
+	}
+}

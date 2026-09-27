@@ -1,0 +1,30 @@
+
+state = {
+	id = 821
+	name = "STATE_821"
+	manpower = 1058054
+	
+	state_category = rural
+	
+	resources={
+		oil = 9 # was split from Dagestan which had 19 oil, and retained 10
+	}
+
+	history = {
+		owner = SOV
+		add_core_of = SOV
+		add_core_of = CIN
+		buildings = {
+			infrastructure = 3
+		}
+		victory_points = {
+			3672 5 
+		}
+	}
+
+	provinces = {
+		666 670 683 3667 3672 11632
+	}
+
+	local_supplies=0.0 
+}

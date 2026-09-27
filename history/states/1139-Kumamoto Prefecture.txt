@@ -1,0 +1,23 @@
+state = {
+	id = 1139
+	name = "STATE_1139" # Kumamoto Prefecture
+	manpower = 1824873
+	state_category = large_city
+	local_supplies = 10.0
+
+	history = {
+		owner = JAP
+		add_core_of = JAP
+		buildings = {
+			industrial_complex = 1
+			infrastructure = 5
+		}
+		victory_points = {
+			11925 5 # Kumamoto
+		}
+	}
+
+	provinces = {
+		1183 10020 11925 12006
+	}
+}

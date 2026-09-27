@@ -1,0 +1,18 @@
+state = {
+	id = 1333
+	name = "STATE_1333" # Daraa
+	manpower = 1116041
+	state_category = town
+
+	history = {
+		owner = SYR
+		add_core_of = SYR
+		buildings = {
+			infrastructure = 3
+		}
+	}
+
+	provinces = {
+		1074
+	}
+}

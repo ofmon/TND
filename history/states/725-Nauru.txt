@@ -1,14 +1,14 @@
 state={
 	id=725
 	name="STATE_725"
-	manpower=5785
+	manpower = 10000
 	state_category = tiny_island
 
 	history={
 		owner = NAU
 		add_core_of = NAU
 		buildings = {
-			infrastructure = 2
+			infrastructure = 3
 			13038 = {
 				naval_base = 1
 			}

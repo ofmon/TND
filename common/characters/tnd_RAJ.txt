@@ -1,0 +1,34 @@
+characters = {
+	RAJ_atal_bihari_vajpayee = {
+		name = RAJ_atal_bihari_vajpayee
+		country_leader = {
+			ideology = conservatism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	RAJ_harkishan_singh_surjeet = {
+		name = RAJ_harkishan_singh_surjeet
+		country_leader = {
+			ideology = Marxist-Leninist
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	RAJ_bal_thackeray = {
+		name = RAJ_bal_thackeray
+		country_leader = {
+			ideology = fascism_ideology
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	RAJ_sonia_gandhi = {
+		name = RAJ_sonia_gandhi
+		country_leader = {
+			ideology = centrism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

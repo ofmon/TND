@@ -1,0 +1,20 @@
+state = {
+	id = 1188
+	name = "STATE_1188" # Lunda Norte
+	manpower = 1377950
+	state_category = town
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.000
+
+	history = {
+		owner = ANG
+		add_core_of = ANG
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces = {
+		13371
+	}
+}

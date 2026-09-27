@@ -1,0 +1,36 @@
+characters = {
+	MLD_mohamed_nasheed = {
+		name = MLD_mohamed_nasheed
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_MLD_mohamed_nasheed
+			}
+		}
+		country_leader = {
+			ideology = liberalism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	MLD_abdullah_luthufee = {
+		name = MLD_abdullah_luthufee
+		country_leader = {
+			ideology = junta
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	MLD_maumoon_abdul_gayoom = {
+		name = MLD_maumoon_abdul_gayoom
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_MLD_maumoon_abdul_gayoom
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

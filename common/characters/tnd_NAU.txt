@@ -1,0 +1,49 @@
+characters = {
+	NAU_rene_harris = {
+		name = NAU_rene_harris
+		country_leader = {
+			ideology = indepedent
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	NAU_kinza_clodumar = {
+		name = NAU_kinza_clodumar
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_NAU_kinza_clodumar
+			}
+		}
+		country_leader = {
+			ideology = marxism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	NAU_ludwig_scotty = {
+		name = NAU_ludwig_scotty
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_NAU_ludwig_scotty
+			}
+		}
+		country_leader = {
+			ideology = fascism_ideology
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	NAU_bernard_dowiyogo = {
+		name = NAU_bernard_dowiyogo
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_NAU_bernard_dowiyogo
+			}
+		}
+		country_leader = {
+			ideology = centrism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

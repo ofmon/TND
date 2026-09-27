@@ -1,4 +1,4 @@
-﻿capital = 808
+capital = 808
 
 #oob = "LAT_2000"
 
@@ -17,9 +17,9 @@ set_technology = {
 	paratroopers = 1
 	gw_artillery = 1
 	
-	mass_assault = 1
-	fleet_in_being = 1
 }
+set_grand_doctrine = mass_assault
+set_grand_doctrine = new_fleet_in_being
 
 if = {
 	limit = {
@@ -103,24 +103,23 @@ set_popularities = {
 	neutrality = 3
 }
 
-recruit_character = LAT_vaira_vike_freiberga
-recruit_character = LAT_valdis_zatlers
-recruit_character = LAT_andris_berzins
-recruit_character = LAT_raimonds_vejonis
-recruit_character = LAT_egils_levits
-recruit_character = LAT_edgars_rinkevics
+#recruit_character = LAT_vaira_vike_freiberga
+#recruit_character = LAT_valdis_zatlers
+#recruit_character = LAT_andris_berzins
+#recruit_character = LAT_raimonds_vejonis
+#recruit_character = LAT_egils_levits
+#recruit_character = LAT_edgars_rinkevics
 
 2000.1.1 = {
 
-	create_country_leader = {
-		name = "Vaira Vike Freiberga"
-		desc = LAT_vaira_vike_freiberga_desc
-		picture = "gfx/leaders/LAT/portrait_lat_vaira_vike_freiberga.dds"
-		expire = "2030.1.1"
-		ideology = indepedent 
-		traits = {
+#	create_country_leader = {
+#		name = "Vaira Vike Freiberga"
+#		desc = LAT_vaira_vike_freiberga_desc
+#		picture = "gfx/leaders/LAT/portrait_lat_vaira_vike_freiberga.dds"
+#		expire = "2030.1.1"
+#		ideology = indepedent 
+#		traits = {
 			#
-		}
-	}
+#		}
+#	}
 }
-

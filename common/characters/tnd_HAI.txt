@@ -1,0 +1,49 @@
+characters = {
+	HAI_rene_preval = {
+		name = HAI_rene_preval
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_HAI_rene_preval
+			}
+		}
+		country_leader = {
+			ideology = socialism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	HAI_ben_dupuy = {
+		name = HAI_ben_dupuy
+		country_leader = {
+			ideology = marxism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	HAI_raoul_cedras = {
+		name = HAI_raoul_cedras
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_HAI_raoul_cedras
+			}
+		}
+		country_leader = {
+			ideology = junta
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	HAI_jean_bertrand_aristide = {
+		name = HAI_jean_bertrand_aristide
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_HAI_jean_bertrand_aristide
+			}
+		}
+		country_leader = {
+			ideology = moderatism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

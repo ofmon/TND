@@ -1,0 +1,49 @@
+characters = {
+	ECU_jamil_mahuad = {
+		name = ECU_jamil_mahuad
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_ECU_jamil_mahuad
+			}
+		}
+		country_leader = {
+			ideology = centrist
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	ECU_luis_villacis = {
+		name = ECU_luis_villacis
+		country_leader = {
+			ideology = anti_revisionism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	ECU_lucio_gutierrez = {
+		name = ECU_lucio_gutierrez
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_ECU_lucio_gutierrez
+			}
+		}
+		country_leader = {
+			ideology = junta
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	ECU_abdala_bucaram = {
+		name = ECU_abdala_bucaram
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_ECU_abdala_bucaram
+			}
+		}
+		country_leader = {
+			ideology = moderatism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

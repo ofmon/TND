@@ -1,0 +1,41 @@
+characters = {
+	NZL_sue_bradford = {
+		name = NZL_sue_bradford
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_NZL_sue_bradford
+			}
+		}
+		country_leader = {
+			ideology = marxism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	NZL_winston_peters = {
+		name = NZL_winston_peters
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_NZL_winston_peters
+			}
+		}
+		country_leader = {
+			ideology = fascism_ideology
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	NZL_michael_hardie_boys = {
+		name = NZL_michael_hardie_boys
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_NZL_michael_hardie_boys
+			}
+		}
+		country_leader = {
+			ideology = moderatism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

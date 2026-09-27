@@ -4,23 +4,23 @@ state = {
 
 	history = {
 		owner = SOV
+		add_core_of = SOV
+		add_core_of = YAK
 		victory_points = {
 			1819 1 
 		}
 		buildings = {
-			infrastructure = 1
+			infrastructure = 2
 		}
-		add_core_of = SOV
-		add_core_of = YAK
 
 	}
 
 	provinces = {
-		1819 4006 4229 4455 12592 13061
+		1819 4006 4229 4455 12592 13061 13062
 	}
-	manpower = 13090
+	manpower = 41649
 	buildings_max_level_factor = 1
-	state_category = "wasteland"
+	state_category = pastoral
 
 	local_supplies = 0.0 
 }

@@ -1,23 +1,31 @@
-state={
-	id=754
-	name="STATE_754"
-	provinces={
-		1882 4536 4888 7270 10490 10817 11448 12732 12815 
+state = {
+	id = 754
+	name = "STATE_754"
+	provinces = {
+		4888 11448 12732 13380
 	}
-	manpower=400000
-	buildings_max_level_factor=1.000
-	state_category = rural
-	history={
+	manpower = 3787208
+	buildings_max_level_factor = 1.000
+	state_category = metropolis
+	history = {
 		owner = PRC
 		add_core_of = PRC
-		victory_points = {
-			12732 3 
-		}
-		buildings = {
-			infrastructure = 1
-			industrial_complex = 1
-			arms_factory = 1
+		add_core_of = XSM
+		add_core_of = CHI
+		add_claim_by = TAW
+		add_claim_by = TIB
 
+		victory_points = {
+			11448 1 # Labrang
 		}
+
+		buildings = {
+			industrial_complex = 1
+			infrastructure = 3
+		}
+
+		victory_points = { 12732 3 }
 	}
+
+	local_supplies = 0.0 
 }

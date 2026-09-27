@@ -1,0 +1,44 @@
+characters = {
+	MLT_eddie_fenech_adami = {
+		name = MLT_eddie_fenech_adami
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_MLT_eddie_fenech_adami
+			}
+		}
+		country_leader = {
+			ideology = conservatism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	MLT_anthony_vassallo = {
+		name = MLT_anthony_vassallo
+		country_leader = {
+			ideology = Marxist-Leninist
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	MLT_norman_lowell = {
+		name = MLT_norman_lowell
+		country_leader = {
+			ideology = fascism_ideology
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	MLT_guido_de_marco = {
+		name = MLT_guido_de_marco
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_MLT_guido_de_marco
+			}
+		}
+		country_leader = {
+			ideology = moderatism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

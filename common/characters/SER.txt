@@ -134,13 +134,6 @@ characters={
 		}
 	}
 
-# TODO[ PORTRAIT LARGE ]: Missing large portrait please check!
-		portraits={
-			army={
-				small="GFX_idea_generic_political_advisor_europe_2"
-			}
-		}
-	}
 	SER_aa2={
 		advisor={
 			slot = high_command

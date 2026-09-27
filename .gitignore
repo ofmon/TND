@@ -1,0 +1,8 @@
+# tooling caches (regenerate with tools/province_geo.py / tools/export_state_table.py)
+tools/cache/
+tools/reports/smoke/
+__pycache__/
+*.pyc
+
+# Windows folder metadata
+desktop.ini

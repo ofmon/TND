@@ -1,0 +1,2 @@
+province,to_state,notes
+10440,new:turks_and_caicos,"Turks & Caicos (UK) - separate from the Bahamas since 1973; cache lat/lon 21.18,-72.64 is ambiguous vs Great Inagua, but pixel position calibrated on Nassau/San Juan gives ~21.8N 72.2W = Providenciales"

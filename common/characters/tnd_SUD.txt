@@ -1,0 +1,49 @@
+characters = {
+	SUD_sadiq_al_mahdi = {
+		name = SUD_sadiq_al_mahdi
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_SUD_sadiq_al_mahdi
+			}
+		}
+		country_leader = {
+			ideology = conservatism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	SUD_mohammed_ibrahim_nugud = {
+		name = SUD_mohammed_ibrahim_nugud
+		country_leader = {
+			ideology = marxism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	SUD_hassan_al_turabi = {
+		name = SUD_hassan_al_turabi
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_SUD_hassan_al_turabi
+			}
+		}
+		country_leader = {
+			ideology = fascism_ideology
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	SUD_omar_al_bashir = {
+		name = SUD_omar_al_bashir
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_SUD_omar_al_bashir
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

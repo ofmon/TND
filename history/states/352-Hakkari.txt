@@ -1,0 +1,31 @@
+
+state={
+	id=352
+	name="STATE_352" # Van
+	manpower = 769715
+
+	state_category = city
+
+	history={
+		owner = TUR
+		add_core_of = TUR
+		add_core_of = KUR
+		add_claim_by = ARM
+		victory_points = {
+			7530 1 
+		}
+		victory_points = {
+			10497 1 
+		}
+		buildings = {
+			infrastructure = 4
+		}
+	}
+
+	provinces={
+		7530 10497 11739
+	}
+
+	local_supplies=0.0 
+}
+

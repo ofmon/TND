@@ -2,9 +2,9 @@
 state={
 	id=776
 	name="STATE_776" # Benin/Dahomey
-	manpower = 13000000
+	manpower = 1604163
 	
-	state_category = pastoral
+	state_category = large_city
 	history={
 		owner = DAH
 		add_core_of = DAH
@@ -12,7 +12,7 @@ state={
 			10919 1
 		}
 		buildings = {
-			infrastructure = 3
+			infrastructure = 2
 			10919 = {
 				naval_base = 1
 			}
@@ -20,6 +20,6 @@ state={
 	}
 
 	provinces={
-		10919 12874 12762
+		10919
 	}
 }

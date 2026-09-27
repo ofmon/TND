@@ -1,0 +1,44 @@
+characters = {
+	GAM_ousainou_darboe = {
+		name = GAM_ousainou_darboe
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_GAM_ousainou_darboe
+			}
+		}
+		country_leader = {
+			ideology = liberalism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	GAM_sidia_jatta = {
+		name = GAM_sidia_jatta
+		country_leader = {
+			ideology = marxism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	GAM_edward_singhateh = {
+		name = GAM_edward_singhateh
+		country_leader = {
+			ideology = junta
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	GAM_yahya_jammeh = {
+		name = GAM_yahya_jammeh
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_GAM_yahya_jammeh
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

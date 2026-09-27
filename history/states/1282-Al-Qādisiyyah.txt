@@ -1,0 +1,20 @@
+state = {
+	id = 1282
+	name = "STATE_1282" # Al-Qādisiyyah
+	manpower = 1286834
+	state_category = city
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.000
+
+	history = {
+		owner = IRQ
+		add_core_of = IRQ
+		buildings = {
+			infrastructure = 3
+		}
+	}
+
+	provinces = {
+		2004
+	}
+}

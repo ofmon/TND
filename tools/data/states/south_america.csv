@@ -1,0 +1,77 @@
+id,owner,controller,cores,claims,manpower,category,name,notes
+278,ARG,,ARG,,17039527,megalopolis,,Census 2001 CABA 2.78M + Buenos Aires prov. 13.83M (Greater BA 12M); scaled x1.015 to INDEC 1 Jan 2000 estimate
+279,CHL,,CHL,,6528106,metropolis,,"Census 2002 regions RM, V (excl. Easter Is.), IV, VI, VII, VIII; scaled to INE 2000 estimate"
+280,BRA,,BRA,,3079264,town,,"IBGE 2000: Mato Grosso 2.504M + northern/eastern Mato Grosso do Sul in this state (Corumbá, Coxim, Três Lagoas) ~0.45M"
+299,ENG,,ENG,ARG,2900,enclave,,"2001 census 2,913; ARG claim"
+300,URG,,URG,,1759570,large_city,,"Montevideo, Canelones, Maldonado, San José, Colonia, Flores; 1996 census shares scaled to INE 2000 estimate 3.30M"
+301,PAR,,PAR,,1910676,large_city,,Eastern Region (2002 census share) scaled to DGEEC 2000 est. 5.3M; Asunción metro 1.3M
+302,BOL,,BOL,,1853037,large_city,,"Census 2001 La Paz (less far north), Oruro, Potosí, Chuquisaca, Tarija; scaled to INE 2000 est."
+303,PRU,,PRU,,11552047,megalopolis,,"INEI 2000 dept. estimates: Lima+Callao, Piura, Tumbes, Lambayeque, La Libertad, Cajamarca (less Jaén/San Ignacio), Áncash, Junín, Pasco"
+305,ECU,,ECU,,9049592,metropolis,,"INEC 2000 est. 12.3M (census 2001 12.16M) less Galápagos; Guayaquil 2.1M, Quito 1.6M"
+306,COL,,COL,,7332803,megalopolis,,"DANE 2005-based back-estimate for 2000 (national 40.3M, 493 in north_america.csv = 17.3M): Bogotá, Cundinamarca, Boyacá, Tolima, Huila, Valle, Cauca, Nariño, Eje Cafetero, Putumayo"
+309,SUR,,SUR,,470000,rural,,Suriname 2000 est. (census 2004 493k). SUR claims on Tigri/Maroni areas not modelled
+310,FRA,,FRA CAY,,158000,pastoral,,"INSEE 1999 census 157,213"
+486,COL,,COL,,521739,town,,"DANE 2005-based 2000 estimate: Orinoquía/Amazonía (Meta, Casanare, Arauca, Vichada, Guainía, Guaviare, Vaupés, Caquetá, Amazonas)"
+487,BOL,,BOL,,3302044,town,,"Census 2001 Cochabamba, Santa Cruz, Beni, Pando + northern La Paz; scaled to INE 2000 est."
+488,VEN,,VEN,,1243478,rural,,INE (2001 census shares): Bolívar + Amazonas
+490,PRU,,PRU,,1084800,rural,,"INEI 2000 dept. estimates: Maynas/northern Loreto (Iquitos), Amazonas dept. north (Bagua, Condorcanqui), Jaén/San Ignacio. Peru-Ecuador line per 1998 Brasília accord matches province layout - no split"
+491,PRU,,PRU,,794019,town,,"INEI 2000 dept. estimates: San Martín, southern Loreto, Chachapoyas area"
+492,PRU,,PRU,,1509654,large_city,,"INEI 2000 dept. estimates: Arequipa, Puno, Ica, Ayacucho, Apurímac, Huancavelica"
+494,PRU,,PRU,,1460789,city,,"INEI 2000 dept. estimates: Ucayali, Cusco, Madre de Dios, Huánuco"
+495,BRA,,BRA,,2376379,city,,"IBGE 2000: Amazonas 2.813M less interior slices in 961-968 (~0.27M) plus western Pará (Itaituba, Óbidos/Oriximiná) ~0.30M"
+496,BRA,,BRA,,14272217,metropolis,,IBGE 2000: Minas Gerais 17.89M (BH metro 4.3M)
+497,BRA,,BRA,,5651500,large_town,,IBGE 2000: Maranhão
+498,BRA,,BRA,,2429570,city,,IBGE 2000: Rio Grande do Norte
+499,BRA,,BRA,,13076107,large_city,,IBGE 2000: Bahia 13.07M + Sergipe 1.78M
+500,BRA,,BRA,,15282916,metropolis,,IBGE 2000: Rio de Janeiro state (metro 10.9M)
+501,BRA,,BRA,,39760066,megalopolis,,IBGE 2000: São Paulo state (Greater SP 17.9M)
+502,BRA,,BRA,,9199263,large_city,,IBGE 2000: Rio Grande do Sul
+503,BRA,,BRA,,6344937,city,,IBGE 2000: Santa Catarina
+504,BRA,,BRA,,2162687,large_town,,IBGE 2000: Mato Grosso do Sul 2.078M less northern MS in state 280
+505,BRA,,BRA,,6481057,metropolis,,IBGE 2000: Goiás 5.00M + Distrito Federal 2.05M (capital region)
+506,CHL,,CHL,BOL,495700,large_town,,Census 2002 II Antofagasta. BOL claim: Bolivia's constitutional claim to its former Litoral dept (live in 2000) - review; scaled to INE 2000 estimate
+507,CHL,,CHL,,151400,pastoral,,Census 2002 XII Magallanes; scaled to INE 2000 estimate
+508,ARG,,ARG,,1381210,large_town,,Census 2001 Tucumán + Catamarca; scaled x1.015 to INDEC 1 Jan 2000 estimate
+509,ARG,,ARG,,780122,city,,Census 2001 Chaco + Santiago del Estero; scaled x1.015 to INDEC 1 Jan 2000 estimate
+510,ARG,,ARG,,1052890,city,,Census 2001 Entre Ríos + Corrientes + Misiones; scaled x1.015 to INDEC 1 Jan 2000 estimate
+511,ARG,,ARG,,1424991,city,,Census 2001 Mendoza; scaled x1.015 to INDEC 1 Jan 2000 estimate
+512,ARG,,ARG,,492138,city,,Census 2001 Neuquén + Río Negro; scaled x1.015 to INDEC 1 Jan 2000 estimate. Removed undefined WLA core.
+649,ECU,,ECU,,17500,tiny_island,,"Galápagos (census 2001 18,640)"
+687,GYA,,GYA,VEN,745000,rural,,Guyana 2000 est. (census 2002 751k). VEN claims Essequibo (whole state)
+688,PAR,,PAR,,138100,pastoral,,Chaco: Pdte. Hayes + Boquerón + Alto Paraguay (2002 census share). All 5 provinces lie east of the 1938 Bolivia-Paraguay line - no split
+720,ENG,,ENG,ARG,20,tiny_island,,South Georgia & S. Sandwich: BAS staff/garrison only; ARG claim
+935,BRA,,BRA,,8956336,large_city,,IBGE 2000: Ceará (Fortaleza 3.0M)
+936,BRA,,BRA,,7325147,metropolis,,IBGE 2000: Pernambuco 7.92M + Paraíba 3.44M + Alagoas 2.82M
+937,BRA,,BRA,,2734465,large_town,,IBGE 2000: Piauí
+938,BRA,,BRA,,6503901,city,,IBGE 2000: Pará 6.19M less western Pará in 495/966/968 (~0.35M)
+939,BRA,,BRA,,477000,rural,,IBGE 2000: Amapá
+940,BRA,,BRA,,557500,rural,,IBGE 2000: Acre
+941,BRA,,BRA,,919700,city,,IBGE 2000: Tocantins
+942,BRA,,BRA,,1211747,rural,,IBGE 2000: Rondônia 1.38M less south-east corner in 965
+943,BRA,,BRA,,3097200,city,,IBGE 2000: Espírito Santo
+944,BRA,,BRA,,9563500,large_city,,IBGE 2000: Paraná
+945,URG,,URG,,344600,town,,"Florida, Lavalleja, Rocha, Treinta y Tres, Cerro Largo; 1996 census shares scaled to INE 2000 estimate 3.30M"
+946,URG,,URG,,705600,town,,"Durazno, Soriano, Río Negro, Paysandú, Salto, Artigas, Rivera, Tacuarembó; 1996 census shares scaled to INE 2000 estimate 3.30M"
+947,PRU,,PRU,,430200,town,,INEI 2000 dept. estimates: Tacna + Moquegua
+948,CHL,,CHL,,3700,small_island,,"Census 2002 Isla de Pascua 3,791. Removed undefined RAP core; scaled to INE 2000 estimate"
+949,CHL,,CHL,,85189,pastoral,,Census 2002 XI Aysén; scaled to INE 2000 estimate
+950,CHL,,CHL,,877917,city,,Census 2002 IX Araucanía + X Los Lagos; scaled to INE 2000 estimate
+951,CHL,,CHL,,430100,large_town,,"Census 2002 I Tarapacá (Arica, Iquique); scaled to INE 2000 estimate"
+952,CHL,,CHL,,255200,town,,Census 2002 III Atacama; scaled to INE 2000 estimate
+953,ARG,,ARG,,96790,pastoral,,Census 2001 Tierra del Fuego. Removed undefined WLA core; removed CHL claim (Southern Patagonian Ice Field settled by 1998 treaty); scaled x1.015 to INDEC 1 Jan 2000 estimate
+954,ARG,,ARG,,196517,rural,,Census 2001 Santa Cruz + Comodoro Rivadavia dept. (Chubut); scaled x1.015 to INDEC 1 Jan 2000 estimate
+955,ARG,,ARG,,280300,rural,,"Census 2001 Chubut less Comodoro Rivadavia dept. Removed undefined WLA core (Welsh Patagonia; tag not defined, and not a secessionist nation).; scaled x1.015 to INDEC 1 Jan 2000 estimate"
+956,ARG,,ARG,,2620649,city,,Census 2001 Santa Fe (Rosario 1.2M); scaled x1.015 to INDEC 1 Jan 2000 estimate
+957,ARG,,ARG,,501568,rural,,Census 2001 Formosa + Tartagal/north-east Salta (~60k); scaled x1.015 to INDEC 1 Jan 2000 estimate
+958,ARG,,ARG,,3367212,city,,Census 2001 Córdoba + San Luis + La Pampa; scaled x1.015 to INDEC 1 Jan 2000 estimate
+959,ARG,,ARG,,1141778,city,,Census 2001 Jujuy + Salta (less Tartagal area); scaled x1.015 to INDEC 1 Jan 2000 estimate
+960,ARG,,ARG,,584207,rural,,Census 2001 San Juan + La Rioja; scaled x1.015 to INDEC 1 Jan 2000 estimate
+961,BRA,,BRA,,20000,wasteland,,"IBGE 2000 municipal: Fonte Boa/Jutaí area, Amazonas (est.)"
+962,BRA,,BRA,,20000,wasteland,,"IBGE 2000 municipal: Borba/Novo Aripuanã interior, Amazonas (est.)"
+963,BRA,,BRA,,40000,wasteland,,"IBGE 2000 municipal: Lábrea/Canutama/Pauini, Amazonas (est.)"
+964,BRA,,BRA,,130000,wasteland,,"IBGE 2000 municipal: Juruá valley (Eirunepé, Carauari, Envira, Ipixuna), Amazonas (est.)"
+965,BRA,,BRA,,186808,pastoral,,IBGE 2000 municipal: Apuí/Manicoré interior (AM) + south-east Rondônia/north-west MT fringe (est.)
+966,BRA,,BRA,,30000,wasteland,,"IBGE 2000 municipal: Jacareacanga/upper Tapajós, Pará (est.)"
+967,BRA,,BRA,,86219,wasteland,,"IBGE 2000 municipal: Yanomami highlands, Roraima/Amazonas (est.)"
+968,BRA,,BRA,,37074,wasteland,,IBGE 2000 municipal: Nhamundá/Trombetas/Presidente Figueiredo + Tumucumaque (est.)
+969,BRA,,BRA,,314400,pastoral,,IBGE 2000: Roraima less Yanomami area in 967

@@ -1,10 +1,9 @@
 characters={
 	HOL_wim_kok={
 		name=HOL_wim_kok
-		portraits={
-			civilian={
-				large=GFX_portrait_HOL_wim_kok_large
-                                small=GFX_portrait_HOL_wim_kok_small
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_HOL_wim_kok
 			}
 		}
 		country_leader={

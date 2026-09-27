@@ -1,0 +1,20 @@
+state = {
+	id = 1170
+	name = "STATE_1170" # Ryanggang
+	manpower = 449843
+	state_category = rural
+	local_supplies = 0.0
+
+	history = {
+		owner = NRK
+		add_core_of = NRK
+		add_claim_by = KOR
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	provinces = {
+		3803 3904 9899
+	}
+}

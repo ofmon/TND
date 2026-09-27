@@ -47,22 +47,6 @@ characters={
 		}
 	}
 
-	JAP_junichiro_koizumi={
-		name=JAP_junichiro_koizumi
-		portraits={
-			civilian={
-				large=GFX_portrait_JAP_junichiro_koizumi_large
-                                small=GFX_portrait_JAP_junichiro_koizumi_small
-			}
-		}
-		country_leader={
-			ideology=conservatism 
-			traits={  }
-			expire="2030.1.1.1"
-			id=-1
-		}
-	}
-
 	JAP_shinzo_abe={
 		name=JAP_shinzo_abe
 		portraits={

@@ -2,24 +2,26 @@ state=
 {
 	id=102
 	name="STATE_102"
-	manpower = 811050 # was 1144300 before Ljubljana split
+	manpower = 1150021
 	
 	state_category = large_town
 	
 	history =
 	{
 		owner = SLV
+		add_core_of = SLV
+		add_core_of = YUG
+		add_claim_by = HUN
 		buildings = {
-			infrastructure = 3
+			industrial_complex = 3
+			infrastructure = 4
 		}
 		victory_points = {
 			665 1
 		}
-		add_core_of = YUG
-		add_core_of = SLV
 	}
 	provinces={
-		596 665 3631 3654 6672 9596
+		596 665 3654 6650 6672
 	}
 	
 	local_supplies=0.0 

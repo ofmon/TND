@@ -1,25 +1,26 @@
 state={
 	id=545
 	
-	state_category = pastoral
+	state_category = large_city
 	
 	name="STATE_545"
 
 	history={
 		owner = ZIM
+		add_core_of = ZIM
 		buildings = {
+			industrial_complex = 1
 			infrastructure = 3
 
 		}
 		victory_points = {
 			10929 1 
 		}
-		add_core_of = ZIM
 	}
 
 	provinces={
-		1874 2151 2216 4851 7842 10929
+		2216 10929
 	}
-	manpower=15990000
+	manpower = 5639499
 	buildings_max_level_factor=1.000
 }

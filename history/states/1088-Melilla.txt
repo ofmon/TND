@@ -1,0 +1,20 @@
+state = {
+	id = 1088
+	name = "STATE_1088" # Melilla
+	manpower = 66000
+	state_category = enclave
+
+	history = {
+		owner = SPR
+		add_core_of = SPR
+		add_claim_by = MOR
+		buildings = {
+			infrastructure = 4
+			12100 = { naval_base = 3 }
+		}
+	}
+
+	provinces = {
+		12100
+	}
+}

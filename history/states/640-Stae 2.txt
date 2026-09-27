@@ -1,30 +1,30 @@
+state = {
+	id = 640
+	name = "STATE_640"
 
-state={
-	id=640
-	name="STATE_640" # Mandalay
-	manpower = 3944600
-	
-	state_category = town
-	resources={
-		tungsten = 120 
+	resources = {
+		tungsten = 50 # was 120, 70 was moved to Shan
 	}
-	history={
-		add_core_of = BRM
+	
+	manpower = 4138722
+	state_category = city
+	
+	history = {
 		owner = BRM
+		add_core_of = BRM
+
 		buildings = {
-			infrastructure = 3
-			air_base = 1
-		}
-		victory_points = {
-			1492 1 
-		}
-		victory_points = {
-			4425 1 
+			industrial_complex = 1
+			infrastructure = 2
 		}
 
+		victory_points = { 1492 1 }
 	}
-	
-	provinces={
-		1082 1170 1197 1492 1566 1607 1934 2061 4087 4175 4210 4318 4425 4585 4588 4654 4996 7400 7469 7562 7603 7647 7909 7974 8063 10386 10486 10920 12317 12335 12363 12404 12464 12492 
+
+	provinces = {
+		1492 12404
 	}
+
+	local_supplies = 0.000
+	buildings_max_level_factor = 1.000
 }

@@ -1,0 +1,34 @@
+characters = {
+	SRL_chandrika_kumaratunga = {
+		name = SRL_chandrika_kumaratunga
+		country_leader = {
+			ideology = socialism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	SRL_somawansa_amarasinghe = {
+		name = SRL_somawansa_amarasinghe
+		country_leader = {
+			ideology = Marxist-Leninist
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	SRL_s_l_gunasekara = {
+		name = SRL_s_l_gunasekara
+		country_leader = {
+			ideology = fascism_ideology
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	SRL_ranil_wickremesinghe = {
+		name = SRL_ranil_wickremesinghe
+		country_leader = {
+			ideology = centrism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

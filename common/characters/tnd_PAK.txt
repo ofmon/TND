@@ -1,0 +1,31 @@
+characters = {
+	PAK_nawaz_sharif = {
+		name = PAK_nawaz_sharif
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_PAK_nawaz_sharif
+			}
+		}
+		country_leader = {
+			ideology = conservatism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	PAK_maula_bux_khaskheli = {
+		name = PAK_maula_bux_khaskheli
+		country_leader = {
+			ideology = marxism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	PAK_shah_mardan_shah_ii = {
+		name = PAK_shah_mardan_shah_ii
+		country_leader = {
+			ideology = moderatism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

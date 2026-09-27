@@ -1,0 +1,19 @@
+state = {
+	id = 1527
+	name = "STATE_1527" # Chelyabinsk
+	manpower = 130940
+	state_category = rural
+	buildings_max_level_factor = 1.000
+
+	history = {
+		owner = KAZ
+		add_core_of = KAZ
+		buildings = {
+			infrastructure = 3
+		}
+	}
+
+	provinces = {
+		4340 7429 12229
+	}
+}

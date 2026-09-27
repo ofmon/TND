@@ -1,0 +1,19 @@
+state = {
+	id = 1437
+	name = "STATE_1437" # Kolda
+	manpower = 339997
+	state_category = rural
+	buildings_max_level_factor = 1.000
+
+	history = {
+		owner = GAM
+		add_core_of = GAM
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces = {
+		13213
+	}
+}

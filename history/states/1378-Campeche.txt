@@ -1,0 +1,23 @@
+state = {
+	id = 1378
+	name = "STATE_1378" # Campeche
+	manpower = 531366
+	state_category = city
+	local_supplies = 0.0
+
+	history = {
+		owner = MEX
+		add_core_of = MEX
+		buildings = {
+			infrastructure = 4
+			4904 = { naval_base = 2 }
+		}
+		victory_points = {
+			4904 1
+		}
+	}
+
+	provinces = {
+		4904 12867
+	}
+}

@@ -1,0 +1,24 @@
+state = {
+	id = 1627
+	name = "STATE_1627" # Coastal
+	manpower = 1748389
+	state_category = city
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.0
+
+	history = {
+		owner = CAM
+		add_core_of = CAM
+		buildings = {
+			infrastructure = 2
+			7432 = { naval_base = 1 }
+		}
+		victory_points = {
+			7432 1 # Kompong Saom
+		}
+	}
+
+	provinces = {
+		4359 7404 7432 10289
+	}
+}

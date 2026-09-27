@@ -7,8 +7,11 @@ state={
 	history = {
 		owner = CAN
 		add_core_of = CAN
+		buildings = {
+			infrastructure = 3
+		}
 	}
-	manpower = 44412
+	manpower = 30095
 	state_category = wasteland
 	buildings_max_level_factor=1.000
 	local_supplies=0.000

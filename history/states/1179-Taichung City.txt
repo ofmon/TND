@@ -1,0 +1,22 @@
+state = {
+	id = 1179
+	name = "STATE_1179" # Taichung City
+	manpower = 6724748
+	state_category = metropolis
+
+	history = {
+		owner = TAW
+		add_core_of = TAW
+		add_claim_by = PRC
+		buildings = {
+			dockyard = 1
+			arms_factory = 1
+			industrial_complex = 7
+			infrastructure = 5
+		}
+	}
+
+	provinces = {
+		11959
+	}
+}

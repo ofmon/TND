@@ -1,0 +1,28 @@
+
+state={
+	id = 657
+	name = "STATE_657" # Birobidzhan
+	manpower = 760971
+	resources = {
+		steel=18 # was: 24
+	}
+
+	state_category = town
+
+	history = {
+		owner = SOV
+		add_core_of = SOV
+		add_core_of = FER
+		add_claim_by = PRC
+		buildings = {
+			infrastructure = 3
+			air_base = 2
+		}
+	}
+
+	provinces = {
+		1802 4725 4779 4829 7763 7801 10655 12654
+	}
+
+	local_supplies = 0.0 
+}

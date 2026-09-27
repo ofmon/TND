@@ -1,0 +1,29 @@
+state = {
+	id = 828
+	name = "STATE_828"
+	resources = {
+		chromium = 8 # was: 18 before split off from Caucasus mountains (233)
+	}
+
+	history = {
+		owner = SOV
+		add_core_of = SOV
+		add_core_of = NOA
+		buildings = {
+			infrastructure = 4
+
+		}
+		victory_points = {
+			9628 3
+		}
+	}
+
+	provinces = {
+		9628 9632 11609
+	}
+	manpower = 576660
+	buildings_max_level_factor = 1.000
+	state_category = city
+
+	local_supplies = 0.0 
+}

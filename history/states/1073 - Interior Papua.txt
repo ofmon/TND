@@ -1,0 +1,29 @@
+state = {
+	id = 1073
+	name = "STATE_1073"
+
+	manpower = 652507
+	state_category = rural
+
+	impassable = yes 
+	force_link_ownership_to = 523 # Papua 
+
+	history = {
+		owner = PNG
+		add_core_of = PNG
+
+		buildings = {
+			infrastructure = 2
+		}
+
+		victory_points = {
+			1283 1 # Daru
+		}
+	}
+
+	provinces = {
+		1283 1310 2129 4635 10147 12484
+	}
+
+	local_supplies = 0.0 
+}

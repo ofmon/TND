@@ -1,0 +1,28 @@
+characters = {
+	CZE_miroslav_grebenicek = {
+		name = CZE_miroslav_grebenicek
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_CZE_miroslav_grebenicek
+			}
+		}
+		country_leader = {
+			ideology = Marxist-Leninist
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	CZE_miroslav_sladek = {
+		name = CZE_miroslav_sladek
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_CZE_miroslav_sladek
+			}
+		}
+		country_leader = {
+			ideology = fascism_ideology
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

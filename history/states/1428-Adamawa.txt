@@ -1,0 +1,18 @@
+state = {
+	id = 1428
+	name = "STATE_1428" # Adamawa
+	manpower = 918924
+	state_category = city
+
+	history = {
+		owner = CMR
+		add_core_of = CMR
+		buildings = {
+			infrastructure = 3
+		}
+	}
+
+	provinces = {
+		9137
+	}
+}

@@ -1,27 +1,25 @@
 state = {
 	id = 836 # Bale
 	name = "STATE_836"
-	manpower = 800000
+	manpower = 2031093
 	resources = {
 	}
 	
-	state_category = pastoral
+	state_category = rural
 
 	history = {
+		owner = ETH
+		add_core_of = ETH
+		add_core_of = ORO
+		add_core_of = SOM
 		set_variable = { ETH_state_development_production_speed = -0.3 }
 		set_variable = { ETH_state_development_local_building_slots_factor = -0.3 }
 		#set_variable = { ETH_state_decentralization_defence = 0.2 }
 		#set_variable = { ETH_state_decentralization_infrastructure = -0.3 }
 		#set_variable = { ETH_state_decentralization_resources = -0.3 }
-		add_dynamic_modifier = {
-			modifier = ETH_state_development_dynamic_modifier
-		}
-		add_dynamic_modifier = {
-			modifier = ETH_state_decentralization_dynamic_modifier
-			scope = ETH
-		}
 		
 		buildings = {
+			infrastructure = 1
 			# infrastructure = 1
 		}
 		# Gaba
@@ -29,13 +27,11 @@ state = {
 			10775 1
 		}
 		
-		owner = ETH
-		add_core_of = ETH
 	}
 
 	provinces = {
- 		4995 10775 13248
- 	}
+		10775 13248
+	}
 
 	local_supplies = 0.0 
 }

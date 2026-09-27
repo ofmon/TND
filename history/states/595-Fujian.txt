@@ -1,15 +1,17 @@
 state= {
 	id=595
 	name="STATE_595"
-	manpower = 44026536
+	manpower = 35332463
 	state_category = city
 	history=
 	{
 		owner = PRC
 		add_core_of = PRC
+		add_core_of = CHI
+		add_claim_by = TAW
 		buildings = {
 			infrastructure = 3
-			industrial_complex = 1
+			industrial_complex = 3
 			7071 = {
 				naval_base = 1
 				coastal_bunker = 1
@@ -30,6 +32,6 @@ state= {
 
 	}
 	provinces={
-		1006 1094 1138 1166 1193 4053 4070 4113 4169 4196 7027 7071 7099 7131 10010 10012 10042 10054 10069 10084 10093 11986 12057 12084 
+		1006 1066 1094 1138 1166 1193 4053 4070 4113 4169 4196 7027 7071 7099 7131 10010 10012 10042 10054 10069 10084 10093 11986 12057 12084
 	}
 }

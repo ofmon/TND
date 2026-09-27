@@ -1,0 +1,19 @@
+state = {
+	id = 1394
+	name = "STATE_1394" # Veraguas
+	manpower = 287472
+	state_category = rural
+	local_supplies = 0.0
+
+	history = {
+		owner = PAN
+		add_core_of = PAN
+		buildings = {
+			infrastructure = 3
+		}
+	}
+
+	provinces = {
+		1633 4624
+	}
+}

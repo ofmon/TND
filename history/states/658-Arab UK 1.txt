@@ -2,30 +2,26 @@
 state={
 	id=658
 	name="STATE_658"
-	manpower = 9440000
+	manpower = 1313911
 	resources={
 		oil=5 # was: 6
 	}
 	
-	state_category = pastoral
-
+	state_category = metropolis
 
 	history={
-		add_core_of = UAE
 		owner = UAE
-		victory_points = {
-			7960 1 
-		}
+		add_core_of = UAE
+		add_claim_by = PER
 		buildings = {
-			infrastructure = 2
-			7960 = {
-				naval_base = 3
-			}
+			arms_factory = 1
+			industrial_complex = 6
+			infrastructure = 5
 		}
 
 	}
 
 	provinces={
-		2048 7960 8108 10904 
+		10904
 	}
 }

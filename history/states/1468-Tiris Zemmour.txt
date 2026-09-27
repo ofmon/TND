@@ -1,0 +1,18 @@
+state = {
+	id = 1468
+	name = "STATE_1468" # Tiris Zemmour
+	manpower = 49114
+	state_category = pastoral
+
+	history = {
+		owner = MRT
+		add_core_of = MRT
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	provinces = {
+		10779 10838
+	}
+}

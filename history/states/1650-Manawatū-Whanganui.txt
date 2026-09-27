@@ -1,0 +1,19 @@
+state = {
+	id = 1650
+	name = "STATE_1650" # Manawatū-Whanganui
+	manpower = 242605
+	state_category = rural
+	local_supplies = 0.0
+
+	history = {
+		owner = NZL
+		add_core_of = NZL
+		buildings = {
+			infrastructure = 4
+		}
+	}
+
+	provinces = {
+		1786 4804 7692 7783 12617
+	}
+}

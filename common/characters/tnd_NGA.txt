@@ -1,0 +1,54 @@
+characters = {
+	NGA_olusegun_obasanjo = {
+		name = NGA_olusegun_obasanjo
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_NGA_olusegun_obasanjo
+			}
+		}
+		country_leader = {
+			ideology = centrist
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	NGA_gani_fawehinmi = {
+		name = NGA_gani_fawehinmi
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_NGA_gani_fawehinmi
+			}
+		}
+		country_leader = {
+			ideology = marxism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	NGA_ibrahim_babangida = {
+		name = NGA_ibrahim_babangida
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_NGA_ibrahim_babangida
+			}
+		}
+		country_leader = {
+			ideology = junta
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	NGA_muhammadu_buhari = {
+		name = NGA_muhammadu_buhari
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_NGA_muhammadu_buhari
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

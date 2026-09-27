@@ -1,0 +1,19 @@
+state = {
+	id = 1119
+	name = "STATE_1119" # Deir ez-Zor
+	manpower = 720703
+	state_category = city
+
+	history = {
+		owner = SYR
+		add_core_of = SYR
+		add_core_of = KUR
+		buildings = {
+			infrastructure = 4
+		}
+	}
+
+	provinces = {
+		901 2013
+	}
+}

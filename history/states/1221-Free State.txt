@@ -1,0 +1,20 @@
+state = {
+	id = 1221
+	name = "STATE_1221" # Free State
+	manpower = 1629874
+	state_category = large_city
+	local_supplies = 0.0
+
+	history = {
+		owner = SAF
+		add_core_of = SAF
+		buildings = {
+			industrial_complex = 1
+			infrastructure = 4
+		}
+	}
+
+	provinces = {
+		12064 12648
+	}
+}

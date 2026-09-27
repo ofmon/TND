@@ -1,0 +1,21 @@
+state = {
+	id = 1201
+	name = "STATE_1201" # Somali
+	manpower = 625993
+	state_category = town
+	local_supplies = 0.0
+
+	history = {
+		owner = ETH
+		add_core_of = ETH
+		add_core_of = SID
+		add_core_of = ORO
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces = {
+		8062
+	}
+}

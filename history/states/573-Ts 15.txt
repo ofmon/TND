@@ -1,0 +1,29 @@
+
+state={
+	id=573
+	name="STATE_573" # Zlatoust
+	manpower = 473590
+	
+	state_category = rural
+	resources={
+		chromium=23 # was: 32
+	}
+
+	history={
+		owner = SOV
+		add_core_of = SOV
+		victory_points = {
+			10329 1
+		}
+		buildings = {
+			infrastructure = 3
+
+		}
+	}
+
+	provinces={
+		10329
+	}
+
+	local_supplies=7.0 
+}

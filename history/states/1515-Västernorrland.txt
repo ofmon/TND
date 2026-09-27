@@ -1,0 +1,23 @@
+state = {
+	id = 1515
+	name = "STATE_1515" # Västernorrland
+	manpower = 221712
+	state_category = rural
+	local_supplies = 0.000
+
+	history = {
+		owner = SWE
+		add_core_of = SWE
+		buildings = {
+			infrastructure = 4
+			130 = { naval_base = 1 }
+		}
+		victory_points = {
+			130 1 # Sundsvall
+		}
+	}
+
+	provinces = {
+		118 130 182 205 3108 6063 6067 9088 11185
+	}
+}

@@ -1,0 +1,54 @@
+characters = {
+	PRU_alberto_fujimori = {
+		name = PRU_alberto_fujimori
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_PRU_alberto_fujimori
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	PRU_alejandro_toledo = {
+		name = PRU_alejandro_toledo
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_PRU_alejandro_toledo
+			}
+		}
+		country_leader = {
+			ideology = centrist
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	PRU_abimael_guzman = {
+		name = PRU_abimael_guzman
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_PRU_abimael_guzman
+			}
+		}
+		country_leader = {
+			ideology = anti_revisionism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	PRU_antauro_humala = {
+		name = PRU_antauro_humala
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_PRU_antauro_humala
+			}
+		}
+		country_leader = {
+			ideology = fascism_ideology
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

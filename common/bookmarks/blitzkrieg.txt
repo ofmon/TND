@@ -14,11 +14,6 @@ bookmarks = {
 				FRA_disjointed_government
 				FRA_protected_by_the_maginot_line
 			}
-			focuses = {
-				FRA_strengthen_government_support
-				FRA_arms_purchases_in_the_us
-				FRA_french_union
-			}
 		}
 		USA = {
 			history = USA_BLITZKRIEG_DESC
@@ -29,11 +24,6 @@ bookmarks = {
 				air_war_plans_division_focus
 				USA_war_department
 				new_deal
-			}
-			focuses = {
-				USA_war_plan_black
-				USA_arsenal_of_democracy
-				USA_selective_training_act
 			}
 		}
 		ENG = {
@@ -46,11 +36,6 @@ bookmarks = {
 				british_austerity_idea
 				ENG_colonial_elite
 			}
-			focuses = {
-				ENG_war_with_japan
-				bomber_command_focus
-				maud_focus
-			}
 			
 		}
 		GER = {
@@ -62,11 +47,6 @@ bookmarks = {
 				GER_mefo_bills_15
 				GER_autarky_idea
 			}
-			focuses = {
-				GER_weserubung
-				GER_plan_z
-				GER_ussr_war_goal
-			}
 		}
 		ITA = {
 			history = ITA_BLITZKRIEG_DESC
@@ -76,11 +56,6 @@ bookmarks = {
 				ITA_camicie_nere
 				ITA_pact_of_steel
 			}
-			focuses = {
-				ITA_battaglioni_d_assalto
-				ITA_by_blood_alone
-				ITA_ferrea_mole_ferreo_cuore
-			}			
 		}
 		JAP = {
 			history = JAP_BLITZKRIEG_DESC
@@ -90,11 +65,6 @@ bookmarks = {
 				JAP_guide_the_zaibatsus
 				JAP_militarism
 			}	
-			focuses = {
-				JAP_the_zero
-				JAP_warrior_spirit
-				JAP_strike_on_the_southern_resource_area
-			}		
 		}
 		SOV = {
 			history = SOV_BLITZKRIEG_DESC
@@ -103,11 +73,6 @@ bookmarks = {
 				SOV_anti_soviet_military_thinking_banned_navy
 				SOV_second_five_year_plan_fake_1939_ns
 				SOV_purged_junior_army_officers_2
-			}
-			focuses = {
-				SOV_found_the_comecon
-				SOV_father_of_nations
-				SOV_patriarch_of_all_russia
 			}
 		}
 
@@ -137,11 +102,6 @@ bookmarks = {
 			ideas = {
 				AST_great_depression_1
 			}
-			focuses = {
-				AST_never_another_gallipoli
-				AST_support_indonesian_uprising
-				AST_delegation_to_china
-			}
 		}
 		"NZL"={
 			minor = yes
@@ -149,11 +109,6 @@ bookmarks = {
 			ideology = democratic
 			ideas = {
 				
-			}
-			focuses = {
-				NZL_bob_semple_tank
-				NZL_independent_new_zealand
-				NZL_maori_volunteers
 			}
 		}
 		"SAF"={
@@ -164,11 +119,6 @@ bookmarks = {
 				SAF_ossewabrandwag
 				SAF_history_of_segregation
 			}
-			focuses = {
-				SAF_secure_interests_in_africa
-				SAF_support_the_german_coup
-				SAF_anti_colonialist_crusade
-			}
 		}
 		"RAJ"={
 			minor = yes
@@ -177,11 +127,6 @@ bookmarks = {
 			ideas = {
 				RAJ_agrarian_society
 				RAJ_princely_states
-			}
-			focuses = {
-				RAJ_all_india_forward_bloc
-				RAJ_indian_gurkhas
-				RAJ_the_smiling_buddha
 			}
 		}
 		"HUN"={
@@ -192,11 +137,6 @@ bookmarks = {
 				HUN_treaty_of_triannon_3
 				HUN_interventionism
 				HUN_strengthen_fascists
-			}
-			focuses = {
-				HUN_elect_a_king
-				HUN_secret_rearmament
-				HUN_renounce_the_treaty_of_trianon
 			}
 		}
 
@@ -209,11 +149,6 @@ bookmarks = {
 				ROM_preserve_greater_romania
 				ROM_iron_guard
 			}
-			focuses = {
-				ROM_balkans_dominance
-				ROM_institute_royal_dictatorship
-				ROM_preserve_greater_romania
-			}
 		}
 		
 		"YUG"={
@@ -225,11 +160,6 @@ bookmarks = {
 				YUG_idea_croatian_opposition
 				YUG_idea_orthodox_church_support
 			}
-			focuses = {
-				YUG_join_axis
-				YUG_join_allies
-				YUG_the_ik_3
-			}
 		}
 		"CHI"={
 			minor = yes
@@ -239,11 +169,6 @@ bookmarks = {
 				CHI_army_corruption_2
 				CHI_hyper_inflation_1
 				CHI_nine_power_treaty
-			}
-			focuses = {
-				CHI_renegotiate_the_unequal_treaties
-				CHI_invite_the_flying_tigers
-				CHI_war_of_resistance
 			}
 		}
 		"PRC"={
@@ -255,11 +180,6 @@ bookmarks = {
 				PRC_low_popular_support_1
 				PRC_power_struggles
 			}
-			focuses = {
-				PRC_infiltration
-				PRC_maoism
-				PRC_anti_japanese_expedition
-			}
 		}
 		"MAN"={
 			minor = yes
@@ -270,11 +190,6 @@ bookmarks = {
 				MAN_five_year_plan_industry
 				MAN_low_legitimacy_4
 			}
-			focuses = {
-				MAN_alliance_with_the_kwantung_army
-				MAN_develop_aluminum_sources
-				MAN_the_two_emperors
-			}
 		}
 
 		"GXC"={
@@ -284,11 +199,6 @@ bookmarks = {
 			ideas = {
 				CHI_long_term_economic_planning
 			}
-			focuses = {
-				CHI_join_the_republican_government
-				CHI_power_struggle
-				CHI_heavy_weapons_development
-			}
 		}		
 		"YUN"={
 			minor = yes
@@ -297,11 +207,6 @@ bookmarks = {
 			ideas = {
 				CHI_long_term_economic_planning
 			}
-			focuses = {
-				CHI_join_the_republican_government
-				CHI_power_struggle
-				CHI_heavy_weapons_development
-			}
 		}		
 		"XSM"={
 			minor = yes
@@ -309,11 +214,6 @@ bookmarks = {
 			ideology = fascism
 			ideas = {
 				CHI_long_term_economic_planning
-			}
-			focuses = {
-				CHI_join_the_republican_government
-				CHI_power_struggle
-				CHI_heavy_weapons_development
 			}
 		}		
 		"SIK"={
@@ -324,11 +224,6 @@ bookmarks = {
 				CHI_long_term_economic_planning
 				CHI_ideological_education
 				CHI_land_value_tax
-			}
-			focuses = {
-				CHI_join_the_chinese_soviet
-				CHI_embrace_the_opium_trade
-				CHI_reform_the_administration
 			}
 		}
 
@@ -342,11 +237,6 @@ bookmarks = {
 				MEX_ejido_worker_militias
 				MEX_capital_reserves
 			}
-			focuses = {
-				MEX_focus_bolivarian_alliance
-				MEX_focus_aztec_eagles
-				MEX_focus_the_gold_shirts
-			}
 		}
 
 		"HOL"={
@@ -358,11 +248,6 @@ bookmarks = {
 				HOL_shell_shocked_spectator_5
 				HOL_de_crisisjaren_1
 			}
-			focuses = {
-				HOL_continue_the_war_in_batavia
-				HOL_liberation
-				HOL_prepare_the_inundation_lines
-			}
 		}
 
 		"SPR"={
@@ -372,11 +257,6 @@ bookmarks = {
 			ideas = {
 				SPA_carlism_4
 				SPA_recovering_from_civil_war
-			}
-			focuses = {
-				SPA_expand_the_axis_gold_trade
-				SPA_the_spanish_miracle
-				SPA_retake_gibraltar
 			}
 		}
 		
@@ -389,11 +269,6 @@ bookmarks = {
 				POR_colonial_assimilation_policy
 				POR_estado_novo
 			}
-			focuses = {
-				POR_the_fifth_empire
-				POR_mapa_cor_de_rosa
-				POR_the_kingdom_reunited
-			}
 		}
 		"BUL"={
 			minor = yes
@@ -403,11 +278,6 @@ bookmarks = {
 				BUL_bulgarian_irredentism
 				BUL_imro_01
 				BUL_national_industry_01
-			}
-			focuses = {
-				BUL_the_third_bulgarian_empire
-				BUL_the_return_of_ferdinand_i
-				BUL_bulgaria_on_the_three_seas
 			}
 		}
 
@@ -420,11 +290,6 @@ bookmarks = {
 				GRE_schachtplan
 				GRE_farmer_culture
 			}
-			focuses = {
-				GRE_reviving_the_spartan_warrior_spirit
-				GRE_following_in_the_footsteps_of_giants
-				GRE_the_greater_enosis
-			}
 		}
 
 		"TUR"={
@@ -436,11 +301,6 @@ bookmarks = {
 				TUR_sectarian_woes
 				TUR_disorganised_armed_forces_3
 			}
-			focuses = {
-				TUR_taking_over_defense_of_the_gulf
-				TUR_the_mediterranean_entente
-				TUR_misak_i_milli
-			}
 		}
 		"LIT"={
 			minor = yes
@@ -450,11 +310,6 @@ bookmarks = {
 				LIT_victory_in_trust_idea
 				LIT_invested_in_farms_1
 				BALTIC_forest_brothers_idea
-			}
-			focuses = {
-				LIT_prepare_forest_brothers
-				LIT_new_kind_of_iron_wolf
-				BALTIC_belarus_ssr
 			}
 		}
 		
@@ -467,11 +322,6 @@ bookmarks = {
 				LAT_the_sun_shines_equally_idea
 				LAT_paramilitary_idea_1
 			}
-			focuses = {
-				LAT_supply_forest_brothers
-				LAT_womens_aizsargi
-				BALTIC_revolutionary_cabinet
-			}
 		}
 		
 		"EST"={
@@ -483,11 +333,6 @@ bookmarks = {
 				EST_national_council_idea
 				EST_exploit_the_banks_idea
 			}
-			focuses = {
-				EST_forest_brothers
-				EST_formalize_baltic_entente
-				BALTIC_united_baltic_ssr
-			}
 		}
 		"POL"={
 			minor = yes
@@ -495,11 +340,6 @@ bookmarks = {
 			ideology = neutrality
 			ideas = {
 				deterrence
-			}
-			focuses = {
-				POL_the_baltic_alliance
-				POL_draw_closer_to_britain
-				POL_seek_accommodation_with_germany
 			}
 		}
 		"SWI"={
@@ -510,11 +350,6 @@ bookmarks = {
 				SWI_spirit_of_helvetia_aggressive_war
 				SWI_frontier_defense_plan_idea_3
 				SWI_mountaineer_paratroopers_idea
-			}
-			focuses = {
-				SWI_gotthard_union
-				SWI_promote_guisan
-				SWI_closer_ties_with_germany
 			}
 		}
 		effect = {

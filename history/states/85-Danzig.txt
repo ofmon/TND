@@ -1,30 +1,35 @@
 state={
 	id=85
 	name="STATE_85"
-	manpower = 366730
+	manpower = 1927323
 	
 	state_category = city
 	history={
 		owner = POL
+		add_core_of = POL
+		add_core_of = PRE
+		add_core_of = DNZ
+		add_core_of = KSH
+		add_claim_by = GER
 		victory_points = {
 			362 10
 		}
 		
 		buildings = {
-			infrastructure = 3
-			arms_factory = 2
-			industrial_complex = 1
-			dockyard = 3
+			infrastructure = 4
+			dockyard = 4
 			362 = {
 				naval_base = 5
 			}
+			9263 = { naval_base = 1 }
 		}
-		add_core_of = POL
-		add_core_of = DNZ
+		victory_points = {
+			9263 5 # Gdynia
+		}
 	}
 
 	provinces={
-		362
+		334 362 389 3380 9263
 	}
 
 	local_supplies=0.0 

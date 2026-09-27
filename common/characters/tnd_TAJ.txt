@@ -1,0 +1,31 @@
+characters = {
+	TAJ_said_abdullo_nuri = {
+		name = TAJ_said_abdullo_nuri
+		country_leader = {
+			ideology = conservatism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	TAJ_shodi_shabdolov = {
+		name = TAJ_shodi_shabdolov
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_TAJ_shodi_shabdolov
+			}
+		}
+		country_leader = {
+			ideology = marxism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	TAJ_mahmud_khudoiberdiyev = {
+		name = TAJ_mahmud_khudoiberdiyev
+		country_leader = {
+			ideology = junta
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

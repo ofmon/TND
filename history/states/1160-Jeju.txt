@@ -1,0 +1,20 @@
+state = {
+	id = 1160
+	name = "STATE_1160" # Jeju
+	manpower = 870910
+	state_category = city
+	local_supplies = 0.0
+
+	history = {
+		owner = KOR
+		add_core_of = KOR
+		add_claim_by = NRK
+		buildings = {
+			infrastructure = 4
+		}
+	}
+
+	provinces = {
+		1177
+	}
+}

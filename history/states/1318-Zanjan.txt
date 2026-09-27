@@ -1,0 +1,19 @@
+state = {
+	id = 1318
+	name = "STATE_1318" # Zanjan
+	manpower = 733941
+	state_category = town
+	local_supplies = 4.0
+
+	history = {
+		owner = PER
+		add_core_of = PER
+		buildings = {
+			infrastructure = 3
+		}
+	}
+
+	provinces = {
+		2071 4553
+	}
+}

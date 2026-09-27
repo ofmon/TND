@@ -1,14 +1,13 @@
 characters={
 	FRA_jacques_chirac={ #Democratic Leader
 		name=FRA_jacques_chirac
-		portraits={
-			civilian={
-				large= GFX_portrait_FRA_pierre_laval_large
-                                small= GFX_portrait_FRA_pierre_laval_small
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_FRA_jacques_chirac
 			}
 		}
 		country_leader={
-			ideology=liberalism
+			ideology=conservatism
 			expire="2019.9.29.1"
 			id=-1
 		}
@@ -24,7 +23,7 @@ characters={
 		}
 		country_leader={
 			ideology=liberalism
-			traits={ # }
+			traits={ }
 			expire="2030.1.1.1"
 			id=-1
 		}

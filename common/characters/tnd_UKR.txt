@@ -1,0 +1,28 @@
+characters = {
+	UKR_petro_symonenko = {
+		name = UKR_petro_symonenko
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_UKR_petro_symonenko
+			}
+		}
+		country_leader = {
+			ideology = Marxist-Leninist
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	UKR_andriy_shkil = {
+		name = UKR_andriy_shkil
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_UKR_andriy_shkil
+			}
+		}
+		country_leader = {
+			ideology = fascism_ideology
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

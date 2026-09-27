@@ -1,0 +1,19 @@
+state = {
+	id = 1726
+	name = "STATE_1726" # Sogn og Fjordane
+	manpower = 93952
+	state_category = pastoral
+	local_supplies = 0.0
+
+	history = {
+		owner = NOR
+		add_core_of = NOR
+		buildings = {
+			infrastructure = 3
+		}
+	}
+
+	provinces = {
+		188 199 3090 3180 3188 6204 6216 9047
+	}
+}

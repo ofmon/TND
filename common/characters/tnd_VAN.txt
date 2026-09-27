@@ -1,0 +1,49 @@
+characters = {
+	VAN_barak_sope = {
+		name = VAN_barak_sope
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_VAN_barak_sope
+			}
+		}
+		country_leader = {
+			ideology = socialism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	VAN_donald_kalpokas = {
+		name = VAN_donald_kalpokas
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_VAN_donald_kalpokas
+			}
+		}
+		country_leader = {
+			ideology = marxism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	VAN_maxime_carlot_korman = {
+		name = VAN_maxime_carlot_korman
+		country_leader = {
+			ideology = fascism_ideology
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	VAN_john_bani = {
+		name = VAN_john_bani
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_VAN_john_bani
+			}
+		}
+		country_leader = {
+			ideology = moderatism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

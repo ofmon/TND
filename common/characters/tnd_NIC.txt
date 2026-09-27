@@ -1,0 +1,36 @@
+characters = {
+	NIC_arnoldo_aleman = {
+		name = NIC_arnoldo_aleman
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_NIC_arnoldo_aleman
+			}
+		}
+		country_leader = {
+			ideology = conservatism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	NIC_anastasio_somoza_portocarrero = {
+		name = NIC_anastasio_somoza_portocarrero
+		country_leader = {
+			ideology = junta
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	NIC_violeta_chamorro = {
+		name = NIC_violeta_chamorro
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_NIC_violeta_chamorro
+			}
+		}
+		country_leader = {
+			ideology = centrism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

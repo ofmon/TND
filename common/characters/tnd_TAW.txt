@@ -1,0 +1,44 @@
+characters = {
+	TAW_lee_teng_hui = {
+		name = TAW_lee_teng_hui
+		country_leader = {
+			ideology = conservatism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	TAW_wu_rong_yuan = {
+		name = TAW_wu_rong_yuan
+		country_leader = {
+			ideology = marxism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	TAW_hau_pei_tsun = {
+		name = TAW_hau_pei_tsun
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_TAW_hau_pei_tsun
+			}
+		}
+		country_leader = {
+			ideology = junta
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	TAW_james_soong = {
+		name = TAW_james_soong
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_TAW_james_soong
+			}
+		}
+		country_leader = {
+			ideology = moderatism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

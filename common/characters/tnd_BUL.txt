@@ -1,0 +1,44 @@
+characters = {
+	BUL_ivan_kostov = {
+		name = BUL_ivan_kostov
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_BUL_ivan_kostov
+			}
+		}
+		country_leader = {
+			ideology = conservatism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	BUL_aleksandar_paunov = {
+		name = BUL_aleksandar_paunov
+		country_leader = {
+			ideology = Marxist-Leninist
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	BUL_krasimir_karakachanov = {
+		name = BUL_krasimir_karakachanov
+		country_leader = {
+			ideology = fascism_ideology
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	BUL_simeon_saxe_coburg_gotha = {
+		name = BUL_simeon_saxe_coburg_gotha
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_BUL_simeon_saxe_coburg_gotha
+			}
+		}
+		country_leader = {
+			ideology = moderatism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

@@ -1,0 +1,19 @@
+state = {
+	id = 1720
+	name = "STATE_1720" # Aust-Agder
+	manpower = 93035
+	state_category = pastoral
+	local_supplies = 0.000
+
+	history = {
+		owner = NOR
+		add_core_of = NOR
+		buildings = {
+			infrastructure = 3
+		}
+	}
+
+	provinces = {
+		3129 9196 11176
+	}
+}

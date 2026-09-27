@@ -1,0 +1,19 @@
+state = {
+	id = 1513
+	name = "STATE_1513" # Södermanland
+	manpower = 240709
+	state_category = rural
+	local_supplies = 0.0
+
+	history = {
+		owner = SWE
+		add_core_of = SWE
+		buildings = {
+			infrastructure = 4
+		}
+	}
+
+	provinces = {
+		9109 11082 11188
+	}
+}

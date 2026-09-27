@@ -1,0 +1,18 @@
+state = {
+	id = 1449
+	name = "STATE_1449" # N'zi-Comoé
+	manpower = 373354
+	state_category = large_city
+
+	history = {
+		owner = IVO
+		add_core_of = IVO
+		buildings = {
+			infrastructure = 3
+		}
+	}
+
+	provinces = {
+		8122
+	}
+}

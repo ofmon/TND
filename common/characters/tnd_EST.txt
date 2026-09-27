@@ -1,0 +1,36 @@
+characters = {
+	EST_mart_laar = {
+		name = EST_mart_laar
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_EST_mart_laar
+			}
+		}
+		country_leader = {
+			ideology = conservatism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	EST_tiit_toomsalu = {
+		name = EST_tiit_toomsalu
+		country_leader = {
+			ideology = marxism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	EST_tiit_madisson = {
+		name = EST_tiit_madisson
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_EST_tiit_madisson
+			}
+		}
+		country_leader = {
+			ideology = fascism_ideology
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

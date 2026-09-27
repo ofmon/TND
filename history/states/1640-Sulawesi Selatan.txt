@@ -1,0 +1,19 @@
+state = {
+	id = 1640
+	name = "STATE_1640" # Sulawesi Selatan
+	manpower = 1063441
+	state_category = town
+	local_supplies = 0.0
+
+	history = {
+		owner = INS
+		add_core_of = INS
+		buildings = {
+			infrastructure = 3
+		}
+	}
+
+	provinces = {
+		4308 7598
+	}
+}

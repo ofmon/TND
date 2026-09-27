@@ -1,0 +1,36 @@
+characters = {
+	AST_peter_symon = {
+		name = AST_peter_symon
+		country_leader = {
+			ideology = Marxist-Leninist
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	AST_pauline_hanson = {
+		name = AST_pauline_hanson
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_AST_pauline_hanson
+			}
+		}
+		country_leader = {
+			ideology = fascism_ideology
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	AST_william_deane = {
+		name = AST_william_deane
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_AST_william_deane
+			}
+		}
+		country_leader = {
+			ideology = moderatism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

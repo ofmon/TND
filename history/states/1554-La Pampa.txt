@@ -1,0 +1,19 @@
+state = {
+	id = 1554
+	name = "STATE_1554" # La Pampa
+	manpower = 299831
+	state_category = rural
+	local_supplies = 0.0
+
+	history = {
+		owner = ARG
+		add_core_of = ARG
+		buildings = {
+			infrastructure = 3
+		}
+	}
+
+	provinces = {
+		2149 7550 10935 12998
+	}
+}

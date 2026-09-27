@@ -1,0 +1,19 @@
+state = {
+	id = 1589
+	name = "STATE_1589" # Amazonas
+	manpower = 480681
+	state_category = rural
+	local_supplies = 0.0
+
+	history = {
+		owner = PRU
+		add_core_of = PRU
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces = {
+		5162
+	}
+}

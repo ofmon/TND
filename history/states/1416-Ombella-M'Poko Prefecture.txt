@@ -1,0 +1,21 @@
+state = {
+	id = 1416
+	name = "STATE_1416" # Ombella-M'Poko Prefecture
+	manpower = 779840
+	state_category = town
+
+	history = {
+		owner = CAR
+		add_core_of = CAR
+		buildings = {
+			infrastructure = 2
+		}
+		victory_points = {
+			12830 1
+		}
+	}
+
+	provinces = {
+		12830
+	}
+}

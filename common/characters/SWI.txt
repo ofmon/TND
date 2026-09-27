@@ -15,10 +15,9 @@ characters={
 
 	SWI_adolf_ogi={
 		name=SWI_adolf_ogi
-		portraits={
-			civilian={
-				large=GFX_portrait_SWI_Adolf_Ogi_large
-				small=GFX_portrait_SWI_Adolf_Ogi_small
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_SWI_adolf_ogi
 			}
 		}
 		country_leader={

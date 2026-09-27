@@ -9,28 +9,26 @@ state={
 
 	history={
 		owner = MON
+		add_core_of = MON
+		add_claim_by = PRC
+		add_claim_by = TAW
 		victory_points = {
 			4801 10
 		}
-		victory_points = {
-			7799 1 
-		}
 		buildings = {
-			infrastructure = 1
-			arms_factory = 1
-			industrial_complex = 3
+			infrastructure = 3
+			industrial_complex = 1
 			air_base = 1
 
 		}
-		add_core_of = MON
 
 	}
 
 	provinces={
-		1725 1728 1798 1859 4697 4732 4801 4862 7799 7881 10554 10623 12605 12675 
+		4732 4801 7717 10554 12605
 	}
-	manpower= 2110868
+	manpower = 698261
 	buildings_max_level_factor=1.000
-	state_category=large_town
+	state_category = city
 	local_supplies=0.000
 }

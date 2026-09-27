@@ -1,0 +1,18 @@
+state = {
+	id = 1216
+	name = "STATE_1216" # Likouala
+	manpower = 829244
+	state_category = town
+
+	history = {
+		owner = RCG
+		add_core_of = RCG
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces = {
+		6008
+	}
+}

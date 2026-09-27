@@ -2,7 +2,7 @@
 state={
 	id=309
 	name="STATE_309"
-	manpower = 612985
+	manpower = 470000
 
 	resources={
 		aluminium=60 # was: 104
@@ -11,14 +11,13 @@ state={
 	state_category = rural
 
 	history={
-		add_core_of = SUR
 		owner = SUR
+		add_core_of = SUR
 		victory_points = {
 			10906 1
 		}
 		buildings = {
 			infrastructure = 3
-			industrial_complex = 1
 			12828 = {
 				naval_base = 1
 			}

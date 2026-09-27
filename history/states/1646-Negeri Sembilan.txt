@@ -1,0 +1,22 @@
+state = {
+	id = 1646
+	name = "STATE_1646" # Negeri Sembilan
+	manpower = 920557
+	state_category = city
+	local_supplies = 0.0
+
+	history = {
+		owner = MAL
+		add_core_of = MAL
+		buildings = {
+			infrastructure = 4
+		}
+		victory_points = {
+			4412 1 # Seremban 
+		}
+	}
+
+	provinces = {
+		4412
+	}
+}

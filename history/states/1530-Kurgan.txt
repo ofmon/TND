@@ -1,0 +1,18 @@
+state = {
+	id = 1530
+	name = "STATE_1530" # Kurgan
+	manpower = 39068
+	state_category = pastoral
+
+	history = {
+		owner = KAZ
+		add_core_of = KAZ
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces = {
+		1694 12185
+	}
+}

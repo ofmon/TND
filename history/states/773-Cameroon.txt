@@ -2,16 +2,13 @@
 state={
 	id=773
 	name="STATE_773" # Cameroon
-	manpower = 27200000
+	manpower = 4069385
 	
-	state_category = rural
+	state_category = large_city
 
 	history={
 		owner = CMR
 		add_core_of = CMR
-		victory_points = {
-			2080 1
-		}
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 1
@@ -24,6 +21,6 @@ state={
 	}
 
 	provinces={
-		2080 5036 5054 6039 7963 9137 11194 
+		6039 7978
 	}
 }

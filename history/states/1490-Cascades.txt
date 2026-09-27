@@ -1,0 +1,18 @@
+state = {
+	id = 1490
+	name = "STATE_1490" # Cascades
+	manpower = 1032935
+	state_category = town
+
+	history = {
+		owner = VOL
+		add_core_of = VOL
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces = {
+		8071
+	}
+}

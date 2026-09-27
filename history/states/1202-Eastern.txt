@@ -1,0 +1,21 @@
+state = {
+	id = 1202
+	name = "STATE_1202" # Eastern
+	manpower = 5573210
+	state_category = city
+	buildings_max_level_factor = 1.000
+	local_supplies = 6.000
+
+	history = {
+		owner = KEN
+		add_core_of = KEN
+		buildings = {
+			industrial_complex = 1
+			infrastructure = 3
+		}
+	}
+
+	provinces = {
+		2066 5079 10962
+	}
+}

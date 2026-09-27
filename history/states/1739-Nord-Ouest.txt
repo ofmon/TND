@@ -1,0 +1,18 @@
+state = {
+	id = 1739
+	name = "STATE_1739" # Nord-Ouest
+	manpower = 1070196
+	state_category = town
+
+	history = {
+		owner = TUN
+		add_core_of = TUN
+		buildings = {
+			infrastructure = 3
+		}
+	}
+
+	provinces = {
+		1046 4163
+	}
+}

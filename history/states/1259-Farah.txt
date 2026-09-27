@@ -1,0 +1,23 @@
+state = {
+	id = 1259
+	name = "STATE_1259" # Farah
+	manpower = 347670
+	state_category = rural
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.000
+
+	history = {
+		owner = AFG
+		add_core_of = AFG
+		buildings = {
+			infrastructure = 1
+		}
+		victory_points = {
+			2017 1
+		}
+	}
+
+	provinces = {
+		2017
+	}
+}

@@ -1,0 +1,29 @@
+state = {
+	id = 1182
+	name = "STATE_1182" # Northeast
+	manpower = 9081721
+	state_category = metropolis
+	local_supplies = 0.0
+
+	history = {
+		owner = VIN
+		add_core_of = VIN
+		buildings = {
+			industrial_complex = 1
+			infrastructure = 3
+		}
+		victory_points = {
+			9948 1 # Lang Son 
+		}
+		victory_points = {
+			12065 1 # Cao Bang 
+		}
+		victory_points = {
+			12319 1 # Lào Cai
+		}
+	}
+
+	provinces = {
+		1073 1157 7015 7093 7518 9948 10075 12008 12048 12065 12075 12319
+	}
+}

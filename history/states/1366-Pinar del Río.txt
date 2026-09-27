@@ -1,0 +1,19 @@
+state = {
+	id = 1366
+	name = "STATE_1366" # Pinar del Río
+	manpower = 796537
+	state_category = town
+	local_supplies = 0.0
+
+	history = {
+		owner = CUB
+		add_core_of = CUB
+		buildings = {
+			infrastructure = 3
+		}
+	}
+
+	provinces = {
+		4600
+	}
+}

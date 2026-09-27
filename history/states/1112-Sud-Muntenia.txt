@@ -1,0 +1,23 @@
+state = {
+	id = 1112
+	name = "STATE_1112" # Sud-Muntenia
+	manpower = 3825048
+	state_category = city
+	local_supplies = 0.0
+
+	history = {
+		owner = ROM
+		add_core_of = ROM
+		buildings = {
+			industrial_complex = 2
+			infrastructure = 4
+		}
+		victory_points = { 
+			3663 5 
+		}
+	}
+
+	provinces = {
+		660 674 818 3636 3639 3663 6658 6677 6695 11603 11619
+	}
+}

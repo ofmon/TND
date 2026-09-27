@@ -1,0 +1,49 @@
+characters = {
+	GNB_malam_bacai_sanha = {
+		name = GNB_malam_bacai_sanha
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_GNB_malam_bacai_sanha
+			}
+		}
+		country_leader = {
+			ideology = socialism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	GNB_joao_bernardo_vieira = {
+		name = GNB_joao_bernardo_vieira
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_GNB_joao_bernardo_vieira
+			}
+		}
+		country_leader = {
+			ideology = marxism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	GNB_ansumane_mane = {
+		name = GNB_ansumane_mane
+		country_leader = {
+			ideology = junta
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	GNB_kumba_iala = {
+		name = GNB_kumba_iala
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_GNB_kumba_iala
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

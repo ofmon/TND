@@ -1,0 +1,23 @@
+state = {
+	id = 1681
+	name = "STATE_1681" # East Flanders
+	manpower = 1657768
+	state_category = city
+	local_supplies = 0.0
+
+	history = {
+		owner = BEL
+		add_core_of = BEL
+		buildings = {
+			industrial_complex = 3
+			infrastructure = 5
+			6560 = { naval_base = 3 }
+		}
+		victory_points = { 3576 1 }
+		victory_points = { 6560 5 }
+	}
+
+	provinces = {
+		3576 6560
+	}
+}

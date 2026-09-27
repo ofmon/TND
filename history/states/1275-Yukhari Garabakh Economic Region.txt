@@ -1,0 +1,19 @@
+state = {
+	id = 1275
+	name = "STATE_1275" # Yukhari Garabakh Economic Region
+	manpower = 435867
+	state_category = rural
+	buildings_max_level_factor = 1.000
+
+	history = {
+		owner = AZR
+		add_core_of = AZR
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces = {
+		1610 9715
+	}
+}

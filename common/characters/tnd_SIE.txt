@@ -1,0 +1,44 @@
+characters = {
+	SIE_ahmad_tejan_kabbah = {
+		name = SIE_ahmad_tejan_kabbah
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_SIE_ahmad_tejan_kabbah
+			}
+		}
+		country_leader = {
+			ideology = centrist
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	SIE_pallo_bangura = {
+		name = SIE_pallo_bangura
+		country_leader = {
+			ideology = marxism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	SIE_foday_sankoh = {
+		name = SIE_foday_sankoh
+		country_leader = {
+			ideology = junta
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	SIE_johnny_paul_koroma = {
+		name = SIE_johnny_paul_koroma
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_SIE_johnny_paul_koroma
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

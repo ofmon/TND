@@ -1,0 +1,23 @@
+state = {
+	id = 1662
+	name = "STATE_1662" # East New Britain
+	manpower = 104892
+	state_category = rural
+	buildings_max_level_factor = 1
+
+	history = {
+		owner = PNG
+		add_core_of = PNG
+		buildings = {
+			infrastructure = 2
+			7251 = { naval_base = 5 }
+		}
+		victory_points = {
+			7251 5 
+		}
+	}
+
+	provinces = {
+		7251 10166 10206
+	}
+}

@@ -1,0 +1,41 @@
+characters = {
+	ENG_robert_griffiths = {
+		name = ENG_robert_griffiths
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_ENG_robert_griffiths
+			}
+		}
+		country_leader = {
+			ideology = Marxist-Leninist
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	ENG_nick_griffin = {
+		name = ENG_nick_griffin
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_ENG_nick_griffin
+			}
+		}
+		country_leader = {
+			ideology = fascism_ideology
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	ENG_elizabeth_ii = {
+		name = ENG_elizabeth_ii
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_ENG_elizabeth_ii
+			}
+		}
+		country_leader = {
+			ideology = moderatism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

@@ -1,0 +1,43 @@
+state = {
+	id = 1066
+	name = "STATE_1066"
+	resources = {
+		rubber = 33 # was: 94.000
+	}
+
+	manpower = 16404078
+	buildings_max_level_factor=1.000
+	state_category = megalopolis
+
+	history = {
+		owner = VIN
+		add_core_of = VIN
+		add_claim_by = CAM
+
+		victory_points = {
+			4401 5 # Saigon
+		}
+
+		buildings = {
+
+			infrastructure = 3
+			industrial_complex = 2
+			air_base = 2
+
+			4401 = {
+				naval_base = 4
+			}
+
+		}
+
+		victory_points = {
+			12204 1 # Phan Rang
+		}
+	}
+
+	provinces = {
+		4401 7238 7347 10232 10261 12204 12232
+	}
+
+	local_supplies=0.0 
+}

@@ -1,0 +1,22 @@
+state = {
+	id = 1553
+	name = "STATE_1553" # Jujuy
+	manpower = 636653
+	state_category = town
+	local_supplies = 0.0
+
+	history = {
+		owner = ARG
+		add_core_of = ARG
+		buildings = {
+			infrastructure = 3
+		}
+		victory_points = {
+			2224 5 
+		}
+	}
+
+	provinces = {
+		2224
+	}
+}

@@ -1,0 +1,28 @@
+characters = {
+	SLV_zmago_jelincic = {
+		name = SLV_zmago_jelincic
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_SLV_zmago_jelincic
+			}
+		}
+		country_leader = {
+			ideology = fascism_ideology
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	SLV_milan_kucan = {
+		name = SLV_milan_kucan
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_SLV_milan_kucan
+			}
+		}
+		country_leader = {
+			ideology = moderatism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

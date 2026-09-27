@@ -1,0 +1,22 @@
+state = {
+	id = 1648
+	name = "STATE_1648" # Bay of Plenty
+	manpower = 273879
+	state_category = rural
+	local_supplies = 0.0
+
+	history = {
+		owner = NZL
+		add_core_of = NZL
+		buildings = {
+			infrastructure = 4
+		}
+		victory_points = {
+			4718 1 # Tauranga 
+		}
+	}
+
+	provinces = {
+		4718 7742 10710
+	}
+}

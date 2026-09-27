@@ -1,0 +1,23 @@
+characters = {
+	MOL_iurie_rosca = {
+		name = MOL_iurie_rosca
+		country_leader = {
+			ideology = fascism_ideology
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	MOL_dumitru_braghis = {
+		name = MOL_dumitru_braghis
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_MOL_dumitru_braghis
+			}
+		}
+		country_leader = {
+			ideology = moderatism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

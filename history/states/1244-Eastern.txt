@@ -1,0 +1,19 @@
+state = {
+	id = 1244
+	name = "STATE_1244" # Eastern
+	manpower = 6673909
+	state_category = city
+	buildings_max_level_factor = 1.000
+
+	history = {
+		owner = UGA
+		add_core_of = UGA
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces = {
+		12929
+	}
+}

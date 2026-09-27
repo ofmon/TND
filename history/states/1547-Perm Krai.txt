@@ -1,0 +1,20 @@
+state = {
+	id = 1547
+	name = "STATE_1547" # Perm Krai
+	manpower = 12918
+	state_category = pastoral
+	local_supplies = 0.0
+
+	history = {
+		owner = SOV
+		add_core_of = SOV
+		add_core_of = KOM
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces = {
+		1307 3000 9145
+	}
+}

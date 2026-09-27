@@ -1,0 +1,54 @@
+characters = {
+	BOL_hugo_banzer = {
+		name = BOL_hugo_banzer
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_BOL_hugo_banzer
+			}
+		}
+		country_leader = {
+			ideology = conservatism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	BOL_evo_morales = {
+		name = BOL_evo_morales
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_BOL_evo_morales
+			}
+		}
+		country_leader = {
+			ideology = marxism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	BOL_luis_garcia_meza = {
+		name = BOL_luis_garcia_meza
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_BOL_luis_garcia_meza
+			}
+		}
+		country_leader = {
+			ideology = junta
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	BOL_manfred_reyes_villa = {
+		name = BOL_manfred_reyes_villa
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_BOL_manfred_reyes_villa
+			}
+		}
+		country_leader = {
+			ideology = moderatism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

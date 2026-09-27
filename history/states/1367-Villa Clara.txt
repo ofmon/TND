@@ -1,0 +1,19 @@
+state = {
+	id = 1367
+	name = "STATE_1367" # Villa Clara
+	manpower = 1083077
+	state_category = city
+	local_supplies = 0.0
+
+	history = {
+		owner = CUB
+		add_core_of = CUB
+		buildings = {
+			infrastructure = 4
+		}
+	}
+
+	provinces = {
+		7451
+	}
+}

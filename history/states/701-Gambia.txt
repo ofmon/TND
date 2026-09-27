@@ -20,9 +20,9 @@ state={
 	}
 
 	provinces={
-		4989 13213 
+		4989
 	}
-	manpower=2640000
+	manpower = 960003
 	buildings_max_level_factor=1.000
-	state_category=enclave
+	state_category = city
 }

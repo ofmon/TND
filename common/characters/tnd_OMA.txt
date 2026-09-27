@@ -1,0 +1,31 @@
+characters = {
+	OMA_abdullah_bin_ali_al_qatabi = {
+		name = OMA_abdullah_bin_ali_al_qatabi
+		country_leader = {
+			ideology = indepedent
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	OMA_abdul_aziz_al_qadi = {
+		name = OMA_abdul_aziz_al_qadi
+		country_leader = {
+			ideology = marxism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	OMA_badr_bin_saud_al_busaidi = {
+		name = OMA_badr_bin_saud_al_busaidi
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_OMA_badr_bin_saud_al_busaidi
+			}
+		}
+		country_leader = {
+			ideology = junta
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

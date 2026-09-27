@@ -1,0 +1,54 @@
+characters = {
+	PHI_joseph_estrada = {
+		name = PHI_joseph_estrada
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_PHI_joseph_estrada
+			}
+		}
+		country_leader = {
+			ideology = populism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	PHI_jose_maria_sison = {
+		name = PHI_jose_maria_sison
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_PHI_jose_maria_sison
+			}
+		}
+		country_leader = {
+			ideology = anti_revisionism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	PHI_gregorio_honasan = {
+		name = PHI_gregorio_honasan
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_PHI_gregorio_honasan
+			}
+		}
+		country_leader = {
+			ideology = junta
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	PHI_imelda_marcos = {
+		name = PHI_imelda_marcos
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_PHI_imelda_marcos
+			}
+		}
+		country_leader = {
+			ideology = oligarchism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

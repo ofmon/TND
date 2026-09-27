@@ -1,0 +1,22 @@
+state = {
+	id = 1603
+	name = "STATE_1603" # Chattogram
+	manpower = 35154429
+	state_category = metropolis
+	buildings_max_level_factor = 1.000
+	local_supplies = 1.0
+
+	history = {
+		owner = BAN
+		add_core_of = BAN
+		buildings = {
+			industrial_complex = 4
+			infrastructure = 3
+			11968 = { naval_base = 3 }
+		}
+	}
+
+	provinces = {
+		7179 9991 11968 12010
+	}
+}

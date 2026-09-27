@@ -3,36 +3,30 @@ state = {
 	id = 830
 	name = "STATE_830" #Bukhara
 
-
 	history = {
-	
 		owner = UZB
-		
+		add_core_of = UZB
+		add_core_of = BUK
+		add_claim_by = TAJ
+
 		victory_points = {
 			1573 2 
 		}
-		victory_points = {
-			10671 1 
-		}
 		
 		buildings = {
-			infrastructure = 2
 			industrial_complex = 1
+			infrastructure = 3
 			air_base = 1
 		}
-		
-		add_core_of = SOV
-		add_core_of = UZB
-		add_core_of = BUK
 
 	}
 
 	provinces={
-		1573 1623 7639 7775 10205 10470 10671 12161 12239 12722
+		1573 1623 10205 10470 12161 12239
 	}
-	manpower = 2189596
+	manpower = 2657230
 	buildings_max_level_factor = 1.000
-	state_category = rural
+	state_category = city
 
 	local_supplies = 2.0 
 }

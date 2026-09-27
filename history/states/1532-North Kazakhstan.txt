@@ -1,0 +1,18 @@
+state = {
+	id = 1532
+	name = "STATE_1532" # North Kazakhstan
+	manpower = 709039
+	state_category = town
+
+	history = {
+		owner = KAZ
+		add_core_of = KAZ
+		buildings = {
+			infrastructure = 3
+		}
+	}
+
+	provinces = {
+		1229 1309 1391 4850 7741 7874 12619
+	}
+}

@@ -9,7 +9,7 @@ characters={
 		}
 		country_leader={
 			ideology= liberalism 
-			traits=
+			traits={ }
 			expire="2030.1.1"
 			id=-1
 		}
@@ -25,7 +25,7 @@ characters={
 		}
 		country_leader={
 			ideology= conservatism 
-			traits=
+			traits={ }
 			expire="2030.1.1"
 			id=-1
 		}
@@ -41,7 +41,7 @@ characters={
 		}
 		country_leader={
 			ideology= liberalism 
-			traits=
+			traits={ }
 			expire="2030.1.1"
 			id=-1
 		}
@@ -57,7 +57,7 @@ characters={
 		}
 		country_leader={
 			ideology= liberalism 
-			traits=
+			traits={ }
 			expire="2030.1.1"
 			id=-1
 		}
@@ -74,7 +74,7 @@ characters={
 		}
 		country_leader={
 			ideology= conservatism 
-			traits=
+			traits={ }
 			expire="2030.1.1"
 			id=-1
 		}
@@ -90,7 +90,7 @@ characters={
 		}
 		country_leader={
 			ideology= conservatism 
-			traits=
+			traits={ }
 			expire="2030.1.1"
 			id=-1
 		}
@@ -106,7 +106,7 @@ characters={
 		}
 		country_leader={
 			ideology= socialism 
-			traits=
+			traits={ }
 			expire="2030.1.1"
 			id=-1
 		}

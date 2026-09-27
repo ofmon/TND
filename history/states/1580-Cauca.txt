@@ -1,0 +1,20 @@
+state = {
+	id = 1580
+	name = "STATE_1580" # Cauca
+	manpower = 3373445
+	state_category = metropolis
+	local_supplies = 4.0
+
+	history = {
+		owner = COL
+		add_core_of = COL
+		buildings = {
+			industrial_complex = 2
+			infrastructure = 4
+		}
+	}
+
+	provinces = {
+		7936
+	}
+}

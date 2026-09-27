@@ -1,0 +1,20 @@
+state = {
+	id = 1215
+	name = "STATE_1215" # Hardap
+	manpower = 71875
+	state_category = pastoral
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.000
+
+	history = {
+		owner = NMB
+		add_core_of = NMB
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces = {
+		2229 7605 10963
+	}
+}

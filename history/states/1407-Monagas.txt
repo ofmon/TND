@@ -1,0 +1,19 @@
+state = {
+	id = 1407
+	name = "STATE_1407" # Monagas
+	manpower = 938745
+	state_category = city
+	local_supplies = 0.0
+
+	history = {
+		owner = VEN
+		add_core_of = VEN
+		buildings = {
+			infrastructure = 4
+		}
+	}
+
+	provinces = {
+		10823
+	}
+}

@@ -1,0 +1,22 @@
+state = {
+	id = 1164
+	name = "STATE_1164" # South Gyeongsang
+	manpower = 4513679
+	state_category = large_city
+	local_supplies = 0.0
+
+	history = {
+		owner = KOR
+		add_core_of = KOR
+		add_claim_by = NRK
+		buildings = {
+			dockyard = 1
+			industrial_complex = 3
+			infrastructure = 4
+		}
+	}
+
+	provinces = {
+		1054 4086 10085 12060
+	}
+}

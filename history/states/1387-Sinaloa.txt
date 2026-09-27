@@ -1,0 +1,21 @@
+state = {
+	id = 1387
+	name = "STATE_1387" # Sinaloa
+	manpower = 2646465
+	state_category = large_city
+	local_supplies = 6.0
+
+	history = {
+		owner = MEX
+		add_core_of = MEX
+		buildings = {
+			industrial_complex = 2
+			infrastructure = 4
+			8057 = { naval_base = 3 }
+		}
+	}
+
+	provinces = {
+		1945 8057 10895
+	}
+}

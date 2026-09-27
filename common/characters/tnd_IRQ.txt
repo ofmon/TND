@@ -1,0 +1,23 @@
+characters = {
+	IRQ_hamid_majid_mousa = {
+		name = IRQ_hamid_majid_mousa
+		country_leader = {
+			ideology = marxism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	IRQ_sharif_ali_bin_al_hussein = {
+		name = IRQ_sharif_ali_bin_al_hussein
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_IRQ_sharif_ali_bin_al_hussein
+			}
+		}
+		country_leader = {
+			ideology = moderatism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

@@ -1,0 +1,22 @@
+state = {
+	id = 1153
+	name = "STATE_1153" # Tottori Prefecture
+	manpower = 618530
+	state_category = town
+	local_supplies = 0.0
+
+	history = {
+		owner = JAP
+		add_core_of = JAP
+		buildings = {
+			infrastructure = 4
+		}
+		victory_points = {
+			10055 1 # Tottori
+		}
+	}
+
+	provinces = {
+		1167 10055
+	}
+}

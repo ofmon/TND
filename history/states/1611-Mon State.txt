@@ -1,0 +1,23 @@
+state = {
+	id = 1611
+	name = "STATE_1611" # Mon State
+	manpower = 1521449
+	state_category = city
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.000
+
+	history = {
+		owner = BRM
+		add_core_of = BRM
+		buildings = {
+			infrastructure = 2
+		}
+		victory_points = {
+			1403 1 # Moulmein
+		}
+	}
+
+	provinces = {
+		1403 4336
+	}
+}

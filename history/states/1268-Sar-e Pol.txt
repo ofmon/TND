@@ -1,0 +1,19 @@
+state = {
+	id = 1268
+	name = "STATE_1268" # Sar-e Pol
+	manpower = 651510
+	state_category = town
+	local_supplies = 0.0
+
+	history = {
+		owner = AFG
+		add_core_of = AFG
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces = {
+		7984 12877
+	}
+}

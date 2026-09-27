@@ -1,0 +1,19 @@
+state = {
+	id = 1273
+	name = "STATE_1273" # Lankaran Economic Region
+	manpower = 654506
+	state_category = town
+	buildings_max_level_factor = 1.000
+
+	history = {
+		owner = AZR
+		add_core_of = AZR
+		buildings = {
+			infrastructure = 3
+		}
+	}
+
+	provinces = {
+		4473 12434
+	}
+}

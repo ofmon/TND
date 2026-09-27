@@ -1,0 +1,26 @@
+
+state = { 
+	id = 577 # Surgut
+	manpower = 960989
+	name = "STATE_577"
+	resources = {
+		oil=13 # was: 14
+	}
+	
+	state_category = large_town
+
+	history = {
+		owner = SOV
+		add_core_of = SOV
+		add_core_of = OVO
+		buildings = {
+			infrastructure = 3
+		}
+	}
+
+	provinces = {
+		1768 1784 1856 4817 7685 7837 7882 10663 10692 12542 12574 12639 12672
+	}
+
+	local_supplies = 0.0 
+}

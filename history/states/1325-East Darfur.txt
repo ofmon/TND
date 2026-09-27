@@ -1,0 +1,20 @@
+state = {
+	id = 1325
+	name = "STATE_1325" # East Darfur
+	manpower = 1933635
+	state_category = city
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.000
+
+	history = {
+		owner = SUD
+		add_core_of = SUD
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces = {
+		8052
+	}
+}

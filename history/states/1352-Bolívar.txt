@@ -1,0 +1,24 @@
+state = {
+	id = 1352
+	name = "STATE_1352" # Bolívar
+	manpower = 2666421
+	state_category = large_city
+	local_supplies = 0.0
+
+	history = {
+		owner = COL
+		add_core_of = COL
+		buildings = {
+			industrial_complex = 1
+			infrastructure = 4
+			12790 = { naval_base = 5 }
+		}
+		victory_points = {
+			12790 5 
+		}
+	}
+
+	provinces = {
+		12790
+	}
+}

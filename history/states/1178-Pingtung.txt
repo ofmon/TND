@@ -1,0 +1,20 @@
+state = {
+	id = 1178
+	name = "STATE_1178" # Pingtung
+	manpower = 1373990
+	state_category = town
+
+	history = {
+		owner = TAW
+		add_core_of = TAW
+		add_claim_by = PRC
+		buildings = {
+			industrial_complex = 1
+			infrastructure = 4
+		}
+	}
+
+	provinces = {
+		11914
+	}
+}

@@ -1,0 +1,20 @@
+state = {
+	id = 1291
+	name = "STATE_1291" # Haifa
+	manpower = 778302
+	state_category = city
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.000
+
+	history = {
+		owner = ISR
+		add_core_of = ISR
+		buildings = {
+			infrastructure = 4
+		}
+	}
+
+	provinces = {
+		1201
+	}
+}

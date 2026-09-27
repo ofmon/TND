@@ -8,7 +8,7 @@ characters={
 			}
 		}
 		country_leader={
-			ideology= centrist 
+			ideology= liberalism 
 			traits = {
 			}
 			expire="2009.12.30.1"

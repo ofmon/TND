@@ -21,6 +21,10 @@ ideologies = {
 
                         putinism = {
 			}
+
+			populism = {
+				can_be_randomly_selected = no # used by vanilla BRA characters
+			}
 		}
 
 		dynamic_faction_names = {
@@ -157,6 +161,10 @@ ideologies = {
 			}
 
 			junta = {
+			}
+
+			emperor_fascism = {
+				can_be_randomly_selected = no # used by vanilla MAN/TIB characters
 			}
 		}
 

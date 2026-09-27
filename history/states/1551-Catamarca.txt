@@ -1,0 +1,22 @@
+state = {
+	id = 1551
+	name = "STATE_1551" # Catamarca
+	manpower = 451998
+	state_category = rural
+	local_supplies = 0.0
+
+	history = {
+		owner = ARG
+		add_core_of = ARG
+		buildings = {
+			infrastructure = 3
+		}
+		victory_points = {
+			13309 5 
+		}
+	}
+
+	provinces = {
+		8195 8253 13308 13309
+	}
+}

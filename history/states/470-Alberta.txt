@@ -4,23 +4,23 @@ state={
 
 	history={
 		owner = CAN
+		add_core_of = CAN
 		buildings = {
-			infrastructure = 3
-			industrial_complex = 1
+			infrastructure = 5
+			industrial_complex = 3
 
 		}
 		victory_points = {
 			3010 3 
 		}
-		add_core_of = CAN
 
 	}
 
 	provinces={
-		515 1262 1347 1763 1804 3010 3706 4765 6726 6754 7348 7718 7766 7787 10684 12166 12534 
+		515 1262 1347 1763 1804 2407 3010 3706 4765 6726 6754 7348 7718 7766 7787 7858 10684 12166 12534
 	}
-	manpower= 4371640
+	manpower = 3000845
 	buildings_max_level_factor=1.000
-	state_category=rural
+	state_category = large_city
 	local_supplies=0.000
 }

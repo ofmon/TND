@@ -1,0 +1,24 @@
+state = {
+	id = 1575
+	name = "STATE_1575" # Valparaíso
+	manpower = 1654807
+	state_category = city
+	local_supplies = 0.0
+
+	history = {
+		owner = CHL
+		add_core_of = CHL
+		buildings = {
+			industrial_complex = 1
+			infrastructure = 4
+			8222 = { naval_base = 5 coastal_bunker = 2 }
+		}
+		victory_points = {
+			8222 10
+		}
+	}
+
+	provinces = {
+		8222
+	}
+}

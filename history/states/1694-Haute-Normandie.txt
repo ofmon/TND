@@ -1,0 +1,31 @@
+state = {
+	id = 1694
+	name = "STATE_1694" # Haute-Normandie
+	manpower = 1811980
+	state_category = city
+	local_supplies = 0.0
+
+	history = {
+		owner = FRA
+		add_core_of = FRA
+		buildings = {
+			industrial_complex = 2
+			infrastructure = 5
+			485= { naval_base = 1 }
+			9434 = { naval_base = 5 coastal_bunker = 1 }
+		}
+		victory_points = {
+			485 3
+		}
+		victory_points = {
+			9434 10
+		}
+		victory_points = {
+			11563 5
+		}
+	}
+
+	provinces = {
+		485 3549 6569 9434 9578 11563
+	}
+}

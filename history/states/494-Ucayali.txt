@@ -1,0 +1,28 @@
+
+state = {
+	id = 494
+	name = "STATE_494"
+	manpower = 1460789
+	
+	state_category = city
+
+	history = {
+		owner = PRU
+		add_core_of = PRU
+
+		buildings = {
+			infrastructure = 3
+		}
+
+		victory_points = {
+			5166 3
+		}
+
+	}
+
+	provinces = {
+		5166
+	}
+
+	local_supplies = 0.0 
+}

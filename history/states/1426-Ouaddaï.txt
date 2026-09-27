@@ -1,0 +1,19 @@
+state = {
+	id = 1426
+	name = "STATE_1426" # Ouaddaï
+	manpower = 967322
+	state_category = city
+	buildings_max_level_factor = 1.000
+
+	history = {
+		owner = CHA
+		add_core_of = CHA
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces = {
+		1473
+	}
+}

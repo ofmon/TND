@@ -1,0 +1,29 @@
+state = {
+	id = 959
+	name = "STATE_959"
+	manpower = 1141778
+	
+	state_category = city
+
+	history = {
+		owner = ARG
+		add_core_of = ARG
+
+		#add_claim_by = BOL
+
+		buildings = {
+			infrastructure = 4
+		}
+
+		victory_points = {
+			11001 10 
+		}
+
+	}
+
+	provinces = {
+		10944 10965 11001 13310 13311
+	}
+
+	local_supplies = 0.0 
+}

@@ -1,0 +1,22 @@
+state = {
+	id = 1117
+	name = "STATE_1117" # Republic of Adygea
+	manpower = 455687
+	state_category = rural
+	local_supplies = 9.0
+
+	history = {
+		owner = SOV
+		add_core_of = SOV
+		buildings = {
+			infrastructure = 3
+		}
+		victory_points = {
+			3720 1 
+		}
+	}
+
+	provinces = {
+		3717 3720 6721
+	}
+}

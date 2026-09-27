@@ -1,0 +1,23 @@
+state = {
+	id = 1169
+	name = "STATE_1169" # North Pyongan
+	manpower = 2810635
+	state_category = large_town
+	local_supplies = 0.0
+
+	history = {
+		owner = NRK
+		add_core_of = NRK
+		add_claim_by = KOR
+		buildings = {
+			infrastructure = 2
+		}
+		victory_points = {
+			11835 1 # Shingishū
+		}
+	}
+
+	provinces = {
+		912 9918 11835 11896
+	}
+}

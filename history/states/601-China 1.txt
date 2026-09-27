@@ -8,8 +8,11 @@ state={
 	history={
 		owner = PRC
 		add_core_of = PRC
+		add_core_of = TIB
+		add_core_of = CHI
+		add_claim_by = TAW
 		buildings = {
-			infrastructure = 1
+			infrastructure = 2
 
 		}
 		victory_points = {
@@ -18,9 +21,9 @@ state={
 	}
 
 	provinces={
-		4407 5018 5080 5102 8041 8059 10741 10856 
+		4407 5018 5080 5102 8041 8059 8104 10741 10856
 	}
-	manpower= 999902
+	manpower = 983687
 	buildings_max_level_factor=1.000
-	state_category=wasteland
+	state_category = rural
 }

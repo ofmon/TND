@@ -1,0 +1,19 @@
+state = {
+	id = 1106
+	name = "STATE_1106" # Northern Hungary
+	manpower = 1244623
+	state_category = town
+	local_supplies = 0.0
+
+	history = {
+		owner = HUN
+		add_core_of = HUN
+		buildings = {
+			infrastructure = 4
+		}
+	}
+
+	provinces = {
+		716 3713 3731 6751 9690 11520
+	}
+}

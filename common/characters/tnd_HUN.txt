@@ -1,0 +1,26 @@
+characters = {
+	HUN_gyula_thurmer = {
+		name = HUN_gyula_thurmer
+		country_leader = {
+			ideology = Marxist-Leninist
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	HUN_istvan_csurka = {
+		name = HUN_istvan_csurka
+		country_leader = {
+			ideology = fascism_ideology
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	HUN_arpad_goncz = {
+		name = HUN_arpad_goncz
+		country_leader = {
+			ideology = moderatism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

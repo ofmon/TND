@@ -1,0 +1,31 @@
+
+state = {
+	id = 569
+	name = "STATE_569" # Khakassia
+	manpower = 3181245
+	
+	state_category = large_city
+
+	history = {
+		owner = SOV
+		add_core_of = SOV
+		add_core_of = KHA
+		buildings = {
+			arms_factory = 1
+			infrastructure = 4
+			industrial_complex = 2
+		}
+		victory_points = {
+			7757 1
+		}
+		victory_points = {
+			7822 1
+		}
+	}
+
+	provinces = {
+		1369 1685 1702 4665 4789 4793 7757 7822 7886 12631
+	}
+
+	local_supplies = 0.0 
+}

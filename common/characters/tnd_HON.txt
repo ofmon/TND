@@ -1,0 +1,36 @@
+characters = {
+	HON_matias_funes = {
+		name = HON_matias_funes
+		country_leader = {
+			ideology = marxism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	HON_policarpo_paz_garcia = {
+		name = HON_policarpo_paz_garcia
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_HON_policarpo_paz_garcia
+			}
+		}
+		country_leader = {
+			ideology = junta
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	HON_rafael_leonardo_callejas = {
+		name = HON_rafael_leonardo_callejas
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_HON_rafael_leonardo_callejas
+			}
+		}
+		country_leader = {
+			ideology = oligarchism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

@@ -1,0 +1,23 @@
+state = {
+	id = 1393
+	name = "STATE_1393" # Chiriquí
+	manpower = 527948
+	state_category = town
+	local_supplies = 0.0
+
+	history = {
+		owner = PAN
+		add_core_of = PAN
+		buildings = {
+			infrastructure = 3
+			4611 = { naval_base = 1 }
+		}
+		victory_points = {
+			4611 1
+		}
+	}
+
+	provinces = {
+		4611
+	}
+}

@@ -1,0 +1,36 @@
+characters = {
+	BLZ_assad_shoman = {
+		name = BLZ_assad_shoman
+		country_leader = {
+			ideology = marxism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	BLZ_philip_goldson = {
+		name = BLZ_philip_goldson
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_BLZ_philip_goldson
+			}
+		}
+		country_leader = {
+			ideology = fascism_ideology
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	BLZ_colville_young = {
+		name = BLZ_colville_young
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_BLZ_colville_young
+			}
+		}
+		country_leader = {
+			ideology = moderatism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

@@ -1,12 +1,13 @@
 state= {
 	id=123
 	name="STATE_123"
-	manpower = 2812348
+	manpower = 2560000
 	
-	state_category = town
+	state_category = large_town
 
 	history= {
 		owner = ENG
+		add_core_of = ENG
 		victory_points = { 540 10 }
 		victory_points = { 6526 1 }
 		buildings = {
@@ -20,7 +21,6 @@ state= {
 			}
 
 		}
-		add_core_of = ENG
 	}
 
 	provinces= {

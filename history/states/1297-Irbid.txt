@@ -1,0 +1,18 @@
+state = {
+	id = 1297
+	name = "STATE_1297" # Irbid
+	manpower = 768560
+	state_category = city
+
+	history = {
+		owner = JOR
+		add_core_of = JOR
+		buildings = {
+			infrastructure = 3
+		}
+	}
+
+	provinces = {
+		7170
+	}
+}

@@ -7,8 +7,11 @@ state={
 	history = {
 		owner = CAN
 		add_core_of = CAN
+		buildings = {
+			infrastructure = 3
+		}
 	}
-	manpower= 96435
+	manpower = 32928
 	state_category = pastoral
 	buildings_max_level_factor=1.000
 	local_supplies=0.000

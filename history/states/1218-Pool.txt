@@ -1,0 +1,22 @@
+state = {
+	id = 1218
+	name = "STATE_1218" # Pool
+	manpower = 920109
+	state_category = town
+
+	history = {
+		owner = RCG
+		add_core_of = RCG
+		buildings = {
+			industrial_complex = 1
+			infrastructure = 2
+		}
+		victory_points = {
+			8193 2
+		}
+	}
+
+	provinces = {
+		8193
+	}
+}

@@ -1,0 +1,19 @@
+state = {
+	id = 1389
+	name = "STATE_1389" # Texas
+	manpower = 538943
+	state_category = city
+	local_supplies = 0.0
+
+	history = {
+		owner = MEX
+		add_core_of = MEX
+		buildings = {
+			infrastructure = 4
+		}
+	}
+
+	provinces = {
+		2060
+	}
+}

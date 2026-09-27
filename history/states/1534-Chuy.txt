@@ -1,0 +1,22 @@
+state = {
+	id = 1534
+	name = "STATE_1534" # Chuy
+	manpower = 1228300
+	state_category = city
+	buildings_max_level_factor = 1.000
+
+	history = {
+		owner = KYR
+		add_core_of = KYR
+		buildings = {
+			infrastructure = 3
+		}
+		victory_points = {
+			12583 1
+		}
+	}
+
+	provinces = {
+		1825 12583
+	}
+}

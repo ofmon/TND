@@ -1,0 +1,24 @@
+state = {
+	id = 1635
+	name = "STATE_1635" # Lampung
+	manpower = 7051584
+	state_category = city
+	local_supplies = 0.0
+
+	history = {
+		owner = INS
+		add_core_of = INS
+		buildings = {
+			industrial_complex = 1
+			infrastructure = 3
+			12165 = { naval_base = 1 }
+		}
+		victory_points = {
+			4361 2
+		}
+	}
+
+	provinces = {
+		1342 4320 4361 12165
+	}
+}

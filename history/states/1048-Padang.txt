@@ -1,0 +1,28 @@
+state={
+	id=1048
+	name="STATE_1048"
+	resources={
+		rubber = 7
+		oil = 9
+		coal = 7
+	}
+
+	history={
+		owner = INS
+		add_core_of = INS
+		buildings = {
+			industrial_complex = 1
+			infrastructure = 3
+			12113 = { naval_base = 1 }
+		}
+
+	}
+
+	provinces={
+		1277 7327 7463 10209 10354 12113 12168 12181 12184
+	}
+	manpower = 5297078
+	state_category = large_city
+
+	local_supplies=0.0 
+}

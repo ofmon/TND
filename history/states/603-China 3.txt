@@ -5,10 +5,18 @@ state={
 	history={
 		owner = PRC
 		add_core_of = PRC
+		add_core_of = CHI
+		add_claim_by = TAW
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 1
-			arms_factory = 2
+
+		}
+		1939.1.1 = {
+			buildings = {
+				air_base = 1
+
+			}
 
 		}
 		victory_points = {
@@ -18,9 +26,15 @@ state={
 	}
 
 	provinces={
-		1474 1884 4192 4504 4532 5072 7521 7549 7577 8095 10616 10819 12841 
+		1474 1884 4504 4532 7521 7549 7577 8095 10616 10819  
 	}
-	manpower= 28657005
+	manpower = 24857350
+
+	resources = {
+		coal = 3 # initial distribution
+	}
 	buildings_max_level_factor=1.000
-	state_category=town
+	state_category = town
+
+	local_supplies=3.0 
 }

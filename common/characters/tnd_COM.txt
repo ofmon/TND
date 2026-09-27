@@ -1,0 +1,44 @@
+characters = {
+	COM_abbas_djoussouf = {
+		name = COM_abbas_djoussouf
+		country_leader = {
+			ideology = centrist
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	COM_moustoifa_said_cheikh = {
+		name = COM_moustoifa_said_cheikh
+		country_leader = {
+			ideology = marxism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	COM_azali_assoumani = {
+		name = COM_azali_assoumani
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_COM_azali_assoumani
+			}
+		}
+		country_leader = {
+			ideology = junta
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	COM_said_mohamed_djohar = {
+		name = COM_said_mohamed_djohar
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_COM_said_mohamed_djohar
+			}
+		}
+		country_leader = {
+			ideology = moderatism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

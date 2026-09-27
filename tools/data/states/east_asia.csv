@@ -1,0 +1,88 @@
+id,owner,controller,cores,claims,manpower,category,name,notes
+1017,VIN,,VIN,,10110000,town,Trung Bo,"North Central Coast: Thanh Hoa, Nghe An, Ha Tinh, Quang Binh, Quang Tri, Thua Thien-Hue (1999 census +1.2%)"
+1018,JAP,,JAP,,1527276,city,South Kyushu,"Miyazaki, Kagoshima excl. Amami (2000 census)"
+1019,JAP,,JAP,,3349710,large_city,South Tohoku,"Fukushima, Miyagi, Yamagata (2000 census)"
+1020,JAP,,JAP,,747442,city,Sanin,"Shimane, Tottori, northern Yamaguchi (2000 census)"
+1028,NRK,,NRK,KOR,3680737,large_city,Hamgyong,"N/S Hamgyong, Ryanggang, NK Kangwon (Wonsan), Rason, E. Chagang"
+1029,KOR,,KOR,NRK,1730764,town,Gangwon,South Korean Gangwon + N. Gyeongbuk (Andong/Yeongju/Uljin) + Jecheon/Danyang; all provinces south of the DMZ
+1030,KOR,,KOR,NRK,3554511,metropolis,Gyeongsang,"Busan, Daegu, Ulsan, Gyeongnam, most of Gyeongbuk"
+1031,KOR,,KOR,NRK,2305284,large_city,Chungcheong Jeolla,"Chungnam, Daejeon, most of Chungbuk, Jeonbuk, Jeonnam, Gwangju, Jeju"
+1032,PRC,,PRC,,12140235,large_town,Yanan,"W. Guanzhong: Baoji, Xianyang, Tongchuan, Weinan + S. Qingyang (Gansu) (2000 census x1.015)"
+1033,PRC,,PRC,,6360239,large_city,Fangchenggang,"Fangchenggang, Qinzhou, Beihai + Leizhou peninsula (Zhanjiang: Leizhou, Xuwen, Suixi, Lianjiang) (2000 census x1.015)"
+1034,PRC,,PRC,,27938559,large_city,Suzhou,"Suzhou, Wuxi, Changzhou, Nantong, S. Taizhou, Danyang, Huzhou/Changxing (2000 census x1.015)"
+1035,PRC,,PRC,,8437190,metropolis,Nanjing,"Nanjing, Zhenjiang, Yizheng + Anhui Ma'anshan, Wuhu, S. Chuzhou (2000 census x1.015)"
+1036,PRC,,PRC,,25891986,metropolis,Wuhan,"Wuhan, Ezhou, Huangshi, Xianning, S. Xiaogan, W. Huanggang (2000 census x1.015)"
+1037,PRC,,PRC,,19751319,megalopolis,Chongqing,"Chongqing main city + W. Chongqing + Sichuan Yibin, Zigong, Luzhou, Neijiang (2000 census x1.015)"
+1038,PRC,,PRC,,55717127,large_town,Jinan,"W/central Shandong: Jinan, Zibo, Zaozhuang, Jining, Tai'an, Laiwu, Linyi, Dezhou, Liaocheng, Binzhou, Heze (2000 census x1.015)"
+1039,PRC,,PRC,,19111667,town,Hebei-Chahar,"S. Zhangjiakou (Xuanhua, Huailai, Yu, Yangyuan), Beijing Yanqing, Baoding Yi/Laiyuan (2000 census x1.015)"
+1040,PRC,,PRC,,687097,wasteland,Alxa,"Ejin Banner + N. Alxa desert (2000 census x1.015); Inner Mongolia - MEN core not added (1930s puppet tag, no live movement)"
+1041,PRC,,PRC,,73300558,metropolis,Chengdu,"Chengdu, Deyang, Mianyang, Suining, Meishan, Leshan, Ziyang (2000 census x1.015)"
+1042,PRC,,PRC SIK,,2142665,rural,Khotan,"Hotan prefecture, Kargilik (Yecheng), Qiemo (2000 census x1.015)"
+1044,PRC,,PRC,,4029945,rural,Wuwei,"Wuwei, Jinchang, Zhangye (Ganzhou/Shandan/Minle), Baiyin city/Jingyuan (2000 census x1.015)"
+1045,PRC,,PRC,,3135097,town,Guyuan,Guyuan (Ningxia) + Huining (Baiyin) + Huan county (Qingyang) (2000 census x1.015)
+1046,PRC,,PRC,,3295705,rural,Yulin,Yulin (Shaanxi) (2000 census x1.015)
+1069,LAO,,LAO,,2110062,rural,Lan Chang,Sainyabuli province (1995 census x1.12)
+282,JAP,,JAP,,11880657,megalopolis,Japan,"Kanto: Tokyo, Kanagawa, Saitama, Chiba, Ibaraki, Tochigi, Gunma (2000 census)"
+283,PRC,,PRC,,16188240,town,China,"Lanzhou, Dingxi, Tianshui, Pingliang, N. Longnan, Lintan/Zhuoni (2000 census x1.015)"
+287,PRC,,PRC SIK,,1837150,rural,Sinkiang,"Yarkand/Makit/Poskam/Maralbexi (Kashgar), Awat/Aral (Aksu), Yuli (Bayingolin) (2000 census x1.015)"
+325,PRC,,PRC,,31031595,town,Yunnan,"Kunming, Qujing, Yuxi, Zhaotong, Honghe, Wenshan, Simao, Chuxiong, E. Xishuangbanna (2000 census x1.015)"
+326,PRC,,PRC HOK,,6630000,metropolis,HongKong,Hong Kong SAR (early-2000 est. 6.63M)
+524,TAW,,TAW,PRC,6591717,megalopolis,Taiwan,"Taiwan incl. Penghu, Kinmen, Matsu (end-1999 household registration 22.09M); no separate provinces for the offshore islands"
+525,KOR,,KOR,NRK,22220109,megalopolis,South Korea,"Seoul, Incheon, Gyeonggi, N. Chungbuk (2000 census scaled to 47.0M mid-2000 est.); NRK claim = constitutional claim to whole peninsula"
+526,JAP,,JAP,,1450000,small_island,Okinawa,Okinawa Pref. + Amami Is. (2000 census)
+527,NRK,,NRK,KOR,3017048,large_city,North Korea,"Pyongyang, N/S Pyongan, N/S Hwanghae (incl. Kaesong), W. Chagang (22.7M 2000 est. split by 2008 census shares); KOR claim = constitutional"
+528,JAP,,JAP,,5471324,metropolis,Nagasaki,"Fukuoka, Saga, Nagasaki, Oita, Kumamoto (2000 census)"
+529,JAP,,JAP,,2955636,large_city,Hiroshima,"Hiroshima, Okayama, Yamaguchi (excl. north coast) (2000 census)"
+530,JAP,,JAP,,1491186,city,Tokushima,"Shikoku: Kagawa, Ehime, Kochi, Tokushima (2000 census)"
+531,JAP,,JAP,,9395907,megalopolis,Osaka,"Kansai: Osaka, Hyogo, Kyoto, Nara, Shiga, Wakayama, Mie (2000 census)"
+532,JAP,,JAP,,6989300,metropolis,Nagoya,"Aichi, Shizuoka, Gifu (excl. Hida), Yamanashi, southern Nagano (2000 census)"
+533,JAP,,JAP,,1141177,city,Akita,"Aomori, Iwate, Akita (2000 census)"
+534,JAP,,JAP,,3035695,large_city,Niigata,"Niigata, Toyama, Nagano (excl. Ina valley) (2000 census)"
+535,JAP,,JAP,,1421961,city,Nagano,"Ishikawa, Fukui, northern Gifu (Hida) (2000 census)"
+591,PRC,,PRC,,7672385,town,Hainan,Hainan province (2000 census x1.015)
+592,PRC,,PRC,,39095521,megalopolis,Guangzhou,"Guangzhou, Foshan, Zhongshan, Zhuhai, Jiangmen, Zhaoqing, Yunfu, Yangjiang, Maoming (2000 census x1.015)"
+593,PRC,,PRC,,45414157,metropolis,Guangdong,"Shenzhen, Dongguan, Huizhou, Shanwei, Shantou, Chaozhou, Jieyang, Meizhou, Heyuan, Shaoguan, Qingyuan (2000 census x1.015)"
+594,PRC,,PRC,,23630215,large_town,Nanning,"Nanning, Chongzuo, Baise, Guigang, Yulin, S. Hechi, Cenxi/Teng (2000 census x1.015)"
+595,PRC,,PRC,,35332463,city,Fujian,Fujian (2000 census x1.015)
+596,PRC,,PRC,,47253929,large_city,Zhejiang,"Zhejiang (excl. Chun'an, Changxing) (2000 census x1.015)"
+597,PRC,,PRC,,26379850,city,Shandong,"E. Shandong: Yantai, Weihai, Weifang, Rizhao, Dongying, Qingdao county-level cities (2000 census x1.015)"
+598,PRC,,PRC,,38195538,large_town,Jiansu,"N. Jiangsu: Xuzhou, Lianyungang, Huai'an, Yancheng, Yangzhou, N. Taizhou, Suqian + Anhui Suzhou/Mingguang (2000 census x1.015)"
+599,PRC,,PRC,,15584310,town,Guanxi,"Liuzhou, Guilin, Laibin, Hezhou, N. Hechi, Wuzhou (2000 census x1.015)"
+600,PRC,,PRC,,35973520,large_town,Jiangxi,Jiangxi (excl. Jingdezhen/Wuyuan) (2000 census x1.015)
+602,PRC,,PRC,,53702335,large_town,China 2,"Hunan excl. Changde, Zhangjiajie, Xiangxi (2000 census x1.015)"
+603,PRC,,PRC,,24857350,town,China 3,"Guizhou excl. Zunyi, half Bijie, N. Tongren (2000 census x1.015)"
+605,PRC,,PRC,,17256293,megalopolis,China 5,"E. Chongqing (Wanzhou, Fuling, Qianjiang, Three Gorges counties) + NE Sichuan (Nanchong, Dazhou, Bazhong, Guang'an, Guangyuan) + Enshi (2000 census x1.015)"
+606,PRC,,PRC,,53532212,large_town,China 6,"Central Anhui: Hefei, Anqing, Lu'an, Fuyang, half Bozhou, Bengbu, Huainan, Chaohu, Chuzhou, Tongling + E. Huanggang (Hubei) (2000 census x1.015)"
+607,PRC,,PRC,,94622573,large_town,China 7,"Henan (excl. Puyang) + N. Anhui fringe (Huaibei, Dangshan/Xiao, half Bozhou) (2000 census x1.015)"
+608,PRC,,PRC,,14038723,megalopolis,Beijing,"Beijing (excl. Yanqing), Tianjin (excl. Ji/Ninghe), Langfang, N. Baoding, N. Cangzhou (2000 census x1.015)"
+609,PRC,,PRC,,7978533,metropolis,China 8,"Tangshan, Qinhuangdao, Tianjin Ji county/Ninghe (2000 census x1.015)"
+613,PRC,,PRC,,14113167,megalopolis,China 12,Shanghai (2000 census x1.015)
+614,PRC,,PRC,,43966594,large_town,China 13,"Shijiazhuang, Xingtai, Handan, Hengshui, S. Cangzhou, S. Baoding (Dingzhou), Henan Puyang (2000 census x1.015)"
+615,PRC,,PRC,,32958065,large_town,Shanxi,Shanxi province (2000 census x1.015)
+616,PRC,,PRC,,3251103,rural,China 14,"Ningxia (Yinchuan, Shizuishan, Wuzhong/Zhongwei) + Alxa Left/Right banners + Jingtai (2000 census x1.015)"
+619,PRC,,PRC SIK,,2364950,rural,China 16,"Kashgar city/Shufu/Shule/Yengisar/Jiashi/Yopurga/Tashkurgan, Kizilsu, Wushi/Kalpin (2000 census x1.015)"
+620,PRC,,PRC,,36519759,large_town,China 17,"W/central Hubei: Yichang, Xiangfan, Shiyan, Jingmen, Jingzhou, Suizhou, Xiaogan, Xiantao, Qianjiang, Tianmen (2000 census x1.015)"
+621,PRC,,PRC,,8607200,town,China 18,"Hohhot, Baotou, Bayannur, S. Ulanqab (2000 census x1.015); Inner Mongolia - MEN core not added (1930s puppet tag, no live movement)"
+622,PRC,,PRC,,3307479,rural,China 19,Yan'an + N. Qingyang (2000 census x1.015)
+645,JAP,,JAP,,2800,small_island,Iwo Jima,Ogasawara village (Bonin/Volcano Is.)
+670,LAO,,LAO,,2014938,city,Laos,Laos excl. Sainyabuli (1069) and the south (1068 Bassac): 1995 census x1.12
+671,VIN,,VIN,,16816846,megalopolis,Annam,"Northern Vietnam: Red River Delta + NE + NW provinces (1999 census 27.9M, +1.2%)"
+728,PRC,,PRC,,2096990,enclave,Guangzhouwan,Zhanjiang urban districts + Wuchuan (2000 census x1.015)
+729,PRC,,PRC,,431000,enclave,Macau,Macau SAR (2000 est.); no Macau tag defined (MAC = Macedonia)
+743,PRC,,PRC,,3045000,large_city,Qingdao,Qingdao urban districts (2000 census x1.015)
+744,PRC,,PRC,,15469247,large_city,Xian,"Xi'an, Hanzhong, Ankang, Shangluo (2000 census x1.015)"
+745,PRC,,PRC,,5531750,large_city,Dalian,Dalian (2000 census x1.015)
+746,PRC,,PRC,,1827000,rural,Ordos,"Ordos, Wuhai (2000 census x1.015); Inner Mongolia - MEN core not added (1930s puppet tag, no live movement)"
+747,PRC,,PRC,,11961775,rural,Dali Bai,"Dali, Lijiang, Lincang, Baoshan, Dehong, Nujiang, Diqing, W. Xishuangbanna (2000 census x1.015)"
+748,PRC,,PRC,,10921400,town,Zunyi,"Zunyi, E. Bijie, N. Tongren (2000 census x1.015)"
+749,PRC,,PRC,,5126186,large_city,Huangshan,"S. Anhui (Huangshan, Chizhou, Xuancheng) + Chun'an (Zhejiang) + Jingdezhen/Wuyuan (Jiangxi) (2000 census x1.015)"
+750,PRC,,PRC,,8822321,large_city,Changde,"Changde, Zhangjiajie, Xiangxi + Hubei Wufeng/Changyang, Gong'an/Songzi, S. Enshi (2000 census x1.015)"
+751,PRC,,PRC,,6505135,rural,Liangshan,"Liangshan, Ya'an, Panzhihua (2000 census x1.015)"
+752,PRC,,PRC,,808498,pastoral,Chamdo,Garze (Ganzi) Tibetan AP (2000 census x1.015); ethnic Tibetan area outside TAR - no TIB core
+753,PRC,,PRC,,2176911,rural,Gannan,"Ngawa (Aba) + S. Longnan (Wen, Kang, Dangchang) + Tewo/Zhouqu (Gannan) (2000 census x1.015); ethnic Tibetan area outside TAR - no TIB core"
+754,PRC,,PRC,,3787208,metropolis,Golog,"Xining, Haidong, Hainan, Huangnan, Golog, Menyuan + Linxia (Gansu) + Xiahe/Maqu (Gannan) (2000 census x1.015); ethnic Tibetan area outside TAR - no TIB core"
+755,PRC,,PRC,,358720,pastoral,Haixi,"Haixi excl. Golmud (Delingha, Dulan, Mangnai) + W. Haibei (2000 census x1.015); ethnic Tibetan area outside TAR - no TIB core"
+756,PRC,,PRC,,1381716,pastoral,Jiuquan,"Jiuquan, Jiayuguan, Gaotai/Linze (2000 census x1.015)"
+759,PRC,,PRC SIK,,30450,wasteland,Kunlun,"Ruoqiang county, Lop Nur (2000 census x1.015)"
+869,SIA,,SIA,,5560000,town,Lanna,"Upper North Thailand: Chiang Mai, Chiang Rai, Lampang, Lamphun, Phayao, Nan, Phrae, Mae Hong Son (2000 census)"
+993,BRM,,BRM,,600000,rural,Kentung and Yawnghwe,"Eastern Shan State (Kengtung, Tachileik, Monghsat districts), 2000 est."

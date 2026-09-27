@@ -1,0 +1,23 @@
+state = {
+	id = 1695
+	name = "STATE_1695" # Limousin
+	manpower = 716907
+	state_category = town
+	local_supplies = 0.0
+
+	history = {
+		owner = FRA
+		add_core_of = OCC
+		add_core_of = FRA
+		buildings = {
+			infrastructure = 4
+		}
+		victory_points = {
+			620 5
+		}
+	}
+
+	provinces = {
+		620 3621 3626 3771 6618 6648
+	}
+}

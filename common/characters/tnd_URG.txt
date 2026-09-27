@@ -1,0 +1,49 @@
+characters = {
+	URG_julio_maria_sanguinetti = {
+		name = URG_julio_maria_sanguinetti
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_URG_julio_maria_sanguinetti
+			}
+		}
+		country_leader = {
+			ideology = liberalism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	URG_marina_arismendi = {
+		name = URG_marina_arismendi
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_URG_marina_arismendi
+			}
+		}
+		country_leader = {
+			ideology = Marxist-Leninist
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	URG_gregorio_alvarez = {
+		name = URG_gregorio_alvarez
+		country_leader = {
+			ideology = junta
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	URG_jorge_batlle = {
+		name = URG_jorge_batlle
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_URG_jorge_batlle
+			}
+		}
+		country_leader = {
+			ideology = centrism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

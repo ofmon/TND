@@ -2,20 +2,20 @@
 state={
 	id=782
 	name="STATE_782" # Tombouctou
-	manpower = 79243
+	manpower = 480928
 	
-	state_category = wasteland
+	state_category = pastoral
 
 	history={
 		owner = MLI
 		add_core_of = MLI
 		buildings = {
-			infrastructure = 0
+			infrastructure = 1
 		}
 
 	}
 
 	provinces={
-		1115 2068 10725 10868
+		1115 2044 2068 10725 10788 10868
 	}
 }

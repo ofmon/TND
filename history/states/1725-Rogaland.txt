@@ -1,0 +1,24 @@
+state = {
+	id = 1725
+	name = "STATE_1725" # Rogaland
+	manpower = 402809
+	state_category = rural
+	local_supplies = 0.0
+
+	history = {
+		owner = NOR
+		add_core_of = NOR
+		buildings = {
+			industrial_complex = 1
+			infrastructure = 4
+			53 = { naval_base = 1 coastal_bunker = 1 }
+		}
+		victory_points = {
+			53 3
+		}
+	}
+
+	provinces = {
+		53 137 3192 6176 11101
+	}
+}

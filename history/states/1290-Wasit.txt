@@ -1,0 +1,20 @@
+state = {
+	id = 1290
+	name = "STATE_1290" # Wasit
+	manpower = 1613020
+	state_category = city
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.000
+
+	history = {
+		owner = IRQ
+		add_core_of = IRQ
+		buildings = {
+			infrastructure = 3
+		}
+	}
+
+	provinces = {
+		7977 12855
+	}
+}

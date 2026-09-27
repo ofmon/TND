@@ -1,0 +1,19 @@
+state = {
+	id = 1423
+	name = "STATE_1423" # Kanem
+	manpower = 475640
+	state_category = rural
+	buildings_max_level_factor = 1.000
+
+	history = {
+		owner = CHA
+		add_core_of = CHA
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	provinces = {
+		3123
+	}
+}

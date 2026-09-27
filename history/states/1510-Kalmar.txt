@@ -1,0 +1,25 @@
+state = {
+	id = 1510
+	name = "STATE_1510" # Kalmar
+	manpower = 243900
+	state_category = rural
+	local_supplies = 5
+
+	history = {
+		owner = SWE
+		add_core_of = SWE
+		buildings = {
+			infrastructure = 4
+		}
+		victory_points = {
+			211 1
+		}
+		victory_points = {
+			299 2
+		}
+	}
+
+	provinces = {
+		211 299 329 3229 6148 11390 13264
+	}
+}

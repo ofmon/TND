@@ -2,18 +2,21 @@ state=
 {
 	id=326
 	name="STATE_326"
-	manpower = 7413000
-	state_category = large_town
+	manpower = 6630000
+	state_category = metropolis
 	history=
 	{
-		owner = HOK
-		add_core_of = HOK
+		owner = PRC
 		add_core_of = PRC
+		add_core_of = HOK
+		add_core_of = CHI
+		add_claim_by = TAW
 		victory_points = {
 			10062 3 
 		}
 		buildings = {
-			infrastructure = 5
+			industrial_complex = 1
+			infrastructure = 3
 			air_base = 1
 			10062 = {
 				naval_base = 6

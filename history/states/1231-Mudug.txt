@@ -1,0 +1,19 @@
+state = {
+	id = 1231
+	name = "STATE_1231" # Mudug
+	manpower = 457861
+	state_category = rural
+	local_supplies = 0.0
+
+	history = {
+		owner = SOM
+		add_core_of = SOM
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	provinces = {
+		12840
+	}
+}

@@ -1,25 +1,20 @@
 state={
 	id=897
 	name="STATE_897"
-	manpower = 1386000
-	state_category = pastoral 
+	manpower = 3232332
+	state_category = city 
 
 	history={
 		owner = MZB
+		add_core_of = MZB
 		buildings = {
 			infrastructure = 2
-			2123 = {
-				naval_base = 1
-
-			}
 
 		}
 
-		add_core_of = MZB
-
 	}
 	provinces={
-		2123 2159 2180 2202 2217 5164 10972 12971 
+		2180 5164 12971
 	}
 
 	buildings_max_level_factor=1.000

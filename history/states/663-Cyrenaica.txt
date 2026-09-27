@@ -1,19 +1,19 @@
 state={
 	id=663
 	name="STATE_663"
-	manpower = 8808
+	manpower = 264379
 	
-	state_category = wasteland
+	state_category = rural
 
 	history={
 		owner = LBA
-		buildings = {
-			infrastructure = 1
-		}
 		add_core_of = LBA
+		buildings = {
+			infrastructure = 3
+		}
 	}
 
 	provinces={
-		1062 1186 4060 4063 4133 7063 7139 7206 9977 10049 12025 12079 13078 
+		1057 1060 1062 1140 1186 4060 4063 4133 4191 7063 7139 7206 9977 10049 10104 10754 10785 11951 12025 12079 13078
 	}
 }

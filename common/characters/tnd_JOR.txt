@@ -1,0 +1,31 @@
+characters = {
+	JOR_taher_al_masri = {
+		name = JOR_taher_al_masri
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_JOR_taher_al_masri
+			}
+		}
+		country_leader = {
+			ideology = liberalism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	JOR_munir_hamarneh = {
+		name = JOR_munir_hamarneh
+		country_leader = {
+			ideology = marxism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	JOR_abdul_majid_thneibat = {
+		name = JOR_abdul_majid_thneibat
+		country_leader = {
+			ideology = fascism_ideology
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

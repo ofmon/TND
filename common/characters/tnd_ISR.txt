@@ -1,0 +1,41 @@
+characters = {
+	ISR_mohammad_barakeh = {
+		name = ISR_mohammad_barakeh
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_ISR_mohammad_barakeh
+			}
+		}
+		country_leader = {
+			ideology = marxism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	ISR_rehavam_zeevi = {
+		name = ISR_rehavam_zeevi
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_ISR_rehavam_zeevi
+			}
+		}
+		country_leader = {
+			ideology = fascism_ideology
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	ISR_ariel_sharon = {
+		name = ISR_ariel_sharon
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_ISR_ariel_sharon
+			}
+		}
+		country_leader = {
+			ideology = moderatism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

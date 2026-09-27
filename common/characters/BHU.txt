@@ -1,10 +1,9 @@
 characters={
 	BHU_jigme_singye={
 		name=BHU_jigme_singye
-		portraits={
-			civilian={
-				large=GFX_portrait_BHU_jigme_singye_large
-                                small=GFX_portrait_BHU_jigme_singye_small
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_BHU_jigme_singye
 			}
 		}
 		country_leader={

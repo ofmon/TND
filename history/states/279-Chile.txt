@@ -1,0 +1,39 @@
+state = {
+	id = 279
+	name = "STATE_279" # Santiago
+	manpower = 6528106
+	
+	state_category = metropolis
+	
+	resources = {
+		steel = 14 # was: 24, then 16
+		tungsten = 8 # In replacement of nitrate
+		chromium = 4 # in replacement of nitrate
+	}
+
+	history = {
+		owner = CHL
+		add_core_of = CHL
+
+		buildings = {
+			infrastructure = 4 #was: 5
+			arms_factory = 1
+			industrial_complex = 5 # was 5
+			air_base = 3
+			650 = {
+				bunker = 3
+			}
+		}
+		
+		victory_points = {
+			650 30
+		}
+
+	}
+
+	provinces = {
+		650
+	}
+
+	local_supplies = 0.0 
+}

@@ -1,0 +1,23 @@
+state = {
+	id = 1126
+	name = "STATE_1126" # Sevastopol
+	manpower = 428367
+	state_category = city
+
+	history = {
+		owner = UKR
+		add_core_of = UKR
+		add_core_of = CRI
+		buildings = {
+			infrastructure = 3
+			3686 ={ naval_base = 10 coastal_bunker = 3 }
+		}
+		victory_points = {
+			3686 20
+		}
+	}
+
+	provinces = {
+		3686
+	}
+}

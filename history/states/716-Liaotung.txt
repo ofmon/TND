@@ -8,10 +8,14 @@ state={
 	history={
 		owner = PRC
 		add_core_of = PRC
+		add_core_of = MAN
+		add_core_of = CHI
+		add_claim_by = TAW
 		buildings = {
-			infrastructure = 4
-			arms_factory = 2
-			industrial_complex = 1
+			dockyard = 1
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 6
 			air_base = 5
 			964 = {
 				naval_base = 3
@@ -23,12 +27,15 @@ state={
 			11771 3 
 		}
 
+		victory_points = {
+			934 1 # Chaoyang
+		}
 	}
 
 	provinces={
-		836 846 892 964 987 3783 3839 3849 3895 3970 6804 6860 6910 6918 6951 6981 9781 9788 9835 9854 9885 11764 11771 11808 11815 
+		836 846 887 892 916 934 945 964 987 3783 3814 3839 3849 3881 3895 3934 3970 6804 6837 6860 6868 6898 6910 6918 6951 6981 9781 9788 9835 9848 9854 9885 11764 11771 11808 11815 11855 11886
 	}
-	manpower= 15524051
+	manpower = 37579921
 	buildings_max_level_factor=1.000
-	state_category=city
+	state_category = metropolis
 }

@@ -1,0 +1,41 @@
+characters = {
+	INS_budiman_sudjatmiko = {
+		name = INS_budiman_sudjatmiko
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_INS_budiman_sudjatmiko
+			}
+		}
+		country_leader = {
+			ideology = marxism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	INS_wiranto = {
+		name = INS_wiranto
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_INS_wiranto
+			}
+		}
+		country_leader = {
+			ideology = junta
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	INS_suharto = {
+		name = INS_suharto
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_INS_suharto
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

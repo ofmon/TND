@@ -1,0 +1,33 @@
+
+state = {
+	id = 398
+	name = "STATE_398"
+	manpower = 2967524
+	state_category = city
+	resources = {
+		aluminium = 6 # was: 10
+	}
+
+	history = {
+		owner = SOV
+		add_core_of = SOV
+		buildings = {
+			industrial_complex = 1
+			infrastructure = 4 #was: 6
+
+		}
+		victory_points = {
+			7375 1 
+		}
+		1939.1.1 = {
+			buildings = {
+			}
+		}
+	}
+
+	provinces = {
+		88 123 189 206 237 278 390 1336 1365 1380 1754 3127 4326 4372 4802 4874 6025 6162 6274 7346 7375 9283 10200 10216 10286 10314 11111 11170 11195 11228 11307 11352 12175 12187 12216 12527 12626
+	}
+
+	local_supplies = 0.0 
+}

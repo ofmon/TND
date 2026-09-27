@@ -1,0 +1,23 @@
+characters = {
+	UAE_mohammed_bin_rashid_al_maktoum = {
+		name = UAE_mohammed_bin_rashid_al_maktoum
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_UAE_mohammed_bin_rashid_al_maktoum
+			}
+		}
+		country_leader = {
+			ideology = liberalism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	UAE_sultan_bin_kayed_al_qasimi = {
+		name = UAE_sultan_bin_kayed_al_qasimi
+		country_leader = {
+			ideology = fascism_ideology
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

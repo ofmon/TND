@@ -1,0 +1,19 @@
+state = {
+	id = 1354
+	name = "STATE_1354" # Córdoba
+	manpower = 2298160
+	state_category = large_city
+	local_supplies = 0.0
+
+	history = {
+		owner = COL
+		add_core_of = COL
+		buildings = {
+			infrastructure = 4
+		}
+	}
+
+	provinces = {
+		10864
+	}
+}

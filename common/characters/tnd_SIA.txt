@@ -1,0 +1,28 @@
+characters = {
+	SIA_phumtham_wechayachai = {
+		name = SIA_phumtham_wechayachai
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_SIA_phumtham_wechayachai
+			}
+		}
+		country_leader = {
+			ideology = marxism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	SIA_bhumibol_adulyadej = {
+		name = SIA_bhumibol_adulyadej
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_SIA_bhumibol_adulyadej
+			}
+		}
+		country_leader = {
+			ideology = moderatism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

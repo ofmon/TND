@@ -1,0 +1,19 @@
+state = {
+	id = 1254
+	name = "STATE_1254" # Matabeleland North
+	manpower = 894937
+	state_category = town
+	buildings_max_level_factor = 1.000
+
+	history = {
+		owner = ZIM
+		add_core_of = ZIM
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces = {
+		1874
+	}
+}

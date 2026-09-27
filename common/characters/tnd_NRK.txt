@@ -1,0 +1,31 @@
+characters = {
+	NRK_hwang_jang_yop = {
+		name = NRK_hwang_jang_yop
+		country_leader = {
+			ideology = conservatism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	NRK_jo_myong_rok = {
+		name = NRK_jo_myong_rok
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_NRK_jo_myong_rok
+			}
+		}
+		country_leader = {
+			ideology = junta
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	NRK_kim_yong_nam = {
+		name = NRK_kim_yong_nam
+		country_leader = {
+			ideology = oligarchism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

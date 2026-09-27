@@ -1,0 +1,41 @@
+characters = {
+	SOV_gennady_zyuganov = {
+		name = SOV_gennady_zyuganov
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_SOV_gennady_zyuganov
+			}
+		}
+		country_leader = {
+			ideology = Marxist-Leninist
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	SOV_vladimir_zhirinovsky = {
+		name = SOV_vladimir_zhirinovsky
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_SOV_vladimir_zhirinovsky
+			}
+		}
+		country_leader = {
+			ideology = fascism_ideology
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	SOV_yevgeny_primakov = {
+		name = SOV_yevgeny_primakov
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_SOV_yevgeny_primakov
+			}
+		}
+		country_leader = {
+			ideology = moderatism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

@@ -1,0 +1,19 @@
+state = {
+	id = 1577
+	name = "STATE_1577" # Boyacá
+	manpower = 2809961
+	state_category = city
+	local_supplies = 4.0
+
+	history = {
+		owner = COL
+		add_core_of = COL
+		buildings = {
+			infrastructure = 4
+		}
+	}
+
+	provinces = {
+		7993
+	}
+}

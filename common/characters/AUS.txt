@@ -2,14 +2,13 @@ characters={
 
 	AUS_thomas_klestil={
 		name=AUS_thomas_klestil
-		portraits={
-			civilian={
-				large=GFX_portrait_AUSthomas_klestil_large
-                                small=GFX_portrait_AUS_thomas_klestil_small
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_AUS_thomas_klestil
 			}
 		}
 		country_leader={
-			ideology=conservatism
+			ideology=moderatism
 			expire="2004.7.6.1"
 			id=-1
 		}

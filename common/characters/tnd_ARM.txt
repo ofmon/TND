@@ -1,0 +1,36 @@
+characters = {
+	ARM_vladimir_darbinyan = {
+		name = ARM_vladimir_darbinyan
+		country_leader = {
+			ideology = marxism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	ARM_samvel_babayan = {
+		name = ARM_samvel_babayan
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_ARM_samvel_babayan
+			}
+		}
+		country_leader = {
+			ideology = junta
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	ARM_levon_ter_petrosyan = {
+		name = ARM_levon_ter_petrosyan
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_ARM_levon_ter_petrosyan
+			}
+		}
+		country_leader = {
+			ideology = moderatism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

@@ -1,0 +1,20 @@
+state = {
+	id = 1236
+	name = "STATE_1236" # Western Bahr el Ghazal
+	manpower = 420818
+	state_category = rural
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.000
+
+	history = {
+		owner = SUD
+		add_core_of = SUD
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	provinces = {
+		10764
+	}
+}

@@ -1,0 +1,49 @@
+characters = {
+	ANG_holden_roberto = {
+		name = ANG_holden_roberto
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_ANG_holden_roberto
+			}
+		}
+		country_leader = {
+			ideology = conservatism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	ANG_lucio_lara = {
+		name = ANG_lucio_lara
+		country_leader = {
+			ideology = Marxist-Leninist
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	ANG_jonas_savimbi = {
+		name = ANG_jonas_savimbi
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_ANG_jonas_savimbi
+			}
+		}
+		country_leader = {
+			ideology = junta
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	ANG_jose_eduardo_dos_santos = {
+		name = ANG_jose_eduardo_dos_santos
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_ANG_jose_eduardo_dos_santos
+			}
+		}
+		country_leader = {
+			ideology = oligarchism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

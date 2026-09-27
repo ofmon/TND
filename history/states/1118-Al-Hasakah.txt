@@ -1,0 +1,19 @@
+state = {
+	id = 1118
+	name = "STATE_1118" # Al-Hasakah
+	manpower = 879502
+	state_category = city
+
+	history = {
+		owner = SYR
+		add_core_of = SYR
+		add_core_of = KUR
+		buildings = {
+			infrastructure = 4
+		}
+	}
+
+	provinces = {
+		1578 10882
+	}
+}

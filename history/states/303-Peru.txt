@@ -1,0 +1,36 @@
+
+state = {
+	id = 303
+	name = "STATE_303" # Lima
+	manpower = 11552047
+	resources = {
+		oil = 14 # was: 18
+	}
+	
+	state_category = megalopolis
+
+	history = {
+		owner = PRU
+		add_core_of = PRU
+
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 6
+			air_base = 3
+			12997 = {
+				naval_base = 5
+			}
+		}
+		
+		victory_points = {
+			12997 10
+		}
+
+	}
+
+	provinces = {
+		12983 12997
+	}
+
+	local_supplies = 0.0 
+}

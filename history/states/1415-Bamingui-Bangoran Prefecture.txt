@@ -1,0 +1,18 @@
+state = {
+	id = 1415
+	name = "STATE_1415" # Bamingui-Bangoran Prefecture
+	manpower = 94503
+	state_category = pastoral
+
+	history = {
+		owner = CAR
+		add_core_of = CAR
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	provinces = {
+		1974 5084
+	}
+}

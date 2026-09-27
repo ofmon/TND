@@ -1,14 +1,14 @@
 state={
 	id=727
 	name="STATE_727"
-	manpower=5367
+	manpower = 6275
 	state_category = small_island
 
 	history={
 		owner = KIR
 		add_core_of = KIR
 		buildings = {
-			infrastructure = 1
+			infrastructure = 2
 			13048 = {
 				naval_base = 1
 			}

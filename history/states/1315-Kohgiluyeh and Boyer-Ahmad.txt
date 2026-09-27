@@ -1,0 +1,19 @@
+state = {
+	id = 1315
+	name = "STATE_1315" # Kohgiluyeh and Boyer-Ahmad
+	manpower = 503480
+	state_category = town
+	local_supplies = 0.0
+
+	history = {
+		owner = PER
+		add_core_of = PER
+		buildings = {
+			infrastructure = 3
+		}
+	}
+
+	provinces = {
+		5089
+	}
+}

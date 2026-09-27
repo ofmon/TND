@@ -1,0 +1,41 @@
+characters = {
+	SEY_wavel_ramkalawan = {
+		name = SEY_wavel_ramkalawan
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_SEY_wavel_ramkalawan
+			}
+		}
+		country_leader = {
+			ideology = liberalism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	SEY_james_michel = {
+		name = SEY_james_michel
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_SEY_james_michel
+			}
+		}
+		country_leader = {
+			ideology = marxism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	SEY_france_albert_rene = {
+		name = SEY_france_albert_rene
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_SEY_france_albert_rene
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

@@ -2,22 +2,24 @@
 state={
 	id=21
 	name="STATE_21" # Bouches-du-Rhône (Formerly Provence before Var split off)
-	manpower = 1699555 # 1224802 (Bouches-du-Rhône) + 245508 (Vaucluse) # was 2060400 before the Var split
+	manpower = 2470000
 	resources={
 		aluminium=60 # was: 120
 	}
 
-	state_category = city
+	state_category = large_city
 
 	history={
 		owner = FRA
+		add_core_of = OCC
+		add_core_of = FRA
 		victory_points = {
 			11834 10
 		}
 		buildings = {
-			infrastructure = 3
-			industrial_complex = 1
 			dockyard = 1
+			infrastructure = 5
+			industrial_complex = 3
 			arms_factory = 1
 			fuel_silo = 1
 			air_base = 10
@@ -26,11 +28,8 @@ state={
 				coastal_bunker = 1
 			}
 		}
-		add_core_of = OCC
-		add_core_of = FRA
 		1939.1.1 = {
 			buildings = {
-				dockyard = 2
 			}
 		}
 	}

@@ -1,0 +1,38 @@
+state = {
+	id = 251
+	name = "STATE_251"
+	manpower = 3331565
+	
+	state_category = large_city
+
+	history = {
+		owner = SOV
+		add_core_of = SOV
+
+		victory_points = {
+			11225 3 # Kuybyshev
+		}
+
+		buildings = {
+			arms_factory = 1
+			industrial_complex = 2
+			infrastructure = 4 #was: 5
+			air_base = 1
+
+			# Kuybyshev Hydroelectric Station
+			#6275 = { dam = 1 }
+
+		}
+		
+		1939.1.1 = {
+			buildings = {
+			}
+		}
+	}
+
+	provinces = {
+		298 338 339 365 393 497 3216 6226 6275 9243 9271 9299 9365 9391 11225 11256 11281 11348 11377
+	}
+
+	local_supplies = 0.0 
+}

@@ -1,0 +1,49 @@
+characters = {
+	BAH_hubert_ingraham = {
+		name = BAH_hubert_ingraham
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_BAH_hubert_ingraham
+			}
+		}
+		country_leader = {
+			ideology = conservatism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	BAH_perry_christie = {
+		name = BAH_perry_christie
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_BAH_perry_christie
+			}
+		}
+		country_leader = {
+			ideology = marxism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	BAH_cassius_stuart = {
+		name = BAH_cassius_stuart
+		country_leader = {
+			ideology = fascism_ideology
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	BAH_lynden_pindling = {
+		name = BAH_lynden_pindling
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_BAH_lynden_pindling
+			}
+		}
+		country_leader = {
+			ideology = oligarchism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

@@ -1,0 +1,24 @@
+state = {
+	id = 1607
+	name = "STATE_1607" # Bago
+	manpower = 4534837
+	state_category = city
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.000
+
+	history = {
+		owner = BRM
+		add_core_of = BRM
+		buildings = {
+			industrial_complex = 1
+			infrastructure = 2
+		}
+		victory_points = {
+			10344 1 # Taungoo
+		}
+	}
+
+	provinces = {
+		1417 10283 10344 12127
+	}
+}

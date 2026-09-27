@@ -2,38 +2,29 @@
 state={
 	id=474
 	name="STATE_474"
-	manpower = 440289
+	manpower = 1652637
 	
-	state_category = rural
+	state_category = large_city
 
 	history={
 		owner = MEX
-		buildings = {
-			infrastructure = 2
-			air_base = 1
-			4904 = {
-				naval_base = 2
-			}
-			4965 = {
-				naval_base = 3
-			}
-		}
 		add_core_of = MEX
+		buildings = {
+			industrial_complex = 1
+			infrastructure = 4
+			air_base = 1
+		}
 		#victory_points = {
 		#	12715 3
 		#}
-		victory_points = {
-			4904 1
-		}
 		#victory_points = {
 		#	4965 5
 		#}
 	}
 
 	provinces={
-		4904 4965 12715 
+		12715
 	}
-	
 
 	local_supplies=0.0 
 }

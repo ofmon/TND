@@ -1,0 +1,36 @@
+characters = {
+	PAN_genaro_lopez = {
+		name = PAN_genaro_lopez
+		country_leader = {
+			ideology = marxism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	PAN_manuel_noriega = {
+		name = PAN_manuel_noriega
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_PAN_manuel_noriega
+			}
+		}
+		country_leader = {
+			ideology = junta
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	PAN_guillermo_endara = {
+		name = PAN_guillermo_endara
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_PAN_guillermo_endara
+			}
+		}
+		country_leader = {
+			ideology = centrism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

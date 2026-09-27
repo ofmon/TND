@@ -1,0 +1,23 @@
+state = {
+	id = 1678
+	name = "STATE_1678" # Nord-Ouest
+	manpower = 5172026
+	state_category = large_city
+
+	history = {
+		owner = ALG
+		add_core_of = ALG
+		buildings = {
+			industrial_complex = 2
+			infrastructure = 4
+			7132 = { naval_base = 6 }
+		}
+		victory_points = {
+			7132 5 
+		}
+	}
+
+	provinces = {
+		3991 4116 4150 7132 10045 11923 12760
+	}
+}

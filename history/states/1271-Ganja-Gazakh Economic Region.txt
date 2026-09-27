@@ -1,0 +1,22 @@
+state = {
+	id = 1271
+	name = "STATE_1271" # Ganja-Gazakh Economic Region
+	manpower = 710154
+	state_category = town
+	buildings_max_level_factor = 1.000
+
+	history = {
+		owner = AZR
+		add_core_of = AZR
+		buildings = {
+			infrastructure = 3
+		}
+		victory_points = {
+			11674 1 
+		}
+	}
+
+	provinces = {
+		1539 11674
+	}
+}

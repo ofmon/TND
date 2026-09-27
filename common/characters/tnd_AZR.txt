@@ -1,0 +1,36 @@
+characters = {
+	AZR_isa_gambar = {
+		name = AZR_isa_gambar
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_AZR_isa_gambar
+			}
+		}
+		country_leader = {
+			ideology = liberalism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	AZR_ramiz_ahmadov = {
+		name = AZR_ramiz_ahmadov
+		country_leader = {
+			ideology = marxism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	AZR_isgandar_hamidov = {
+		name = AZR_isgandar_hamidov
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_AZR_isgandar_hamidov
+			}
+		}
+		country_leader = {
+			ideology = fascism_ideology
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

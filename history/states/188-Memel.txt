@@ -2,24 +2,23 @@ state=
 {
 	id=188
 	name="STATE_188"
-	manpower = 150000
-	
-	
-	state_category = rural
+	manpower = 200000
+
+	state_category = city
 	
 	history = {
+		owner = LIT
+		add_core_of = LIT
+		add_claim_by = GER
 		victory_points = {
 			3288 3
 		}
-		owner = LIT
 		buildings = {
-			infrastructure = 3 #was: 5
-			industrial_complex = 1
+			infrastructure = 4 #was: 5
 			3288 = {
 				naval_base = 1
 			}
 		}
-		add_core_of = LIT
 	}
 	provinces={
 		3288 	

@@ -1,0 +1,20 @@
+state = {
+	id = 1730
+	name = "STATE_1730" # La Rioja
+	manpower = 283765
+	state_category = rural
+	buildings_max_level_factor = 1.000
+	local_supplies = 9.0
+
+	history = {
+		owner = SPR
+		add_core_of = SPR
+		buildings = {
+			infrastructure = 4
+		}
+	}
+
+	provinces = {
+		884 3902 6903
+	}
+}

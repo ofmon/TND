@@ -1,0 +1,49 @@
+characters = {
+	VOL_joseph_ki_zerbo = {
+		name = VOL_joseph_ki_zerbo
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_VOL_joseph_ki_zerbo
+			}
+		}
+		country_leader = {
+			ideology = socialism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	VOL_philippe_ouedraogo = {
+		name = VOL_philippe_ouedraogo
+		country_leader = {
+			ideology = marxism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	VOL_gilbert_diendere = {
+		name = VOL_gilbert_diendere
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_VOL_gilbert_diendere
+			}
+		}
+		country_leader = {
+			ideology = junta
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	VOL_blaise_compaore = {
+		name = VOL_blaise_compaore
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_VOL_blaise_compaore
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

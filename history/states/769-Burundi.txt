@@ -2,7 +2,7 @@ state={
 	id=769
 	name="STATE_769" # Burundi
 	
-	state_category = pastoral
+	state_category = large_town
 
 	history={
 		owner = BRD
@@ -17,8 +17,8 @@ state={
 	}
 
 	provinces={
-		2220 13363
+		2220
 	}
-	manpower=12550000
+	manpower = 5848035
 	buildings_max_level_factor=1.000
 }

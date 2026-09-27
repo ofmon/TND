@@ -1,0 +1,19 @@
+state = {
+	id = 1410
+	name = "STATE_1410" # Trujillo
+	manpower = 1233543
+	state_category = large_city
+	local_supplies = 6.0
+
+	history = {
+		owner = VEN
+		add_core_of = VEN
+		buildings = {
+			infrastructure = 4
+		}
+	}
+
+	provinces = {
+		1997
+	}
+}

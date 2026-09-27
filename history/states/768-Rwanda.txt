@@ -2,7 +2,7 @@ state={
 	id=768
 	name="STATE_768" # Rwanda
 	
-	state_category = pastoral
+	state_category = city
 
 	history={
 		owner = RWA
@@ -17,8 +17,8 @@ state={
 	}
 
 	provinces={
-		9962 13364
+		9962
 	}
-	manpower=13460000
+	manpower = 4054474
 	buildings_max_level_factor=1.000
 }

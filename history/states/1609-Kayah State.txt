@@ -1,0 +1,20 @@
+state = {
+	id = 1609
+	name = "STATE_1609" # Kayah State
+	manpower = 410887
+	state_category = rural
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.000
+
+	history = {
+		owner = BRM
+		add_core_of = BRM
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	provinces = {
+		4654 12317
+	}
+}

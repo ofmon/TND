@@ -1,0 +1,36 @@
+characters = {
+	ICE_david_oddsson = {
+		name = ICE_david_oddsson
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_ICE_david_oddsson
+			}
+		}
+		country_leader = {
+			ideology = conservatism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	ICE_steingrimur_j_sigfusson = {
+		name = ICE_steingrimur_j_sigfusson
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_ICE_steingrimur_j_sigfusson
+			}
+		}
+		country_leader = {
+			ideology = marxism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	ICE_sverrir_hermannsson = {
+		name = ICE_sverrir_hermannsson
+		country_leader = {
+			ideology = fascism_ideology
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

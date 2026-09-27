@@ -1,0 +1,22 @@
+state = {
+	id = 1500
+	name = "STATE_1500" # Šiauliai
+	manpower = 362932
+	state_category = rural
+	buildings_max_level_factor = 1.000
+
+	history = {
+		owner = LIT
+		add_core_of = LIT
+		buildings = {
+			infrastructure = 3
+		}
+		victory_points = {
+			9483 3
+		}
+	}
+
+	provinces = {
+		6376 9483
+	}
+}

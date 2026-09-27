@@ -1,0 +1,19 @@
+state = {
+	id = 1592
+	name = "STATE_1592" # Cajamarca
+	manpower = 1128727
+	state_category = city
+	local_supplies = 0.0
+
+	history = {
+		owner = PRU
+		add_core_of = PRU
+		buildings = {
+			infrastructure = 3
+		}
+	}
+
+	provinces = {
+		8199
+	}
+}

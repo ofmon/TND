@@ -1,0 +1,18 @@
+state = {
+	id = 1430
+	name = "STATE_1430" # East
+	manpower = 959749
+	state_category = town
+
+	history = {
+		owner = CMR
+		add_core_of = CMR
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces = {
+		5054
+	}
+}

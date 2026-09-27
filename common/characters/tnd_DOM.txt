@@ -1,0 +1,49 @@
+characters = {
+	DOM_leonel_fernandez = {
+		name = DOM_leonel_fernandez
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_DOM_leonel_fernandez
+			}
+		}
+		country_leader = {
+			ideology = liberalism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	DOM_narciso_isa_conde = {
+		name = DOM_narciso_isa_conde
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_DOM_narciso_isa_conde
+			}
+		}
+		country_leader = {
+			ideology = Marxist-Leninist
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	DOM_vincho_castillo = {
+		name = DOM_vincho_castillo
+		country_leader = {
+			ideology = fascism_ideology
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	DOM_joaquin_balaguer = {
+		name = DOM_joaquin_balaguer
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_DOM_joaquin_balaguer
+			}
+		}
+		country_leader = {
+			ideology = oligarchism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

@@ -1,0 +1,19 @@
+state = {
+	id = 1246
+	name = "STATE_1246" # Orientale
+	manpower = 1220150
+	state_category = town
+	buildings_max_level_factor = 1.000
+
+	history = {
+		owner = UGA
+		add_core_of = UGA
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces = {
+		7133
+	}
+}

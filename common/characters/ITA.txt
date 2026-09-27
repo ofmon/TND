@@ -13,13 +13,12 @@ characters = {
 		name = ITA_carlo_azegilo_ciampi
 		portraits = {
 			civilian = {
-				large=GFX_portrait_ITA_carlo_azegilo_ciampi_large
-                                small=GFX_portrait_ITA_carlo_azegilo_ciampi_small
+				large = GFX_portrait_tnd_ITA_carlo_azegilo_ciampi
 			}
 		}
 
 		country_leader = {
-			ideology = indepedent
+			ideology = moderatism
 			traits = { }
 			expire = "2016.9.16.1"
 			id = -1

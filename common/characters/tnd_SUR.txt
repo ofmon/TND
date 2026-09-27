@@ -1,0 +1,54 @@
+characters = {
+	SUR_jules_wijdenbosch = {
+		name = SUR_jules_wijdenbosch
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_SUR_jules_wijdenbosch
+			}
+		}
+		country_leader = {
+			ideology = populism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	SUR_jim_hok = {
+		name = SUR_jim_hok
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_SUR_jim_hok
+			}
+		}
+		country_leader = {
+			ideology = marxism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	SUR_desi_bouterse = {
+		name = SUR_desi_bouterse
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_SUR_desi_bouterse
+			}
+		}
+		country_leader = {
+			ideology = junta
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	SUR_ronnie_brunswijk = {
+		name = SUR_ronnie_brunswijk
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_SUR_ronnie_brunswijk
+			}
+		}
+		country_leader = {
+			ideology = moderatism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

@@ -1,0 +1,19 @@
+state = {
+	id = 1365
+	name = "STATE_1365" # Matanzas
+	manpower = 930165
+	state_category = city
+	local_supplies = 0.0
+
+	history = {
+		owner = CUB
+		add_core_of = CUB
+		buildings = {
+			infrastructure = 4
+		}
+	}
+
+	provinces = {
+		10498
+	}
+}

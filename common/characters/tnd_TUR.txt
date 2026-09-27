@@ -1,0 +1,44 @@
+characters = {
+	TUR_bulent_ecevit = {
+		name = TUR_bulent_ecevit
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_TUR_bulent_ecevit
+			}
+		}
+		country_leader = {
+			ideology = socialism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	TUR_aydemir_guler = {
+		name = TUR_aydemir_guler
+		country_leader = {
+			ideology = Marxist-Leninist
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	TUR_devlet_bahceli = {
+		name = TUR_devlet_bahceli
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_TUR_devlet_bahceli
+			}
+		}
+		country_leader = {
+			ideology = fascism_ideology
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	TUR_suleyman_demirel = {
+		name = TUR_suleyman_demirel
+		country_leader = {
+			ideology = moderatism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

@@ -1,0 +1,18 @@
+state = {
+	id = 1298
+	name = "STATE_1298" # Karak
+	manpower = 173969
+	state_category = rural
+
+	history = {
+		owner = JOR
+		add_core_of = JOR
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces = {
+		4591 10089
+	}
+}

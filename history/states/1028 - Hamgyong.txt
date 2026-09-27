@@ -1,0 +1,36 @@
+state = {
+	id = 1028
+	name = "STATE_1028"
+	manpower = 3680737
+	state_category = large_city
+
+	resources = {
+		steel = 10 # was: 30
+		tungsten = 10 # was: 52 - moved 10 to South Korea and the Sangdong province
+		coal = 4 # Chosen Sekitan KK at Eian was a small low temperature carbonization plant which was processed about 600 tons of coal per day. This plant yielded from 15,000 to 20,000 tons per annum of coal tar.
+	}
+
+	history = {
+		owner = NRK
+		add_core_of = NRK
+		add_claim_by = KOR
+
+		buildings = {
+			dockyard = 1
+			arms_factory = 1
+			industrial_complex = 1
+			infrastructure = 2
+		}
+		
+		victory_points = {
+			6928 1 # Kankō
+		}	
+
+	}
+
+	provinces = {
+		852 978 3852 3981 6928 6922 11878 10083 11770
+	}
+
+	local_supplies = 0.0 
+}

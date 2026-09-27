@@ -1,0 +1,21 @@
+state = {
+	id = 1140
+	name = "STATE_1140" # Kyōto Prefecture
+	manpower = 2814925
+	state_category = large_city
+	local_supplies = 9.0
+
+	history = {
+		owner = JAP
+		add_core_of = JAP
+		buildings = {
+			industrial_complex = 3
+			infrastructure = 5
+			1136 = { naval_base = 6 }
+		}
+	}
+
+	provinces = {
+		1136 11960
+	}
+}

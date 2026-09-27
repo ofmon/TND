@@ -1,0 +1,19 @@
+state = {
+	id = 1581
+	name = "STATE_1581" # Nariño
+	manpower = 3680170
+	state_category = city
+	local_supplies = 4.0
+
+	history = {
+		owner = COL
+		add_core_of = COL
+		buildings = {
+			infrastructure = 4
+		}
+	}
+
+	provinces = {
+		7991 10846
+	}
+}

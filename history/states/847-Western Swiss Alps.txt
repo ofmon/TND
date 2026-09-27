@@ -1,0 +1,20 @@
+
+state={
+	id=847
+	name="STATE_847"
+	manpower = 308609
+	state_category = rural
+	resources={
+	}
+	history={
+		owner = SWI
+		add_core_of = SWI
+		buildings = {
+			infrastructure = 4 
+		}
+	}
+	provinces={
+		9587 3612
+	}
+	local_supplies=0.0 
+}

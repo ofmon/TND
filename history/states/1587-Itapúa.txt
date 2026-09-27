@@ -1,0 +1,22 @@
+state = {
+	id = 1587
+	name = "STATE_1587" # Itapúa
+	manpower = 848244
+	state_category = town
+	local_supplies = 0.0
+
+	history = {
+		owner = PAR
+		add_core_of = PAR
+		buildings = {
+			infrastructure = 3
+		}
+		victory_points = {
+			2194 10 
+		}
+	}
+
+	provinces = {
+		2194
+	}
+}

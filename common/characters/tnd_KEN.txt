@@ -1,0 +1,49 @@
+characters = {
+	KEN_mwai_kibaki = {
+		name = KEN_mwai_kibaki
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_KEN_mwai_kibaki
+			}
+		}
+		country_leader = {
+			ideology = conservatism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	KEN_raila_odinga = {
+		name = KEN_raila_odinga
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_KEN_raila_odinga
+			}
+		}
+		country_leader = {
+			ideology = marxism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	KEN_maina_njenga = {
+		name = KEN_maina_njenga
+		country_leader = {
+			ideology = junta
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	KEN_daniel_arap_moi = {
+		name = KEN_daniel_arap_moi
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_KEN_daniel_arap_moi
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

@@ -1,0 +1,19 @@
+state = {
+	id = 1404
+	name = "STATE_1404" # Falcón
+	manpower = 682924
+	state_category = town
+	local_supplies = 6.0
+
+	history = {
+		owner = VEN
+		add_core_of = VEN
+		buildings = {
+			infrastructure = 3
+		}
+	}
+
+	provinces = {
+		4526
+	}
+}

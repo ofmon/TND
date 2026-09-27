@@ -1,0 +1,54 @@
+characters = {
+	GRE_costas_simitis = {
+		name = GRE_costas_simitis
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_GRE_costas_simitis
+			}
+		}
+		country_leader = {
+			ideology = socialism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	GRE_aleka_papariga = {
+		name = GRE_aleka_papariga
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_GRE_aleka_papariga
+			}
+		}
+		country_leader = {
+			ideology = Marxist-Leninist
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	GRE_nikolaos_michaloliakos = {
+		name = GRE_nikolaos_michaloliakos
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_GRE_nikolaos_michaloliakos
+			}
+		}
+		country_leader = {
+			ideology = nazism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	GRE_constantine_ii = {
+		name = GRE_constantine_ii
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_GRE_constantine_ii
+			}
+		}
+		country_leader = {
+			ideology = moderatism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

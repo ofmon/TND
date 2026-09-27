@@ -1,0 +1,41 @@
+characters = {
+	NOR_aslak_sira_myhre = {
+		name = NOR_aslak_sira_myhre
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_NOR_aslak_sira_myhre
+			}
+		}
+		country_leader = {
+			ideology = marxism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	NOR_carl_i_hagen = {
+		name = NOR_carl_i_hagen
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_NOR_carl_i_hagen
+			}
+		}
+		country_leader = {
+			ideology = fascism_ideology
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	NOR_harald_v = {
+		name = NOR_harald_v
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_NOR_harald_v
+			}
+		}
+		country_leader = {
+			ideology = moderatism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

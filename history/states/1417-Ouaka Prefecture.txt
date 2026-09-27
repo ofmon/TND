@@ -1,0 +1,18 @@
+state = {
+	id = 1417
+	name = "STATE_1417" # Ouaka Prefecture
+	manpower = 604919
+	state_category = town
+
+	history = {
+		owner = CAR
+		add_core_of = CAR
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces = {
+		3165
+	}
+}

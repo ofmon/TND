@@ -1,0 +1,19 @@
+state = {
+	id = 1427
+	name = "STATE_1427" # Salamat
+	manpower = 405485
+	state_category = rural
+	buildings_max_level_factor = 1.000
+
+	history = {
+		owner = CHA
+		add_core_of = CHA
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	provinces = {
+		7919
+	}
+}

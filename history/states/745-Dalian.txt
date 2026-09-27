@@ -4,16 +4,19 @@ state={
 	provinces={
 		1150 6851 
 	}
-	state_category = large_town
+	state_category = large_city
 	history=
 	{
 		owner = PRC
 		add_core_of = PRC
+		add_core_of = MAN
+		add_core_of = CHI
+		add_claim_by = TAW
 		victory_points = {
 			1150 1 
 		}
 		buildings = {
-			infrastructure = 5
+			infrastructure = 3
 			air_base = 1
 			industrial_complex = 1
 			1150 = {
@@ -22,8 +25,7 @@ state={
 			}
 		}
 
-	
 	}
-	manpower= 6078000
+	manpower = 5531750
 	buildings_max_level_factor=1.000
 }

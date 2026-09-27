@@ -1,0 +1,19 @@
+state = {
+	id = 1502
+	name = "STATE_1502" # Utena
+	manpower = 141796
+	state_category = rural
+	buildings_max_level_factor = 1.000
+
+	history = {
+		owner = LIT
+		add_core_of = LIT
+		buildings = {
+			infrastructure = 3
+		}
+	}
+
+	provinces = {
+		9438 11226 11498
+	}
+}

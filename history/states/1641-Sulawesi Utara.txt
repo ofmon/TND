@@ -1,0 +1,22 @@
+state = {
+	id = 1641
+	name = "STATE_1641" # Sulawesi Utara
+	manpower = 881191
+	state_category = town
+	local_supplies = 0.0
+
+	history = {
+		owner = INS
+		add_core_of = INS
+		buildings = {
+			infrastructure = 3
+		}
+		victory_points = {
+			10169 1
+		}
+	}
+
+	provinces = {
+		1289 4262 10169
+	}
+}

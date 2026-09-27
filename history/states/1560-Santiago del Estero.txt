@@ -1,0 +1,19 @@
+state = {
+	id = 1560
+	name = "STATE_1560" # Santiago del Estero
+	manpower = 646127
+	state_category = town
+	local_supplies = 6.0
+
+	history = {
+		owner = ARG
+		add_core_of = ARG
+		buildings = {
+			infrastructure = 3
+		}
+	}
+
+	provinces = {
+		2208 5143
+	}
+}

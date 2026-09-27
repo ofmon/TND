@@ -1,0 +1,34 @@
+state = {
+	id = 970
+	name = "STATE_970"
+	resources = {
+		chromium = 20.000
+		aluminium = 6.000
+	}
+
+	history = {
+		owner = MAC
+		add_core_of = MAC
+		add_core_of = YUG
+		add_core_of = ALB
+		add_claim_by = BUL
+		buildings = {
+			infrastructure = 2
+		}
+		victory_points = {
+			833 2
+		}
+		victory_points = {
+			867 1
+		}
+	}
+
+	provinces = {
+		833 867 11856
+	} 
+	manpower = 520000
+	buildings_max_level_factor = 1.000
+	state_category = rural
+
+	local_supplies = 0.0 
+}

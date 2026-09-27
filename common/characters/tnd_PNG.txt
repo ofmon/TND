@@ -1,0 +1,36 @@
+characters = {
+	PNG_francis_ona = {
+		name = PNG_francis_ona
+		country_leader = {
+			ideology = marxism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	PNG_jerry_singirok = {
+		name = PNG_jerry_singirok
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_PNG_jerry_singirok
+			}
+		}
+		country_leader = {
+			ideology = junta
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	PNG_silas_atopare = {
+		name = PNG_silas_atopare
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_PNG_silas_atopare
+			}
+		}
+		country_leader = {
+			ideology = moderatism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

@@ -1,0 +1,20 @@
+state = {
+	id = 1616
+	name = "STATE_1616" # Rapti Zone
+	manpower = 4995418
+	state_category = city
+	local_supplies = 0.0
+
+	history = {
+		owner = NEP
+		add_core_of = NEP
+		buildings = {
+			industrial_complex = 1
+			infrastructure = 2
+		}
+	}
+
+	provinces = {
+		4386
+	}
+}

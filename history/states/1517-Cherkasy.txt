@@ -1,0 +1,22 @@
+state = {
+	id = 1517
+	name = "STATE_1517" # Cherkasy
+	manpower = 1373899
+	state_category = city
+
+	history = {
+		owner = UKR
+		add_core_of = UKR
+		buildings = {
+			industrial_complex = 1
+			infrastructure = 3
+		}
+		victory_points = {
+			488 5
+		}
+	}
+
+	provinces = {
+		458 488 9451 9491 11424 11438 11454 11530
+	}
+}

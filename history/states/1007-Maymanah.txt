@@ -1,0 +1,24 @@
+state={
+	id=1007
+	name="STATE_1007"
+	manpower = 882870
+
+	resources = {
+		steel = 2
+	}
+
+	state_category = city
+	provinces={
+		7584
+	}
+	history={
+		owner = AFG
+		add_core_of = AFG
+		buildings = {
+			infrastructure = 2 
+		}
+	}
+	
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

@@ -1,0 +1,41 @@
+characters = {
+	MAL_chin_peng = {
+		name = MAL_chin_peng
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_MAL_chin_peng
+			}
+		}
+		country_leader = {
+			ideology = anti_revisionism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	MAL_ibrahim_ali = {
+		name = MAL_ibrahim_ali
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_MAL_ibrahim_ali
+			}
+		}
+		country_leader = {
+			ideology = fascism_ideology
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	MAL_salahuddin_abdul_aziz_shah = {
+		name = MAL_salahuddin_abdul_aziz_shah
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_MAL_salahuddin_abdul_aziz_shah
+			}
+		}
+		country_leader = {
+			ideology = moderatism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

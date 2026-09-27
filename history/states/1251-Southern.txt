@@ -1,0 +1,20 @@
+state = {
+	id = 1251
+	name = "STATE_1251" # Southern
+	manpower = 599311
+	state_category = town
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.0
+
+	history = {
+		owner = ZAM
+		add_core_of = ZAM
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces = {
+		7872
+	}
+}

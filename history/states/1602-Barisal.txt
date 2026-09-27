@@ -1,0 +1,21 @@
+state = {
+	id = 1602
+	name = "STATE_1602" # Barisal
+	manpower = 10042341
+	state_category = city
+	buildings_max_level_factor = 1.000
+	local_supplies = 1.0
+
+	history = {
+		owner = BAN
+		add_core_of = BAN
+		buildings = {
+			industrial_complex = 1
+			infrastructure = 3
+		}
+	}
+
+	provinces = {
+		10035 11911
+	}
+}

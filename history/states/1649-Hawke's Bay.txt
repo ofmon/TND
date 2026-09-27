@@ -1,0 +1,19 @@
+state = {
+	id = 1649
+	name = "STATE_1649" # Hawke's Bay
+	manpower = 157565
+	state_category = rural
+	local_supplies = 0.0
+
+	history = {
+		owner = NZL
+		add_core_of = NZL
+		buildings = {
+			infrastructure = 4
+		}
+	}
+
+	provinces = {
+		1801 4748 10609
+	}
+}

@@ -1,0 +1,21 @@
+state = {
+	id = 1503
+	name = "STATE_1503" # Podkarpackie Voivodeship
+	manpower = 2199996
+	state_category = city
+	buildings_max_level_factor = 1.000
+	local_supplies = 12.0
+
+	history = {
+		owner = POL
+		add_core_of = POL
+		buildings = {
+			industrial_complex = 1
+			infrastructure = 4
+		}
+	}
+
+	provinces = {
+		466 3434 6499 6522 11507
+	}
+}

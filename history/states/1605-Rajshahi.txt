@@ -1,0 +1,21 @@
+state = {
+	id = 1605
+	name = "STATE_1605" # Rajshahi
+	manpower = 3516057
+	state_category = metropolis
+	buildings_max_level_factor = 1.000
+	local_supplies = 1.0
+
+	history = {
+		owner = BAN
+		add_core_of = BAN
+		buildings = {
+			industrial_complex = 1
+			infrastructure = 3
+		}
+	}
+
+	provinces = {
+		4616 7662 10443
+	}
+}

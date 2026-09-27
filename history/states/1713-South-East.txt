@@ -1,0 +1,22 @@
+state = {
+	id = 1713
+	name = "STATE_1713" # South-East
+	manpower = 382372
+	state_category = rural
+	local_supplies = 0.0
+
+	history = {
+		owner = IRE
+		add_core_of = IRE
+		buildings = {
+			infrastructure = 4
+		}
+		victory_points = {
+			285 1 #Wexford
+		}
+	}
+
+	provinces = {
+		285 9310 11237 11267
+	}
+}

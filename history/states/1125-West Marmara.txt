@@ -1,0 +1,22 @@
+state = {
+	id = 1125
+	name = "STATE_1125" # West Marmara
+	manpower = 1283308
+	state_category = city
+	local_supplies = 0.0
+
+	history = {
+		owner = TUR
+		add_core_of = TUR
+		buildings = {
+			infrastructure = 4
+		}
+		victory_points = {
+			9799 5
+		}
+	}
+
+	provinces = {
+		785 6864 6912 9799 9887 11778
+	}
+}

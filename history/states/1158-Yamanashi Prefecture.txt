@@ -1,0 +1,19 @@
+state = {
+	id = 1158
+	name = "STATE_1158" # Yamanashi Prefecture
+	manpower = 747107
+	state_category = city
+	local_supplies = 0.0
+
+	history = {
+		owner = JAP
+		add_core_of = JAP
+		buildings = {
+			infrastructure = 5
+		}
+	}
+
+	provinces = {
+		12072
+	}
+}

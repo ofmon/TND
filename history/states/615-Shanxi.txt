@@ -2,21 +2,23 @@ state=
 {
 	id=615
 	name="STATE_615"
-	manpower = 38314047
+	manpower = 32958065
 	
-	state_category = town
+	state_category = large_town
 	
 	history=
 	{
 		owner = PRC
 		add_core_of = PRC
+		add_core_of = SHX
+		add_core_of = CHI
+		add_claim_by = TAW
 		victory_points = {
 			1519 3 
 		}
 		buildings = {
-			infrastructure = 3
-			arms_factory = 2
-			industrial_complex = 2
+			infrastructure = 2
+			industrial_complex = 1
 		}
 	}
 	provinces={

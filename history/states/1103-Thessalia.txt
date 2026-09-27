@@ -1,0 +1,22 @@
+state = {
+	id = 1103
+	name = "STATE_1103" # Thessalia
+	manpower = 741051
+	state_category = town
+	local_supplies = 0.0
+
+	history = {
+		owner = GRE
+		add_core_of = GRE
+		buildings = {
+			infrastructure = 4
+		}
+		victory_points = {
+			3973 3
+		}
+	}
+
+	provinces = {
+		863 3864 3973 6930 11786
+	}
+}

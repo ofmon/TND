@@ -1,0 +1,39 @@
+characters = {
+	SYR_riad_seif = {
+		name = SYR_riad_seif
+		country_leader = {
+			ideology = liberalism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	SYR_wisal_farha_bakdash = {
+		name = SYR_wisal_farha_bakdash
+		country_leader = {
+			ideology = Marxist-Leninist
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	SYR_issam_al_mahayri = {
+		name = SYR_issam_al_mahayri
+		country_leader = {
+			ideology = fascism_ideology
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	SYR_hafez_al_assad = {
+		name = SYR_hafez_al_assad
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_SYR_hafez_al_assad
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

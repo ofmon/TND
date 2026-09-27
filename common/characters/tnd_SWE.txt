@@ -1,0 +1,41 @@
+characters = {
+	SWE_gudrun_schyman = {
+		name = SWE_gudrun_schyman
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_SWE_gudrun_schyman
+			}
+		}
+		country_leader = {
+			ideology = marxism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	SWE_mikael_jansson = {
+		name = SWE_mikael_jansson
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_SWE_mikael_jansson
+			}
+		}
+		country_leader = {
+			ideology = fascism_ideology
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	SWE_carl_gustaf = {
+		name = SWE_carl_gustaf
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_SWE_carl_gustaf
+			}
+		}
+		country_leader = {
+			ideology = centrism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

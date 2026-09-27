@@ -1,0 +1,36 @@
+characters = {
+	CUB_oswaldo_paya = {
+		name = CUB_oswaldo_paya
+		country_leader = {
+			ideology = conservatism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	CUB_luis_posada_carriles = {
+		name = CUB_luis_posada_carriles
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_CUB_luis_posada_carriles
+			}
+		}
+		country_leader = {
+			ideology = junta
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	CUB_raul_castro = {
+		name = CUB_raul_castro
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_CUB_raul_castro
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

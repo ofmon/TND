@@ -1,0 +1,18 @@
+state = {
+	id = 1433
+	name = "STATE_1433" # North
+	manpower = 1544283
+	state_category = city
+
+	history = {
+		owner = CMR
+		add_core_of = CMR
+		buildings = {
+			infrastructure = 3
+		}
+	}
+
+	provinces = {
+		11194
+	}
+}

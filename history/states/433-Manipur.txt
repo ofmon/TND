@@ -1,31 +1,33 @@
-
 state={
 	id=433
-	name="STATE_433" # Rajasthan
-	manpower = 81000000
-	
-	state_category = town
-	
-	
-	resources={
-		# tungsten=32 # was: 42
-	}
-
-	history={
-		victory_points = {
-			2054 1
-		}
-		owner = RAJ
-		buildings = {
-			infrastructure = 2
-			industrial_complex = 1
-		}
-
-	}
-
+	name="STATE_433"
 	provinces={
-		1199 1908 2054 4149 4915 4971 4984 7905 7998 10847 10866 12041 12718 12743 12829 12844 12876 12886 
+		1908 2054 2092 4149 4915 4971 4984 7905 7998 10772 10847 12041 12718 12829 12844 12876 12886
 	}
+	history={
+		owner = RAJ
+		add_core_of = RAJ
+		buildings = {
+			industrial_complex = 1
+			infrastructure = 2
+			4915 = {
+                landmark_taj_mahal = {
+                    level = 1
+                    allowed = {
+                        has_dlc = "Graveyard of Empires"
+                    }
+                }
+			}
+		}
+		victory_points = {
+			1908 5
+		}
 
-	local_supplies=9.0 
+		victory_points = { 2054 1 }
+		victory_points = { 	10772 15 }
+	}
+	state_category = large_town
+	manpower = 53659290
+	buildings_max_level_factor=1.000
+	local_supplies=9.000
 }

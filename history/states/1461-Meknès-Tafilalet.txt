@@ -1,0 +1,18 @@
+state = {
+	id = 1461
+	name = "STATE_1461" # Meknès-Tafilalet
+	manpower = 2386208
+	state_category = city
+
+	history = {
+		owner = MOR
+		add_core_of = MOR
+		buildings = {
+			infrastructure = 3
+		}
+	}
+
+	provinces = {
+		1207 7908 12042
+	}
+}

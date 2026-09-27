@@ -1,0 +1,19 @@
+state = {
+	id = 1600
+	name = "STATE_1600" # Soriano
+	manpower = 490230
+	state_category = rural
+	local_supplies = 0.0
+
+	history = {
+		owner = URG
+		add_core_of = URG
+		buildings = {
+			infrastructure = 3
+		}
+	}
+
+	provinces = {
+		4457 12496
+	}
+}

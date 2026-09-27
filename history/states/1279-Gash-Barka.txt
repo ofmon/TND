@@ -1,0 +1,22 @@
+state = {
+	id = 1279
+	name = "STATE_1279" # Gash-Barka
+	manpower = 584203
+	state_category = town
+	local_supplies = 0.0
+
+	history = {
+		owner = ERI
+		add_core_of = ERI
+		buildings = {
+			infrastructure = 2
+		}
+		victory_points = { #Biscia
+			12723 1
+		}
+	}
+
+	provinces = {
+		12723 13251
+	}
+}

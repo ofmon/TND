@@ -1,0 +1,19 @@
+state = {
+	id = 1241
+	name = "STATE_1241" # Southern Zone
+	manpower = 2737234
+	state_category = city
+	buildings_max_level_factor = 1.000
+
+	history = {
+		owner = TZN
+		add_core_of = TZN
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces = {
+		8182 8201 10845 12944
+	}
+}

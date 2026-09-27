@@ -1,0 +1,25 @@
+state = {
+	id = 1107
+	name = "STATE_1107" # Western Transdanubia
+	manpower = 1066201
+	state_category = town
+	local_supplies = 0.0
+
+	history = {
+		owner = HUN
+		add_core_of = HUN
+		buildings = {
+			infrastructure = 4
+		}
+		victory_points = {
+			686 1 # Sopron
+		}
+		victory_points = {
+			6720 10 # Györ
+		}
+	}
+
+	provinces = {
+		686 3670 6720 11627
+	}
+}

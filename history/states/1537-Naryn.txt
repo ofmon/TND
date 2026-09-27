@@ -1,0 +1,19 @@
+state = {
+	id = 1537
+	name = "STATE_1537" # Naryn
+	manpower = 404979
+	state_category = rural
+	buildings_max_level_factor = 1.000
+
+	history = {
+		owner = KYR
+		add_core_of = KYR
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces = {
+		1675 4316 5062
+	}
+}

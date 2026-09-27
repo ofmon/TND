@@ -1,0 +1,19 @@
+state = {
+	id = 1424
+	name = "STATE_1424" # Mandoul
+	manpower = 842442
+	state_category = town
+	buildings_max_level_factor = 1.000
+
+	history = {
+		owner = CHA
+		add_core_of = CHA
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces = {
+		13211
+	}
+}

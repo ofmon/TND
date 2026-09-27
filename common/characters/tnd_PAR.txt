@@ -1,0 +1,54 @@
+characters = {
+	PAR_luis_gonzalez_macchi = {
+		name = PAR_luis_gonzalez_macchi
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_PAR_luis_gonzalez_macchi
+			}
+		}
+		country_leader = {
+			ideology = conservatism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	PAR_ananias_maidana = {
+		name = PAR_ananias_maidana
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_PAR_ananias_maidana
+			}
+		}
+		country_leader = {
+			ideology = Marxist-Leninist
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	PAR_lino_oviedo = {
+		name = PAR_lino_oviedo
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_PAR_lino_oviedo
+			}
+		}
+		country_leader = {
+			ideology = junta
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	PAR_alfredo_stroessner = {
+		name = PAR_alfredo_stroessner
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_PAR_alfredo_stroessner
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

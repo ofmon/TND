@@ -1,28 +1,26 @@
 state = {
 	id = 838 # Illubabor-Kaffa
 	name = "STATE_838"
-	manpower = 600000
+	manpower = 3251408
 	resources = {
 		rubber = 2
 	}
 	
-	state_category = pastoral
+	state_category = city
 
 	history = {
+		owner = ETH
+		add_core_of = ETH
+		add_core_of = ORO
+		add_core_of = GBA
 		set_variable = { ETH_state_development_production_speed = -0.3 }
 		set_variable = { ETH_state_development_local_building_slots_factor = -0.3 }
 		#set_variable = { ETH_state_decentralization_defence = 0.2 }
 		#set_variable = { ETH_state_decentralization_infrastructure = -0.3 }
 		#set_variable = { ETH_state_decentralization_resources = -0.3 }
-		add_dynamic_modifier = {
-			modifier = ETH_state_development_dynamic_modifier
-		}
-		add_dynamic_modifier = {
-			modifier = ETH_state_decentralization_dynamic_modifier
-			scope = ETH
-		}
 		
 		buildings = {
+			infrastructure = 2
 			# infrastructure = 1
 		}
 		# Gambeila
@@ -34,13 +32,11 @@ state = {
 			7912 1  
 		}
 		
-		owner = ETH
-		add_core_of = ETH
 	}
 
 	provinces = {
- 		7912 13244 13245
- 	}
+		7912 13244
+	}
 
 	local_supplies = 0.0 
 }

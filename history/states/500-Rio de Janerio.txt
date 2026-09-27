@@ -1,0 +1,38 @@
+
+state={
+	id=500
+	name="STATE_500"
+	manpower = 15282916
+	
+	state_category = metropolis
+	
+	history={
+		owner = BRA
+		add_core_of = BRA
+		buildings = {
+			infrastructure = 4 #was: 6
+			arms_factory = 1
+			industrial_complex = 6
+			dockyard = 1
+			air_base = 7
+			10980 = {
+				naval_base = 7
+                landmark_cristo_redentor = {
+                    level = 1
+                    allowed = {
+                        has_dlc = "Gotterdammerung"
+                    }
+                }
+			}
+		}
+		victory_points = {
+			10980 20
+		}
+	}
+
+	provinces={
+		5172 8190 8226 10980 12334 12996
+	}
+
+	local_supplies=0.0 
+}

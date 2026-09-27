@@ -1,0 +1,26 @@
+state={
+	id=438
+	name="STATE_438"
+	provinces={
+		1377 1898 1983 2005 2036 3989 4045 4299 5002 5040 5055 5086 5157 7064 8082 8114 9951 9973 10021 10751 10794 11955 12137 12777 12786
+	}
+	manpower = 177445336
+	buildings_max_level_factor=1.000
+	state_category = large_town
+	local_supplies=0.000
+	history={
+		owner = RAJ
+		add_core_of = RAJ
+		victory_points = {
+			1377 10
+		}
+
+		buildings = {
+			arms_factory = 1
+			infrastructure = 2
+			industrial_complex = 4
+		}
+
+		victory_points = { 12137 1 }
+	}
+}

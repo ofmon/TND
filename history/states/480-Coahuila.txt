@@ -1,0 +1,35 @@
+state = {
+	id = 480
+	name = "STATE_480"
+	manpower = 3733391
+	
+	state_category = metropolis
+	
+	resources = {
+		oil = 8
+		#steel=4 sent to Mexico City
+	}
+
+	history = {
+		owner = MEX
+		add_core_of = MEX
+
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 3
+		}
+		
+		victory_points = {
+			12835 10
+		}
+		#victory_points = {
+		#	2060 3
+		#}
+
+	}
+
+	provinces = {
+		12721 12835
+	}
+	local_supplies = 0.0 
+}

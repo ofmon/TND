@@ -5,19 +5,19 @@ state={
 
 	history={
 		owner = EST
+		add_core_of = EST
 		buildings = {
-			infrastructure = 1
+			infrastructure = 3
 		}
 		victory_points = {
 			185 1
 		}
-		add_core_of = EST
 	}
 
 	provinces={
 		185 6201 
 	}
-	manpower=40393
+	manpower = 46500
 	buildings_max_level_factor=1.000
-	state_category=small_island
+	state_category = small_island
 }

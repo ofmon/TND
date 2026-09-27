@@ -6,28 +6,23 @@ state={
 		owner = KAZ
 		add_core_of = KAZ
 		buildings = {
-			infrastructure = 2
-			industrial_complex = 1
+			infrastructure = 3
 
 		}
 		1939.1.1 = {
 			buildings = {
-				industrial_complex = 1
 
 			}
 
 		}
-		victory_points = {
-			1668 1
-		}
 	}
 
 	provinces={
-		1239 1668 4651 4764 7332 7405 7711 7784 7795 7856 10290 10550 10619 10680 12529 12662 13148 13149 13197 
+		4651 7711 7795 7856 10550 10619 12529 13148 13149 13197
 	}
-	manpower=535191
+	manpower = 426481
 	buildings_max_level_factor=1.000
-	state_category=pastoral
+	state_category = rural
 
 	local_supplies=3.0 
 }

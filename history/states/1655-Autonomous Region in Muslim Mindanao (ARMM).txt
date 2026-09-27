@@ -1,0 +1,19 @@
+state = {
+	id = 1655
+	name = "STATE_1655" # Autonomous Region in Muslim Mindanao (ARMM)
+	manpower = 2355639
+	state_category = city
+	local_supplies = 0.0
+
+	history = {
+		owner = PHI
+		add_core_of = PHI
+		buildings = {
+			infrastructure = 3
+		}
+	}
+
+	provinces = {
+		10184 10300
+	}
+}

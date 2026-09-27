@@ -1,0 +1,31 @@
+characters = {
+	YEM_abdullah_al_ahmar = {
+		name = YEM_abdullah_al_ahmar
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_YEM_abdullah_al_ahmar
+			}
+		}
+		country_leader = {
+			ideology = conservatism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	YEM_ali_saleh_obad = {
+		name = YEM_ali_saleh_obad
+		country_leader = {
+			ideology = marxism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	YEM_abdul_majeed_al_zindani = {
+		name = YEM_abdul_majeed_al_zindani
+		country_leader = {
+			ideology = fascism_ideology
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

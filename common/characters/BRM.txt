@@ -9,7 +9,7 @@ BRM_than_shwe={
 			}
 		}
 		country_leader={
-			ideology= fascism_ideology 
+			ideology= junta 
 			expire="2030.1.1.1"
 			id=-1
 		}

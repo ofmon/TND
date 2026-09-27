@@ -1,0 +1,20 @@
+state = {
+	id = 1454
+	name = "STATE_1454" # Sahel
+	manpower = 455997
+	state_category = city
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.000
+
+	history = {
+		owner = MLI
+		add_core_of = MLI
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces = {
+		5101
+	}
+}

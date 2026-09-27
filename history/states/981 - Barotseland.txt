@@ -2,8 +2,8 @@ state = {
 	id = 981
 	name = "STATE_981" # Barotseland
 	
-	state_category = rural
-	manpower = 690043
+	state_category = town
+	manpower = 611197
 
 	resources = {
 		chromium = 16
@@ -11,22 +11,16 @@ state = {
 	}
 
 	history = {
-
 		owner = ZAM
 		add_core_of = ZAM
-		add_core_of = BAR
-
-		victory_points = {
-			697 1 # Mongu
-		}
 
 		buildings = {
-			infrastructure = 1
+			infrastructure = 2
 		}
 	}
 
 	provinces = {
-		697 7872 10538 12677
+		12677
 	}
 	
 	buildings_max_level_factor = 1.000

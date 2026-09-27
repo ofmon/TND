@@ -1,0 +1,20 @@
+state = {
+	id = 1335
+	name = "STATE_1335" # Khatlon
+	manpower = 3675625
+	state_category = large_town
+	buildings_max_level_factor = 1.000
+
+	history = {
+		owner = TAJ
+		add_core_of = TAJ
+		buildings = {
+			industrial_complex = 1
+			infrastructure = 2
+		}
+	}
+
+	provinces = {
+		7224 12218
+	}
+}

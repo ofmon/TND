@@ -5,6 +5,7 @@ state={
 
 	history={
 		owner = EST
+		add_core_of = EST
 		victory_points = {
 			9221 1 
 		}
@@ -15,15 +16,14 @@ state={
 			infrastructure = 3 #was: 5
 
 		}
-		add_core_of = EST
 
 	}
 
 	provinces={
-		592 6178 6408 9221 9485 
+		308 592 6099 6178 6408 9221 9485
 	}
-	manpower=248857
+	manpower = 337508
 	buildings_max_level_factor=1.000
 	local_supplies=0.0 
-	state_category=rural
+	state_category = town
 }

@@ -1,0 +1,36 @@
+characters = {
+	MEX_subcomandante_marcos = {
+		name = MEX_subcomandante_marcos
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_MEX_subcomandante_marcos
+			}
+		}
+		country_leader = {
+			ideology = anarchist_communism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	MEX_jorge_serrano_limon = {
+		name = MEX_jorge_serrano_limon
+		country_leader = {
+			ideology = falangism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	MEX_roberto_madrazo = {
+		name = MEX_roberto_madrazo
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_MEX_roberto_madrazo
+			}
+		}
+		country_leader = {
+			ideology = oligarchism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

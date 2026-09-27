@@ -1,0 +1,44 @@
+characters = {
+	SER_vojislav_kostunica = {
+		name = SER_vojislav_kostunica
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_SER_vojislav_kostunica
+			}
+		}
+		country_leader = {
+			ideology = conservatism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	SER_mirjana_markovic = {
+		name = SER_mirjana_markovic
+		country_leader = {
+			ideology = marxism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	SER_vojislav_seselj = {
+		name = SER_vojislav_seselj
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_SER_vojislav_seselj
+			}
+		}
+		country_leader = {
+			ideology = fascism_ideology
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	SER_slobodan_milosevic = {
+		name = SER_slobodan_milosevic
+		country_leader = {
+			ideology = despotism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

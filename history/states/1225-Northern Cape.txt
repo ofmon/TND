@@ -1,0 +1,19 @@
+state = {
+	id = 1225
+	name = "STATE_1225" # Northern Cape
+	manpower = 1124079
+	state_category = town
+	local_supplies = 0.0
+
+	history = {
+		owner = SAF
+		add_core_of = SAF
+		buildings = {
+			infrastructure = 3
+		}
+	}
+
+	provinces = {
+		1509 4528 4822 5231 10442 10697 12419 12692
+	}
+}

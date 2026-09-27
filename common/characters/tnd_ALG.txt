@@ -1,0 +1,49 @@
+characters = {
+	ALG_hocine_ait_ahmed = {
+		name = ALG_hocine_ait_ahmed
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_ALG_hocine_ait_ahmed
+			}
+		}
+		country_leader = {
+			ideology = socialism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	ALG_louisa_hanoune = {
+		name = ALG_louisa_hanoune
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_ALG_louisa_hanoune
+			}
+		}
+		country_leader = {
+			ideology = leninism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	ALG_mohamed_lamari = {
+		name = ALG_mohamed_lamari
+		country_leader = {
+			ideology = junta
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	ALG_abdelaziz_bouteflika = {
+		name = ALG_abdelaziz_bouteflika
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_ALG_abdelaziz_bouteflika
+			}
+		}
+		country_leader = {
+			ideology = oligarchism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

@@ -1,0 +1,22 @@
+state = {
+	id = 1711
+	name = "STATE_1711" # Mid-West
+	manpower = 350074
+	state_category = rural
+	local_supplies = 13.0
+
+	history = {
+		owner = IRE
+		add_core_of = IRE
+		buildings = {
+			infrastructure = 4
+		}
+		victory_points = {
+			6313 1 #Limerick
+		}
+	}
+
+	provinces = {
+		3396 6313 11334
+	}
+}

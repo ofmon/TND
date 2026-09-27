@@ -1,0 +1,54 @@
+characters = {
+	MZB_joaquim_chissano = {
+		name = MZB_joaquim_chissano
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_MZB_joaquim_chissano
+			}
+		}
+		country_leader = {
+			ideology = socialism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	MZB_marcelino_dos_santos = {
+		name = MZB_marcelino_dos_santos
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_MZB_marcelino_dos_santos
+			}
+		}
+		country_leader = {
+			ideology = Marxist-Leninist
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	MZB_afonso_dhlakama = {
+		name = MZB_afonso_dhlakama
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_MZB_afonso_dhlakama
+			}
+		}
+		country_leader = {
+			ideology = junta
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	MZB_armando_guebuza = {
+		name = MZB_armando_guebuza
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_MZB_armando_guebuza
+			}
+		}
+		country_leader = {
+			ideology = oligarchism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

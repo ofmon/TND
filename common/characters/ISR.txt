@@ -3,8 +3,7 @@ characters = {
 		name = "Ehud Barak" 
 		portraits = {
 			civilian = {
-				large = GFX_portrait_ISR_ehud_barak_large
-                                small = GFX_portrait_ISR_ehud_barak_small
+				large = GFX_portrait_tnd_ISR_ehud_barak
 			}
 		}
 		country_leader = {

@@ -1,0 +1,24 @@
+state = {
+	id = 1127
+	name = "STATE_1127" # Aomori Prefecture
+	manpower = 1485952
+	state_category = city
+	local_supplies = 9.0
+
+	history = {
+		owner = JAP
+		add_core_of = JAP
+		buildings = {
+			industrial_complex = 1
+			infrastructure = 5
+			9859 = { naval_base = 6 }
+		}
+		victory_points = {
+			6994 5 # Aomori
+		}
+	}
+
+	provinces = {
+		6873 6994 9859 11847
+	}
+}

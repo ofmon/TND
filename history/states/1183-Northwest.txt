@@ -1,0 +1,19 @@
+state = {
+	id = 1183
+	name = "STATE_1183" # Northwest
+	manpower = 2321433
+	state_category = large_town
+	local_supplies = 0.0
+
+	history = {
+		owner = VIN
+		add_core_of = VIN
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces = {
+		4529 10103 10129
+	}
+}

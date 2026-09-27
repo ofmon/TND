@@ -1,0 +1,19 @@
+state = {
+	id = 1359
+	name = "STATE_1359" # Camagüey
+	manpower = 1056950
+	state_category = city
+	local_supplies = 0.0
+
+	history = {
+		owner = CUB
+		add_core_of = CUB
+		buildings = {
+			infrastructure = 4
+		}
+	}
+
+	provinces = {
+		4476
+	}
+}

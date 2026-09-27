@@ -1,0 +1,36 @@
+characters = {
+	CAN_miguel_figueroa = {
+		name = CAN_miguel_figueroa
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_CAN_miguel_figueroa
+			}
+		}
+		country_leader = {
+			ideology = Marxist-Leninist
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	CAN_wolfgang_droege = {
+		name = CAN_wolfgang_droege
+		country_leader = {
+			ideology = nazism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	CAN_adrienne_clarkson = {
+		name = CAN_adrienne_clarkson
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_CAN_adrienne_clarkson
+			}
+		}
+		country_leader = {
+			ideology = moderatism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

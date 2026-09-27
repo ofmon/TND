@@ -1,0 +1,41 @@
+characters = {
+	BEL_ludo_martens = {
+		name = BEL_ludo_martens
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_BEL_ludo_martens
+			}
+		}
+		country_leader = {
+			ideology = anti_revisionism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	BEL_frank_vanhecke = {
+		name = BEL_frank_vanhecke
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_BEL_frank_vanhecke
+			}
+		}
+		country_leader = {
+			ideology = fascism_ideology
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	BEL_albert_ii = {
+		name = BEL_albert_ii
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_BEL_albert_ii
+			}
+		}
+		country_leader = {
+			ideology = moderatism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

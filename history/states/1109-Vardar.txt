@@ -1,0 +1,20 @@
+state = {
+	id = 1109
+	name = "STATE_1109" # Vardar
+	manpower = 317413
+	state_category = rural
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.0
+
+	history = {
+		owner = MAC
+		add_core_of = MAC
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces = {
+		3833 3865
+	}
+}

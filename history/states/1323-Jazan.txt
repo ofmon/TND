@@ -1,0 +1,21 @@
+state = {
+	id = 1323
+	name = "STATE_1323" # Jazan
+	manpower = 629427
+	state_category = city
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.000
+
+	history = {
+		owner = SAU
+		add_core_of = SAU
+		buildings = {
+			industrial_complex = 1
+			infrastructure = 5
+		}
+	}
+
+	provinces = {
+		8073
+	}
+}

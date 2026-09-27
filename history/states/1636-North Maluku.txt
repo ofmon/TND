@@ -1,0 +1,20 @@
+state = {
+	id = 1636
+	name = "STATE_1636" # North Maluku
+	manpower = 838803
+	state_category = town
+	local_supplies = 0.0
+
+	history = {
+		owner = INS
+		add_core_of = INS
+		buildings = {
+			infrastructure = 3
+			7413 = { naval_base = 1 }
+		}
+	}
+
+	provinces = {
+		1419 1437 7369 7413 10141 10342
+	}
+}

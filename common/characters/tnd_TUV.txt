@@ -1,0 +1,49 @@
+characters = {
+	TUV_ionatana_ionatana = {
+		name = TUV_ionatana_ionatana
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_TUV_ionatana_ionatana
+			}
+		}
+		country_leader = {
+			ideology = indepedent
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	TUV_bikenibeu_paeniu = {
+		name = TUV_bikenibeu_paeniu
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_TUV_bikenibeu_paeniu
+			}
+		}
+		country_leader = {
+			ideology = marxism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	TUV_kamuta_latasi = {
+		name = TUV_kamuta_latasi
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_TUV_kamuta_latasi
+			}
+		}
+		country_leader = {
+			ideology = fascism_ideology
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	TUV_tomasi_puapua = {
+		name = TUV_tomasi_puapua
+		country_leader = {
+			ideology = moderatism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

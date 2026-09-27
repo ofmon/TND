@@ -1,0 +1,24 @@
+state = {
+	id = 1663
+	name = "STATE_1663" # East Sepik
+	manpower = 386534
+	state_category = rural
+	buildings_max_level_factor = 1
+	local_supplies = 0.0
+
+	history = {
+		owner = PNG
+		add_core_of = PNG
+		buildings = {
+			infrastructure = 2
+			12240 = { naval_base = 1 }
+		}
+		victory_points = {
+			12240 1 # Wewak
+		}
+	}
+
+	provinces = {
+		1389 11018 12240 12428
+	}
+}

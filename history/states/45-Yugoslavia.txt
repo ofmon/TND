@@ -3,22 +3,25 @@ state={
 	name="STATE_45"
 
 	history={
-		victory_points = { 619 3 }
 		owner = SER
+		add_core_of = SER
+		add_core_of = YUG
+		add_claim_by = HUN
+		victory_points = { 619 3 }
 		buildings = {
+			industrial_complex = 1
 			infrastructure = 3
 
 		}
-		add_core_of = SER
 
 	}
 
 	provinces={
-		619 3617 3623 9608 9621
+		619 3617 3623 9608 9621 11580
 	}
-	manpower=838621
+	manpower = 1340000
 	buildings_max_level_factor=1.000
-	state_category=town
+	state_category = large_town
 
 	local_supplies=0.0 
 }

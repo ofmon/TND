@@ -1,0 +1,19 @@
+state = {
+	id = 1583
+	name = "STATE_1583" # El Oro
+	manpower = 1257188
+	state_category = city
+	local_supplies = 0.0
+
+	history = {
+		owner = ECU
+		add_core_of = ECU
+		buildings = {
+			infrastructure = 3
+		}
+	}
+
+	provinces = {
+		5120
+	}
+}

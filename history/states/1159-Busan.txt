@@ -1,0 +1,27 @@
+state = {
+	id = 1159
+	name = "STATE_1159" # Busan
+	manpower = 4652238
+	state_category = metropolis
+	local_supplies = 0.0
+
+	history = {
+		owner = KOR
+		add_core_of = KOR
+		add_claim_by = NRK
+		buildings = {
+			dockyard = 2
+			arms_factory = 1
+			industrial_complex = 4
+			infrastructure = 5
+			4056 = { naval_base = 4 }
+		}
+		victory_points = {
+			4056 5 # Pusan/Busan
+		}
+	}
+
+	provinces = {
+		4056
+	}
+}

@@ -1,0 +1,23 @@
+state = {
+	id = 1143
+	name = "STATE_1143" # Nagano Prefecture
+	manpower = 2295654
+	state_category = large_city
+	local_supplies = 0.0
+
+	history = {
+		owner = JAP
+		add_core_of = JAP
+		buildings = {
+			industrial_complex = 1
+			infrastructure = 5
+		}
+		victory_points = {
+			10015 10 # Nagano
+		}
+	}
+
+	provinces = {
+		4069 10015 10100
+	}
+}

@@ -1,0 +1,20 @@
+state = {
+	id = 1539
+	name = "STATE_1539" # Khangai
+	manpower = 22577
+	state_category = pastoral
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.000
+
+	history = {
+		owner = MON
+		add_core_of = MON
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	provinces = {
+		4858 7864 12614
+	}
+}

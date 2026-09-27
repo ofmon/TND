@@ -1,0 +1,22 @@
+state = {
+	id = 1288
+	name = "STATE_1288" # Saladin
+	manpower = 2113318
+	state_category = city
+	local_supplies = 0.0
+
+	history = {
+		owner = IRQ
+		add_core_of = IRQ
+		buildings = {
+			infrastructure = 3
+		}
+		victory_points = {
+			3795 2 # Tikrit 
+		}
+	}
+
+	provinces = {
+		1600 3795
+	}
+}

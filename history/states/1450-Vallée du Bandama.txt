@@ -1,0 +1,18 @@
+state = {
+	id = 1450
+	name = "STATE_1450" # Vallée du Bandama
+	manpower = 2255866
+	state_category = city
+
+	history = {
+		owner = IVO
+		add_core_of = IVO
+		buildings = {
+			infrastructure = 3
+		}
+	}
+
+	provinces = {
+		5013
+	}
+}

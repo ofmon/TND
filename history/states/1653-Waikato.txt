@@ -1,0 +1,22 @@
+state = {
+	id = 1653
+	name = "STATE_1653" # Waikato
+	manpower = 406782
+	state_category = rural
+	local_supplies = 0.0
+
+	history = {
+		owner = NZL
+		add_core_of = NZL
+		buildings = {
+			infrastructure = 4
+		}
+		victory_points = {
+			7887 1 # Hamilton 
+		}
+	}
+
+	provinces = {
+		1565 1713 1746 7887 12362 12664
+	}
+}

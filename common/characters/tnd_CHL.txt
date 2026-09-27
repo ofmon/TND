@@ -1,0 +1,54 @@
+characters = {
+	CHL_eduardo_frei_ruiz_tagle = {
+		name = CHL_eduardo_frei_ruiz_tagle
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_CHL_eduardo_frei_ruiz_tagle
+			}
+		}
+		country_leader = {
+			ideology = centrist
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	CHL_gladys_marin = {
+		name = CHL_gladys_marin
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_CHL_gladys_marin
+			}
+		}
+		country_leader = {
+			ideology = Marxist-Leninist
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	CHL_augusto_pinochet = {
+		name = CHL_augusto_pinochet
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_CHL_augusto_pinochet
+			}
+		}
+		country_leader = {
+			ideology = junta
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	CHL_joaquin_lavin = {
+		name = CHL_joaquin_lavin
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_CHL_joaquin_lavin
+			}
+		}
+		country_leader = {
+			ideology = moderatism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

@@ -1,0 +1,32 @@
+state = {
+	id = 1631
+	name = "STATE_1631" # Central Java
+	manpower = 31861299
+	state_category = metropolis
+	local_supplies = 0.0
+
+	history = {
+		owner = INS
+		add_core_of = INS
+		buildings = {
+			industrial_complex = 6
+			infrastructure = 4
+		}
+		victory_points = {
+			4434 1
+		}
+		victory_points = {
+			13404 1 #Purwokerto
+		}
+		victory_points = {
+			13405 15 #Semarang
+		}
+		victory_points = {
+			13407 3 #Surakarta
+		}
+	}
+
+	provinces = {
+		1413 4434 7223 7642 12277 12293 13404 13405 13407
+	}
+}

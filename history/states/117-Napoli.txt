@@ -1,0 +1,40 @@
+
+state = {
+	id = 117
+	name = "STATE_117" # Campania
+	manpower = 5428876
+	
+	state_category = large_city
+	resources = {
+		aluminium = 10 # was: 16 (MM: This WAS before my time)
+		steel = 15 # was: 24 (MM: This WAS before my time)
+	}
+
+	history = {
+		owner = ITA
+		add_core_of = ITA
+		add_core_of = TTS
+		victory_points = {
+			819 20 
+		}
+		buildings = {
+			arms_factory = 1
+			industrial_complex = 6
+			infrastructure = 5
+			air_base = 3
+			819 = {
+				naval_base = 6
+			}
+		}
+		1939.1.1 = {
+			buildings = {
+			}
+		}
+	}
+
+	provinces = {
+		819 851 955 9826 11803
+	}
+
+	local_supplies = 13.0 
+}

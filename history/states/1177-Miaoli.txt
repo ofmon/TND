@@ -1,0 +1,20 @@
+state = {
+	id = 1177
+	name = "STATE_1177" # Miaoli
+	manpower = 846624
+	state_category = city
+
+	history = {
+		owner = TAW
+		add_core_of = TAW
+		add_claim_by = PRC
+		buildings = {
+			industrial_complex = 1
+			infrastructure = 5
+		}
+	}
+
+	provinces = {
+		7214
+	}
+}

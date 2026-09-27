@@ -1,0 +1,19 @@
+state = {
+	id = 1593
+	name = "STATE_1593" # Huanuco
+	manpower = 676072
+	state_category = town
+	local_supplies = 0.0
+
+	history = {
+		owner = PRU
+		add_core_of = PRU
+		buildings = {
+			infrastructure = 3
+		}
+	}
+
+	provinces = {
+		2212 12969
+	}
+}

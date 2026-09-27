@@ -1,0 +1,44 @@
+characters = {
+	MAU_navin_ramgoolam = {
+		name = MAU_navin_ramgoolam
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_MAU_navin_ramgoolam
+			}
+		}
+		country_leader = {
+			ideology = socialism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	MAU_lindsey_collen = {
+		name = MAU_lindsey_collen
+		country_leader = {
+			ideology = marxism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	MAU_cehl_meeah = {
+		name = MAU_cehl_meeah
+		country_leader = {
+			ideology = fascism_ideology
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	MAU_cassam_uteem = {
+		name = MAU_cassam_uteem
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_MAU_cassam_uteem
+			}
+		}
+		country_leader = {
+			ideology = moderatism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

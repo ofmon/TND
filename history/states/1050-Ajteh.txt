@@ -1,0 +1,36 @@
+state={
+	id=1050
+	name="STATE_1050"
+	resources={
+		rubber = 3
+	}
+
+	history={
+		owner = INS
+		add_core_of = INS
+		start_resistance = yes
+		set_resistance = 75
+		buildings = {
+			infrastructure = 3
+			13398 = {
+				naval_base = 1
+			}
+			4652 = { naval_base = 1 }
+		}
+
+		victory_points = {
+			13398 1
+		}
+		victory_points = {
+			4652 10
+		}
+	}
+
+	provinces={
+		1648 4652 7658 8360 10509 12488 13396 13398 13399 13401
+	}
+	manpower = 4873831
+	state_category = town
+
+	local_supplies=0.0 
+}

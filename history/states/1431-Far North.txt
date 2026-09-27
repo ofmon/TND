@@ -1,0 +1,18 @@
+state = {
+	id = 1431
+	name = "STATE_1431" # Far North
+	manpower = 2528792
+	state_category = large_city
+
+	history = {
+		owner = CMR
+		add_core_of = CMR
+		buildings = {
+			infrastructure = 3
+		}
+	}
+
+	provinces = {
+		7963
+	}
+}

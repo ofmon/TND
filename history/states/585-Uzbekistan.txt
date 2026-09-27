@@ -3,13 +3,13 @@ state = {
 	name = "STATE_585" #Navoiy
 
 	history = {
-		
 		owner = UZB
+		add_core_of = UZB
+		
 		buildings = {
-			infrastructure = 2
+			infrastructure = 1
 
 		}
-		add_core_of = UZB
 		
 		victory_points = {
 			1554 1 
@@ -18,11 +18,11 @@ state = {
 	}
 
 	provinces = {
-		1532 1554 4499 7501 7507 10420
+		1532 1554 4499 7501 7507 7775 10420
 	}
-	manpower = 465174 # 9/10ths of before
+	manpower = 706519
 	buildings_max_level_factor = 1.000
-	state_category = rural
+	state_category = pastoral
 
 	local_supplies = 0.0 
 }

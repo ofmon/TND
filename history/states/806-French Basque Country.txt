@@ -5,24 +5,24 @@ state={
 
 	history={
 		owner = FRA
+		add_core_of = NAV
+		add_core_of = FRA
 		victory_points = {
 			9710 3 
 		}
-		add_core_of = NAV
 		buildings = {
-			infrastructure = 3 #was: 6
+			infrastructure = 4 #was: 6
 
 		}
-		add_core_of = FRA
 
 	}
 
 	provinces={
 		743 9710 11697 
 	}
-	manpower= 2305970
+	manpower = 600000
 	buildings_max_level_factor=1.000
-	state_category=town
+	state_category = large_town
 
 	local_supplies=0.0 
 }

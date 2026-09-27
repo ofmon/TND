@@ -1,0 +1,24 @@
+state = {
+	id = 675
+	name = "STATE_675"
+	manpower = 155359
+	
+	state_category = pastoral
+
+	history = {
+		owner = IRQ
+		add_core_of = IRQ
+
+		buildings = {
+			infrastructure = 2
+			#infrastructure = 1
+		}
+		
+	}
+	
+	provinces = {
+		13368
+	}
+
+	local_supplies = 0.0 
+}

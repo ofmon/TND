@@ -1,0 +1,23 @@
+state = {
+	id = 1087
+	name = "STATE_1087" # Ceuta
+	manpower = 75000
+	state_category = enclave
+
+	history = {
+		owner = SPR
+		add_core_of = SPR
+		add_claim_by = MOR
+		buildings = {
+			infrastructure = 4
+			9945 = { naval_base = 3 }
+		}
+		victory_points = {
+			9945 3
+		}
+	}
+
+	provinces = {
+		9945
+	}
+}

@@ -1,20 +1,43 @@
-state={
-	id=616
-	name="STATE_616"
+state = {
+	id = 616
+	name = "STATE_616"
 
-	history={
+	resources = {
+		coal = 2
+	}
+
+	history = {
 		owner = PRC
 		add_core_of = PRC
+		add_core_of = XSM
+		add_core_of = CHI
+		add_claim_by = TAW
+
 		buildings = {
 			infrastructure = 2
 
+			8127 = {
+				landmark_great_wall_section = {
+				    level = 1
+				    allowed = {
+				        has_dlc = "No Compromise, No Surrender"
+				    }
+				}
+			}
 		}
+
+		victory_points = {
+			8127 3 # Yinchuan
+		}
+
 	}
 
-	provinces={
-		3742 5031 5057 5100 7511 8055 8081 8127 10724 12327 12750 12776 
+	provinces = {
+		3742 7511 8081 8127
 	}
-	manpower=2077600
-	buildings_max_level_factor=1.000
-	state_category=pastoral
+	manpower = 3251103
+	buildings_max_level_factor = 1.000
+	state_category = rural
+
+	local_supplies = 0.0 
 }

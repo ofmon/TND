@@ -1,0 +1,54 @@
+characters = {
+	SAF_thabo_mbeki = {
+		name = SAF_thabo_mbeki
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_SAF_thabo_mbeki
+			}
+		}
+		country_leader = {
+			ideology = socialism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	SAF_blade_nzimande = {
+		name = SAF_blade_nzimande
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_SAF_blade_nzimande
+			}
+		}
+		country_leader = {
+			ideology = Marxist-Leninist
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	SAF_eugene_terre_blanche = {
+		name = SAF_eugene_terre_blanche
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_SAF_eugene_terre_blanche
+			}
+		}
+		country_leader = {
+			ideology = gen_nazism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	SAF_mangosuthu_buthelezi = {
+		name = SAF_mangosuthu_buthelezi
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_SAF_mangosuthu_buthelezi
+			}
+		}
+		country_leader = {
+			ideology = moderatism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

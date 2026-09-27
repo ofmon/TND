@@ -1,0 +1,22 @@
+state = {
+	id = 1362
+	name = "STATE_1362" # Guantánamo
+	manpower = 688564
+	state_category = city
+	local_supplies = 0.0
+
+	history = {
+		owner = CUB
+		add_core_of = CUB
+		buildings = {
+			infrastructure = 4
+		}
+		victory_points = {
+			7590 1
+		}
+	}
+
+	provinces = {
+		7590
+	}
+}

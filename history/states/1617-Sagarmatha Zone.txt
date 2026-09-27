@@ -1,0 +1,19 @@
+state = {
+	id = 1617
+	name = "STATE_1617" # Sagarmatha Zone
+	manpower = 4177304
+	state_category = large_town
+	local_supplies = 0.0
+
+	history = {
+		owner = NEP
+		add_core_of = NEP
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces = {
+		5310
+	}
+}

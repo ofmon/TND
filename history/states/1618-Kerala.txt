@@ -1,0 +1,25 @@
+state = {
+	id = 1618
+	name = "STATE_1618" # Kerala
+	manpower = 31443315
+	state_category = megalopolis
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.000
+
+	history = {
+		owner = RAJ
+		add_core_of = RAJ
+		buildings = {
+			arms_factory = 1
+			industrial_complex = 4
+			infrastructure = 3
+		}
+		victory_points = {
+			1321 3 
+		}
+	}
+
+	provinces = {
+		1238 1321 7391 7447 10130 10190 10274 12275
+	}
+}

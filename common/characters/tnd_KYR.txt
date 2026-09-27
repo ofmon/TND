@@ -1,0 +1,36 @@
+characters = {
+	KYR_felix_kulov = {
+		name = KYR_felix_kulov
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_KYR_felix_kulov
+			}
+		}
+		country_leader = {
+			ideology = liberalism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	KYR_absamat_masaliev = {
+		name = KYR_absamat_masaliev
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_KYR_absamat_masaliev
+			}
+		}
+		country_leader = {
+			ideology = Marxist-Leninist
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	KYR_chaprashty_bazarbay = {
+		name = KYR_chaprashty_bazarbay
+		country_leader = {
+			ideology = fascism_ideology
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

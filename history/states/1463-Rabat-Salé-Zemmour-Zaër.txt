@@ -1,0 +1,19 @@
+state = {
+	id = 1463
+	name = "STATE_1463" # Rabat-Salé-Zemmour-Zaër
+	manpower = 3247008
+	state_category = metropolis
+
+	history = {
+		owner = MOR
+		add_core_of = MOR
+		buildings = {
+			industrial_complex = 1
+			infrastructure = 4
+		}
+	}
+
+	provinces = {
+		1079 4084 10070
+	}
+}

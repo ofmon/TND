@@ -1,0 +1,19 @@
+state = {
+	id = 1590
+	name = "STATE_1590" # Áncash
+	manpower = 863279
+	state_category = city
+	local_supplies = 0.0
+
+	history = {
+		owner = PRU
+		add_core_of = PRU
+		buildings = {
+			infrastructure = 3
+		}
+	}
+
+	provinces = {
+		5190
+	}
+}

@@ -1,0 +1,44 @@
+characters = {
+	GNA_mamadou_ba = {
+		name = GNA_mamadou_ba
+		country_leader = {
+			ideology = liberalism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	GNA_alpha_conde = {
+		name = GNA_alpha_conde
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_GNA_alpha_conde
+			}
+		}
+		country_leader = {
+			ideology = marxism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	GNA_gbago_zoumanigui = {
+		name = GNA_gbago_zoumanigui
+		country_leader = {
+			ideology = junta
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	GNA_lansana_conte = {
+		name = GNA_lansana_conte
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_GNA_lansana_conte
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

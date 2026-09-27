@@ -1,0 +1,49 @@
+characters = {
+	EGY_noman_gomaa = {
+		name = EGY_noman_gomaa
+		country_leader = {
+			ideology = liberalism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	EGY_khaled_mohieddin = {
+		name = EGY_khaled_mohieddin
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_EGY_khaled_mohieddin
+			}
+		}
+		country_leader = {
+			ideology = marxism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	EGY_mustafa_mashhur = {
+		name = EGY_mustafa_mashhur
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_EGY_mustafa_mashhur
+			}
+		}
+		country_leader = {
+			ideology = fascism_ideology
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	EGY_hosni_mubarak = {
+		name = EGY_hosni_mubarak
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_EGY_hosni_mubarak
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

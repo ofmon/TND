@@ -1,0 +1,19 @@
+state = {
+	id = 1219
+	name = "STATE_1219" # Southern
+	manpower = 4045526
+	state_category = city
+	buildings_max_level_factor = 1.000
+
+	history = {
+		owner = RWA
+		add_core_of = RWA
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces = {
+		13364
+	}
+}

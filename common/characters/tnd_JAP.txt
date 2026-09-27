@@ -1,0 +1,36 @@
+characters = {
+	JAP_tetsuzo_fuwa = {
+		name = JAP_tetsuzo_fuwa
+		country_leader = {
+			ideology = marxism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	JAP_shintaro_ishihara = {
+		name = JAP_shintaro_ishihara
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_JAP_shintaro_ishihara
+			}
+		}
+		country_leader = {
+			ideology = fascism_ideology
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	JAP_akihito = {
+		name = JAP_akihito
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_JAP_akihito
+			}
+		}
+		country_leader = {
+			ideology = moderatism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

@@ -1,0 +1,19 @@
+state = {
+	id = 1336
+	name = "STATE_1336" # Khujand
+	manpower = 272121
+	state_category = city
+	buildings_max_level_factor = 1.000
+
+	history = {
+		owner = TAJ
+		add_core_of = TAJ
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces = {
+		1216 1919 10187 12430
+	}
+}

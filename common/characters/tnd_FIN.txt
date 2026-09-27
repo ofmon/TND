@@ -1,0 +1,41 @@
+characters = {
+	FIN_paavo_lipponen = {
+		name = FIN_paavo_lipponen
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_FIN_paavo_lipponen
+			}
+		}
+		country_leader = {
+			ideology = socialism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	FIN_suvi_anne_siimes = {
+		name = FIN_suvi_anne_siimes
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_FIN_suvi_anne_siimes
+			}
+		}
+		country_leader = {
+			ideology = marxism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	FIN_timo_soini = {
+		name = FIN_timo_soini
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_FIN_timo_soini
+			}
+		}
+		country_leader = {
+			ideology = fascism_ideology
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

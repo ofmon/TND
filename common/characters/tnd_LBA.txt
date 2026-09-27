@@ -1,0 +1,54 @@
+characters = {
+	LBA_mohammed_magariaf = {
+		name = LBA_mohammed_magariaf
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_LBA_mohammed_magariaf
+			}
+		}
+		country_leader = {
+			ideology = liberalism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	LBA_abdessalam_jalloud = {
+		name = LBA_abdessalam_jalloud
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_LBA_abdessalam_jalloud
+			}
+		}
+		country_leader = {
+			ideology = marxism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	LBA_khalifa_haftar = {
+		name = LBA_khalifa_haftar
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_LBA_khalifa_haftar
+			}
+		}
+		country_leader = {
+			ideology = junta
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	LBA_muammar_gaddafi = {
+		name = LBA_muammar_gaddafi
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_LBA_muammar_gaddafi
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

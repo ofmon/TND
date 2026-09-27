@@ -1,0 +1,20 @@
+state = {
+	id = 1146
+	name = "STATE_1146" # Ōita Prefecture
+	manpower = 1201357
+	state_category = city
+	local_supplies = 10.0
+
+	history = {
+		owner = JAP
+		add_core_of = JAP
+		buildings = {
+			industrial_complex = 1
+			infrastructure = 5
+		}
+	}
+
+	provinces = {
+		4027 10092
+	}
+}

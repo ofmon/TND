@@ -1,0 +1,36 @@
+characters = {
+	POR_antonio_guterres = {
+		name = POR_antonio_guterres
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_POR_antonio_guterres
+			}
+		}
+		country_leader = {
+			ideology = socialism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	POR_carlos_carvalhas = {
+		name = POR_carlos_carvalhas
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_POR_carlos_carvalhas
+			}
+		}
+		country_leader = {
+			ideology = Marxist-Leninist
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	POR_antonio_cruz_rodrigues = {
+		name = POR_antonio_cruz_rodrigues
+		country_leader = {
+			ideology = fascism_ideology
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

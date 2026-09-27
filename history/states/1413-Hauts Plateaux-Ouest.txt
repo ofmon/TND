@@ -1,0 +1,18 @@
+state = {
+	id = 1413
+	name = "STATE_1413" # Hauts Plateaux-Ouest
+	manpower = 1807566
+	state_category = city
+
+	history = {
+		owner = ALG
+		add_core_of = ALG
+		buildings = {
+			infrastructure = 4
+		}
+	}
+
+	provinces = {
+		4018 7008 12018 12020 12842 13074
+	}
+}

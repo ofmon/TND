@@ -1,0 +1,21 @@
+state = {
+	id = 1644
+	name = "STATE_1644" # Tuvalu
+	manpower = 19170
+	state_category = pastoral
+	local_supplies = 0.0
+
+	history = {
+		owner = KIR
+		add_core_of = KIR
+		buildings = {
+			infrastructure = 1
+			4387 = { naval_base = 1 }
+			13020 = { naval_base = 1 }
+		}
+	}
+
+	provinces = {
+		4387 13020
+	}
+}

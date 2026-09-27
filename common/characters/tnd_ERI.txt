@@ -1,0 +1,44 @@
+characters = {
+	ERI_mesfin_hagos = {
+		name = ERI_mesfin_hagos
+		country_leader = {
+			ideology = liberalism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	ERI_ahmed_mohammed_nasser = {
+		name = ERI_ahmed_mohammed_nasser
+		country_leader = {
+			ideology = marxism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	ERI_sebhat_ephrem = {
+		name = ERI_sebhat_ephrem
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_ERI_sebhat_ephrem
+			}
+		}
+		country_leader = {
+			ideology = junta
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	ERI_isaias_afwerki = {
+		name = ERI_isaias_afwerki
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_ERI_isaias_afwerki
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

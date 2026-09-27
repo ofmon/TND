@@ -1,0 +1,19 @@
+state = {
+	id = 1619
+	name = "STATE_1619" # Maharashtra
+	manpower = 507457
+	state_category = town
+	local_supplies = 0.0
+
+	history = {
+		owner = RAJ
+		add_core_of = RAJ
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces = {
+		4557
+	}
+}

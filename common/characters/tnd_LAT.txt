@@ -1,0 +1,41 @@
+characters = {
+	LAT_andris_skele = {
+		name = LAT_andris_skele
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_LAT_andris_skele
+			}
+		}
+		country_leader = {
+			ideology = conservatism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	LAT_alfreds_rubiks = {
+		name = LAT_alfreds_rubiks
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_LAT_alfreds_rubiks
+			}
+		}
+		country_leader = {
+			ideology = Marxist-Leninist
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	LAT_maris_grinblats = {
+		name = LAT_maris_grinblats
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_LAT_maris_grinblats
+			}
+		}
+		country_leader = {
+			ideology = fascism_ideology
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

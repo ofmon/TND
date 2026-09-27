@@ -1,0 +1,23 @@
+state = {
+	id = 1691
+	name = "STATE_1691" # North Denmark
+	manpower = 550312
+	state_category = town
+	local_supplies = 0.000
+
+	history = {
+		owner = DEN
+		add_core_of = DEN
+		buildings = {
+			infrastructure = 4
+			394 = { naval_base = 2 }
+		}
+		victory_points = {
+			6235 2 
+		}
+	}
+
+	provinces = {
+		316 394 6235
+	}
+}

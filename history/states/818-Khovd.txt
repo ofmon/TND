@@ -2,21 +2,26 @@ state={
 	id=818
 	name="STATE_818"
 	provinces={
-		1774 4751 4777 7773 7808 7843 7870 10539 10563 10669 12520 12695 
+		1689 1774 1855 4751 4777 7773 7799 7808 7843 7870 10539 10560 10563 10634 10669 10695 12520 12544 12695
 	}
 
 	history={
 		owner = MON
+		add_core_of = MON
+		add_claim_by = PRC
+		add_claim_by = TAW
 		buildings = {
 			infrastructure = 1
 		}
 		victory_points = {
 			7843 1 #Ulaangom
 		}
-		add_core_of = MON
+		victory_points = {
+			7799 1 
+		}
 	}
-	manpower= 284023
+	manpower = 454846
 	buildings_max_level_factor=1.000
-	state_category=pastoral
+	state_category = pastoral
 	local_supplies=0.000
 }

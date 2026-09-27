@@ -1,0 +1,18 @@
+state = {
+	id = 1466
+	name = "STATE_1466" # Hodh Ech Chargui
+	manpower = 397134
+	state_category = rural
+
+	history = {
+		owner = MRT
+		add_core_of = MRT
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces = {
+		1897
+	}
+}

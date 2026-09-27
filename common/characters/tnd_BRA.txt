@@ -1,0 +1,49 @@
+characters = {
+	BRA_fernando_henrique_cardoso = {
+		name = BRA_fernando_henrique_cardoso
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_BRA_fernando_henrique_cardoso
+			}
+		}
+		country_leader = {
+			ideology = centrist
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	BRA_joao_amazonas = {
+		name = BRA_joao_amazonas
+		country_leader = {
+			ideology = anti_revisionism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	BRA_eneas_carneiro = {
+		name = BRA_eneas_carneiro
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_BRA_eneas_carneiro
+			}
+		}
+		country_leader = {
+			ideology = fascism_ideology
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	BRA_antonio_carlos_magalhaes = {
+		name = BRA_antonio_carlos_magalhaes
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_BRA_antonio_carlos_magalhaes
+			}
+		}
+		country_leader = {
+			ideology = oligarchism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

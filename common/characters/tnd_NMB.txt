@@ -1,0 +1,49 @@
+characters = {
+	NMB_sam_nujoma = {
+		name = NMB_sam_nujoma
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_NMB_sam_nujoma
+			}
+		}
+		country_leader = {
+			ideology = socialism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	NMB_attie_beukes = {
+		name = NMB_attie_beukes
+		country_leader = {
+			ideology = marxism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	NMB_mishake_muyongo = {
+		name = NMB_mishake_muyongo
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_NMB_mishake_muyongo
+			}
+		}
+		country_leader = {
+			ideology = junta
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	NMB_kuaima_riruako = {
+		name = NMB_kuaima_riruako
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_NMB_kuaima_riruako
+			}
+		}
+		country_leader = {
+			ideology = moderatism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

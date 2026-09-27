@@ -1,0 +1,22 @@
+state = {
+	id = 1652
+	name = "STATE_1652" # Southland
+	manpower = 94737
+	state_category = pastoral
+	local_supplies = 0.0
+
+	history = {
+		owner = NZL
+		add_core_of = NZL
+		buildings = {
+			infrastructure = 3
+		}
+		victory_points = {
+			8241 1 # Invercargill
+		}
+	}
+
+	provinces = {
+		8241 12980 12988
+	}
+}

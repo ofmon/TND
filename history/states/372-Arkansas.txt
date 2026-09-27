@@ -2,7 +2,7 @@
 state={
 	id=372
 	name="STATE_372"
-	manpower = 3045637
+	manpower = 2600100
 	
 	state_category = town
 	
@@ -10,14 +10,14 @@ state={
 		aluminium=14 # was: 20
 	}
 
-
 	history={
 		owner = USA
-		buildings = {
-			infrastructure = 2
-			industrial_complex = 2
-		}
 		add_core_of = USA
+		add_core_of = CSA
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 3
+		}
 		victory_points = {
 			12489 1 
 		}
@@ -25,7 +25,7 @@ state={
 	}
 
 	provinces={
-		1503 1646 4444 4567 4597 4625 7485 7543 7586 10355 10477 12458 12489 12778 
+		1503 1646 4444 4567 4597 4625 7485 7543 7586 10477 12458 12489 12778
 	}
 
 	local_supplies=9.0 

@@ -1,0 +1,18 @@
+state = {
+	id = 1203
+	name = "STATE_1203" # Antananarivo
+	manpower = 2902145
+	state_category = large_city
+
+	history = {
+		owner = MAD
+		add_core_of = MAD
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces = {
+		10993
+	}
+}

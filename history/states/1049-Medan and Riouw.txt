@@ -1,0 +1,27 @@
+state={
+	id=1049
+	name="STATE_1049"
+	resources={
+		rubber = 102 #was 224 #26-02-03: was:171
+		oil = 24 #was:12 #26-02-03: was:20
+	}
+
+	history={
+		owner = INS
+		add_core_of = INS
+		set_resistance = 0
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 3
+		}
+
+	}
+
+	provinces={
+		4446 7673 10522 12302 13397 13402
+	}
+	manpower = 9415289
+	state_category = metropolis
+
+	local_supplies=0.0 
+}

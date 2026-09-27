@@ -1,0 +1,42 @@
+state = {
+	id = 506
+	name = "STATE_506" # Antofagasta
+	manpower = 495700
+	
+	state_category = large_town
+
+	resources = {
+		tungsten = 42 # In replacement of Nitrate
+	}
+
+	history = {
+		owner = CHL
+		add_core_of = CHL
+		add_claim_by = BOL
+
+		#add_claim_by = BOL
+
+		buildings = {
+			dockyard = 1
+			infrastructure = 3
+			air_base = 1
+			12994 = {
+				naval_base = 1
+			}
+		}
+		
+		victory_points = {
+			12994 20
+		}
+		victory_points = {
+			13302 5
+		}
+
+	}
+
+	provinces = {
+		5146 5171 12994 13301 13302 13304
+	}
+
+	local_supplies = 0.0 
+}

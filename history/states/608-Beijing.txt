@@ -2,30 +2,30 @@
 state={
 	id=608
 	name="STATE_608"
-	manpower = 41223191
+	manpower = 14038723
 	
-	state_category = large_city
+	state_category = megalopolis
 
 	history={
 		owner = PRC
 		add_core_of = PRC
+		add_core_of = CHI
+		add_claim_by = TAW
 		buildings = {
-			infrastructure = 5
-			industrial_complex = 2
+			arms_factory = 1
+			infrastructure = 3
+			industrial_complex = 4
 			air_base = 3
-			10068 = {
-				naval_base = 2
-			}
 		}
 		victory_points = {
 			9843 20
 		}
 		victory_points = {
-			10068 1 
+			11822 2 # Tongzhou
 		}
 	}
 
 	provinces={
-		1134 4137 4140 6828 9843 9969 10068 11761 12026 
+		9843 11822
 	}
 }

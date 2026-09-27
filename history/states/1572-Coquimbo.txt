@@ -1,0 +1,22 @@
+state = {
+	id = 1572
+	name = "STATE_1572" # Coquimbo
+	manpower = 649678
+	state_category = town
+	local_supplies = 0.0
+
+	history = {
+		owner = CHL
+		add_core_of = CHL
+		buildings = {
+			infrastructure = 3
+		}
+		victory_points = {
+			8194 10
+		}
+	}
+
+	provinces = {
+		5191 8194
+	}
+}

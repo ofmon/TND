@@ -1,0 +1,40 @@
+state = {
+	id = 1062
+	name = "STATE_1062"
+	manpower = 1231649
+	
+	state_category = city
+	
+	resources = {
+		tungsten = 30 
+		aluminium = 4 
+		rubber = 77 
+	}
+
+	history = {
+		owner = MAL
+		add_core_of = MAL
+		add_claim_by = SIA
+
+		victory_points = {
+			7329 1 # Kota Bharu
+		}
+
+		buildings = {
+
+			infrastructure = 4
+
+			7329 = {
+				naval_base = 1
+			}
+
+		}
+		
+	}
+
+	provinces = {
+		7329 10227
+	}
+
+	local_supplies = 0.0 
+}

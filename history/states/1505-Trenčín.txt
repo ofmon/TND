@@ -1,0 +1,18 @@
+state = {
+	id = 1505
+	name = "STATE_1505" # Trenčín
+	manpower = 625406
+	state_category = town
+
+	history = {
+		owner = SLO
+		add_core_of = SLO
+		buildings = {
+			infrastructure = 3
+		}
+	}
+
+	provinces = {
+		3484 11522
+	}
+}

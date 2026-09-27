@@ -1,0 +1,41 @@
+characters = {
+	ITA_massimo_dalema = {
+		name = ITA_massimo_dalema
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_ITA_massimo_dalema
+			}
+		}
+		country_leader = {
+			ideology = socialism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	ITA_fausto_bertinotti = {
+		name = ITA_fausto_bertinotti
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_ITA_fausto_bertinotti
+			}
+		}
+		country_leader = {
+			ideology = marxism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	ITA_pino_rauti = {
+		name = ITA_pino_rauti
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_ITA_pino_rauti
+			}
+		}
+		country_leader = {
+			ideology = fascism_ideology
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

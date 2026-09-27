@@ -1,0 +1,18 @@
+state = {
+	id = 1457
+	name = "STATE_1457" # Fès-méknas-boulmane
+	manpower = 290125
+	state_category = rural
+
+	history = {
+		owner = MOR
+		add_core_of = MOR
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces = {
+		1152
+	}
+}

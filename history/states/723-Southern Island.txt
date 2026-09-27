@@ -1,34 +1,33 @@
-state={
-	id=723
-	name="STATE_723"
-	manpower = 1201300
-	resources={
-		tungsten=4 # was: 6
+state = {
+	id = 723
+	name = "STATE_723" # Canterbury 
+	manpower = 477709
+	resources = {
+		tungsten = 1 # was: 6, then 4
+		coal = 2 #initial distribution
 	}
 
-	state_category = rural
+	state_category = large_town
 
-
-	history={
+	history = {
 		owner = NZL
+		add_core_of = NZL
+
 		buildings = {
-			infrastructure = 3 #was: 5
+			infrastructure = 4
 			air_base = 1
+
 			2197 = {
 				naval_base = 1
 			}
+
 		}
-		victory_points = {
-			2197 1 
-		}
-		victory_points = {
-			2211 1 
-		}
-		add_core_of = NZL
+
+		victory_points = { 2197 1 }
 	}
-	provinces={
-		2197 2203 2211 4819 5195 7839 8204 8212 8232 8241 10650 12632 12966 12974 12980 12988 
+	provinces = {
+		2197 5195 7839 8212 12966
 	}
 
-	local_supplies=0.0 
+	local_supplies = 0.0 
 }

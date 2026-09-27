@@ -1,0 +1,23 @@
+state = {
+	id = 1092
+	name = "STATE_1092" # Gaza
+	manpower = 1300000
+	state_category = city
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.000
+
+	history = {
+		owner = ISR
+		add_core_of = ISR
+		add_core_of = PAL
+		buildings = {
+			arms_factory = 1
+			industrial_complex = 1
+			infrastructure = 4
+		}
+	}
+
+	provinces = {
+		4088
+	}
+}

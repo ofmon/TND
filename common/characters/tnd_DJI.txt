@@ -1,0 +1,44 @@
+characters = {
+	DJI_moussa_ahmed_idriss = {
+		name = DJI_moussa_ahmed_idriss
+		country_leader = {
+			ideology = centrist
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	DJI_mohamed_kadamy = {
+		name = DJI_mohamed_kadamy
+		country_leader = {
+			ideology = marxism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	DJI_ahmed_dini_ahmed = {
+		name = DJI_ahmed_dini_ahmed
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_DJI_ahmed_dini_ahmed
+			}
+		}
+		country_leader = {
+			ideology = junta
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	DJI_ismail_omar_guelleh = {
+		name = DJI_ismail_omar_guelleh
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_DJI_ismail_omar_guelleh
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

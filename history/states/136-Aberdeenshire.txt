@@ -1,0 +1,30 @@
+
+state={
+	id=136
+	name="STATE_136"
+	manpower = 409116
+	
+	state_category = rural
+	resources={
+		tungsten=4 # was: 6
+		aluminium=3 # was: 4
+	}
+
+	history={
+		owner = ENG
+		add_core_of = SCO
+		add_core_of = ENG
+		victory_points = {
+			200 5 #Aberdeen
+		}
+		buildings = {
+			infrastructure = 4 #was: 6
+		}
+	}
+
+	provinces={
+		200 11136 11207
+	}
+
+	local_supplies=0.0 
+}

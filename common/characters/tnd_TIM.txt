@@ -1,0 +1,54 @@
+characters = {
+	TIM_xanana_gusmao = {
+		name = TIM_xanana_gusmao
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_TIM_xanana_gusmao
+			}
+		}
+		country_leader = {
+			ideology = centrist
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	TIM_mari_alkatiri = {
+		name = TIM_mari_alkatiri
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_TIM_mari_alkatiri
+			}
+		}
+		country_leader = {
+			ideology = marxism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	TIM_eurico_guterres = {
+		name = TIM_eurico_guterres
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_TIM_eurico_guterres
+			}
+		}
+		country_leader = {
+			ideology = fascism_ideology
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	TIM_sergio_vieira_de_mello = {
+		name = TIM_sergio_vieira_de_mello
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_TIM_sergio_vieira_de_mello
+			}
+		}
+		country_leader = {
+			ideology = centrism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

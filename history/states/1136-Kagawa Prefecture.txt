@@ -1,0 +1,19 @@
+state = {
+	id = 1136
+	name = "STATE_1136" # Kagawa Prefecture
+	manpower = 1071194
+	state_category = city
+	local_supplies = 0.0
+
+	history = {
+		owner = JAP
+		add_core_of = JAP
+		buildings = {
+			infrastructure = 5
+		}
+	}
+
+	provinces = {
+		4094
+	}
+}

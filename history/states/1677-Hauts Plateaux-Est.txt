@@ -1,0 +1,22 @@
+state = {
+	id = 1677
+	name = "STATE_1677" # Hauts Plateaux-Est
+	manpower = 4100790
+	state_category = large_city
+
+	history = {
+		owner = ALG
+		add_core_of = ALG
+		buildings = {
+			industrial_complex = 1
+			infrastructure = 4
+		}
+		victory_points = {
+			12034 1 
+		}
+	}
+
+	provinces = {
+		1058 1141 7065 9976 10059 11953 12034 13077
+	}
+}

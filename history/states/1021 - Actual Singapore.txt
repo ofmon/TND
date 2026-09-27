@@ -1,0 +1,52 @@
+state = {
+	id = 1021
+	name = "STATE_1021"
+	manpower = 3950000
+	
+	state_category = metropolis
+	
+	resources = {
+		steel = 10
+		tungsten =29
+		aluminium = 5
+	}
+
+	history = {
+		owner = SIN
+		add_core_of = SIN
+		add_claim_by = MAL
+
+		victory_points = {
+			12299 10 # Singapore
+		}
+
+		buildings = {
+			dockyard = 2
+			arms_factory = 1
+
+			infrastructure = 5
+			industrial_complex = 5
+			air_base = 6
+
+			12299 = {
+				naval_base = 8
+				coastal_bunker = 3
+				naval_supply_hub = 1
+				naval_headquarters = {
+					level = 1
+					allowed = {
+						has_dlc = "No Compromise, No Surrender"
+					}
+				}
+			}
+
+		}
+		
+	}
+
+	provinces = {
+		12299
+	}
+
+	local_supplies = 0.0 
+}

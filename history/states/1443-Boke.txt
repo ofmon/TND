@@ -1,0 +1,18 @@
+state = {
+	id = 1443
+	name = "STATE_1443" # Boke
+	manpower = 549438
+	state_category = town
+
+	history = {
+		owner = GNA
+		add_core_of = GNA
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces = {
+		12858
+	}
+}

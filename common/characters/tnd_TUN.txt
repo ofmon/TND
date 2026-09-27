@@ -1,0 +1,54 @@
+characters = {
+	TUN_mustapha_ben_jafar = {
+		name = TUN_mustapha_ben_jafar
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_TUN_mustapha_ben_jafar
+			}
+		}
+		country_leader = {
+			ideology = socialism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	TUN_hamma_hammami = {
+		name = TUN_hamma_hammami
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_TUN_hamma_hammami
+			}
+		}
+		country_leader = {
+			ideology = anti_revisionism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	TUN_rached_ghannouchi = {
+		name = TUN_rached_ghannouchi
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_TUN_rached_ghannouchi
+			}
+		}
+		country_leader = {
+			ideology = fascism_ideology
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	TUN_zine_el_abidine_ben_ali = {
+		name = TUN_zine_el_abidine_ben_ali
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_TUN_zine_el_abidine_ben_ali
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

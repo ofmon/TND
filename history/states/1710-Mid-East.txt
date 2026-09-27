@@ -1,0 +1,19 @@
+state = {
+	id = 1710
+	name = "STATE_1710" # Mid-East
+	manpower = 375474
+	state_category = rural
+	local_supplies = 0.0
+
+	history = {
+		owner = IRE
+		add_core_of = IRE
+		buildings = {
+			infrastructure = 4
+		}
+	}
+
+	provinces = {
+		3342 7377
+	}
+}

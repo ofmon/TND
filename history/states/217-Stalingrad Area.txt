@@ -1,0 +1,37 @@
+state = {
+	id = 217
+	name = "STATE_217"
+	manpower = 2084984
+	
+	state_category = city
+
+	history = {
+		owner = SOV
+		add_core_of = SOV
+
+		victory_points = {
+			3529 30 # Stalingrad
+		}
+
+		buildings = {
+			industrial_complex = 1
+			infrastructure = 4 #was: 7
+			air_base = 1
+
+			# 22nd Congress of the CPSU Stalingrad Hydroelectric Power Station
+			#3555 = { dam = 1 }
+
+		}
+		
+		1939.1.1 = {
+			buildings = {
+			}
+		}
+	}
+
+	provinces = {
+		498 520 533 3489 3503 3505 3517 3518 3529 3555 6479 6503 6506 6527 6541 6575 9459 9474 9475 9504 9530 9540 11395 11447 11474 11484 11501
+	}
+
+	local_supplies = 7.0 
+}

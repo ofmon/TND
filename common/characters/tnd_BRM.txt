@@ -1,0 +1,31 @@
+characters = {
+	BRM_aung_san_suu_kyi = {
+		name = BRM_aung_san_suu_kyi
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_BRM_aung_san_suu_kyi
+			}
+		}
+		country_leader = {
+			ideology = liberalism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	BRM_bao_youxiang = {
+		name = BRM_bao_youxiang
+		country_leader = {
+			ideology = leninism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	BRM_ne_win = {
+		name = BRM_ne_win
+		country_leader = {
+			ideology = despotism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

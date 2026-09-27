@@ -1,0 +1,22 @@
+state = {
+	id = 1101
+	name = "STATE_1101" # Central Greece
+	manpower = 523896
+	state_category = town
+	local_supplies = 0.0
+
+	history = {
+		owner = GRE
+		add_core_of = GRE
+		buildings = {
+			infrastructure = 4
+		}
+		victory_points = {
+			7127 3
+		}
+	}
+
+	provinces = {
+		976 1109 7127 11895
+	}
+}

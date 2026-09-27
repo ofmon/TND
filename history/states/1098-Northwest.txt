@@ -1,0 +1,25 @@
+state = {
+	id = 1098
+	name = "STATE_1098" # Northwest
+	manpower = 1035969
+	state_category = town
+	local_supplies = 0.0
+
+	history = {
+		owner = BUL
+		add_core_of = BUL
+		buildings = {
+			infrastructure = 3
+		}
+		victory_points = { #Pleven
+			3796 3
+		}
+		victory_points = { #Vidin
+			9771 1
+		}
+	}
+
+	provinces = {
+		793 965 3796 3952 9771 11754
+	}
+}

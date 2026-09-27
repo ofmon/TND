@@ -8,20 +8,45 @@ state={
 	history={
 		owner = PRC
 		add_core_of = PRC
+		add_core_of = CHI
+		add_claim_by = TAW
+
 		buildings = {
-			infrastructure = 4
-			industrial_complex = 1
+			infrastructure = 2
+			industrial_complex = 3
+		}
+
+		victory_points = {
+			7222 1 # Hefei 
+		}
+
+		victory_points = {
+			1083 1 # Anqing 
+		}
+
+		#victory_points = {
+		#	9937 1 # Jinjiazhai 
+		#} 
+
+		1938.10.25 = {
+			buildings = {
+				air_base = 1
+
+			}
 
 		}
+
 		victory_points = {
-			7222 1 
+			7025 1 # Xuzhou
 		}
 	}
 
 	provinces={
-		1083 1146 4079 4158 4203 7035 7094 7222 9937 10008 10017 10040 10064 10079 11916 11994 12036 12061 
+		1001 1083 1099 1146 1161 4079 4148 4203 7025 7035 7094 7222 9937 9995 10008 10017 10040 10064 10079 11916 11973 11994 12036 12061
 	}
-	manpower=18265400
+	manpower = 53532212
 	buildings_max_level_factor=1.000
-	state_category=town
+	state_category = large_town
+
+	local_supplies=1.0 
 }

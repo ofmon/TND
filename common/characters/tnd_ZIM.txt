@@ -1,0 +1,44 @@
+characters = {
+	ZIM_morgan_tsvangirai = {
+		name = ZIM_morgan_tsvangirai
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_ZIM_morgan_tsvangirai
+			}
+		}
+		country_leader = {
+			ideology = socialism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	ZIM_munyaradzi_gwisai = {
+		name = ZIM_munyaradzi_gwisai
+		country_leader = {
+			ideology = marxism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	ZIM_chenjerai_hunzvi = {
+		name = ZIM_chenjerai_hunzvi
+		country_leader = {
+			ideology = junta
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	ZIM_robert_mugabe = {
+		name = ZIM_robert_mugabe
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_ZIM_robert_mugabe
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

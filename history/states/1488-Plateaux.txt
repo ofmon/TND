@@ -1,0 +1,19 @@
+state = {
+	id = 1488
+	name = "STATE_1488" # Plateaux
+	manpower = 1633648
+	state_category = city
+	buildings_max_level_factor = 1.000
+
+	history = {
+		owner = TOG
+		add_core_of = TOG
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces = {
+		12843
+	}
+}

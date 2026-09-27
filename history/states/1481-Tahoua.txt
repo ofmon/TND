@@ -1,0 +1,19 @@
+state = {
+	id = 1481
+	name = "STATE_1481" # Tahoua
+	manpower = 1976639
+	state_category = town
+	buildings_max_level_factor = 1.000
+
+	history = {
+		owner = NGR
+		add_core_of = NGR
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces = {
+		7939
+	}
+}

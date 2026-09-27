@@ -1,0 +1,41 @@
+characters = {
+	FRA_robert_hue = {
+		name = FRA_robert_hue
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_FRA_robert_hue
+			}
+		}
+		country_leader = {
+			ideology = marxism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	FRA_jean_marie_le_pen = {
+		name = FRA_jean_marie_le_pen
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_FRA_jean_marie_le_pen
+			}
+		}
+		country_leader = {
+			ideology = fascism_ideology
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	FRA_charles_pasqua = {
+		name = FRA_charles_pasqua
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_FRA_charles_pasqua
+			}
+		}
+		country_leader = {
+			ideology = moderatism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

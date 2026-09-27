@@ -1,0 +1,18 @@
+state = {
+	id = 1484
+	name = "STATE_1484" # Tambacounda
+	manpower = 1126032
+	state_category = town
+
+	history = {
+		owner = SEN
+		add_core_of = SEN
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces = {
+		8015
+	}
+}

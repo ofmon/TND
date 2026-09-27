@@ -1,0 +1,49 @@
+characters = {
+	SAM_tuilaepa_sailele_malielegaoi = {
+		name = SAM_tuilaepa_sailele_malielegaoi
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_SAM_tuilaepa_sailele_malielegaoi
+			}
+		}
+		country_leader = {
+			ideology = conservatism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	SAM_vaai_kolone = {
+		name = SAM_vaai_kolone
+		country_leader = {
+			ideology = marxism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	SAM_tupua_tamasese_efi = {
+		name = SAM_tupua_tamasese_efi
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_SAM_tupua_tamasese_efi
+			}
+		}
+		country_leader = {
+			ideology = fascism_ideology
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	SAM_malietoa_tanumafili_ii = {
+		name = SAM_malietoa_tanumafili_ii
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_SAM_malietoa_tanumafili_ii
+			}
+		}
+		country_leader = {
+			ideology = moderatism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

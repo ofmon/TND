@@ -2,9 +2,9 @@
 state={
 	id=379
 	name="STATE_379"
-	manpower = 3177772
+	manpower = 1998257
 	
-	state_category = rural
+	state_category = city
 	
 	resources={
 		steel=70 # was: 136
@@ -14,10 +14,12 @@ state={
 
 	history={
 		owner = USA
-		buildings = {
-			infrastructure = 2
-		}
 		add_core_of = USA
+		add_claim_by = MEX
+		buildings = {
+			industrial_complex = 4
+			infrastructure = 5
+		}
 	}
 
 	provinces={

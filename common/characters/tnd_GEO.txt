@@ -1,0 +1,31 @@
+characters = {
+	GEO_panteleimon_giorgadze = {
+		name = GEO_panteleimon_giorgadze
+		country_leader = {
+			ideology = Marxist-Leninist
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	GEO_guram_sharadze = {
+		name = GEO_guram_sharadze
+		country_leader = {
+			ideology = fascism_ideology
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	GEO_aslan_abashidze = {
+		name = GEO_aslan_abashidze
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_GEO_aslan_abashidze
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

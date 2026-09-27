@@ -1,17 +1,18 @@
 state={
 	id=687
 	name="STATE_687"
-	manpower = 804567
+	manpower = 745000
 	
-	state_category = pastoral
+	state_category = rural
 	
 	resources={
 		aluminium=64 # was: 112
 	}
 
 	history={
-		add_core_of = GYA
 		owner = GYA
+		add_core_of = GYA
+		add_claim_by = VEN
 		victory_points = {
 			4982 1
 		}

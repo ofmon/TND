@@ -1,0 +1,19 @@
+state = {
+	id = 1405
+	name = "STATE_1405" # Guárico State
+	manpower = 999730
+	state_category = city
+	local_supplies = 0.0
+
+	history = {
+		owner = VEN
+		add_core_of = VEN
+		buildings = {
+			infrastructure = 4
+		}
+	}
+
+	provinces = {
+		4942 8024
+	}
+}

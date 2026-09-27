@@ -1,0 +1,29 @@
+state = {
+	id = 565
+	name = "STATE_565" # Bodaybo
+
+	manpower = 80935
+
+	state_category = pastoral
+
+	resources = {
+		steel = 10 # was: 32
+		chromium = 5 # was: 12
+	}
+
+	history = {
+		owner = SOV
+		add_core_of = SOV
+
+		buildings = {
+			infrastructure = 2
+		}
+		
+	}
+
+	provinces = {
+		1792 4703 4737 4868 7726 7828 10628 10654 10688 12538 12681
+	}
+
+	local_supplies = 5.0 
+}

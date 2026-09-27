@@ -1,0 +1,19 @@
+state = {
+	id = 1406
+	name = "STATE_1406" # Lara
+	manpower = 1620676
+	state_category = city
+	local_supplies = 6.0
+
+	history = {
+		owner = VEN
+		add_core_of = VEN
+		buildings = {
+			infrastructure = 4
+		}
+	}
+
+	provinces = {
+		5088
+	}
+}

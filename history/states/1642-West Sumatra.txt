@@ -1,0 +1,19 @@
+state = {
+	id = 1642
+	name = "STATE_1642" # West Sumatra
+	manpower = 3172168
+	state_category = city
+	local_supplies = 0.0
+
+	history = {
+		owner = INS
+		add_core_of = INS
+		buildings = {
+			infrastructure = 3
+		}
+	}
+
+	provinces = {
+		1428 1460 12126
+	}
+}

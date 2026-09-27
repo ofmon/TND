@@ -1,0 +1,18 @@
+state = {
+	id = 1541
+	name = "STATE_1541" # Ryanggang
+	manpower = 251815
+	state_category = rural
+
+	history = {
+		owner = PRC
+		add_core_of = PRC
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces = {
+		861 11823
+	}
+}

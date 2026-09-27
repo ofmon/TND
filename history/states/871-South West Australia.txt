@@ -5,14 +5,14 @@ state={
 		1526 2191 8200 10949 10969 10997 11011 12948 12962 12976 12990 
 	}
 	history = {
-		buildings = {
-			infrastructure = 1
-		}
 		owner = AST
 		add_core_of = AST
+		buildings = {
+			infrastructure = 3
+		}
 	}
 	state_category = pastoral
-	manpower=1075655
+	manpower = 70000
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
 }

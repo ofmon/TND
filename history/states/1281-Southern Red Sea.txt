@@ -1,0 +1,19 @@
+state = {
+	id = 1281
+	name = "STATE_1281" # Southern Red Sea
+	manpower = 268332
+	state_category = rural
+	local_supplies = 0.0
+
+	history = {
+		owner = ERI
+		add_core_of = ERI
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	provinces = {
+		8043
+	}
+}

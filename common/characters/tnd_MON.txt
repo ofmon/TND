@@ -1,0 +1,23 @@
+characters = {
+	MON_rinchinnyamyn_amarjargal = {
+		name = MON_rinchinnyamyn_amarjargal
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_MON_rinchinnyamyn_amarjargal
+			}
+		}
+		country_leader = {
+			ideology = liberalism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	MON_urjingiin_khurelbaatar = {
+		name = MON_urjingiin_khurelbaatar
+		country_leader = {
+			ideology = fascism_ideology
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

@@ -1,0 +1,29 @@
+state = {
+	id = 1716
+	name = "STATE_1716" # Liguria
+	manpower = 1971538
+	state_category = city
+	local_supplies = 0.0
+
+	history = {
+		owner = ITA
+		add_core_of = ITA
+		add_core_of = SPM
+		buildings = {
+			industrial_complex = 1
+			infrastructure = 5
+			6788 = { naval_base = 8 }
+			6973 = { naval_base = 10 }
+		}
+		victory_points = {
+			6788 10 
+		}
+		victory_points = {
+			6973 1 
+		}
+	}
+
+	provinces = {
+		3772 6788 6973 11891
+	}
+}

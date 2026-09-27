@@ -1,0 +1,19 @@
+state = {
+	id = 1657
+	name = "STATE_1657" # Dinagat Islands (Region XIII)
+	manpower = 1098456
+	state_category = city
+	local_supplies = 0.0
+
+	history = {
+		owner = PHI
+		add_core_of = PHI
+		buildings = {
+			infrastructure = 3
+		}
+	}
+
+	provinces = {
+		1293 1379 12160 12188 12245
+	}
+}

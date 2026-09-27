@@ -1,0 +1,20 @@
+state = {
+	id = 1525
+	name = "STATE_1525" # Samtskhe–Javakheti
+	manpower = 301045
+	state_category = rural
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.0
+
+	history = {
+		owner = GEO
+		add_core_of = GEO
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces = {
+		3656 6669
+	}
+}

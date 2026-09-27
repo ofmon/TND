@@ -1,0 +1,18 @@
+state = {
+	id = 1296
+	name = "STATE_1296" # Aqaba
+	manpower = 294857
+	state_category = rural
+
+	history = {
+		owner = JOR
+		add_core_of = JOR
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces = {
+		4017 4115
+	}
+}

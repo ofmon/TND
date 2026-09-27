@@ -1,0 +1,33 @@
+
+state = {
+	id = 503
+	name = "STATE_503"
+	manpower = 6344937
+	
+	state_category = city
+
+	history = {
+		owner = BRA
+		add_core_of = BRA
+
+		buildings = {
+			industrial_complex = 1
+			infrastructure = 4 #was: 5, then 3
+		}
+
+		victory_points = {
+			4548 10 
+		}
+
+		victory_points = {
+			10405 10 
+		}
+		
+	}
+
+	provinces = {
+		1529 4548 10405 12396 12466
+	}
+
+	local_supplies = 0.0 
+}

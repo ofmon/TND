@@ -1,0 +1,26 @@
+characters = {
+	TMS_avdy_kuliev = {
+		name = TMS_avdy_kuliev
+		country_leader = {
+			ideology = liberalism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	TMS_serdar_rahimov = {
+		name = TMS_serdar_rahimov
+		country_leader = {
+			ideology = marxism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	TMS_batyr_sarjayev = {
+		name = TMS_batyr_sarjayev
+		country_leader = {
+			ideology = junta
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

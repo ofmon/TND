@@ -1,0 +1,32 @@
+
+state={
+	id=986
+	name="STATE_986" #
+	manpower = 7111580 
+	
+	state_category = large_city
+	
+	resources={
+
+	}
+
+	history={
+		owner = RAJ
+		add_core_of = RAJ
+		buildings = {
+			industrial_complex = 1
+			infrastructure = 3
+		}
+
+		victory_points = {
+			2076 1
+		}
+
+	}
+
+	provinces={
+		1129 2076 7106 12708
+	}
+
+	local_supplies=0.0 
+}

@@ -1,0 +1,44 @@
+characters = {
+	BAS_owen_arthur = {
+		name = BAS_owen_arthur
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_BAS_owen_arthur
+			}
+		}
+		country_leader = {
+			ideology = centrist
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	BAS_bernard_coard = {
+		name = BAS_bernard_coard
+		country_leader = {
+			ideology = Marxist-Leninist
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	BAS_hudson_austin = {
+		name = BAS_hudson_austin
+		country_leader = {
+			ideology = junta
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	BAS_lester_bird = {
+		name = BAS_lester_bird
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_BAS_lester_bird
+			}
+		}
+		country_leader = {
+			ideology = oligarchism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

@@ -1,0 +1,49 @@
+characters = {
+	ETH_beyene_petros = {
+		name = ETH_beyene_petros
+		country_leader = {
+			ideology = socialism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	ETH_mengistu_haile_mariam = {
+		name = ETH_mengistu_haile_mariam
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_ETH_mengistu_haile_mariam
+			}
+		}
+		country_leader = {
+			ideology = Marxist-Leninist
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	ETH_dawud_ibsa_ayana = {
+		name = ETH_dawud_ibsa_ayana
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_ETH_dawud_ibsa_ayana
+			}
+		}
+		country_leader = {
+			ideology = junta
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	ETH_meles_zenawi = {
+		name = ETH_meles_zenawi
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_ETH_meles_zenawi
+			}
+		}
+		country_leader = {
+			ideology = oligarchism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

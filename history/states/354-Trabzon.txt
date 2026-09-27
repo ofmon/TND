@@ -1,0 +1,37 @@
+
+state={
+	id=354
+	name="STATE_354"
+	manpower = 2523492
+	
+	state_category = city
+
+	history={
+		owner = TUR
+		add_core_of = TUR
+		add_claim_by = ARM
+		add_claim_by = SOV
+		
+		victory_points = {
+			10472 5
+		}
+		buildings = {
+			infrastructure = 4
+		}
+		victory_points = {
+			11853 3
+		}
+		victory_points = {
+			9868 1
+		}
+		victory_points = {
+			12376 1
+		}
+	}
+
+	provinces={
+		652 789 4583 6919 6976 6991 9868 9886 9954 10403 10472 11853 12376
+	}
+
+	local_supplies=0.0 
+}

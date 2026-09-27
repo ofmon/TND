@@ -1,0 +1,19 @@
+state = {
+	id = 1105
+	name = "STATE_1105" # West Macedonia
+	manpower = 224382
+	state_category = rural
+	local_supplies = 9.0
+
+	history = {
+		owner = GRE
+		add_core_of = GRE
+		buildings = {
+			infrastructure = 3
+		}
+	}
+
+	provinces = {
+		841 966 3980 9837
+	}
+}

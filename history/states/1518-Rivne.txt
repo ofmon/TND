@@ -1,0 +1,22 @@
+state = {
+	id = 1518
+	name = "STATE_1518" # Rivne
+	manpower = 1024063
+	state_category = town
+	buildings_max_level_factor = 1.000
+
+	history = {
+		owner = UKR
+		add_core_of = UKR
+		buildings = {
+			infrastructure = 3
+		}
+		victory_points = {
+			6557 1
+		}
+	}
+
+	provinces = {
+		6435 6520 6557 11543
+	}
+}

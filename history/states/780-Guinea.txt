@@ -2,9 +2,9 @@
 state={
 	id=780
 	name="STATE_780" # Guinea
-	manpower = 14253790
+	manpower = 4444584
 	
-	state_category = pastoral
+	state_category = metropolis
 	history={
 		owner = GNA
 		add_core_of = GNA
@@ -12,6 +12,7 @@ state={
 			1909 1 
 		}
 		buildings = {
+			industrial_complex = 1
 			infrastructure = 3
 			1909 = {
 				naval_base = 1
@@ -20,6 +21,6 @@ state={
 	}
 
 	provinces={
-		1909 4957 5039 8008 12802 12858
+		1909
 	}
 }

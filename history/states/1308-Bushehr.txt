@@ -1,0 +1,19 @@
+state = {
+	id = 1308
+	name = "STATE_1308" # Bushehr
+	manpower = 775954
+	state_category = city
+	local_supplies = 0.0
+
+	history = {
+		owner = PER
+		add_core_of = PER
+		buildings = {
+			infrastructure = 4
+		}
+	}
+
+	provinces = {
+		10797
+	}
+}

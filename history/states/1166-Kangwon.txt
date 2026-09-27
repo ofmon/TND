@@ -1,0 +1,20 @@
+state = {
+	id = 1166
+	name = "STATE_1166" # Kangwon
+	manpower = 1377612
+	state_category = town
+	local_supplies = 0.0
+
+	history = {
+		owner = NRK
+		add_core_of = NRK
+		add_claim_by = KOR
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces = {
+		848 9981
+	}
+}

@@ -1,0 +1,20 @@
+state = {
+	id = 1199
+	name = "STATE_1199" # South Kivu
+	manpower = 1129251
+	state_category = town
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.000
+
+	history = {
+		owner = COG
+		add_core_of = COG
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces = {
+		4941
+	}
+}

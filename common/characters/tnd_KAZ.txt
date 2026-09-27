@@ -1,0 +1,36 @@
+characters = {
+	KAZ_akezhan_kazhegeldin = {
+		name = KAZ_akezhan_kazhegeldin
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_KAZ_akezhan_kazhegeldin
+			}
+		}
+		country_leader = {
+			ideology = liberalism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	KAZ_serikbolsyn_abdildin = {
+		name = KAZ_serikbolsyn_abdildin
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_KAZ_serikbolsyn_abdildin
+			}
+		}
+		country_leader = {
+			ideology = Marxist-Leninist
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	KAZ_hasen_kozhakhmetov = {
+		name = KAZ_hasen_kozhakhmetov
+		country_leader = {
+			ideology = fascism_ideology
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

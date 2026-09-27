@@ -1,0 +1,19 @@
+state = {
+	id = 1114
+	name = "STATE_1114" # Banská Bystrica
+	manpower = 626488
+	state_category = town
+
+	history = {
+		owner = SLO
+		add_core_of = SLO
+		buildings = {
+			industrial_complex = 1
+			infrastructure = 3
+		}
+	}
+
+	provinces = {
+		555 3537 6561 9537
+	}
+}

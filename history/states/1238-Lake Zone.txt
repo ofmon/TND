@@ -1,0 +1,20 @@
+state = {
+	id = 1238
+	name = "STATE_1238" # Lake Zone
+	manpower = 9221423
+	state_category = metropolis
+	buildings_max_level_factor = 1.000
+
+	history = {
+		owner = TZN
+		add_core_of = TZN
+		buildings = {
+			industrial_complex = 1
+			infrastructure = 3
+		}
+	}
+
+	provinces = {
+		4171 10932 11017
+	}
+}

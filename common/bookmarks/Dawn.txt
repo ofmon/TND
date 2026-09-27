@@ -15,11 +15,6 @@ bookmarks = {
 				great_depression
 				undisturbed_isolation
 			}
-			focuses = {
-				USA_war_plan_black
-				USA_limited_intervention
-				USA_reestablish_the_gold_standard
-			}
 		}
 
 		"ENG"={
@@ -29,11 +24,6 @@ bookmarks = {
 				stiff_upper_lip
 				ENG_the_war_to_end_all_wars
 				george_v
-			}
-			focuses = {
-				tizard_mission_focus
-				ENG_war_with_germany
-				ENG_war_with_italy
 			}
 		}
 
@@ -45,11 +35,6 @@ bookmarks = {
 				general_staff
 				GER_mefo_bills_1
 			}
-			focuses = {
-				GER_anschluss
-				GER_danzig_or_war
-				GER_ussr_war_goal
-			}
 		}
 
 		"PRC"={
@@ -60,11 +45,6 @@ bookmarks = {
 				ITA_iri_fake_ns
 				ITA_re_fake_ns
 			}	
-			focuses = {
-				ITA_comandante_diavolo
-				ITA_to_live_as_a_lion
-				ITA_a_colonial_empire
-			}		
 		}
 		
 		"ISR"={
@@ -75,11 +55,6 @@ bookmarks = {
 				JAP_zaibatsus
 				JAP_militarism
 			}	
-			focuses = {
-				JAP_the_zero
-				JAP_warrior_spirit
-				JAP_strike_on_the_southern_resource_area
-			}			
 		}
 
 		"GER"={
@@ -90,11 +65,6 @@ bookmarks = {
 				SOV_second_five_year_plan_fake_1936_ns
 				SOV_politicized_military
 			}
-			focuses = {
-				SOV_behead_the_snake
-				SOV_father_of_nations
-				SOV_the_supreme_soviet
-			}	
 		}
 
 		"IRQ"={
@@ -105,11 +75,6 @@ bookmarks = {
 				JAP_zaibatsus
 				JAP_militarism
 			}	
-			focuses = {
-				JAP_the_zero
-				JAP_warrior_spirit
-				JAP_strike_on_the_southern_resource_area
-			}			
 		}
 
 		"---"={
@@ -123,11 +88,6 @@ bookmarks = {
 				CZE_skoda_works
 				CZE_divided_nation
 			}
-			focuses = {
-				GER_anschluss
-				GER_danzig_or_war
-				GER_ussr_war_goal
-			}
 		}
 		"JAP"={
 			minor = yes
@@ -135,11 +95,6 @@ bookmarks = {
 			ideas = {
 				CZE_skoda_works
 				CZE_divided_nation
-			}
-			focuses = {
-				GER_anschluss
-				GER_danzig_or_war
-				GER_ussr_war_goal
 			}
 		}
 		
@@ -149,11 +104,6 @@ bookmarks = {
 			ideas = {
 				CZE_skoda_works
 				CZE_divided_nation
-			}
-			focuses = {
-				GER_anschluss
-				GER_danzig_or_war
-				GER_ussr_war_goal
 			}
 		}
 
@@ -165,11 +115,6 @@ bookmarks = {
 				SOV_second_five_year_plan_fake_1936_ns
 				SOV_politicized_military
 			}
-			focuses = {
-				SOV_behead_the_snake
-				SOV_father_of_nations
-				SOV_the_supreme_soviet
-			}	
 		}
 
 		effect = {

@@ -1,0 +1,19 @@
+state = {
+	id = 1377
+	name = "STATE_1377" # California
+	manpower = 577456
+	state_category = large_city
+	local_supplies = 0.0
+
+	history = {
+		owner = MEX
+		add_core_of = MEX
+		buildings = {
+			infrastructure = 4
+		}
+	}
+
+	provinces = {
+		13215
+	}
+}

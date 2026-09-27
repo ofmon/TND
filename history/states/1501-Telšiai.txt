@@ -1,0 +1,20 @@
+state = {
+	id = 1501
+	name = "STATE_1501" # Telšiai
+	manpower = 173210
+	state_category = rural
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.0
+
+	history = {
+		owner = LIT
+		add_core_of = LIT
+		buildings = {
+			infrastructure = 3
+		}
+	}
+
+	provinces = {
+		3354 9731
+	}
+}

@@ -18,10 +18,9 @@ characters={
 
 	MOL_vladimir_voronin={
 		name=MOL_vladimir_voronin
-		portraits={
-			civilian={
-				large=GFX_portrait_MOL_vladimir_voronin_large
-                                small=GFX_portrait_MOL_vladimir_voronin_small
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_MOL_vladimir_voronin
 			}
 		}
 		country_leader={

@@ -2,29 +2,28 @@
 state={
 	id=67
 	name="STATE_67"
-	manpower = 1402591
+	manpower = 1274275
 	resources={
 		steel=19 # was: 60
 		aluminium=6 # was: 20
 	}
 	
-	state_category = city
+	state_category = town
 
 	history={
-		victory_points = {
-			11467 5
-		}
+		owner = POL
+		add_core_of = POL
+		add_core_of = SIL
+		add_claim_by = GER
 		victory_points = {
 			9511 3
 		}
-		owner = POL
 		buildings = {
-			infrastructure = 6
+			infrastructure = 3
 		}
-		add_core_of = POL
 	}
 
 	provinces={
-		479 6512 9457 9511 11467 
+		479 6512 9457 9511
 	}
 }

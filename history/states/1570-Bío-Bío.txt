@@ -1,0 +1,22 @@
+state = {
+	id = 1570
+	name = "STATE_1570" # Bío-Bío
+	manpower = 451546
+	state_category = city
+	local_supplies = 0.0
+
+	history = {
+		owner = CHL
+		add_core_of = CHL
+		buildings = {
+			infrastructure = 4
+		}
+		victory_points = {
+			8251 5
+		}
+	}
+
+	provinces = {
+		8251
+	}
+}

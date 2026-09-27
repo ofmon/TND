@@ -1,0 +1,23 @@
+state = {
+	id = 1620
+	name = "STATE_1620" # Manipur
+	manpower = 1552991
+	state_category = city
+	buildings_max_level_factor = 1.000
+	local_supplies = 1.000
+
+	history = {
+		owner = RAJ
+		add_core_of = RAJ
+		buildings = {
+			infrastructure = 3
+		}
+		victory_points = {
+			1553 5
+		}
+	}
+
+	provinces = {
+		1553
+	}
+}

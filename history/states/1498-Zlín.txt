@@ -1,0 +1,19 @@
+state = {
+	id = 1498
+	name = "STATE_1498" # Zlín
+	manpower = 226913
+	state_category = rural
+	local_supplies = 3.0
+
+	history = {
+		owner = CZE
+		add_core_of = CZE
+		buildings = {
+			infrastructure = 3
+		}
+	}
+
+	provinces = {
+		6576 6590
+	}
+}

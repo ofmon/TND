@@ -1,0 +1,32 @@
+
+state = {
+	id = 99
+	name = "STATE_99"
+	manpower = 1182815
+	state_category = city
+
+	history={
+		owner = DEN
+		add_core_of = DEN
+		victory_points = {
+			6364 3 
+		}
+		victory_points = {
+			3206 1
+		}
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 2
+			air_base = 2
+			6364 = {
+				naval_base = 1
+			}
+		}
+	}
+
+	provinces={
+		3206 3341 6364 13259 13262
+	}
+
+	local_supplies = 0.000
+}

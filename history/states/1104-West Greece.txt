@@ -1,0 +1,26 @@
+state = {
+	id = 1104
+	name = "STATE_1104" # West Greece
+	manpower = 704910
+	state_category = town
+	local_supplies = 9.0
+
+	history = {
+		owner = GRE
+		add_core_of = GRE
+		buildings = {
+			infrastructure = 4
+			7211 = { naval_base = 2 }
+		}
+		victory_points = {
+			1205 1
+		}
+		victory_points = {
+			7211 5
+		}
+	}
+
+	provinces = {
+		1205 4193 7211 12001
+	}
+}

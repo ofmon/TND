@@ -1,0 +1,28 @@
+characters = {
+	QAT_ali_khalifa_al_kuwari = {
+		name = QAT_ali_khalifa_al_kuwari
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_QAT_ali_khalifa_al_kuwari
+			}
+		}
+		country_leader = {
+			ideology = liberalism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	QAT_yusuf_al_qaradawi = {
+		name = QAT_yusuf_al_qaradawi
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_QAT_yusuf_al_qaradawi
+			}
+		}
+		country_leader = {
+			ideology = fascism_ideology
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

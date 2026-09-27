@@ -1,0 +1,41 @@
+characters = {
+	LUX_ali_ruckert = {
+		name = LUX_ali_ruckert
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_LUX_ali_ruckert
+			}
+		}
+		country_leader = {
+			ideology = Marxist-Leninist
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	LUX_robert_mehlen = {
+		name = LUX_robert_mehlen
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_LUX_robert_mehlen
+			}
+		}
+		country_leader = {
+			ideology = fascism_ideology
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	LUX_grand_duke_jean = {
+		name = LUX_grand_duke_jean
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_LUX_grand_duke_jean
+			}
+		}
+		country_leader = {
+			ideology = moderatism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

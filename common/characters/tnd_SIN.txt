@@ -1,0 +1,31 @@
+characters = {
+	SIN_fong_chong_pik = {
+		name = SIN_fong_chong_pik
+		country_leader = {
+			ideology = Marxist-Leninist
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	SIN_winston_choo = {
+		name = SIN_winston_choo
+		country_leader = {
+			ideology = junta
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	SIN_lee_kuan_yew = {
+		name = SIN_lee_kuan_yew
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_SIN_lee_kuan_yew
+			}
+		}
+		country_leader = {
+			ideology = oligarchism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

@@ -1,0 +1,54 @@
+characters = {
+	MAR_kessai_note = {
+		name = MAR_kessai_note
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_MAR_kessai_note
+			}
+		}
+		country_leader = {
+			ideology = centrist
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	MAR_tony_debrum = {
+		name = MAR_tony_debrum
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_MAR_tony_debrum
+			}
+		}
+		country_leader = {
+			ideology = marxism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	MAR_litokwa_tomeing = {
+		name = MAR_litokwa_tomeing
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_MAR_litokwa_tomeing
+			}
+		}
+		country_leader = {
+			ideology = fascism_ideology
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	MAR_imata_kabua = {
+		name = MAR_imata_kabua
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_MAR_imata_kabua
+			}
+		}
+		country_leader = {
+			ideology = oligarchism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

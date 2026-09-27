@@ -1,0 +1,41 @@
+characters = {
+	VEN_oscar_figuera = {
+		name = VEN_oscar_figuera
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_VEN_oscar_figuera
+			}
+		}
+		country_leader = {
+			ideology = Marxist-Leninist
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	VEN_pedro_carmona = {
+		name = VEN_pedro_carmona
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_VEN_pedro_carmona
+			}
+		}
+		country_leader = {
+			ideology = junta
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	VEN_francisco_arias_cardenas = {
+		name = VEN_francisco_arias_cardenas
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_VEN_francisco_arias_cardenas
+			}
+		}
+		country_leader = {
+			ideology = moderatism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

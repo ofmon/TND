@@ -1,0 +1,22 @@
+state = {
+	id = 1207
+	name = "STATE_1207" # Central
+	manpower = 4226867
+	state_category = city
+	buildings_max_level_factor = 1.000
+
+	history = {
+		owner = MLW
+		add_core_of = MLW
+		buildings = {
+			infrastructure = 2
+		}
+		victory_points = {
+			12986 1 
+		}
+	}
+
+	provinces = {
+		12986
+	}
+}

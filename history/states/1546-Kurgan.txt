@@ -1,0 +1,19 @@
+state = {
+	id = 1546
+	name = "STATE_1546" # Kurgan
+	manpower = 983435
+	state_category = town
+	local_supplies = 0.0
+
+	history = {
+		owner = SOV
+		add_core_of = SOV
+		buildings = {
+			infrastructure = 3
+		}
+	}
+
+	provinces = {
+		1292 1294 1327 1775 4242 10170 10542 12106
+	}
+}

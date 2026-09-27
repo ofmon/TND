@@ -1,0 +1,19 @@
+state = {
+	id = 1614
+	name = "STATE_1614" # Bheri Zone
+	manpower = 3900957
+	state_category = large_town
+	local_supplies = 0.0
+
+	history = {
+		owner = NEP
+		add_core_of = NEP
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces = {
+		7374
+	}
+}

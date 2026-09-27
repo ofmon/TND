@@ -1,0 +1,24 @@
+
+state={
+	id=845
+	name="STATE_845"
+	manpower = 1182619
+	resources={
+		aluminium=18 # was: 28 #CarloTODO
+	}
+	state_category = city
+	history={
+		owner = SWI
+		add_core_of = SWI
+		victory_points = { 9638 5 }
+		victory_points = { 6666 5 }
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 3
+		}
+	}
+	provinces={
+		6666 9638 13124
+	}
+	local_supplies=0.0 
+}

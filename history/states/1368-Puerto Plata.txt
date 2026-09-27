@@ -1,0 +1,23 @@
+state = {
+	id = 1368
+	name = "STATE_1368" # Puerto Plata
+	manpower = 2791098
+	state_category = large_city
+	local_supplies = 0.0
+
+	history = {
+		owner = DOM
+		add_core_of = DOM
+		buildings = {
+			industrial_complex = 1
+			infrastructure = 4
+		}
+		victory_points = {
+			4598 1 
+		}
+	}
+
+	provinces = {
+		4598
+	}
+}

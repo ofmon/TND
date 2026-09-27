@@ -1,0 +1,49 @@
+characters = {
+	MOR_abderrahmane_youssoufi = {
+		name = MOR_abderrahmane_youssoufi
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_MOR_abderrahmane_youssoufi
+			}
+		}
+		country_leader = {
+			ideology = socialism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	MOR_ismail_alaoui = {
+		name = MOR_ismail_alaoui
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_MOR_ismail_alaoui
+			}
+		}
+		country_leader = {
+			ideology = marxism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	MOR_hosni_benslimane = {
+		name = MOR_hosni_benslimane
+		country_leader = {
+			ideology = junta
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	MOR_mohammed_vi = {
+		name = MOR_mohammed_vi
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_MOR_mohammed_vi
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

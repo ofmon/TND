@@ -1,0 +1,19 @@
+state = {
+	id = 1364
+	name = "STATE_1364" # Las Tunas
+	manpower = 722481
+	state_category = town
+	local_supplies = 0.0
+
+	history = {
+		owner = CUB
+		add_core_of = CUB
+		buildings = {
+			infrastructure = 3
+		}
+	}
+
+	provinces = {
+		7546
+	}
+}

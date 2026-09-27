@@ -3,29 +3,25 @@ state = {
 	name = "STATE_832"
 
 	history = {
-	
 		owner = TMS
-		
+		add_core_of = TMS
+		add_core_of = KHI
+
 		victory_points = {
 			1493 1
 		}
 		
 		buildings = {
-			infrastructure = 1
-			industrial_complex = 1
+			infrastructure = 2
 
 		}
-		
-		add_core_of = SOV
-		add_core_of = TMS
-		add_core_of = KHI
 
 	}
 
 	provinces = {
-		1493 1649 7618 10485
+		1493 10485
 	}
-	manpower = 133065
+	manpower = 98867
 	buildings_max_level_factor = 1.000
 	state_category = pastoral
 

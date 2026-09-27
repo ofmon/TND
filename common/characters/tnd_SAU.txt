@@ -1,0 +1,31 @@
+characters = {
+	SAU_talal_bin_abdulaziz = {
+		name = SAU_talal_bin_abdulaziz
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_SAU_talal_bin_abdulaziz
+			}
+		}
+		country_leader = {
+			ideology = liberalism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	SAU_abdul_rahman_munif = {
+		name = SAU_abdul_rahman_munif
+		country_leader = {
+			ideology = marxism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	SAU_safar_al_hawali = {
+		name = SAU_safar_al_hawali
+		country_leader = {
+			ideology = fascism_ideology
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

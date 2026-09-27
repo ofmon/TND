@@ -1,0 +1,36 @@
+characters = {
+	SPR_francisco_frutos = {
+		name = SPR_francisco_frutos
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_SPR_francisco_frutos
+			}
+		}
+		country_leader = {
+			ideology = Marxist-Leninist
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	SPR_diego_marquez_horrillo = {
+		name = SPR_diego_marquez_horrillo
+		country_leader = {
+			ideology = falangism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	SPR_juan_carlos_i = {
+		name = SPR_juan_carlos_i
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_SPR_juan_carlos_i
+			}
+		}
+		country_leader = {
+			ideology = moderatism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

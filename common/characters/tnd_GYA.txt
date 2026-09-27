@@ -1,0 +1,54 @@
+characters = {
+	GYA_bharrat_jagdeo = {
+		name = GYA_bharrat_jagdeo
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_GYA_bharrat_jagdeo
+			}
+		}
+		country_leader = {
+			ideology = socialism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	GYA_janet_jagan = {
+		name = GYA_janet_jagan
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_GYA_janet_jagan
+			}
+		}
+		country_leader = {
+			ideology = Marxist-Leninist
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	GYA_hamilton_green = {
+		name = GYA_hamilton_green
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_GYA_hamilton_green
+			}
+		}
+		country_leader = {
+			ideology = fascism_ideology
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	GYA_desmond_hoyte = {
+		name = GYA_desmond_hoyte
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_GYA_desmond_hoyte
+			}
+		}
+		country_leader = {
+			ideology = oligarchism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

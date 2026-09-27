@@ -1,0 +1,49 @@
+characters = {
+	FIJ_mahendra_chaudhry = {
+		name = FIJ_mahendra_chaudhry
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_FIJ_mahendra_chaudhry
+			}
+		}
+		country_leader = {
+			ideology = socialism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	FIJ_tupeni_baba = {
+		name = FIJ_tupeni_baba
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_FIJ_tupeni_baba
+			}
+		}
+		country_leader = {
+			ideology = marxism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	FIJ_george_speight = {
+		name = FIJ_george_speight
+		country_leader = {
+			ideology = fascism_ideology
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	FIJ_kamisese_mara = {
+		name = FIJ_kamisese_mara
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_FIJ_kamisese_mara
+			}
+		}
+		country_leader = {
+			ideology = moderatism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

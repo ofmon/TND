@@ -1,0 +1,25 @@
+state = {
+	id = 1679
+	name = "STATE_1679" # Carinthia
+	manpower = 705242
+	state_category = town
+	local_supplies = 0.0
+
+	history = {
+		owner = AUS
+		add_core_of = AUS
+		buildings = {
+			infrastructure = 4
+		}
+		victory_points = {
+			3673 3
+		}
+		victory_points = {
+			11612 2
+		}
+	}
+
+	provinces = {
+		653 668 3673 3674 6673 11612
+	}
+}

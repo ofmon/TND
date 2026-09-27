@@ -1,0 +1,20 @@
+state = {
+	id = 1304
+	name = "STATE_1304" # Al Batinah North
+	manpower = 523970
+	state_category = large_city
+	local_supplies = 0.0
+
+	history = {
+		owner = OMA
+		add_core_of = OMA
+		buildings = {
+			industrial_complex = 1
+			infrastructure = 5
+		}
+	}
+
+	provinces = {
+		4993
+	}
+}

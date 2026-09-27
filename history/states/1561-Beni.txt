@@ -1,0 +1,19 @@
+state = {
+	id = 1561
+	name = "STATE_1561" # Beni
+	manpower = 602406
+	state_category = town
+	local_supplies = 0.0
+
+	history = {
+		owner = BOL
+		add_core_of = BOL
+		buildings = {
+			infrastructure = 3
+		}
+	}
+
+	provinces = {
+		8211 8240 10982 10996
+	}
+}

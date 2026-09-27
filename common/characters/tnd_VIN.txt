@@ -1,0 +1,34 @@
+characters = {
+	VIN_nguyen_dan_que = {
+		name = VIN_nguyen_dan_que
+		country_leader = {
+			ideology = liberalism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	VIN_le_kha_phieu = {
+		name = VIN_le_kha_phieu
+		country_leader = {
+			ideology = Marxist-Leninist
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	VIN_nguyen_cao_ky = {
+		name = VIN_nguyen_cao_ky
+		country_leader = {
+			ideology = junta
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	VIN_thich_huyen_quang = {
+		name = VIN_thich_huyen_quang
+		country_leader = {
+			ideology = moderatism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

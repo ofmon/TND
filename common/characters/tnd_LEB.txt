@@ -1,0 +1,36 @@
+characters = {
+	LEB_farouk_dahrouj = {
+		name = LEB_farouk_dahrouj
+		country_leader = {
+			ideology = marxism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	LEB_samir_geagea = {
+		name = LEB_samir_geagea
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_LEB_samir_geagea
+			}
+		}
+		country_leader = {
+			ideology = falangism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	LEB_rafic_hariri = {
+		name = LEB_rafic_hariri
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_LEB_rafic_hariri
+			}
+		}
+		country_leader = {
+			ideology = oligarchism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

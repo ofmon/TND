@@ -1,26 +1,28 @@
-state=
-{
-	id=624
-	name="STATE_624"
-	manpower = 12457934
-	state_category = town
-	
-	history=
-	{
-		owner = PHI
-		buildings = {
-			infrastructure = 2
-			industrial_complex = 1
-		}
-		
-		victory_points = {
-			4288 1 
-		}
-		add_core_of = PHI
-	}
-	provinces={
-		1372 4228 4288 4377 7307 10272 10306 12279 
+state = {
+
+	id = 624
+	name = "STATE_624" # Central Islands
+	manpower = 4069426 
+
+	resources={
+		steel=7 # was: 0
 	}
 
-	local_supplies=0.0 
+	state_category = town
+	
+	history = {
+		owner = PHI
+		add_core_of = PHI
+
+		buildings = {
+			infrastructure = 3
+		}
+		
+	}
+
+	provinces = {
+		1372 4228 4377 7307 12279
+	}
+
+	local_supplies = 0.0 
 }

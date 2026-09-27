@@ -1,0 +1,24 @@
+state = {
+	id = 1411
+	name = "STATE_1411" # Zulia
+	manpower = 3270323
+	state_category = large_city
+	local_supplies = 6.0
+
+	history = {
+		owner = VEN
+		add_core_of = VEN
+		buildings = {
+			industrial_complex = 2
+			infrastructure = 4
+			1944 = { naval_base = 5 }
+		}
+		victory_points = {
+			1944 1 
+		}
+	}
+
+	provinces = {
+		1944 12772
+	}
+}

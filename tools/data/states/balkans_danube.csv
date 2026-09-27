@@ -1,0 +1,89 @@
+id,owner,controller,cores,claims,manpower,category,name,notes
+4,AUS,,AUS,,2461190,metropolis,Lower Austria,Vienna 1.55M + Lower Austria 1.545M (Upper Austria incl. Linz is counted in 152 to avoid double-counting)
+43,HUN,,HUN,,2805301,metropolis,Northern Hungary,Budapest Pest Borsod Heves Nograd + Jasz
+44,ALB,,ALB,,915416,city,Albania,Tirana Durres Elbasan Fier Berat Vlore Korce
+45,SER,,SER,,1340000,large_town,Vojvodina,Backa + Srem (Srem incl. province 11580 moved from 109)
+46,ROM,,ROM,,2519681,large_city,Muntenia,Bucharest Ilfov Prahova Dambovita Arges Teleorman Giurgiu Calarasi Ialomita Buzau Braila
+47,GRE,,GRE,,3952789,metropolis,Attica,Attica Thessaly Central Greece Corinthia
+48,BUL,,BUL,,2085269,city,Sofia,Sofia city+oblast Pernik Kyustendil Vidin Montana Vratsa
+49,TUR,,TUR,,3975064,metropolis,Ankara,Ankara Kirikkale Eskisehir
+73,UKR,,UKR,,1263000,town,Zakarpattia,Zakarpattia oblast
+76,ROM,,ROM,,2742724,city,North Transylvania,Cluj Bihor Salaj Satu Mare Maramures Bistrita Mures Harghita Covasna
+77,BUL,,BUL,,206129,rural,Dobrudja,Dobrich + Silistra (Southern Dobruja)
+78,MOL,,MOL,,2213184,city,Bessarabia,Moldova right bank incl. Bender/Gagauzia; province 3407 (Khotyn) moved to 80
+79,ROM,,ROM,,3452351,city,Moldova,Iasi Suceava Botosani Neamt Bacau Vaslui Vrancea Galati
+80,UKR,,UKR,,930000,town,Bukovina,Chernivtsi oblast incl. Khotyn (province 3407 moved from 78)
+81,ROM,,ROM,,2413068,town,Oltenia,Dolj Olt Gorj Valcea Mehedinti
+82,ROM,,ROM,,1468853,large_town,Banat,Timis Caras-Severin
+83,ROM,,ROM,,489553,town,Crisana,Arad + southern Bihor
+84,ROM,,ROM,,2778346,large_town,Transylvania,Alba Sibiu Brasov Hunedoara
+102,SLV,,SLV,,1150021,large_town,North Slovenia,Podravska Pomurska Savinjska Koroska Gorenjska Zasavska Posavska
+103,CRO,,CRO,,929407,large_town,Dalmatia,Split-Dalmatia Sibenik Dubrovnik Lika-Senj Karlovac Gorski kotar + rural Zadar county
+104,BOS,,BOS,,2366514,city,Bosnia,BiH total ~3.78M (no census since 1991)
+105,SER,,SER MNT,,483077,town,Montenegro,Montenegro
+106,MAC,,MAC,,1187587,large_town,Macedonia,Skopje and east/central Macedonia
+107,SER,,SER,,1332918,large_city,Serbia,Belgrade Macva Kolubara Podunavlje Sumadija Branicevo W.Zlatibor
+108,SER,,SER,,1438176,town,Morava,Nisava Pomoravlje Rasina Raska Moravica Zajecar Bor Toplica Zlatibor Jablanica
+109,CRO,,CRO,,1337692,town,Croatia,Zagreb city+county and all of northern Croatia and Slavonia
+117,ITA,,ITA,,5428876,large_city,Campania,Campania 5.78M + Basilicata 0.60M
+137,UKR,,UKR CRI,,2001633,city,Crimea,AR Crimea ~2.04M + Sevastopol ~0.39M
+154,HUN,,HUN,,1562176,city,Alfold,Hajdu-Bihar Szabolcs Bekes Szolnok Csongrad excl Szeged
+155,HUN,,HUN,,1062799,city,Transdanubia,Gyor-Sopron Vas Zala Veszprem Fejer Komarom
+156,ITA,,ITA,,2043000,town,Calabria,Calabria
+163,CRO,,CRO,,100000,town,Zadar,Zadar city area; was enclave category
+164,GRE,,GRE,,190000,small_island,Dodecanese,Greek since 1947
+182,GRE,,GRE,,601000,town,Crete,Crete
+183,CYP,,CYP,,900000,large_town,Cyprus,RoC areas ~690k + north ~210k; north de facto TRNC (no tag defined)
+184,GRE,,GRE,,611000,town,Thrace,East Macedonia and Thrace
+185,GRE,,GRE,,303850,rural,Epirus,Epirus Aetolia-Acarnania Ionian Is. W.Macedonia excl Kozani
+186,GRE,,GRE,,607843,rural,Peloponnese,Peloponnese excl Corinthia + Achaea + Elis
+187,GRE,,GRE,,318000,small_island,Aegean Islands,North Aegean + Cyclades
+192,UKR,,UKR,,1312135,city,Odessa,Odessa oblast excl Budjak and Balta area
+196,UKR,,UKR,,1190000,town,Kherson,Kherson oblast
+197,UKR,,UKR,,1372648,town,Mykolaiv,Mykolaiv oblast
+200,UKR,,UKR,,1970000,city,Zaporizhzhia,Zaporizhzhia oblast
+211,BUL,,BUL,,927696,town,Burgas,Burgas Varna Sliven Yambol Shumen Targovishte Razgrad
+212,BUL,,BUL,,1627265,city,Plovdiv,Plovdiv Pazardzhik Stara Zagora Haskovo Kardzhali Smolyan Blagoevgrad
+218,SOV,,SOV,,2587124,large_city,Rostov,Rostov agglomeration Taganrog Azov Novocherkassk Shakhty; rest of oblast in 238/245
+226,UKR,,UKR,,3610000,large_city,Dnipropetrovsk,Dnipropetrovsk oblast
+227,UKR,,UKR,,4870000,large_city,Donetsk,Donetsk oblast
+233,SOV,,SOV,,511894,town,Sochi,Sochi Tuapse + southern Karachay-Cherkessia
+234,SOV,,SOV,,4621011,large_town,Krasnodar,Krasnodar Krai excl Sochi/Tuapse + Adygea + northern KChR
+339,TUR,,TUR,,5849473,large_city,Izmir,Izmir Manisa Aydin
+340,TUR,,TUR,,3525763,metropolis,Bursa,Bursa Balikesir Asian Canakkale Yalova Bilecik
+341,TUR,,TUR,,1409028,large_town,Edirne,Edirne Kirklareli Tekirdag Gelibolu
+342,TUR,,TUR,,2168567,city,Antalya,Antalya (west/central) Mugla Burdur
+343,TUR,,TUR,,2525588,town,Afyon,Afyon Kutahya Usak Denizli
+344,TUR,,TUR,,2373680,large_city,Adana,Adana Osmaniye Gaziantep Kilis Kahramanmaras Malatya Adiyaman
+345,TUR,,TUR,,5072612,large_town,Mersin,Icel + eastern Antalya (Manavgat Alanya)
+346,TUR,,TUR,,2728086,city,Konya,Konya Karaman Isparta
+347,TUR,,TUR,,3481897,large_city,Izmit,Kocaeli Sakarya Duzce Bolu Zonguldak Bartin Karabuk
+348,TUR,,TUR,,1891988,town,Kayseri,Kayseri Nigde Aksaray Nevsehir N.Adana W.Kahramanmaras
+349,TUR,,TUR,,786039,rural,Sivas,Sivas + northern Malatya
+350,TUR,,TUR KUR,,3924253,town,Diyarbakir,Diyarbakir Sanliurfa Batman Mardin
+353,TUR,,TUR KUR,,2050374,rural,Elazig,Elazig Tunceli Erzincan Bingol Mus
+355,TUR,,TUR,,2285973,city,Samsun,Samsun Amasya Tokat Ordu western Giresun
+356,TUR,,TUR,,2367031,town,Kastamonu,Kastamonu Sinop Cankiri Corum
+664,SLO,,SLO,,617644,rural,Southern Slovakia,Kosice + southern districts (Komarno to Trebisov); remainder of 5.399M national total after northeast_europe states
+677,SYR,,SYR,,3847726,large_city,Aleppo,Aleppo Idlib Hama Homs Latakia Tartus
+680,SYR,,SYR KUR,,970954,city,Deir-az-Zur,Raqqa Deir ez-Zor Hasakah
+731,GRE,,GRE,,1932908,city,Central Macedonia,Central Macedonia + Kozani
+764,SER,,SER,,688000,town,West Banat,Serbian Banat (N+C+S Banat districts)
+766,UKR,,UKR,,617000,town,Southern Bessarabia,Budjak districts of Odessa oblast (Izmail Bilhorod)
+797,TUR,,TUR,,9044917,megalopolis,Istanbul,Istanbul il
+798,TUR,,TUR,,1245039,rural,Yozgat,Yozgat Kirsehir northern Nevsehir
+799,TUR,,TUR,SYR,1239909,large_town,Hatay,Hatay il; Syrian claim; was enclave category
+801,BUL,,BUL,,1020010,town,Moesia,Pleven Lovech Gabrovo Veliko Tarnovo Ruse
+802,SER,,SER,,1957696,rural,Kosovo,UNMIK administered; KOS tag not defined so no KOS core
+803,SER,,SER,,452000,rural,Southern Serbia,Pcinja Pirot + part Jablanica
+804,BOS,,BOS HRZ,,281902,rural,Herzegovina,Herzegovina-Neretva + West Herzegovina + Livno + East Herzegovina; HRZ core kept
+805,ALB,,ALB,,225000,rural,Northern Epirus,Gjirokaster + Sarande/Delvine + Devoll/Kolonje
+834,UKR,,UKR,,280000,rural,Balta,Balta Kodyma Podilsk area of Odessa oblast; Transnistria provinces split off
+849,ITA,,ITA,,4086000,city,Puglia,Puglia
+934,ALB,,ALB,,1011920,rural,Shkoder,Shkoder Lezhe Kukes Diber
+970,MAC,,MAC,,520000,rural,Western Macedonia,Polog + Southwest (Tetovo Gostivar Debar Ohrid Struga)
+971,ROM,,ROM,,2765375,large_town,Northern Dobruja,Constanta Tulcea
+973,HUN,,HUN,,1468901,large_town,Bacs,Bacs-Kiskun + Szeged
+974,HUN,,HUN,,992000,large_town,South Transdanubia,Baranya Somogy Tolna
+975,AUS,,AUS,,242496,pastoral,Burgenland,Burgenland
+new:transnistria,MOL,,MOL,,520000,town,Transnistria,Left-bank Moldova; de facto PMR (no tag defined)

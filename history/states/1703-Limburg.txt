@@ -1,0 +1,24 @@
+state = {
+	id = 1703
+	name = "STATE_1703" # Limburg
+	manpower = 1235414
+	state_category = city
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.0
+
+	history = {
+		owner = HOL
+		add_core_of = HOL
+		buildings = {
+			industrial_complex = 1
+			infrastructure = 5
+		}
+		victory_points = {
+			11562 1 
+		}
+	}
+
+	provinces = {
+		6500 11562
+	}
+}

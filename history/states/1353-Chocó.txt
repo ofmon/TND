@@ -1,0 +1,19 @@
+state = {
+	id = 1353
+	name = "STATE_1353" # Chocó
+	manpower = 684526
+	state_category = city
+	local_supplies = 0.0
+
+	history = {
+		owner = COL
+		add_core_of = COL
+		buildings = {
+			infrastructure = 4
+		}
+	}
+
+	provinces = {
+		4969 10494 12872
+	}
+}

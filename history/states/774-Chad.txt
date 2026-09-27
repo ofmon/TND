@@ -9,6 +9,7 @@ state={
 			2081 1
 		}
 		buildings = {
+			industrial_complex = 1
 			infrastructure = 2
 
 		}
@@ -16,9 +17,9 @@ state={
 	}
 
 	provinces={
-		1473 1883 1993 2081 3123 3181 4897 4978 7919 9152 13138 13211 
+		1993 2081 13138
 	}
-	manpower=16604165
+	manpower = 1874975
 	buildings_max_level_factor=1.000
-	state_category=pastoral
+	state_category = large_city
 }

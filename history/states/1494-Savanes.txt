@@ -1,0 +1,18 @@
+state = {
+	id = 1494
+	name = "STATE_1494" # Savanes
+	manpower = 1694488
+	state_category = city
+
+	history = {
+		owner = VOL
+		add_core_of = VOL
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces = {
+		7983
+	}
+}

@@ -1,29 +1,25 @@
 state={
 	id=801
 	name="STATE_801"
-	manpower = 1027622
+	manpower = 1020010
 
-	state_category=rural
+	state_category = town
 
 	history={
 		owner = BUL
+		add_core_of = BUL
 		victory_points = { #Ruse
 			9612 3
 		}
-		victory_points = { #Pleven
-			3796 3
-		}
 		buildings = {
-			infrastructure = 2
-			industrial_complex =1
+			infrastructure = 3
 
 		}
-		add_core_of = BUL
 
 	}
 
 	provinces={
-		3796 3819 3952 6842 9610 9612 
+		3819 6842 9610 9612 9614
 	}
 #	resources={
 #		oil=1

@@ -1,0 +1,19 @@
+state = {
+	id = 1654
+	name = "STATE_1654" # West Coast
+	manpower = 28290
+	state_category = pastoral
+	local_supplies = 0.0
+
+	history = {
+		owner = NZL
+		add_core_of = NZL
+		buildings = {
+			infrastructure = 3
+		}
+	}
+
+	provinces = {
+		8204 12974
+	}
+}

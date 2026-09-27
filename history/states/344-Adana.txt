@@ -1,0 +1,26 @@
+
+state={
+	id=344
+	name="STATE_344"
+	manpower = 2373680
+	
+	state_category = large_city
+
+	history={
+		owner = TUR
+		add_core_of = TUR
+		victory_points = {
+			9893 15
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+		}
+	}
+
+	provinces={
+		3889 9893 9912
+	}
+
+	local_supplies=0.0 
+}

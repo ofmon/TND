@@ -1,0 +1,22 @@
+state = {
+	id = 1684
+	name = "STATE_1684" # Namur
+	manpower = 503152
+	state_category = town
+	local_supplies = 14.0
+
+	history = {
+		owner = BEL
+		add_core_of = BEL
+		buildings = {
+			infrastructure = 4
+		}
+		victory_points = {
+			3516 5
+		}
+	}
+
+	provinces = {
+		3516 9444 13081
+	}
+}

@@ -1,0 +1,113 @@
+id,owner,controller,cores,claims,manpower,category,name,notes
+101,DEN,,DEN GRN,,56124,wasteland,Greenland,REVIEW: owner changed GRN->DEN. Greenland had home rule within the Danish realm in 2000; GRN core. Statistics Greenland 1 Jan 2000
+261,USA,,USA,,11353140,large_city,Ohio,"Ohio. US Census 1 Apr 2000. Cleveland 2.9M/Cincinnati 2.0M/Columbus 1.5M, no 4M+ metro"
+276,CAN,,CAN,,10799534,metropolis,Southern Ontario,"Southern Ontario (all Ontario less Northern Ontario districts; Parry Sound included). Toronto CMA 4.7M, Ottawa 1.1M. 1996/2001 census interpolated to 2000, scaled x1.0290 to StatCan 1 Jan 2000 estimate"
+277,MEX,,MEX,,22129352,megalopolis,Mexico City,DF + Estado de Mexico + Guanajuato + Hidalgo + Queretaro + Morelos. INEGI Census Feb 2000. Mexico City metro 18M
+304,PAN,,PAN,,1819549,city,Panamá,"Panama less Colon province. Census May 2000 (2,839,177)"
+307,VEN,,VEN,,8463280,metropolis,Miranda,"Central/eastern Venezuela (Caracas, Miranda, Aragua, Carabobo, llanos, oriente). 2001 census shares scaled to INE 2000 estimate 24.17M. Caracas 3M. Coordinator: 488 Bolivar+Amazonas (south_america) should be ~1.35M"
+308,BAS,,BAS,,228800,tiny_island,Leeward Islands,"REVIEW: BAS used as proxy - Antigua & Barbuda (76.9k), Dominica (69.6k), St Kitts & Nevis (45.8k) were independent; Anguilla (11.4k), Montserrat (4.5k), BVI (20.6k) British. No tags defined for them"
+311,BLZ,,BLZ,,240204,pastoral,Belize,Belize census May 2000
+312,HON,,HON,,1674705,large_city,Honduras,Honduras ~6.0M (2001 census 6.08M back-projected; official est.)
+313,GUA,,GUA,,1563828,metropolis,Guatemala,Guatemala INE 2000 estimate (2002 census 11.24M)
+314,ELS,,ELS,,5940000,town,El Salvador,El Salvador 2000 (DIGESTYC 2007-census-revised estimate)
+315,CUB,,CUB,,2816365,metropolis,Cuba,Cuba ONE 2000 (~11.19M)
+316,COS,,COS,,1268498,city,Costa Rica,Costa Rica census June 2000
+317,NIC,,NIC,,2533625,large_city,Nicaragua,Nicaragua INEC 2000 estimate
+318,HAI,,HAI,,4690600,large_city,Haiti,Haiti IHSI/UN 2000 estimate
+319,DOM,,DOM,,5608902,metropolis,Dominican Republic,Dominican Republic 2000 estimate (2002 census 8.56M)
+331,CAN,,CAN,,509392,rural,Newfoundland,"Newfoundland island. NL 523.6k less Labrador. 1996/2001 census interpolated to 2000, scaled x1.0290 to StatCan 1 Jan 2000 estimate"
+332,CAN,,CAN,,37286,wasteland,Labrador,"Labrador (Labrador West + north coast); Goose Bay/south coast (~11.5k) sits in Cote-Nord state provinces. 1996/2001 census interpolated to 2000, scaled x1.0290 to StatCan 1 Jan 2000 estimate"
+357,USA,,USA,,6866091,metropolis,New England,CT+MA+RI+VT+NH+ME. US Census 1 Apr 2000. Boston CSA 5.8M
+358,USA,,USA,,18976457,megalopolis,New York,New York State. US Census 1 Apr 2000. NYC metro 21M
+359,USA,,USA,,8414350,metropolis,New Jersey,"New Jersey. US Census 1 Apr 2000. Densely urbanised, part of NY and Philadelphia metros"
+360,USA,,USA,,12084458,metropolis,Pennsylvania,"Pennsylvania. US Census 1 Apr 2000. Philadelphia CSA 6.2M, Pittsburgh 2.4M"
+361,USA,,USA,,5705289,metropolis,Maryland,MD+DC+DE (state includes Washington and the Delmarva provinces). US Census 1 Apr 2000. Capital region
+362,USA,,USA,,7078515,large_city,Virginia,"Virginia. US Census 1 Apr 2000. Norfolk 1.6M, Richmond 1.0M; N. Virginia suburbs of DC"
+363,USA,,USA,,8049313,large_city,North Carolina,"North Carolina. US Census 1 Apr 2000. Charlotte 1.5M, Raleigh-Durham 1.2M"
+364,USA,,USA,,4012012,city,South Carolina,South Carolina. US Census 1 Apr 2000
+365,USA,,USA,,8186453,metropolis,Georgia,Georgia. US Census 1 Apr 2000. Atlanta metro 4.1M
+366,USA,,USA,,15982378,metropolis,Florida,"Florida. US Census 1 Apr 2000. Miami-Fort Lauderdale 5.0M, Tampa 2.4M, Orlando 1.6M"
+367,USA,,USA,,4447100,city,Alabama,Alabama. US Census 1 Apr 2000
+368,USA,,USA,,5689283,city,Tennessee,Tennessee. US Census 1 Apr 2000
+369,USA,,USA,,4428905,city,Kentucky,Kentucky. US Census 1 Apr 2000
+370,USA,,USA,,2917958,town,Mississippi,Mississippi. US Census 1 Apr 2000. No metro over 0.5M
+371,USA,,USA,,4468976,city,Louisiana,Louisiana. US Census 1 Apr 2000
+372,USA,,USA,,2600100,town,Arkansas,Arkansas. US Census 1 Apr 2000
+373,USA,,USA,,4675311,large_city,Missouri,"Missouri. US Census 1 Apr 2000. St Louis 2.7M, Kansas City 1.8M"
+374,USA,,USA,,3450654,city,Oklahoma,Oklahoma. US Census 1 Apr 2000
+375,USA,,USA,,20713343,metropolis,Texas,"Texas. US Census 1 Apr 2000. Dallas-Fort Worth 5.2M, Houston 4.7M. US-Mexico line checked, no straddling provinces"
+376,USA,,USA,,1957523,town,New Mexico,New Mexico. US Census 1 Apr 2000. Albuquerque 0.7M
+377,USA,,USA,,5130632,large_city,Arizona,Arizona. US Census 1 Apr 2000. Phoenix 3.3M
+378,USA,,USA,,33871648,megalopolis,California,"California. US Census 1 Apr 2000. Los Angeles CSA 16M, SF Bay 7M"
+379,USA,,USA,,1998257,city,Nevada,Nevada. US Census 1 Apr 2000. Las Vegas 1.4M
+380,USA,,USA,,2233169,city,Utah,Utah. US Census 1 Apr 2000. Salt Lake City 1.3M
+381,USA,,USA,,493782,rural,Wyoming,Wyoming. US Census 1 Apr 2000
+382,USA,,USA,,4301261,large_city,Colorado,Colorado. US Census 1 Apr 2000. Denver 2.4M
+383,USA,,USA,,2688418,city,Kansas,Kansas. US Census 1 Apr 2000
+384,USA,,USA,,1308519,large_town,Nebraska,Nebraska. US Census 1 Apr 2000
+385,USA,,USA,,3421399,large_city,Oregon,Oregon. US Census 1 Apr 2000. Portland 1.9M
+386,USA,,USA,,5894121,large_city,Washington,Washington. US Census 1 Apr 2000. Seattle 3.5M
+387,USA,,USA,,1293953,town,Idaho,Idaho. US Census 1 Apr 2000
+388,USA,,USA,,902195,rural,Montana,Montana. US Census 1 Apr 2000
+389,USA,,USA,,642200,rural,North Dakota,North Dakota. US Census 1 Apr 2000
+390,USA,,USA,,593505,rural,South Dakota,South Dakota. US Census 1 Apr 2000
+391,USA,,USA,,4789233,large_city,Minnesota,Minnesota. US Census 1 Apr 2000. Minneapolis-St Paul 3.0M
+392,USA,,USA,,3490407,city,Iowa,Iowa. US Census 1 Apr 2000
+393,USA,,USA,,9938444,metropolis,Michigan,Michigan. US Census 1 Apr 2000. Detroit CSA 5.4M
+394,USA,,USA,,5493921,large_city,Wisconsin,Wisconsin. US Census 1 Apr 2000. Milwaukee 1.7M
+395,USA,,USA,,13339193,metropolis,Illinois,Illinois. US Census 1 Apr 2000. Chicago CSA 9.3M
+396,USA,,USA,,6080485,large_city,Indiana,Indiana. US Census 1 Apr 2000. Indianapolis 1.6M
+463,USA,,USA,,626932,rural,Alaska,Alaska incl. Aleutians. US Census 1 Apr 2000
+464,CAN,,CAN,,1073704,large_town,Nova Scotia,"Nova Scotia + Prince Edward Island (PEI province 4360). Halifax 0.36M. 1996/2001 census interpolated to 2000, scaled x1.0290 to StatCan 1 Jan 2000 estimate"
+465,CAN,,CAN,,814595,town,New Brunswick,"New Brunswick + ~60k of Quebec (Temiscouata/Matapedia provinces 4362, 7379 are in Quebec - sub-national, no split). 1996/2001 census interpolated to 2000, scaled x1.0290 to StatCan 1 Jan 2000 estimate"
+466,CAN,,CAN,,23614,pastoral,Nord du Quebec,"Nunavik/Eeyou Istchee (Nord-du-Quebec less Jamesie ~25k) + Nunavut's Qikiqtaaluq/Baffin + Coral Harbour (~14.8k): state includes Baffin/Southampton provinces. REVIEW: QUE core dropped - QUE tag not defined. 1996/2001 census interpolated to 2000, scaled x1.0290 to StatCan 1 Jan 2000 estimate"
+467,CAN,,CAN,,1063100,city,Manitoba,"Southern Manitoba. Winnipeg 0.67M. 1996/2001 census interpolated to 2000, scaled x1.0290 to StatCan 1 Jan 2000 estimate"
+468,CAN,,CAN,,6418672,large_city,Saint Lawrence,"Southern Quebec (Montreal, Quebec City, Estrie, Mauricie, Montérégie, Laurentides, Lanaudière, Chaudière-Appalaches, Bas-St-Laurent, Gaspésie). Montreal 3.4M. No Quebec core: QUE tag not defined. 1996/2001 census interpolated to 2000, scaled x1.0290 to StatCan 1 Jan 2000 estimate"
+469,CAN,,CAN,,977577,town,Saskatchewan,"Saskatchewan less northern Division 18. 1996/2001 census interpolated to 2000, scaled x1.0290 to StatCan 1 Jan 2000 estimate"
+470,CAN,,CAN,,3000845,large_city,Alberta,"Alberta. Calgary 0.95M, Edmonton 0.94M. 1996/2001 census interpolated to 2000, scaled x1.0290 to StatCan 1 Jan 2000 estimate"
+471,CAN,,CAN,,239722,rural,Upper British Columbia,"Northern BC: Fraser-Fort George, Bulkley-Nechako, Kitimat-Stikine, Peace River, Skeena (excl. Haida Gwaii). 1996/2001 census interpolated to 2000, scaled x1.0290 to StatCan 1 Jan 2000 estimate"
+472,CAN,,CAN,,31888,pastoral,Northwest Territories,"NWT 38.0k + NE BC Northern Rockies (~5.9k, province 7858) + Nunavut Kitikmeot (~4.7k; no Kitikmeot provinces in 683). 1996/2001 census interpolated to 2000, scaled x1.0290 to StatCan 1 Jan 2000 estimate"
+473,CAN,,CAN,,3042991,large_city,British Columbia,"BC mainland south (Lower Mainland, Fraser Valley, Okanagan, Kootenays, Cariboo). Vancouver 2.0M. 1996/2001 census interpolated to 2000, scaled x1.0290 to StatCan 1 Jan 2000 estimate"
+474,MEX,,MEX,,1652637,large_city,Yucatan,Campeche + Quintana Roo + Yucatan. INEGI Census Feb 2000
+475,MEX,,MEX,,3637739,town,Chiapas,Chiapas. INEGI Census Feb 2000
+476,MEX,,MEX,,3668598,large_city,Oaxaca,Oaxaca + Tabasco + southern Veracruz (Coatzacoalcos/Minatitlan/Los Tuxtlas ~1.5M est). INEGI Census Feb 2000
+477,MEX,,MEX,,7509492,large_city,Veracruz,Central/northern Veracruz + Puebla + Tlaxcala. INEGI Census Feb 2000. Puebla 1.9M
+478,MEX,,MEX,,7212205,large_city,Jalisco,Jalisco + Aguascalientes + Nayarit + Colima + southern Zacatecas (~0.7M est). INEGI Census Feb 2000. Guadalajara 3.7M
+479,MEX,,MEX,,2586595,large_city,Tamaulipas,"Tamaulipas (less Reynosa/Nuevo Laredo/Rio Bravo ~0.885M, which are in 480) + San Luis Potosi. INEGI Census Feb 2000. REVIEW: RIG core dropped - tag not defined"
+480,MEX,,MEX,,3733391,metropolis,Coahuila,Coahuila + Nuevo Leon + Reynosa/Nuevo Laredo area of Tamaulipas. INEGI Census Feb 2000. Monterrey 3.2M. REVIEW: RIG core dropped - tag not defined
+481,MEX,,MEX,,1677853,large_city,Durango,"Durango + Sinaloa + northern Zacatecas (Fresnillo, ~0.65M est). INEGI Census Feb 2000"
+482,MEX,,MEX,,3052907,city,Chihuahua,Chihuahua. INEGI Census Feb 2000. Ciudad Juarez 1.2M
+483,MEX,,MEX,,2216969,town,Sonora,Sonora. INEGI Census Feb 2000
+484,MEX,,MEX,,1994016,large_city,Baja California,Baja California + Baja California Sur. INEGI Census Feb 2000. Tijuana 1.3M
+485,MEX,,MEX,,3990126,large_city,Guerrero,Guerrero + Michoacan. INEGI Census Feb 2000
+489,VEN,,VEN,,377487,metropolis,Zulia,"Zulia, Tachira, Merida, Trujillo, Falcon, Lara, Yaracuy. 2001 census shares scaled to INE 2000 estimate. Maracaibo 1.8M"
+493,COL,,COL,,7126749,metropolis,La Libertad,"Antioquia, Caribbean coast depts, Choco, Santanderes, San Andres (~43% of Colombia on 2005 census shares) of 40.3M (DANE 2005-based back-estimate). Medellin 3M. Coordinator: 306+486 (south_america) should total ~23.0M"
+629,USA,,USA,,1211537,city,Hawaii,Hawaii (in this region's JSON; counted in USA 281.4M). US Census 1 Apr 2000. Honolulu 0.88M
+630,USA,,USA,,1000,tiny_island,Johnston Atoll,"Johnston Atoll, unincorporated US territory (not part of Hawaii State); ~1000 military/contractor staff (chemical weapons disposal) - approximate. Was core HAW only; HAW core dropped"
+631,USA,,USA,,50,tiny_island,Midway Island,"Midway Atoll, unincorporated US territory (not part of Hawaii State); ~50 US Fish & Wildlife staff/contractors - approximate. Was core HAW only; HAW core dropped"
+682,CAN,,CAN,,736015,rural,Northern Ontario,"Northern Ontario districts (Algoma, Cochrane, Kenora south, Manitoulin, Nipissing, Rainy River, Sudbury, Thunder Bay, Timiskaming) less far-north. 1996/2001 census interpolated to 2000, scaled x1.0290 to StatCan 1 Jan 2000 estimate"
+683,CAN,,CAN,,6894,wasteland,Nunavut,"Nunavut Kivalliq region less Coral Harbour. 1996/2001 census interpolated to 2000, scaled x1.0290 to StatCan 1 Jan 2000 estimate"
+685,PAN,,PAN,,204208,enclave,Panamá Canal,"Colon province (canal zone, transferred to Panama 31 Dec 1999). Census 2000"
+686,USA,,USA PUE,,3917222,large_city,Puerto Rico,"REVIEW: owner changed PUE->USA (US commonwealth in 2000), PUE core. Puerto Rico 3,808,610 + US Virgin Islands 108,612 (province 4155 = St Croix), US Census 2000. Not in the 281.4M 50-state figure"
+689,JAM,,JAM,,2589000,town,Jamaica,Jamaica STATIN end-1999/2000
+690,BAH,,BAH,,292311,tiny_island,Northern Bahamas,"Bahamas census 2000 (303,611) less southern islands: New Providence, Grand Bahama, Abaco, Eleuthera, Andros, Bimini"
+691,TRI,,TRI,,1262366,rural,Trinidad,Trinidad and Tobago census May 2000 (province 13012 = Tobago)
+692,BAS,,BAS,,635000,small_island,Windward Islands,"REVIEW: BAS used as proxy - Barbados (269k), St Lucia (157k), St Vincent (108k), Grenada (101k), all independent in 2000; no tags defined"
+693,BAH,,BAH,,11300,tiny_island,Southern Bahamas,"Southern Bahamas (Exuma, Long I, Cat I, Inagua, Acklins, Crooked, Mayaguana, San Salvador...). REVIEW: province 10440 (21.18,-72.64) may be Turks and Caicos (British, ~19k); ambiguous vs Great Inagua so not split"
+694,FRA,,FRA GDL,,417898,rural,French Caribbean,"Guadeloupe (incl. French St Martin/St Barth) 1999 census 422,496 + Martinique 381,427, to 2000. Overseas departments; FRA core added. Province 13084 (17.48,-63.2) may cover Dutch Saba/St Eustatius/Sint Maarten (~34k, not counted)"
+695,HOL,,HOL CRC,,232000,rural,Curaçao,Aruba (2000 census 90.5k) + Curacao (130.6k) + Bonaire (10.8k). Kingdom of the Netherlands; HOL core added. No Aruba tag defined
+696,ENG,,ENG,,62059,small_island,Bermuda,"Bermuda census 2000; British overseas territory, ENG core"
+727,KIR,,KIR,,6275,small_island,Line Islands,"Kiribati Line Islands (Kiritimati, Tabuaeran, Teraina) census Nov 2000. REVIEW: province coords (5-9N, 161-166W) look like US Palmyra/Kingman Reef area rather than Kiritimati - check map"
+730,FRA,,FRA,,6316,tiny_island,St Pierre and Miquelon,St Pierre and Miquelon census 1999; FRA core
+739,CAN,,CAN,,5079,small_island,Haida Gwaii,"Haida Gwaii (Queen Charlotte Islands). 1996/2001 census interpolated to 2000, scaled x1.0290 to StatCan 1 Jan 2000 estimate"
+740,CAN,,CAN,,675490,large_town,Vancouver Island,"Vancouver Island + nearby coast. Victoria 0.31M. 1996/2001 census interpolated to 2000, scaled x1.0290 to StatCan 1 Jan 2000 estimate"
+816,USA,,USA,,1717716,town,West Virginia,West Virginia. US Census 1 Apr 2000
+860,CAN,,CAN,,89231,rural,Cote-Nord,"Cote-Nord + southern Labrador/Goose Bay (~11.5k, provinces 7810, 10534). No Quebec core: QUE not defined (was CAN QUE). 1996/2001 census interpolated to 2000, scaled x1.0290 to StatCan 1 Jan 2000 estimate"
+861,CAN,,CAN,,3076,pastoral,Saguenay,"Interior Quebec-Labrador wilderness (Schefferville area). Saguenay city itself is in state 863. 1996/2001 census interpolated to 2000, scaled x1.0290 to StatCan 1 Jan 2000 estimate"
+862,CAN,,CAN,,528175,rural,Ouest du Quebec,"Outaouais + Abitibi-Temiscamingue + Jamesie (Chibougamau) + Hautes-Laurentides. REVIEW: Gatineau assumed here, may sit in Ottawa province of 276. 1996/2001 census interpolated to 2000, scaled x1.0290 to StatCan 1 Jan 2000 estimate"
+863,CAN,,CAN,,285277,town,Maurice,"Saguenay-Lac-Saint-Jean. 1996/2001 census interpolated to 2000, scaled x1.0290 to StatCan 1 Jan 2000 estimate"
+864,CAN,,CAN,,30095,wasteland,Yukon Territory,"Yukon. 1996/2001 census interpolated to 2000, scaled x1.0290 to StatCan 1 Jan 2000 estimate"
+865,CAN,,CAN,,32928,pastoral,Northern Saskatchewan,"Northern Saskatchewan (Census Division 18). 1996/2001 census interpolated to 2000, scaled x1.0290 to StatCan 1 Jan 2000 estimate"
+866,CAN,,CAN,,19920,pastoral,Districts of Ontario,"Far North Ontario (Kenora/Cochrane FN communities, Moosonee coast). 1996/2001 census interpolated to 2000, scaled x1.0290 to StatCan 1 Jan 2000 estimate"
+867,CAN,,CAN,,87343,pastoral,Northern Manitoba,"Northern Manitoba (Divisions 19, 21-23). 1996/2001 census interpolated to 2000, scaled x1.0290 to StatCan 1 Jan 2000 estimate"
+875,SOV,,SOV CKK,,10000,pastoral,Chukchi Peninsula,Chukotsky + Providensky districts of Chukotka AO (~10k). FER core dropped (Far Eastern Republic not a 2000 entity); CKK kept as autonomous okrug. Coordinate with russia region's other Chukotka states

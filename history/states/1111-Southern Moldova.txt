@@ -1,0 +1,18 @@
+state = {
+	id = 1111
+	name = "STATE_1111" # Southern Moldova
+	manpower = 538430
+	state_category = town
+
+	history = {
+		owner = MOL
+		add_core_of = MOL
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces = {
+		3724 9683
+	}
+}

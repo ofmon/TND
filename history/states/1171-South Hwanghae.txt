@@ -1,0 +1,24 @@
+state = {
+	id = 1171
+	name = "STATE_1171" # South Hwanghae
+	manpower = 2350625
+	state_category = large_city
+	local_supplies = 0.0
+
+	history = {
+		owner = NRK
+		add_core_of = NRK
+		add_claim_by = KOR
+		buildings = {
+			infrastructure = 2
+			1003 = { naval_base = 2 }
+		}
+		victory_points = {
+			1003 1 # Kaishū
+		}
+	}
+
+	provinces = {
+		1003 4107 7155
+	}
+}

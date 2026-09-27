@@ -1,10 +1,9 @@
 characters={
 	IRQ_saddam_hussein={
 		name=IRQ_saddam_hussein
-		portraits={
-			civilian={
-				large="GFX_portrait_irq_saddam_hussein_large"
-                                small="GFX_portrait_irq_saddam_hussein_small"
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_IRQ_saddam_hussein
 			}
 		}
 		country_leader={
@@ -44,21 +43,6 @@ characters={
 		}
 	}
 
-	IRQ_paul_bremer={
-		name=IRQ_paul_bremer
-		portraits={
-			civilian={
-				large="GFX_portrait_irq_paul_bremer_large"
-                                small="GFX_portrait_irq_paul_bremer_small"
-			}
-		}
-		country_leader={
-			ideology=conservatism 
-			expire="2030.1.1"
-			id=-1
-		}
-	}
-
 	IRQ_ghazi_ajil_al-yawer={
 		name=IRQ_ghazi_ajil_al-yawer
 		portraits={
@@ -76,10 +60,9 @@ characters={
 
 	IRQ_jalal_talabani={
 		name=IRQ_jalal_talabani
-		portraits={
-			civilian={
-				large="GFX_portrait_irq_jalal_talabani_large"
-                                small="GFX_portrait_irq_jalal_talabani_small"
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_IRQ_jalal_talabani
 			}
 		}
 		country_leader={

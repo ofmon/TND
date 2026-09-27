@@ -1,0 +1,19 @@
+state = {
+	id = 1360
+	name = "STATE_1360" # Ciego de Ávila
+	manpower = 569567
+	state_category = city
+	local_supplies = 0.0
+
+	history = {
+		owner = CUB
+		add_core_of = CUB
+		buildings = {
+			infrastructure = 4
+		}
+	}
+
+	provinces = {
+		10374
+	}
+}

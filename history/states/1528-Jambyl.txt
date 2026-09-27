@@ -1,0 +1,21 @@
+state = {
+	id = 1528
+	name = "STATE_1528" # Jambyl
+	manpower = 896161
+	state_category = city
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.0
+
+	history = {
+		owner = KAZ
+		add_core_of = KAZ
+		buildings = {
+			industrial_complex = 1
+			infrastructure = 4
+		}
+	}
+
+	provinces = {
+		4492 4773 7706 10603 12385 12640 12658
+	}
+}

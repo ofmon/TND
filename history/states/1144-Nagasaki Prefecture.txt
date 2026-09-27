@@ -1,0 +1,22 @@
+state = {
+	id = 1144
+	name = "STATE_1144" # Nagasaki Prefecture
+	manpower = 1400285
+	state_category = city
+	local_supplies = 10.0
+
+	history = {
+		owner = JAP
+		add_core_of = JAP
+		buildings = {
+			industrial_complex = 1
+			infrastructure = 5
+			9950 = { naval_base = 6 }
+		}
+		victory_points = { 9950 30 }
+	}
+
+	provinces = {
+		9950 10011
+	}
+}

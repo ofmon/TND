@@ -1,0 +1,23 @@
+state = {
+	id = 1625
+	name = "STATE_1625" # Dakuṇu paḷāta
+	manpower = 5786522
+	state_category = large_town
+
+	history = {
+		owner = SRL
+		add_core_of = SRL
+		buildings = {
+			industrial_complex = 1
+			infrastructure = 3
+			7260 = { naval_base = 3 coastal_bunker = 3 }
+		}
+		victory_points = {
+			7260 10 
+		}
+	}
+
+	provinces = {
+		1213 4219 7260
+	}
+}

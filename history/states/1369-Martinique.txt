@@ -1,0 +1,21 @@
+state = {
+	id = 1369
+	name = "STATE_1369" # Martinique
+	manpower = 390102
+	state_category = rural
+	local_supplies = 3.0
+
+	history = {
+		owner = FRA
+		add_core_of = FRA
+		add_core_of = GDL
+		buildings = {
+			infrastructure = 4
+			177 = { naval_base = 3 }
+		}
+	}
+
+	provinces = {
+		177
+	}
+}

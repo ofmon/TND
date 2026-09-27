@@ -2,25 +2,23 @@ state=
 {
 	id=766
 	name="STATE_766"
-	manpower = 566600
+	manpower = 617000
 	
-	state_category = rural
+	state_category = town
 	
 	history= {
+		owner = UKR
+		add_core_of = UKR
+		add_claim_by = ROM
 		victory_points = {
 			6727 1
 		}
-		add_core_of = MOL
-		add_core_of = UKR
-		owner = UKR
 		buildings = {
-			infrastructure = 4
-			dockyard = 1
+			infrastructure = 3
 			6727 = {
 				naval_base = 3
 			}
 		}
-		add_core_of = ROM
 	}
 	provinces=
 	{

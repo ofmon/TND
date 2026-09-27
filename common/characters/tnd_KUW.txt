@@ -1,0 +1,44 @@
+characters = {
+	KUW_ahmed_al_sadoun = {
+		name = KUW_ahmed_al_sadoun
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_KUW_ahmed_al_sadoun
+			}
+		}
+		country_leader = {
+			ideology = populism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	KUW_ahmad_al_khatib = {
+		name = KUW_ahmad_al_khatib
+		country_leader = {
+			ideology = marxism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	KUW_walid_al_tabtabaie = {
+		name = KUW_walid_al_tabtabaie
+		country_leader = {
+			ideology = fascism_ideology
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	KUW_jaber_al_ahmad_al_sabah = {
+		name = KUW_jaber_al_ahmad_al_sabah
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_KUW_jaber_al_ahmad_al_sabah
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

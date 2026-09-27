@@ -9,7 +9,7 @@ characters={
 			}
 		}
 		country_leader={
-			ideology=indepedent
+			ideology=centrism
 			expire="2011.12.18.1"
 			id=-1
 		}

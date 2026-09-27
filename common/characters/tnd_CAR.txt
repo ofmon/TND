@@ -1,0 +1,49 @@
+characters = {
+	CAR_ange_felix_patasse = {
+		name = CAR_ange_felix_patasse
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_CAR_ange_felix_patasse
+			}
+		}
+		country_leader = {
+			ideology = socialism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	CAR_abel_goumba = {
+		name = CAR_abel_goumba
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_CAR_abel_goumba
+			}
+		}
+		country_leader = {
+			ideology = marxism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	CAR_francois_bozize = {
+		name = CAR_francois_bozize
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_CAR_francois_bozize
+			}
+		}
+		country_leader = {
+			ideology = junta
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	CAR_andre_kolingba = {
+		name = CAR_andre_kolingba
+		country_leader = {
+			ideology = despotism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

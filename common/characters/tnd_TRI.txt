@@ -1,0 +1,49 @@
+characters = {
+	TRI_basdeo_panday = {
+		name = TRI_basdeo_panday
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_TRI_basdeo_panday
+			}
+		}
+		country_leader = {
+			ideology = socialism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	TRI_makandal_daaga = {
+		name = TRI_makandal_daaga
+		country_leader = {
+			ideology = marxism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	TRI_yasin_abu_bakr = {
+		name = TRI_yasin_abu_bakr
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_TRI_yasin_abu_bakr
+			}
+		}
+		country_leader = {
+			ideology = junta
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	TRI_arthur_n_r_robinson = {
+		name = TRI_arthur_n_r_robinson
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_TRI_arthur_n_r_robinson
+			}
+		}
+		country_leader = {
+			ideology = moderatism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

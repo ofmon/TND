@@ -1,0 +1,18 @@
+state = {
+	id = 1467
+	name = "STATE_1467" # Hodh El Gharbi
+	manpower = 371704
+	state_category = rural
+
+	history = {
+		owner = MRT
+		add_core_of = MRT
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces = {
+		10771
+	}
+}

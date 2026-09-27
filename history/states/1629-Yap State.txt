@@ -1,0 +1,23 @@
+state = {
+	id = 1629
+	name = "STATE_1629" # Yap State
+	manpower = 12015
+	state_category = pastoral
+	local_supplies = 0.0
+
+	history = {
+		owner = FSM
+		add_core_of = FSM
+		buildings = {
+			infrastructure = 1
+			13028 = { naval_base = 1 }
+		}
+		victory_points = {
+			13028 1 
+		}
+	}
+
+	provinces = {
+		13027 13028 13029
+	}
+}

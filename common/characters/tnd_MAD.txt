@@ -1,0 +1,44 @@
+characters = {
+	MAD_albert_zafy = {
+		name = MAD_albert_zafy
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_MAD_albert_zafy
+			}
+		}
+		country_leader = {
+			ideology = centrist
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	MAD_richard_andriamanjato = {
+		name = MAD_richard_andriamanjato
+		country_leader = {
+			ideology = marxism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	MAD_monja_roindefo = {
+		name = MAD_monja_roindefo
+		country_leader = {
+			ideology = junta
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	MAD_didier_ratsiraka = {
+		name = MAD_didier_ratsiraka
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_MAD_didier_ratsiraka
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

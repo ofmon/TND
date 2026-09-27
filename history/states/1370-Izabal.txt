@@ -1,0 +1,20 @@
+state = {
+	id = 1370
+	name = "STATE_1370" # Izabal
+	manpower = 1863736
+	state_category = town
+	local_supplies = 0.0
+
+	history = {
+		owner = GUA
+		add_core_of = GUA
+		buildings = {
+			infrastructure = 3
+			13085 = { naval_base = 1 }
+		}
+	}
+
+	provinces = {
+		13085
+	}
+}

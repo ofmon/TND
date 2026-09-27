@@ -1,0 +1,18 @@
+state = {
+	id = 1435
+	name = "STATE_1435" # Collines
+	manpower = 2119351
+	state_category = large_town
+
+	history = {
+		owner = DAH
+		add_core_of = DAH
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces = {
+		12874
+	}
+}

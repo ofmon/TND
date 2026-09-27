@@ -1,0 +1,34 @@
+state = {
+	id = 1099
+	name = "STATE_1099" # Southeast
+	manpower = 1288661
+	state_category = city
+	local_supplies = 5.0
+
+	history = {
+		owner = BUL
+		add_core_of = BUL
+		buildings = {
+			dockyard = 1
+			industrial_complex = 1
+			infrastructure = 4
+			9902 = { naval_base = 1 }
+		}
+		victory_points = { #Stara Zagora
+			6814 3
+		}
+		victory_points = { #Sliven
+			6967 3
+		}
+		victory_points = { #Yambol
+			9888 1
+		}
+		victory_points = { #Burgas
+			9902 3
+		}
+	}
+
+	provinces = {
+		6814 6952 6967 9888 9902 9919
+	}
+}

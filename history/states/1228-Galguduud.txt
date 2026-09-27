@@ -1,0 +1,19 @@
+state = {
+	id = 1228
+	name = "STATE_1228" # Galguduud
+	manpower = 1129513
+	state_category = town
+	local_supplies = 0.0
+
+	history = {
+		owner = SOM
+		add_core_of = SOM
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces = {
+		2020 5065
+	}
+}

@@ -1,0 +1,29 @@
+
+state={
+	id=1000
+	name="STATE_1000"
+	manpower = 3573019
+	resources = {
+		steel = 6
+	}
+	
+	state_category = city
+	history={
+		owner = PER
+		add_core_of = PER
+		add_core_of = AZR
+		buildings = {
+			industrial_complex = 1
+			infrastructure = 4
+		}
+		victory_points = {
+			1896 5 
+		}
+	}
+
+	provinces={
+		1896 4755 4825 12793 12861
+	}
+
+	local_supplies=4.0 
+}

@@ -1,0 +1,44 @@
+characters = {
+	MRT_ahmed_ould_daddah = {
+		name = MRT_ahmed_ould_daddah
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_MRT_ahmed_ould_daddah
+			}
+		}
+		country_leader = {
+			ideology = liberalism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	MRT_mohamed_ould_maouloud = {
+		name = MRT_mohamed_ould_maouloud
+		country_leader = {
+			ideology = marxism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	MRT_ely_ould_mohamed_vall = {
+		name = MRT_ely_ould_mohamed_vall
+		country_leader = {
+			ideology = junta
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	MRT_maaouya_ould_sidahmed_taya = {
+		name = MRT_maaouya_ould_sidahmed_taya
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_MRT_maaouya_ould_sidahmed_taya
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

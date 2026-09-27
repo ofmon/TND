@@ -1,0 +1,49 @@
+characters = {
+	CHA_ngarlejy_yorongar = {
+		name = CHA_ngarlejy_yorongar
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_CHA_ngarlejy_yorongar
+			}
+		}
+		country_leader = {
+			ideology = populism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	CHA_goukouni_oueddei = {
+		name = CHA_goukouni_oueddei
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_CHA_goukouni_oueddei
+			}
+		}
+		country_leader = {
+			ideology = marxism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	CHA_youssouf_togoimi = {
+		name = CHA_youssouf_togoimi
+		country_leader = {
+			ideology = junta
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	CHA_idriss_deby = {
+		name = CHA_idriss_deby
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_CHA_idriss_deby
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

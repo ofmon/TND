@@ -1,0 +1,19 @@
+state = {
+	id = 1545
+	name = "STATE_1545" # Khangai
+	manpower = 22374
+	state_category = pastoral
+
+	history = {
+		owner = SOV
+		add_core_of = SOV
+		add_core_of = TAN
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces = {
+		7703 10597
+	}
+}

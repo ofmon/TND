@@ -1,0 +1,19 @@
+state = {
+	id = 1487
+	name = "STATE_1487" # Centre
+	manpower = 570050
+	state_category = town
+	buildings_max_level_factor = 1.000
+
+	history = {
+		owner = TOG
+		add_core_of = TOG
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces = {
+		13212
+	}
+}

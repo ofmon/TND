@@ -1,0 +1,19 @@
+state = {
+	id = 1120
+	name = "STATE_1120" # Hama
+	manpower = 1286791
+	state_category = town
+	buildings_max_level_factor = 1.000
+
+	history = {
+		owner = SYR
+		add_core_of = SYR
+		buildings = {
+			infrastructure = 3
+		}
+	}
+
+	provinces = {
+		1072
+	}
+}

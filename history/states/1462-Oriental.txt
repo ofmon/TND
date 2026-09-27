@@ -1,0 +1,19 @@
+state = {
+	id = 1462
+	name = "STATE_1462" # Oriental
+	manpower = 2069808
+	state_category = large_city
+
+	history = {
+		owner = MOR
+		add_core_of = MOR
+		buildings = {
+			industrial_complex = 1
+			infrastructure = 3
+		}
+	}
+
+	provinces = {
+		989 1111 4154 4933 7116 7215 7958
+	}
+}

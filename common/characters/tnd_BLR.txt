@@ -1,0 +1,41 @@
+characters = {
+	BLR_stanislav_shushkevich = {
+		name = BLR_stanislav_shushkevich
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_BLR_stanislav_shushkevich
+			}
+		}
+		country_leader = {
+			ideology = socialism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	BLR_syarhei_kalyakin = {
+		name = BLR_syarhei_kalyakin
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_BLR_syarhei_kalyakin
+			}
+		}
+		country_leader = {
+			ideology = Marxist-Leninist
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	BLR_sergei_gaidukevich = {
+		name = BLR_sergei_gaidukevich
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_BLR_sergei_gaidukevich
+			}
+		}
+		country_leader = {
+			ideology = fascism_ideology
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

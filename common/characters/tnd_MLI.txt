@@ -1,0 +1,54 @@
+characters = {
+	MLI_alpha_oumar_konare = {
+		name = MLI_alpha_oumar_konare
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_MLI_alpha_oumar_konare
+			}
+		}
+		country_leader = {
+			ideology = socialism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	MLI_oumar_mariko = {
+		name = MLI_oumar_mariko
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_MLI_oumar_mariko
+			}
+		}
+		country_leader = {
+			ideology = marxism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	MLI_moussa_traore = {
+		name = MLI_moussa_traore
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_MLI_moussa_traore
+			}
+		}
+		country_leader = {
+			ideology = junta
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	MLI_amadou_toumani_toure = {
+		name = MLI_amadou_toumani_toure
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_MLI_amadou_toumani_toure
+			}
+		}
+		country_leader = {
+			ideology = centrism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

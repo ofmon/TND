@@ -1,0 +1,54 @@
+characters = {
+	IVO_alassane_ouattara = {
+		name = IVO_alassane_ouattara
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_IVO_alassane_ouattara
+			}
+		}
+		country_leader = {
+			ideology = liberalism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	IVO_laurent_gbagbo = {
+		name = IVO_laurent_gbagbo
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_IVO_laurent_gbagbo
+			}
+		}
+		country_leader = {
+			ideology = marxism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	IVO_robert_guei = {
+		name = IVO_robert_guei
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_IVO_robert_guei
+			}
+		}
+		country_leader = {
+			ideology = junta
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	IVO_henri_konan_bedie = {
+		name = IVO_henri_konan_bedie
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_IVO_henri_konan_bedie
+			}
+		}
+		country_leader = {
+			ideology = oligarchism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

@@ -1,0 +1,20 @@
+state = {
+	id = 1399
+	name = "STATE_1399" # Vermont
+	manpower = 658403
+	state_category = town
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.0
+
+	history = {
+		owner = USA
+		add_core_of = USA
+		buildings = {
+			infrastructure = 4
+		}
+	}
+
+	provinces = {
+		4445 7629 9675
+	}
+}

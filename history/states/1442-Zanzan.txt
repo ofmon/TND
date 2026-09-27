@@ -1,0 +1,19 @@
+state = {
+	id = 1442
+	name = "STATE_1442" # Zanzan
+	manpower = 2020837
+	state_category = large_town
+	buildings_max_level_factor = 1.000
+
+	history = {
+		owner = GHA
+		add_core_of = GHA
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces = {
+		8096
+	}
+}

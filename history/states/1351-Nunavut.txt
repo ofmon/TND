@@ -1,0 +1,21 @@
+state = {
+	id = 1351
+	name = "STATE_1351" # Nunavut
+	manpower = 17556
+	state_category = pastoral
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.000
+
+	history = {
+		owner = CAN
+		add_core_of = CAN
+		buildings = {
+			infrastructure = 3
+			3691 = { naval_base = 1 }
+		}
+	}
+
+	provinces = {
+		1712 3691 7364 7813 13314 13315
+	}
+}

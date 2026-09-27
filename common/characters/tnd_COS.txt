@@ -1,0 +1,36 @@
+characters = {
+	COS_jose_merino_del_rio = {
+		name = COS_jose_merino_del_rio
+		country_leader = {
+			ideology = marxism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	COS_justo_orozco = {
+		name = COS_justo_orozco
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_COS_justo_orozco
+			}
+		}
+		country_leader = {
+			ideology = falangism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	COS_otto_guevara = {
+		name = COS_otto_guevara
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_COS_otto_guevara
+			}
+		}
+		country_leader = {
+			ideology = centrism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

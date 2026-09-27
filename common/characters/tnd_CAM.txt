@@ -1,0 +1,36 @@
+characters = {
+	CAM_khieu_samphan = {
+		name = CAM_khieu_samphan
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_CAM_khieu_samphan
+			}
+		}
+		country_leader = {
+			ideology = anti_revisionism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	CAM_ke_kim_yan = {
+		name = CAM_ke_kim_yan
+		country_leader = {
+			ideology = junta
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	CAM_norodom_sihanouk = {
+		name = CAM_norodom_sihanouk
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_CAM_norodom_sihanouk
+			}
+		}
+		country_leader = {
+			ideology = moderatism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

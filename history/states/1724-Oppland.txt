@@ -1,0 +1,19 @@
+state = {
+	id = 1724
+	name = "STATE_1724" # Oppland
+	manpower = 167961
+	state_category = rural
+	local_supplies = 0.000
+
+	history = {
+		owner = NOR
+		add_core_of = NOR
+		buildings = {
+			infrastructure = 4
+		}
+	}
+
+	provinces = {
+		27 144 6114 6136 9032 9135 9157 11135
+	}
+}

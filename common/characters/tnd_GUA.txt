@@ -1,0 +1,36 @@
+characters = {
+	GUA_pablo_monsanto = {
+		name = GUA_pablo_monsanto
+		country_leader = {
+			ideology = Marxist-Leninist
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	GUA_efrain_rios_montt = {
+		name = GUA_efrain_rios_montt
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_GUA_efrain_rios_montt
+			}
+		}
+		country_leader = {
+			ideology = junta
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	GUA_jorge_serrano_elias = {
+		name = GUA_jorge_serrano_elias
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_GUA_jorge_serrano_elias
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

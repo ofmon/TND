@@ -1,0 +1,41 @@
+characters = {
+	USA_gus_hall = {
+		name = USA_gus_hall
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_USA_gus_hall
+			}
+		}
+		country_leader = {
+			ideology = Marxist-Leninist
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	USA_pat_buchanan = {
+		name = USA_pat_buchanan
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_USA_pat_buchanan
+			}
+		}
+		country_leader = {
+			ideology = fascism_ideology
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	USA_ross_perot = {
+		name = USA_ross_perot
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_USA_ross_perot
+			}
+		}
+		country_leader = {
+			ideology = centrism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

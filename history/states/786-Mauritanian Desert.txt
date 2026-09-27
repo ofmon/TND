@@ -1,20 +1,21 @@
 state={
 	id=786
 	name="STATE_786" # Mauritanian Desert
-	manpower = 124200
+	manpower = 237599
 	
-	state_category = wasteland
+	state_category = rural
 
 	history={
 		owner = MRT
 		add_core_of = MRT
+		add_claim_by = MOR
 		buildings = {
-			infrastructure = 0
+			infrastructure = 2
 		}
 
 	}
 
 	provinces={
-		1897 1962 7943 8035 10771 10779 10838
+		1962 7943 8035 10814
 	}
 }

@@ -1,0 +1,24 @@
+state = {
+	id = 1637
+	name = "STATE_1637" # North Sulawesi
+	manpower = 1955350
+	state_category = city
+	local_supplies = 0.0
+
+	history = {
+		owner = INS
+		add_core_of = INS
+		buildings = {
+			infrastructure = 3
+			1351 = { naval_base = 1 }
+			10153 = { naval_base = 1 }
+		}
+		victory_points = {
+			10153 2
+		}
+	}
+
+	provinces = {
+		1351 7311 10153 10197
+	}
+}

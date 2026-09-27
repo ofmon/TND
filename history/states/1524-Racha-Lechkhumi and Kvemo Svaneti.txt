@@ -1,0 +1,20 @@
+state = {
+	id = 1524
+	name = "STATE_1524" # Racha-Lechkhumi and Kvemo Svaneti
+	manpower = 60187
+	state_category = pastoral
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.0
+
+	history = {
+		owner = GEO
+		add_core_of = GEO
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	provinces = {
+		654 9626
+	}
+}

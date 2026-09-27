@@ -1,0 +1,22 @@
+state = {
+	id = 1555
+	name = "STATE_1555" # Misiones
+	manpower = 1291376
+	state_category = town
+	local_supplies = 0.0
+
+	history = {
+		owner = ARG
+		add_core_of = ARG
+		buildings = {
+			infrastructure = 3
+		}
+		victory_points = {
+			11007 5 
+		}
+	}
+
+	provinces = {
+		11007
+	}
+}

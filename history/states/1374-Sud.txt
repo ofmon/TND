@@ -1,0 +1,19 @@
+state = {
+	id = 1374
+	name = "STATE_1374" # Sud
+	manpower = 1004647
+	state_category = town
+	local_supplies = 0.0
+
+	history = {
+		owner = HAI
+		add_core_of = HAI
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces = {
+		1635
+	}
+}

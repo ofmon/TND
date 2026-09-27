@@ -1,0 +1,40 @@
+state = {
+	id = 1037
+	name = "STATE_1037"
+	resources = {
+	}
+
+	history = {
+		owner = PRC
+		add_core_of = PRC
+		add_core_of = CHI
+		add_claim_by = TAW
+
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 4
+			air_base = 2
+		}
+
+		victory_points = {
+			6999 20 # Chongqing
+		}
+
+		1939.1.1 = {
+			buildings = {
+				air_base = 3
+			}
+		}
+
+	}
+
+	provinces = {
+		4431 6999 7240
+	}
+	manpower = 19751319
+	buildings_max_level_factor = 1.000
+	state_category = megalopolis
+
+	local_supplies = 0.0 
+}

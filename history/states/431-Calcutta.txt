@@ -6,31 +6,34 @@ state={
 		# tungsten=11.000
 	}
 
-	history={
+	history = {
 		owner = RAJ
+		add_core_of = RAJ
+
 		buildings = {
-			infrastructure = 3 #was: 5
-			industrial_complex = 1
-			dockyard = 1
+			arms_factory = 1
+			infrastructure = 3 # was: 5
+			industrial_complex = 6
+			dockyard = 2
 			air_base = 2
 			4245 = {
 				naval_base = 6
-
 			}
-
 		}
+
 		victory_points = {
-			4245 20
+			12338 1 # Darjeeling 
 		}
 
+		victory_points = { 4245 20 }
 	}
 
 	provinces={
-		1159 1609 1656 4062 4204 4245 4435 4644 7220 7475 7537 7565 7593 10077 12050 12338 
+		1159 1444 1609 4062 4204 4245 4644 7220 7565 10077 12050 12338
 	}
-	manpower= 99700000
+	manpower = 67942210
 	buildings_max_level_factor=1.000
-	state_category=city
+	state_category = megalopolis
 
 	local_supplies=0.0 
 }

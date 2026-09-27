@@ -1,0 +1,34 @@
+characters = {
+	CYP_glafcos_clerides = {
+		name = CYP_glafcos_clerides
+		country_leader = {
+			ideology = conservatism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	CYP_dimitris_christofias = {
+		name = CYP_dimitris_christofias
+		country_leader = {
+			ideology = Marxist-Leninist
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	CYP_nikos_koutsou = {
+		name = CYP_nikos_koutsou
+		country_leader = {
+			ideology = fascism_ideology
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	CYP_spyros_kyprianou = {
+		name = CYP_spyros_kyprianou
+		country_leader = {
+			ideology = centrism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

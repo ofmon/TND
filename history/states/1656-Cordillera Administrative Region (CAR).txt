@@ -1,0 +1,19 @@
+state = {
+	id = 1656
+	name = "STATE_1656" # Cordillera Administrative Region (CAR)
+	manpower = 1358443
+	state_category = city
+	local_supplies = 0.0
+
+	history = {
+		owner = PHI
+		add_core_of = PHI
+		buildings = {
+			infrastructure = 3
+		}
+	}
+
+	provinces = {
+		4368 10167 10241
+	}
+}

@@ -1,0 +1,41 @@
+characters = {
+	AUS_viktor_klima = {
+		name = AUS_viktor_klima
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_AUS_viktor_klima
+			}
+		}
+		country_leader = {
+			ideology = socialism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	AUS_walter_baier = {
+		name = AUS_walter_baier
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_AUS_walter_baier
+			}
+		}
+		country_leader = {
+			ideology = marxism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	AUS_jorg_haider = {
+		name = AUS_jorg_haider
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_AUS_jorg_haider
+			}
+		}
+		country_leader = {
+			ideology = fascism_ideology
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

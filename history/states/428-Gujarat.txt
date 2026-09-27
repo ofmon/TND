@@ -1,33 +1,32 @@
+state = {
+	id = 428
+	name = "STATE_428"
+	manpower = 51923383
 
-state={
-	id=428
-	name="STATE_428"
-	manpower = 71000000
-	
-	
-	state_category = town
-	resources={
-		oil=3 # was: 4
+	state_category = large_city
+	resources = {
+		oil = 6 
 	}
 
-	history={
+	history = {
 		owner = RAJ
+		add_core_of = RAJ
+
 		victory_points = {
-			9975 1 
+			10118 1 # Jamnagar
 		}
+
 		buildings = {
-			infrastructure = 2
-			arms_factory = 1
-			9975 = {
-				naval_base = 2
-			}
+			industrial_complex = 3
+			infrastructure = 3
 		}
 
+		victory_points = { 9975 1 }
 	}
 
-	provinces={
-		1061 1103 1144 1190 4064 4090 4132 4187 7020 7150 7165 7207 9975 10118 11952 12037 12092 
+	provinces = {
+		1061 1103 1144 1190 4064 4090 4132 4187 7020 7150 7165 7207 9975 10118 11952 12037 12092
 	}
 
-	local_supplies=0.0 
+	local_supplies = 0.0 
 }

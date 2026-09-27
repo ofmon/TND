@@ -1,0 +1,24 @@
+state = {
+	id = 1520
+	name = "STATE_1520" # Adjara
+	manpower = 734457
+	state_category = town
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.0
+
+	history = {
+		owner = GEO
+		add_core_of = GEO
+		buildings = {
+			infrastructure = 2
+			3653 = { naval_base = 2 coastal_bunker = 1 }
+		}
+		victory_points = {
+			3653 3 
+		}
+	}
+
+	provinces = {
+		3653
+	}
+}

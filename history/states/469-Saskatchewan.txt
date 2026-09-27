@@ -2,17 +2,17 @@
 state={
 	id=469
 	name="STATE_469"
-	manpower = 1134622
+	manpower = 977577
 	
-	state_category = rural
+	state_category = town
 
 	history={
 		owner = CAN
+		add_core_of = CAN
 		buildings = {
-			infrastructure = 2
+			infrastructure = 4
 			industrial_complex = 1
 		}
-		add_core_of = CAN
 	}
 
 	provinces={

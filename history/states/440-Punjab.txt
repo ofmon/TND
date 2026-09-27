@@ -1,23 +1,24 @@
-
 state={
 	id=440
 	name="STATE_440"
-	manpower = 13665000
-	
-	state_category = town
-
-	history={
-		victory_points = {
-			10887 5
-		}
-		owner = PAK
-		buildings = {
-			infrastructure = 5
-		}
-		add_core_of = PAK
-	}
-
 	provinces={
-		4979 8007 8022 8106 9084 10066 10139 10173 10772 10843 10887 10898 12005 12792 12822 
+		1107 7903 8007 8022 8106 9084 10066 10139 10173 10887 10898
 	}
+	history={
+		owner = PAK
+		add_core_of = PAK
+		buildings = {
+			arms_factory = 1
+			infrastructure = 3
+			industrial_complex = 7
+		}
+		victory_points = { 	10898 1 }
+		victory_points = { 10173 3 }
+
+		victory_points = { 10887 5 }
+	}
+	state_category = metropolis
+	manpower = 72546330
+	buildings_max_level_factor=1.000
+	local_supplies=0.500
 }

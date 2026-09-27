@@ -1,0 +1,31 @@
+
+state = {
+	id = 143
+	name = "STATE_143"
+	manpower = 273236
+	
+	state_category = rural
+
+	history = {
+		owner = NOR
+		add_core_of = NOR
+		add_core_of = SMI
+		victory_points = {
+			3022 5
+		}
+		
+		buildings = {
+			infrastructure = 4
+			3022 = {
+				naval_base = 3
+				coastal_bunker = 2
+			}
+		}
+	}
+
+	provinces={
+		21 3018 3022 3098 3183 6116 6118 9139 11118
+	}
+
+	local_supplies = 0.0 
+}

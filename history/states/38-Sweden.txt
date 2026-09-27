@@ -1,0 +1,30 @@
+state = {
+	id = 38
+	name = "STATE_38" # Gävleborg
+	manpower = 266615
+	state_category = rural
+
+	history = {
+		owner = SWE
+		add_core_of = SWE
+
+		victory_points = {
+			11091 2 # Gävle
+		}
+
+		buildings = {
+			infrastructure = 4
+			air_base = 3
+
+			# Krångede Hydroelectric Power Station
+
+		}
+
+	}
+
+	provinces = {
+		49 125 3045 9035 9051 9117 9151 11040 11091 11147 11209
+	}
+	
+	local_supplies = 0.000
+}

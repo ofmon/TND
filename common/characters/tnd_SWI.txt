@@ -1,0 +1,36 @@
+characters = {
+	SWI_christiane_jaquet_berger = {
+		name = SWI_christiane_jaquet_berger
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_SWI_christiane_jaquet_berger
+			}
+		}
+		country_leader = {
+			ideology = marxism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	SWI_rudolf_keller = {
+		name = SWI_rudolf_keller
+		country_leader = {
+			ideology = fascism_ideology
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	SWI_christoph_blocher = {
+		name = SWI_christoph_blocher
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_SWI_christoph_blocher
+			}
+		}
+		country_leader = {
+			ideology = moderatism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

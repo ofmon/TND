@@ -1,0 +1,49 @@
+characters = {
+	SOL_bartholomew_ulufaalu = {
+		name = SOL_bartholomew_ulufaalu
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_SOL_bartholomew_ulufaalu
+			}
+		}
+		country_leader = {
+			ideology = liberalism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	SOL_joses_tuhanuku = {
+		name = SOL_joses_tuhanuku
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_SOL_joses_tuhanuku
+			}
+		}
+		country_leader = {
+			ideology = marxism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	SOL_harold_keke = {
+		name = SOL_harold_keke
+		country_leader = {
+			ideology = fascism_ideology
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	SOL_john_lapli = {
+		name = SOL_john_lapli
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_SOL_john_lapli
+			}
+		}
+		country_leader = {
+			ideology = moderatism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

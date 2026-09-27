@@ -1,0 +1,23 @@
+state = {
+	id = 1658
+	name = "STATE_1658" # Ilocos (Region I)
+	manpower = 2691799
+	state_category = large_city
+	local_supplies = 0.0
+
+	history = {
+		owner = PHI
+		add_core_of = PHI
+		buildings = {
+			infrastructure = 3
+			1415 = { naval_base = 1 }
+		}
+		victory_points = {
+			1415 1 # Dagupan
+		}
+	}
+
+	provinces = {
+		1415 4350 10280 12253
+	}
+}

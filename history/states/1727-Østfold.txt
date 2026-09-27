@@ -1,0 +1,22 @@
+state = {
+	id = 1727
+	name = "STATE_1727" # Østfold
+	manpower = 238748
+	state_category = rural
+	local_supplies = 0.0
+
+	history = {
+		owner = NOR
+		add_core_of = NOR
+		buildings = {
+			infrastructure = 4
+		}
+		victory_points = {
+			11151 2
+		}
+	}
+
+	provinces = {
+		3007 3171 11151 11184
+	}
+}

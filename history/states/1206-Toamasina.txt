@@ -1,0 +1,22 @@
+state = {
+	id = 1206
+	name = "STATE_1206" # Toamasina
+	manpower = 5730592
+	state_category = city
+
+	history = {
+		owner = MAD
+		add_core_of = MAD
+		buildings = {
+			industrial_complex = 1
+			infrastructure = 2
+		}
+		victory_points = {
+			5128 1
+		}
+	}
+
+	provinces = {
+		5128
+	}
+}

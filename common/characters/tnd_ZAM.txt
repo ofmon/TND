@@ -1,0 +1,36 @@
+characters = {
+	ZAM_frederick_chiluba = {
+		name = ZAM_frederick_chiluba
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_ZAM_frederick_chiluba
+			}
+		}
+		country_leader = {
+			ideology = centrist
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	ZAM_steven_lungu = {
+		name = ZAM_steven_lungu
+		country_leader = {
+			ideology = junta
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	ZAM_kenneth_kaunda = {
+		name = ZAM_kenneth_kaunda
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_ZAM_kenneth_kaunda
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

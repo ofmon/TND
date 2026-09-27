@@ -1,0 +1,44 @@
+characters = {
+	UGA_paul_ssemogerere = {
+		name = UGA_paul_ssemogerere
+		country_leader = {
+			ideology = conservatism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	UGA_milton_obote = {
+		name = UGA_milton_obote
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_UGA_milton_obote
+			}
+		}
+		country_leader = {
+			ideology = marxism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	UGA_joseph_kony = {
+		name = UGA_joseph_kony
+		country_leader = {
+			ideology = junta
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	UGA_yoweri_museveni = {
+		name = UGA_yoweri_museveni
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_UGA_yoweri_museveni
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

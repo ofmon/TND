@@ -1,0 +1,31 @@
+characters = {
+	UZB_muhammad_salih = {
+		name = UZB_muhammad_salih
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_UZB_muhammad_salih
+			}
+		}
+		country_leader = {
+			ideology = liberalism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	UZB_abdulhafiz_jalalov = {
+		name = UZB_abdulhafiz_jalalov
+		country_leader = {
+			ideology = marxism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	UZB_tohir_yuldashev = {
+		name = UZB_tohir_yuldashev
+		country_leader = {
+			ideology = fascism_ideology
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

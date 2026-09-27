@@ -1,0 +1,20 @@
+state = {
+	id = 1708
+	name = "STATE_1708" # Northeastern
+	manpower = 185024
+	state_category = rural
+	local_supplies = 0.0
+
+	history = {
+		owner = ICE
+		add_core_of = ICE
+		buildings = {
+			industrial_complex = 1
+			infrastructure = 4
+		}
+	}
+
+	provinces = {
+		4861 12689 13266 13267 13268
+	}
+}

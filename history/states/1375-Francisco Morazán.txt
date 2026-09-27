@@ -1,0 +1,24 @@
+state = {
+	id = 1375
+	name = "STATE_1375" # Francisco Morazán
+	manpower = 4325295
+	state_category = large_city
+	local_supplies = 0.0
+
+	history = {
+		owner = HON
+		add_core_of = HON
+		buildings = {
+			industrial_complex = 1
+			infrastructure = 3
+			12865 = { naval_base = 1 }
+		}
+		victory_points = {
+			12865 3 
+		}
+	}
+
+	provinces = {
+		12865
+	}
+}

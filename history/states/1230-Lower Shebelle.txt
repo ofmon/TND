@@ -1,0 +1,19 @@
+state = {
+	id = 1230
+	name = "STATE_1230" # Lower Shebelle
+	manpower = 415950
+	state_category = rural
+	local_supplies = 0.0
+
+	history = {
+		owner = SOM
+		add_core_of = SOM
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	provinces = {
+		8164
+	}
+}

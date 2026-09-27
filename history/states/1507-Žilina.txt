@@ -1,0 +1,22 @@
+state = {
+	id = 1507
+	name = "STATE_1507" # Žilina
+	manpower = 723770
+	state_category = town
+
+	history = {
+		owner = SLO
+		add_core_of = SLO
+		buildings = {
+			industrial_complex = 1
+			infrastructure = 3
+		}
+		victory_points = {
+			11539 5
+		}
+	}
+
+	provinces = {
+		581 11539 11554
+	}
+}

@@ -1,0 +1,36 @@
+characters = {
+	ELS_schafik_handal = {
+		name = ELS_schafik_handal
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_ELS_schafik_handal
+			}
+		}
+		country_leader = {
+			ideology = Marxist-Leninist
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	ELS_ciro_cruz_zepeda = {
+		name = ELS_ciro_cruz_zepeda
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_ELS_ciro_cruz_zepeda
+			}
+		}
+		country_leader = {
+			ideology = junta
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	ELS_hector_silva = {
+		name = ELS_hector_silva
+		country_leader = {
+			ideology = centrism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

@@ -2,12 +2,12 @@
 state={
 	id=424
 	name="STATE_424" # Madras
-	manpower = 53200000
-	state_category = rural
-	
+	manpower = 46068470
+	state_category = large_town
 
 	history={
 		owner = RAJ
+		add_core_of = RAJ
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 1
@@ -16,7 +16,7 @@ state={
 	}
 
 	provinces={
-		1228 1344 1430 4321 4365 4414 7297 7310 7340 10152 10296 10756 10897 12180 12779 
+		1228 1344 1430 4237 4321 4365 4414 7297 7310 7340 7428 10001 10152 10255 10296 10756 10897 12180 12779
 	}
 
 	local_supplies=0.0 

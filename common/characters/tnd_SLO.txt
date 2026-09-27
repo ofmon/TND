@@ -1,0 +1,36 @@
+characters = {
+	SLO_jozef_sevc = {
+		name = SLO_jozef_sevc
+		country_leader = {
+			ideology = Marxist-Leninist
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	SLO_anna_malikova = {
+		name = SLO_anna_malikova
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_SLO_anna_malikova
+			}
+		}
+		country_leader = {
+			ideology = fascism_ideology
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	SLO_vladimir_meciar = {
+		name = SLO_vladimir_meciar
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_SLO_vladimir_meciar
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

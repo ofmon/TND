@@ -1,0 +1,41 @@
+characters = {
+	POL_jerzy_buzek = {
+		name = POL_jerzy_buzek
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_POL_jerzy_buzek
+			}
+		}
+		country_leader = {
+			ideology = conservatism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	POL_leszek_miller = {
+		name = POL_leszek_miller
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_POL_leszek_miller
+			}
+		}
+		country_leader = {
+			ideology = marxism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	POL_roman_giertych = {
+		name = POL_roman_giertych
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_POL_roman_giertych
+			}
+		}
+		country_leader = {
+			ideology = fascism_ideology
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

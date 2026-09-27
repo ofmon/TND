@@ -1,0 +1,21 @@
+state = {
+	id = 1733
+	name = "STATE_1733" # Bern
+	manpower = 1284423
+	state_category = town
+	local_supplies = 0.0
+
+	history = {
+		owner = SWI
+		add_core_of = SWI
+		buildings = {
+			industrial_complex = 1
+			infrastructure = 4
+		}
+		victory_points = { 9620 15 }
+	}
+
+	provinces = {
+		636 6683 9618 9620
+	}
+}

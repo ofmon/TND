@@ -2,24 +2,20 @@
 state={
 	id=109
 	name="STATE_109" # Croatia
-	manpower = 1949500
+	manpower = 1337692
 	
-	state_category = large_town
+	state_category = town
 
 	history={
 		owner = CRO
-		buildings = {
-			infrastructure = 6
-			industrial_complex = 3
-		}
-		victory_points = {
-			11581 3 
-		}
-		add_core_of = YUG
 		add_core_of = CRO
+		add_core_of = YUG
+		buildings = {
+			infrastructure = 3
+		}
 	}
 
 	provinces={
-		624 3592 3596 3627 6647 9595 9611 11577 11580 11581 11594
+		624 3592 3596 3601 3627 6647 9595 11577 11594
 	}
 }

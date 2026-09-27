@@ -1,0 +1,19 @@
+state = {
+	id = 1265
+	name = "STATE_1265" # Maidan Wardak
+	manpower = 372485
+	state_category = rural
+	local_supplies = 0.0
+
+	history = {
+		owner = AFG
+		add_core_of = AFG
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	provinces = {
+		12769
+	}
+}

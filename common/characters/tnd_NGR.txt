@@ -1,0 +1,49 @@
+characters = {
+	NGR_mamadou_tandja = {
+		name = NGR_mamadou_tandja
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_NGR_mamadou_tandja
+			}
+		}
+		country_leader = {
+			ideology = conservatism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	NGR_mahamadou_issoufou = {
+		name = NGR_mahamadou_issoufou
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_NGR_mahamadou_issoufou
+			}
+		}
+		country_leader = {
+			ideology = marxism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	NGR_daouda_malam_wanke = {
+		name = NGR_daouda_malam_wanke
+		country_leader = {
+			ideology = junta
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	NGR_mahamane_ousmane = {
+		name = NGR_mahamane_ousmane
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_NGR_mahamane_ousmane
+			}
+		}
+		country_leader = {
+			ideology = centrism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

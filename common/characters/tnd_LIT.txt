@@ -1,0 +1,36 @@
+characters = {
+	LIT_andrius_kubilius = {
+		name = LIT_andrius_kubilius
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_LIT_andrius_kubilius
+			}
+		}
+		country_leader = {
+			ideology = conservatism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	LIT_algirdas_brazauskas = {
+		name = LIT_algirdas_brazauskas
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_LIT_algirdas_brazauskas
+			}
+		}
+		country_leader = {
+			ideology = marxism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	LIT_stanislovas_buskevicius = {
+		name = LIT_stanislovas_buskevicius
+		country_leader = {
+			ideology = fascism_ideology
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

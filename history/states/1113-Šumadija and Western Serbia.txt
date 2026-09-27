@@ -1,0 +1,21 @@
+state = {
+	id = 1113
+	name = "STATE_1113" # Šumadija and Western Serbia
+	manpower = 2322134
+	state_category = city
+	buildings_max_level_factor = 1.000
+	local_supplies = 4.0
+
+	history = {
+		owner = SER
+		add_core_of = SER
+		buildings = {
+			industrial_complex = 1
+			infrastructure = 3
+		}
+	}
+
+	provinces = {
+		797 3609 3922 3939 3956 3984 6970 6998 9599
+	}
+}

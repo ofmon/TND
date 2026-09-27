@@ -1,0 +1,19 @@
+state = {
+	id = 1355
+	name = "STATE_1355" # La Guajira
+	manpower = 856432
+	state_category = town
+	local_supplies = 0.0
+
+	history = {
+		owner = COL
+		add_core_of = COL
+		buildings = {
+			infrastructure = 3
+		}
+	}
+
+	provinces = {
+		2085
+	}
+}

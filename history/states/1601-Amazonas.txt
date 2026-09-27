@@ -1,0 +1,19 @@
+state = {
+	id = 1601
+	name = "STATE_1601" # Amazonas
+	manpower = 83294
+	state_category = pastoral
+	local_supplies = 0.0
+
+	history = {
+		owner = VEN
+		add_core_of = VEN
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces = {
+		5317 8050
+	}
+}

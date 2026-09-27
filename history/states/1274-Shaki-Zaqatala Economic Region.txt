@@ -1,0 +1,19 @@
+state = {
+	id = 1274
+	name = "STATE_1274" # Shaki-Zaqatala Economic Region
+	manpower = 684284
+	state_category = town
+	buildings_max_level_factor = 1.000
+
+	history = {
+		owner = AZR
+		add_core_of = AZR
+		buildings = {
+			infrastructure = 3
+		}
+	}
+
+	provinces = {
+		6763 11645
+	}
+}

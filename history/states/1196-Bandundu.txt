@@ -1,0 +1,21 @@
+state = {
+	id = 1196
+	name = "STATE_1196" # Bandundu
+	manpower = 6460656
+	state_category = large_city
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.000
+
+	history = {
+		owner = COG
+		add_core_of = COG
+		buildings = {
+			industrial_complex = 1
+			infrastructure = 2
+		}
+	}
+
+	provinces = {
+		4128 10025 12775 12896 12945 13370
+	}
+}

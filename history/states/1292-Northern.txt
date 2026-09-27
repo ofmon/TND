@@ -1,0 +1,23 @@
+state = {
+	id = 1292
+	name = "STATE_1292" # Northern
+	manpower = 991889
+	state_category = city
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.000
+
+	history = {
+		owner = ISR
+		add_core_of = ISR
+		buildings = {
+			infrastructure = 4
+		}
+		victory_points = {
+			1065 5
+		}
+	}
+
+	provinces = {
+		1065
+	}
+}

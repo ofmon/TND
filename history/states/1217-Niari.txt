@@ -1,0 +1,18 @@
+state = {
+	id = 1217
+	name = "STATE_1217" # Niari
+	manpower = 780952
+	state_category = town
+
+	history = {
+		owner = RCG
+		add_core_of = RCG
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces = {
+		2192
+	}
+}

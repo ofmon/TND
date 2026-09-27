@@ -1,0 +1,19 @@
+state = {
+	id = 1309
+	name = "STATE_1309" # Gilan
+	manpower = 1372464
+	state_category = city
+	local_supplies = 3.0
+
+	history = {
+		owner = PER
+		add_core_of = PER
+		buildings = {
+			infrastructure = 4
+		}
+	}
+
+	provinces = {
+		4609
+	}
+}

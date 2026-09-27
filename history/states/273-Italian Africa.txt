@@ -2,19 +2,19 @@
 state={
 	id=273
 	name="STATE_273" # Libyan Desert
-	manpower = 42633
+	manpower = 352664
 	
-	state_category = wasteland
+	state_category = rural
 
 	history={
 		owner = LBA
-		buildings = {
-			infrastructure = 0
-		}
 		add_core_of = LBA
+		buildings = {
+			infrastructure = 3
+		}
 	}
 
 	provinces={
-		1057 1060 1140 1994 4191 4962 5004 7985 10104 10754 10785 10884 11951 12022 12082 12866 
+		1994 5004 7985 12022 12082
 	}
 }

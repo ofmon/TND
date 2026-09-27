@@ -1,0 +1,19 @@
+state = {
+	id = 1489
+	name = "STATE_1489" # Sud-Ouest
+	manpower = 461305
+	state_category = rural
+	buildings_max_level_factor = 1.000
+
+	history = {
+		owner = TUN
+		add_core_of = TUN
+		buildings = {
+			infrastructure = 3
+		}
+	}
+
+	provinces = {
+		3987 9983 10082 11935
+	}
+}

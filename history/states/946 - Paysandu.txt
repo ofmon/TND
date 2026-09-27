@@ -1,0 +1,35 @@
+
+state = {
+	id = 946
+	name = "STATE_946"
+	manpower = 705600
+	
+	state_category = town
+	
+	resources = {
+		oil = 3 
+	}
+
+	history = {
+		owner = URG
+		add_core_of = URG
+
+		buildings = {
+			infrastructure = 3
+		}
+
+		victory_points = {
+			12468 20
+		}
+
+		victory_points = {
+			10502 10
+		}
+	}
+
+	provinces = {
+		1613 1626 10502 12440 12468
+	}
+
+	local_supplies = 0.0 
+}

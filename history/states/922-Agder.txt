@@ -1,0 +1,32 @@
+state = {
+	id = 922
+	name = "STATE_922"
+	manpower = 146804
+	state_category = rural
+	resources = {
+		aluminium = 5
+	}
+
+	history = {
+		owner = NOR
+		add_core_of = NOR
+		victory_points = {
+			9296 3 
+		}
+		
+		buildings = {
+			dockyard = 1
+			infrastructure = 4
+			9296 = {
+				naval_base = 3
+				coastal_bunker = 1
+			}
+		}
+	}
+
+	provinces = {
+		3049 9296 11367
+	}
+
+	local_supplies = 0.000
+}

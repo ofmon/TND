@@ -1,0 +1,24 @@
+state = {
+	id = 1344
+	name = "STATE_1344" # Samarqand
+	manpower = 2740877
+	state_category = city
+	buildings_max_level_factor = 1.000
+	local_supplies = 2.0
+
+	history = {
+		owner = UZB
+		add_core_of = UZB
+		buildings = {
+			industrial_complex = 1
+			infrastructure = 3
+		}
+		victory_points = {
+			10671 1 
+		}
+	}
+
+	provinces = {
+		10671
+	}
+}

@@ -1,0 +1,34 @@
+state = {
+
+	id = 1031
+	name = "STATE_1031"
+	manpower = 2305284
+	
+	state_category = large_city
+
+	resources = {
+	}
+
+	history = {
+		owner = KOR
+		add_core_of = KOR
+		add_claim_by = NRK
+
+		buildings = {
+			dockyard = 1
+			infrastructure = 4
+			industrial_complex = 2 
+		}
+
+		victory_points = {
+			10110 1 # Kōshū
+		}
+
+	}
+
+	provinces = {
+		10110 11948 12085
+	}
+
+	local_supplies = 0.0 
+}

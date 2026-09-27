@@ -1,0 +1,18 @@
+state = {
+	id = 1506
+	name = "STATE_1506" # Trnava
+	manpower = 591779
+	state_category = town
+
+	history = {
+		owner = SLO
+		add_core_of = SLO
+		buildings = {
+			infrastructure = 3
+		}
+	}
+
+	provinces = {
+		9539
+	}
+}

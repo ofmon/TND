@@ -1,0 +1,27 @@
+state = {
+	id = 576
+	name = "STATE_576" # Yeniseisk
+	manpower = 135739
+	
+	state_category = rural
+
+	history = {
+		owner = SOV
+		add_core_of = SOV
+
+		buildings = {
+			infrastructure = 3
+		}
+
+		victory_points = { #Tura
+			7805 1
+		}
+
+	}
+
+	provinces = {
+		1679 1741 1780 1828 1837 4687 4785 4831 4842 7701 7707 7805 10544 10576 10631 10705 12555 12595 12615 12655 12666
+	}
+
+	local_supplies = 5.0 
+}

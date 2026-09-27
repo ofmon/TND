@@ -1,0 +1,44 @@
+characters = {
+	TOG_gilchrist_olympio = {
+		name = TOG_gilchrist_olympio
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_TOG_gilchrist_olympio
+			}
+		}
+		country_leader = {
+			ideology = liberalism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	TOG_claude_ameganvi = {
+		name = TOG_claude_ameganvi
+		country_leader = {
+			ideology = marxism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	TOG_ernest_gnassingbe = {
+		name = TOG_ernest_gnassingbe
+		country_leader = {
+			ideology = junta
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	TOG_gnassingbe_eyadema = {
+		name = TOG_gnassingbe_eyadema
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_TOG_gnassingbe_eyadema
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

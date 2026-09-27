@@ -1,0 +1,34 @@
+state = {
+	id = 1063
+	name = "STATE_1063"
+	manpower = 1443299
+	
+	state_category = town
+	
+	resources = {
+		tungsten = 30 
+		rubber = 85 
+	}
+
+	history = {
+		owner = MAL
+		add_core_of = MAL
+
+		victory_points = {
+			7399 1 # Kuantan 
+		}
+
+		buildings = {
+
+			infrastructure = 3
+
+		}
+		
+	}
+
+	provinces = {
+		1392 4384 7399 12255 12271 13410
+	}
+
+	local_supplies = 0.0 
+}

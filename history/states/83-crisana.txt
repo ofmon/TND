@@ -1,0 +1,27 @@
+
+state={
+	id=83
+	name="STATE_83"
+	manpower = 489553
+	
+	state_category = town
+
+	history={
+		owner = ROM
+		add_core_of = ROM
+		add_core_of = TRA
+		add_claim_by = HUN
+		buildings = {
+			infrastructure = 3
+		}
+		victory_points = {
+			6682 1 
+		}
+	}
+
+	provinces={
+		6682 6697 9640
+	}
+
+	local_supplies=0.0 
+}

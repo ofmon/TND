@@ -1,0 +1,54 @@
+characters = {
+	SOM_muhammad_haji_ibrahim_egal = {
+		name = SOM_muhammad_haji_ibrahim_egal
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_SOM_muhammad_haji_ibrahim_egal
+			}
+		}
+		country_leader = {
+			ideology = centrist
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	SOM_mohamed_ali_samatar = {
+		name = SOM_mohamed_ali_samatar
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_SOM_mohamed_ali_samatar
+			}
+		}
+		country_leader = {
+			ideology = Marxist-Leninist
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	SOM_hussein_farrah_aidid = {
+		name = SOM_hussein_farrah_aidid
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_SOM_hussein_farrah_aidid
+			}
+		}
+		country_leader = {
+			ideology = junta
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	SOM_abdullahi_yusuf_ahmed = {
+		name = SOM_abdullahi_yusuf_ahmed
+		portraits = {
+			civilian = {
+				large = GFX_portrait_tnd_SOM_abdullahi_yusuf_ahmed
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

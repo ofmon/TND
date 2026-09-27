@@ -1,0 +1,18 @@
+state = {
+	id = 1303
+	name = "STATE_1303" # South
+	manpower = 748446
+	state_category = city
+
+	history = {
+		owner = LEB
+		add_core_of = LEB
+		buildings = {
+			infrastructure = 4
+		}
+	}
+
+	provinces = {
+		11919
+	}
+}

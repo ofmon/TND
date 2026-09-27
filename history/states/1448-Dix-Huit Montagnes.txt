@@ -1,0 +1,18 @@
+state = {
+	id = 1448
+	name = "STATE_1448" # Dix-Huit Montagnes
+	manpower = 2127696
+	state_category = city
+
+	history = {
+		owner = IVO
+		add_core_of = IVO
+		buildings = {
+			infrastructure = 3
+		}
+	}
+
+	provinces = {
+		5070
+	}
+}

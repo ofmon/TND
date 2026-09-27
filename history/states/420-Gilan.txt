@@ -1,0 +1,27 @@
+
+state={
+	id=420
+	name="STATE_420"
+	manpower = 2018899
+	
+	state_category = large_city
+
+	history={
+		owner = PER
+		add_core_of = PER
+		add_core_of = AZR
+		victory_points = {
+			7969 5
+		}
+		buildings = {
+			industrial_complex = 1
+			infrastructure = 4
+		}
+	}
+
+	provinces={
+		7969
+	}
+
+	local_supplies=3.0 
+}

@@ -1,0 +1,20 @@
+state = {
+	id = 1723
+	name = "STATE_1723" # Nord-Trøndelag
+	manpower = 116764
+	state_category = rural
+	local_supplies = 0.0
+
+	history = {
+		owner = NOR
+		add_core_of = NOR
+		add_core_of = SMI
+		buildings = {
+			infrastructure = 4
+		}
+	}
+
+	provinces = {
+		107 115 6038 6041 6173 9069 9132 11173
+	}
+}

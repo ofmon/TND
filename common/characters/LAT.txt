@@ -9,7 +9,7 @@ LAT_vaira_vike_freiberga={
 			}
 		}
 		country_leader={
-			ideology= indepedent 
+			ideology= centrism 
 			expire="2030.1.1.1"
 			id=-1
 		}

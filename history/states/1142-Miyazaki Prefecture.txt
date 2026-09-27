@@ -1,0 +1,22 @@
+state = {
+	id = 1142
+	name = "STATE_1142" # Miyazaki Prefecture
+	manpower = 1021465
+	state_category = city
+	local_supplies = 10.0
+
+	history = {
+		owner = JAP
+		add_core_of = JAP
+		buildings = {
+			infrastructure = 5
+		}
+		victory_points = {
+			1020 2 # Miyazaki
+		}
+	}
+
+	provinces = {
+		1020 7178 11949
+	}
+}

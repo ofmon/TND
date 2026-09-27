@@ -1,0 +1,32 @@
+
+state = {
+	id = 936
+	name = "STATE_936"
+	manpower = 7325147
+
+	state_category = metropolis
+
+	history = {
+		owner = BRA
+		add_core_of = BRA
+
+		buildings = {
+			infrastructure = 4 #was: 5
+			industrial_complex = 3 # Was 3
+
+			5168 = {
+				naval_base = 1
+			}
+		}
+
+		victory_points = {
+			5168 20
+		}
+	}
+
+	provinces = {
+		5168 8227 10345 10967 12961
+	}
+
+	local_supplies = 0.0 
+}

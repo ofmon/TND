@@ -1,0 +1,34 @@
+characters = {
+	NEP_krishna_prasad_bhattarai = {
+		name = NEP_krishna_prasad_bhattarai
+		country_leader = {
+			ideology = socialism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	NEP_prachanda = {
+		name = NEP_prachanda
+		country_leader = {
+			ideology = anti_revisionism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	NEP_gyanendra = {
+		name = NEP_gyanendra
+		country_leader = {
+			ideology = emperor_fascism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+	NEP_birendra = {
+		name = NEP_birendra
+		country_leader = {
+			ideology = moderatism
+			expire = "2050.1.1.1"
+			id = -1
+		}
+	}
+}

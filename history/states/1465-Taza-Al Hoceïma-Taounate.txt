@@ -1,0 +1,19 @@
+state = {
+	id = 1465
+	name = "STATE_1465" # Taza-Al Hoceïma-Taounate
+	manpower = 3434874
+	state_category = large_city
+
+	history = {
+		owner = MOR
+		add_core_of = MOR
+		buildings = {
+			industrial_complex = 1
+			infrastructure = 3
+		}
+	}
+
+	provinces = {
+		4097 7173 11987
+	}
+}

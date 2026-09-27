@@ -1,0 +1,31 @@
+
+state={
+	id=985
+	name="STATE_985" #
+	manpower = 527040 
+	
+	state_category = rural
+	
+	resources={
+
+	}
+
+	history={
+		owner = RAJ
+		add_core_of = RAJ
+		buildings = {
+			infrastructure = 2
+		}
+
+		victory_points = {
+			4435 1 # Gangtok
+		}
+
+	}
+
+	provinces={
+		4435
+	}
+
+	local_supplies=0.0 
+}

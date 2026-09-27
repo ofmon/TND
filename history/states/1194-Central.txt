@@ -1,0 +1,18 @@
+state = {
+	id = 1194
+	name = "STATE_1194" # Central
+	manpower = 1014826
+	state_category = town
+
+	history = {
+		owner = BOT
+		add_core_of = BOT
+		buildings = {
+			infrastructure = 3
+		}
+	}
+
+	provinces = {
+		10525 12963
+	}
+}
